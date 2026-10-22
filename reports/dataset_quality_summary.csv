@@ -1,0 +1,14 @@
+,Data Type,Missing Values,Missing Percentage,Unique Values
+name,str,0,0.0,1035
+CID,int64,0,0.0,1030
+CAS,str,0,0.0,1035
+SMILES,str,0,0.0,1035
+source,str,0,0.0,3
+year,int64,0,0.0,158
+toxicity_type,str,0,0.0,3
+herbicide,int64,0,0.0,2
+fungicide,int64,0,0.0,2
+insecticide,int64,0,0.0,2
+other_agrochemical,int64,0,0.0,2
+label,int64,0,0.0,2
+ppdb_level,int64,0,0.0,3
