@@ -1,0 +1,11 @@
+source_row_index,name,CID,CAS,SMILES,canonical_smiles,label,ppdb_level,issue_flags,review_priority,verification_status,authoritative_chemical_identity,verified_cid,verified_cas,evidence_source_url,review_notes,decision
+290,Chlormequat,13836,7003-89-6,C[N+](C)(C)CCCl,C[N+](C)(C)CCCl,0,1,cid_repeated; cid_multiple_structures,MEDIUM,NOT_VERIFIED,,,,,,PENDING_REVIEW
+295,"2-Chloro-N,N,N-trimethylethanaminium chloride (1:1)",13836,999-81-5,C[N+](C)(C)CCCl.[Cl-],C[N+](C)(C)CCCl.[Cl-],0,1,cid_repeated; cid_multiple_structures,MEDIUM,NOT_VERIFIED,,,,,,PENDING_REVIEW
+413,Silthiofam (Ref: MON 65500),16116,175217-20-6,C=CCNC(=O)c1c([Si](C)(C)C)sc(C)c1C,C=CCNC(=O)c1c([Si](C)(C)C)sc(C)c1C,0,1,cid_repeated; cid_multiple_structures,MEDIUM,NOT_VERIFIED,,,,,,PENDING_REVIEW
+416,N-(2-Methylcyclohexyl)-N'-phenylurea,16116,1982-49-6,CC1CCCCC1NC(=O)Nc1ccccc1,CC1CCCCC1NC(=O)Nc1ccccc1,0,0,cid_repeated; cid_multiple_structures,MEDIUM,NOT_VERIFIED,,,,,,PENDING_REVIEW
+670,Diclomezine (Ref: F-850),93341,62865-36-5,Cc1c(Cl)cc(-c2ccc(=O)[nH]n2)cc1Cl,Cc1c(Cl)cc(-c2ccc(=O)[nH]n2)cc1Cl,0,1,cid_repeated; cid_multiple_structures; cid_conflicting_labels,HIGH,NOT_VERIFIED,,,,,,PENDING_REVIEW
+672,Diflumetorim (Ref: UBF 002),93341,130339-07-0,CCC(Nc1ncnc(C)c1Cl)c1ccc(OC(F)F)cc1,CCC(Nc1ncnc(C)c1Cl)c1ccc(OC(F)F)cc1,1,1,cid_repeated; cid_multiple_structures; cid_conflicting_labels,HIGH,NOT_VERIFIED,,,,,,PENDING_REVIEW
+323,Metiram (Ref: BAS 222F),5284484,9006-42-2,S=C([S-])NCCNC(=S)S.S=C([S-])NCCNC(=S)S.[NH2-].[Zn],S=C([S-])NCCNC(=S)S.S=C([S-])NCCNC(=S)S.[NH2-].[Zn],0,1,cid_repeated; cid_multiple_structures; cid_conflicting_labels,HIGH,NOT_VERIFIED,,,,,,PENDING_REVIEW
+328,Zineb (Ref: ENT 14874),5284484,12122-67-7,S=C([S-])NCCNC(=S)[S-].[Zn+2],S=C([S-])NCCNC(=S)[S-].[Zn+2],1,1,cid_repeated; cid_multiple_structures; cid_conflicting_labels,HIGH,NOT_VERIFIED,,,,,,PENDING_REVIEW
+824,Metominostrobin (Ref: SSF 126),5483872,133408-50-1,CNC(=O)C(=NOC)c1ccccc1Oc1ccccc1,CNC(=O)C(=NOC)c1ccccc1Oc1ccccc1,0,1,cid_repeated; cid_multiple_structures,MEDIUM,NOT_VERIFIED,,,,,,PENDING_REVIEW
+832,Phthalide (Ref: BAY 96610),5483872,27355-22-2,O=C1OCc2c(Cl)c(Cl)c(Cl)c(Cl)c21,O=C1OCc2c(Cl)c(Cl)c(Cl)c(Cl)c21,0,0,cid_repeated; cid_multiple_structures,MEDIUM,NOT_VERIFIED,,,,,,PENDING_REVIEW
