@@ -1,0 +1,11 @@
+{
+  "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/N-%282-Methylcyclohexyl%29-N%27-phenylurea/cids/JSON",
+  "retrieved_utc": "2026-10-24T18:05:28.441957+00:00",
+  "data": {
+    "IdentifierList": {
+      "CID": [
+        16116
+      ]
+    }
+  }
+}

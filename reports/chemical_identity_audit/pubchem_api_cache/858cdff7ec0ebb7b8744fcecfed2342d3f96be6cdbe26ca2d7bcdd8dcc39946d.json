@@ -1,0 +1,11 @@
+{
+  "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Chlormequat/cids/JSON",
+  "retrieved_utc": "2026-10-24T18:05:22.695249+00:00",
+  "data": {
+    "IdentifierList": {
+      "CID": [
+        13837
+      ]
+    }
+  }
+}

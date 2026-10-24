@@ -1,0 +1,11 @@
+{
+  "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Diclomezine/cids/JSON",
+  "retrieved_utc": "2026-10-24T18:05:11.170331+00:00",
+  "data": {
+    "IdentifierList": {
+      "CID": [
+        93341
+      ]
+    }
+  }
+}

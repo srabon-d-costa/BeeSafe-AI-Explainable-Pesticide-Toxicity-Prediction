@@ -1,6 +1,0 @@
-CID,row_a,name_a,CAS_a,SMILES_a,label_a,row_b,name_b,CAS_b,SMILES_b,label_b,structural_relation,labels_disagree,ppdb_levels_disagree,CAS_disagree
-13836,290,Chlormequat,7003-89-6,C[N+](C)(C)CCCl,0,295,"2-Chloro-N,N,N-trimethylethanaminium chloride (1:1)",999-81-5,C[N+](C)(C)CCCl.[Cl-],0,same_largest_fragment_only,False,False,True
-16116,413,Silthiofam (Ref: MON 65500),175217-20-6,C=CCNC(=O)c1c([Si](C)(C)C)sc(C)c1C,0,416,N-(2-Methylcyclohexyl)-N'-phenylurea,1982-49-6,CC1CCCCC1NC(=O)Nc1ccccc1,0,different_structures,False,True,True
-93341,670,Diclomezine (Ref: F-850),62865-36-5,Cc1c(Cl)cc(-c2ccc(=O)[nH]n2)cc1Cl,0,672,Diflumetorim (Ref: UBF 002),130339-07-0,CCC(Nc1ncnc(C)c1Cl)c1ccc(OC(F)F)cc1,1,different_structures,True,False,True
-5284484,323,Metiram (Ref: BAS 222F),9006-42-2,S=C([S-])NCCNC(=S)S.S=C([S-])NCCNC(=S)S.[NH2-].[Zn],0,328,Zineb (Ref: ENT 14874),12122-67-7,S=C([S-])NCCNC(=S)[S-].[Zn+2],1,different_structures,True,False,True
-5483872,824,Metominostrobin (Ref: SSF 126),133408-50-1,CNC(=O)C(=NOC)c1ccccc1Oc1ccccc1,0,832,Phthalide (Ref: BAY 96610),27355-22-2,O=C1OCc2c(Cl)c(Cl)c(Cl)c(Cl)c21,0,different_structures,False,True,True

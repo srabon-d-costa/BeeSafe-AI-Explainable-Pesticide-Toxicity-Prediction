@@ -1,0 +1,11 @@
+{
+  "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/133408-50-1/cids/JSON",
+  "retrieved_utc": "2026-10-24T18:05:32.754797+00:00",
+  "data": {
+    "IdentifierList": {
+      "CID": [
+        5483872
+      ]
+    }
+  }
+}

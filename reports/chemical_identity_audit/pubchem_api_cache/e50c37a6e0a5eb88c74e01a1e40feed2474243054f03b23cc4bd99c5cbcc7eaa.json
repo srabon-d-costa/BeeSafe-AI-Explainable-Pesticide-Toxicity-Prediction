@@ -1,0 +1,15 @@
+{
+  "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/9881821/property/SMILES,InChIKey/JSON",
+  "retrieved_utc": "2026-10-24T18:05:27.765717+00:00",
+  "data": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 9881821,
+          "SMILES": "CC1=C(SC(=C1C(=O)NCC=C)[Si](C)(C)C)C",
+          "InChIKey": "MXMXHPPIGKYTAR-UHFFFAOYSA-N"
+        }
+      ]
+    }
+  }
+}

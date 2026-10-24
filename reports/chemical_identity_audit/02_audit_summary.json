@@ -1,0 +1,23 @@
+{
+  "project": "BeeSafe AI — Phase 02",
+  "generated_utc": "2026-10-24T18:05:37.850665+00:00",
+  "dataset_path": "E:\\CODE\\Python\\ALL Project\\Machine Learning\\BeeSafe AI\\data\\raw\\dataset_final.csv",
+  "source_csv_sha256": "de4b160a23601a44ac5ec5b23aae95973acba060135630a6df8f73d128baea9e",
+  "record_count": 1035,
+  "original_column_count": 13,
+  "invalid_smiles": 0,
+  "repeated_cid_groups": 5,
+  "flagged_rows": 10,
+  "high_priority_rows": 4,
+  "medium_priority_rows": 6,
+  "conflicting_cid_label_pairs": 2,
+  "pubchem_live_enabled": true,
+  "pubchem_results": {
+    "CID_AND_STRUCTURE_MATCH_PUBCHEM": 4,
+    "ALTERNATE_CID_STRUCTURE_MATCH_REVIEW": 4,
+    "RECORDED_CID_STRUCTURE_MISMATCH_REVIEW": 2
+  },
+  "uncorrected_toxicity_labels": true,
+  "automatic_cid_edits": 0,
+  "outcome": "AUDIT_COMPLETE_IDENTITIES_PENDING_EVIDENCE_REVIEW"
+}

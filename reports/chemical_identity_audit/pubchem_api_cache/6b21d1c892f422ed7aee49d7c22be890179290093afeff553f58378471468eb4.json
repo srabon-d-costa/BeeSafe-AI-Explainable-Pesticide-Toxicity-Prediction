@@ -1,0 +1,11 @@
+{
+  "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/2-Chloro-N%2CN%2CN-trimethylethanaminium%20chloride%20%281%3A1%29/cids/JSON",
+  "retrieved_utc": "2026-10-24T18:05:24.905696+00:00",
+  "data": {
+    "IdentifierList": {
+      "CID": [
+        13836
+      ]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/27355-22-2/cids/JSON",
+  "retrieved_utc": "2026-10-24T18:05:35.443359+00:00",
+  "data": {
+    "IdentifierList": {
+      "CID": [
+        33791
+      ]
+    }
+  }
+}

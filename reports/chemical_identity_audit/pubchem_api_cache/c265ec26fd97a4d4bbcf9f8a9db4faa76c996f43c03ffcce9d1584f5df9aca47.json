@@ -1,0 +1,11 @@
+{
+  "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/12122-67-7/cids/JSON",
+  "retrieved_utc": "2026-10-24T18:05:20.965306+00:00",
+  "data": {
+    "IdentifierList": {
+      "CID": [
+        5284484
+      ]
+    }
+  }
+}

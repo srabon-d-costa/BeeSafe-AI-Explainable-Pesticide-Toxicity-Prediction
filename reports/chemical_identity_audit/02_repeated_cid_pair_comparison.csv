@@ -1,0 +1,6 @@
+﻿shared_CID,row_1,row_2,name_1,name_2,CAS_1,CAS_2,canonical_equal,largest_fragment_equal,label_1,label_2,binary_label_conflict,ppdb_1,ppdb_2,ppdb_level_conflict
+13836,290,295,Chlormequat,"2-Chloro-N,N,N-trimethylethanaminium chloride (1:1)",7003-89-6,999-81-5,False,True,0,0,False,1,1,False
+16116,413,416,Silthiofam (Ref: MON 65500),N-(2-Methylcyclohexyl)-N'-phenylurea,175217-20-6,1982-49-6,False,False,0,0,False,1,0,True
+93341,670,672,Diclomezine (Ref: F-850),Diflumetorim (Ref: UBF 002),62865-36-5,130339-07-0,False,False,0,1,True,1,1,False
+5284484,323,328,Metiram (Ref: BAS 222F),Zineb (Ref: ENT 14874),9006-42-2,12122-67-7,False,False,0,1,True,1,1,False
+5483872,824,832,Metominostrobin (Ref: SSF 126),Phthalide (Ref: BAY 96610),133408-50-1,27355-22-2,False,False,0,0,False,1,0,True

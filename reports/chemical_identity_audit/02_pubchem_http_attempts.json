@@ -1,0 +1,157 @@
+[
+  {
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/93341/property/SMILES,InChIKey/JSON",
+    "http_status": 200,
+    "attempt": 1
+  },
+  {
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Diclomezine/cids/JSON",
+    "http_status": 200,
+    "attempt": 1
+  },
+  {
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/62865-36-5/cids/JSON",
+    "http_status": 200,
+    "attempt": 1
+  },
+  {
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Diflumetorim/cids/JSON",
+    "http_status": 200,
+    "attempt": 1
+  },
+  {
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/130339-07-0/cids/JSON",
+    "http_status": 200,
+    "attempt": 1
+  },
+  {
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/15390131/property/SMILES,InChIKey/JSON",
+    "http_status": 200,
+    "attempt": 1
+  },
+  {
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5284484/property/SMILES,InChIKey/JSON",
+    "http_status": 200,
+    "attempt": 1
+  },
+  {
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Metiram/cids/JSON",
+    "http_status": 404,
+    "attempt": 1
+  },
+  {
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Metiram%20%28Ref%3A%20BAS%20222F%29/cids/JSON",
+    "http_status": 404,
+    "attempt": 1
+  },
+  {
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/9006-42-2/cids/JSON",
+    "http_status": 404,
+    "attempt": 1
+  },
+  {
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Zineb/cids/JSON",
+    "http_status": 200,
+    "attempt": 1
+  },
+  {
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/12122-67-7/cids/JSON",
+    "http_status": 200,
+    "attempt": 1
+  },
+  {
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/13836/property/SMILES,InChIKey/JSON",
+    "http_status": 200,
+    "attempt": 1
+  },
+  {
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Chlormequat/cids/JSON",
+    "http_status": 200,
+    "attempt": 1
+  },
+  {
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/7003-89-6/cids/JSON",
+    "http_status": 200,
+    "attempt": 1
+  },
+  {
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/13837/property/SMILES,InChIKey/JSON",
+    "http_status": 200,
+    "attempt": 1
+  },
+  {
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/2-Chloro-N%2CN%2CN-trimethylethanaminium%20chloride%20%281%3A1%29/cids/JSON",
+    "http_status": 200,
+    "attempt": 1
+  },
+  {
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/999-81-5/cids/JSON",
+    "http_status": 200,
+    "attempt": 1
+  },
+  {
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/16116/property/SMILES,InChIKey/JSON",
+    "http_status": 200,
+    "attempt": 1
+  },
+  {
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Silthiofam/cids/JSON",
+    "http_status": 200,
+    "attempt": 1
+  },
+  {
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/175217-20-6/cids/JSON",
+    "http_status": 200,
+    "attempt": 1
+  },
+  {
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/9881821/property/SMILES,InChIKey/JSON",
+    "http_status": 200,
+    "attempt": 1
+  },
+  {
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/N-%282-Methylcyclohexyl%29-N%27-phenylurea/cids/JSON",
+    "http_status": 200,
+    "attempt": 1
+  },
+  {
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/1982-49-6/cids/JSON",
+    "http_status": 200,
+    "attempt": 1
+  },
+  {
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5483872/property/SMILES,InChIKey/JSON",
+    "http_status": 200,
+    "attempt": 1
+  },
+  {
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Metominostrobin/cids/JSON",
+    "http_status": 200,
+    "attempt": 1
+  },
+  {
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/133408-50-1/cids/JSON",
+    "http_status": 200,
+    "attempt": 1
+  },
+  {
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Phthalide/cids/JSON",
+    "http_status": 200,
+    "attempt": 1
+  },
+  {
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/27355-22-2/cids/JSON",
+    "http_status": 200,
+    "attempt": 1
+  },
+  {
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/6885/property/SMILES,InChIKey/JSON",
+    "http_status": 200,
+    "attempt": 1
+  },
+  {
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/33791/property/SMILES,InChIKey/JSON",
+    "http_status": 200,
+    "attempt": 1
+  }
+]
