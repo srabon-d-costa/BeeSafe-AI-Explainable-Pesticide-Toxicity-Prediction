@@ -1,0 +1,42 @@
+{
+  "project": "BeeSafe AI",
+  "phase": "04_baseline_model_training_and_evaluation",
+  "dataset_rows_used": 1025,
+  "train_rows": 821,
+  "holdout_rows": 204,
+  "train_unique_structure_groups": 534,
+  "holdout_unique_structure_groups": 32,
+  "train_test_group_overlap": 0,
+  "label_counts_all": {
+    "0": 731,
+    "1": 294
+  },
+  "label_counts_train": {
+    "0": 585,
+    "1": 236
+  },
+  "label_counts_holdout": {
+    "0": 146,
+    "1": 58
+  },
+  "model_candidates": [
+    "Dummy prior baseline",
+    "Logistic Regression — descriptors",
+    "RBF SVM — descriptors",
+    "Random Forest — descriptors",
+    "Extra Trees — descriptors",
+    "Logistic Regression — Morgan",
+    "Random Forest — Morgan",
+    "Extra Trees — Morgan"
+  ],
+  "selection_metric": "mean grouped-CV Average Precision (PR-AUC) on training data",
+  "provisional_candidate": "Random Forest — Morgan",
+  "provisional_candidate_features": "morgan",
+  "cv_mean_average_precision": 0.7593255826357075,
+  "cv_std_average_precision": 0.026164570129753206,
+  "holdout_average_precision": 0.8705897909375081,
+  "holdout_roc_auc": 0.9294992914501654,
+  "raw_sha256_matches_phase03": true,
+  "raw_dataset_modified": false,
+  "warning": "Exploratory baseline only. Do not interpret as field-level ecological risk or a regulatory safety determination."
+}

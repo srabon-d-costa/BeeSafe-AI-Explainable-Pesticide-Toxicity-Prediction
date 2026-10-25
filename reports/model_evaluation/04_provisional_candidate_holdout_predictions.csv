@@ -1,0 +1,205 @@
+﻿source_row_index,name,CID,CAS,label,structure_group,y_true,y_pred,score_for_toxic_class_1
+1,Para-cymene,7463,99-87-6,0,SCAFFOLD:c1ccccc1,0,0,0.4232781872723324
+3,Benzoic acid,243,65-85-0,0,SCAFFOLD:c1ccccc1,0,0,0.18190579636810736
+10,Bromophos,16422,2104-96-3,1,SCAFFOLD:c1ccccc1,1,1,0.8078347544524905
+20,2-[[Ethoxy[(1-methylethyl)amino]phosphinothioyl]oxy]benzoic acid 1-methylethyl ester,32872,25311-71-1,1,SCAFFOLD:c1ccccc1,1,1,0.6998309573341822
+25,Neburon,11145,555-37-3,0,SCAFFOLD:c1ccccc1,0,0,0.1937981466855133
+27,"2,3,4,5,6-Pentachlorophenol",992,87-86-5,0,SCAFFOLD:c1ccccc1,0,0,0.33938710252863813
+31,Hydroquinone,785,123-31-9,0,SCAFFOLD:c1ccccc1,0,0,0.2634645178031861
+35,"3,6-Dichloro-2-methyoxybenzoic acid",3030,1918-00-9,0,SCAFFOLD:c1ccccc1,0,0,0.09840416855548978
+40,"N'-(3,4-Dichlorophenyl)-N-methoxy-N-methylurea",9502,330-55-2,0,SCAFFOLD:c1ccccc1,0,0,0.16033208773682714
+41,Eugenol,3314,97-53-0,0,SCAFFOLD:c1ccccc1,0,0,0.3702006342253722
+43,5-Methyl-2-(1-methylethyl)phenol,6989,89-83-8,0,SCAFFOLD:c1ccccc1,0,0,0.23713283735193105
+47,"N-Butyl-N-ethyl-2,6-dinitro-4-(trifluoromethyl)benzenamine",2319,1861-40-1,0,SCAFFOLD:c1ccccc1,0,0,0.2785296184186827
+49,"Benzoic acid, Methyl ester",7150,93-58-3,0,SCAFFOLD:c1ccccc1,0,0,0.17314918776765015
+53,1-decanol,8174,112-30-1,0,ACYCLIC:CCCCCCCCCCO,0,0,0.20479787019348503
+56,"N-(3,4-Dichlorophenyl)propanamide",4933,709-98-8,0,SCAFFOLD:c1ccccc1,0,0,0.17167869500607336
+57,Cinnamaldehyde,637511,104-55-2,0,SCAFFOLD:c1ccccc1,0,0,0.15157617827863323
+64,"N'-(3,4-Dichlorophenyl)-N,N-dimethylurea",3120,330-54-1,0,SCAFFOLD:c1ccccc1,0,0,0.17166020980151728
+65,2-Chloro-N-(1-methylethyl)-N-phenylacetamide,4931,1918-16-7,0,SCAFFOLD:c1ccccc1,0,0,0.1923791713493696
+66,Anethole,637563,4180-23-8,0,SCAFFOLD:c1ccccc1,0,0,0.2707939633546404
+68,Parathion-methyl (Ref: OMS 213),4130,298-00-0,0,SCAFFOLD:c1ccccc1,0,1,0.8181881246360244
+80,(Acetato-kappaO)phenylmercury,16682730,62-38-4,1,SCAFFOLD:c1ccccc1,1,0,0.12327307549721897
+88,"2,4-D (Ref: L 208)",1486,94-75-7,0,SCAFFOLD:c1ccccc1,0,0,0.08092915867805146
+89,Methyleugenol (Ref: Ent 21040),7127,93-15-2,0,SCAFFOLD:c1ccccc1,0,0,0.3667191299739612
+90,"N-(1-Ethylpropyl)-3,4-dimethyl-2,6-dinitro-benzenamine",38479,40487-42-1,0,SCAFFOLD:c1ccccc1,0,0,0.23985784340445768
+93,Metaldehyde,61021,108-62-3,0,SCAFFOLD:C1OCOCOCO1,0,0,0.20177005859640126
+94,Capsaicin (Ref: NCI-C56564),1548943,404-86-4,1,SCAFFOLD:c1ccccc1,1,0,0.3558868077175228
+99,Sodium o-nitrophenolate,69985,824-39-5,0,SCAFFOLD:c1ccccc1,0,0,0.2267440506356064
+100,"2-(1-Methylethoxy)phenol, 1-(N-Methylcarbamate)",4944,114-26-1,1,SCAFFOLD:c1ccccc1,1,1,0.7298501301696967
+103,"2-Aminobenzoic acid, Methyl ester",8635,134-20-3,0,SCAFFOLD:c1ccccc1,0,0,0.16804108331016962
+111,"N-[1-[(Butylamino)carbonyl]-1H-benzimidazol-2-yl]carbamic acid, Methyl ester",28780,17804-35-2,1,SCAFFOLD:c1ccc2[nH]cnc2c1,1,0,0.20761992214000974
+117,As-(4-Aminophenyl)arsonic acid,7389,98-50-0,0,SCAFFOLD:c1ccccc1,0,0,0.493334302132315
+119,2-Chloro-N-(ethoxymethyl)-N-(2-ethyl-6-methylphenyl)acetamide,1988,34256-82-1,0,SCAFFOLD:c1ccccc1,0,0,0.2511486654900929
+127,Sodium p-nitrophenolate,13214,824-78-2,0,SCAFFOLD:c1ccccc1,0,0,0.25103130405741764
+129,"Phosphorothioic acid, O,O-Dimethyl O-(2,4,5-trichlorophenyl)ester",9298,299-84-3,1,SCAFFOLD:c1ccccc1,1,1,0.8097289507824751
+130,"3,5-Dimethyl-4-(methylthio)phenol, Methylcarbamate",16248,2032-65-7,1,SCAFFOLD:c1ccccc1,1,1,0.7001542585040366
+143,"Phosphorothioic acid, O,O-Diethyl-O-(4-nitrophenyl)ester",991,56-38-2,1,SCAFFOLD:c1ccccc1,1,1,0.876949090674771
+150,DNOC (Ref: ENT 154),10800,534-52-1,0,SCAFFOLD:c1ccccc1,0,0,0.19421650584139505
+151,"1,2,3,4,5-Pentachloro-6-nitrobenzene",6720,82-68-8,0,SCAFFOLD:c1ccccc1,0,0,0.28188829259205284
+152,Lenacil (Ref: DPX B634),16559,2164-08-1,0,SCAFFOLD:O=c1[nH]c2c(c(=O)n1C1CCCCC1)CCC2,0,0,0.2964829987259249
+157,Calcium chloride,5284359,10043-52-4,0,ACYCLIC:[Cl-],0,0,0.32988501315309093
+161,Piperonyl butoxide (Ref: ENT 14250),5794,51-03-6,0,SCAFFOLD:c1ccc2c(c1)OCO2,0,0,0.29213017555840937
+166,(4-chlorophenoxy)acetic acid,26229,122-88-3,0,SCAFFOLD:c1ccccc1,0,0,0.17178158823976564
+177,Phenylmercury chloride,7511,100-56-1,0,SCAFFOLD:c1ccccc1,0,0,0.28298686861873235
+183,"Phosphorothioic acid O,O-dimethyl O-(3-methyl-4-nitrophenyl)ester",31200,122-14-5,1,SCAFFOLD:c1ccccc1,1,1,0.7951068331692772
+185,"N-Phenylcarbamic acid, 1-Methylethyl ester",24685,122-42-9,0,SCAFFOLD:c1ccccc1,0,0,0.2357680598487045
+190,2-(4-Chloro-2-methylphenoxy)acetic acid,7204,94-74-6,0,SCAFFOLD:c1ccccc1,0,0,0.1068276959870112
+198,"2,6-Dichloro-4-nitrobenzenamine",7430,99-30-9,0,SCAFFOLD:c1ccccc1,0,0,0.17707429494574714
+202,2-(4-Chloro-2-methylphenoxy)acetic acid sodium salt (1:1),2724048,3653-48-3,0,SCAFFOLD:c1ccccc1,0,0,0.10683420887981304
+206,"2-(2,4,5-Trichlorophenoxy)acetic acid, Butyl ester",7161,93-79-8,0,SCAFFOLD:c1ccccc1,0,0,0.07344979149021544
+208,Tecnazene,8330,117-18-0,0,SCAFFOLD:c1ccccc1,0,0,0.3195292376311534
+210,"Phosphoric acid, Dimethyl 4-nitrophenyl ester",13708,950-35-6,1,SCAFFOLD:c1ccccc1,1,1,0.7268251158561315
+213,Dinobuton (Ref: OMS 1056),13783,973-21-7,0,SCAFFOLD:c1ccccc1,0,0,0.37196386731973596
+215,"2-(1-Methylpropyl)-4,6-dinitrophenol",6950,88-85-7,0,SCAFFOLD:c1ccccc1,0,0,0.254889062738005
+218,"alpha-(4-(1,1,3,3-Tetramethylbutyl)phenyl)-omega-hydroxypoly(oxy-1,2-ethanediyl)",5590,9002-93-1,0,SCAFFOLD:c1ccccc1,0,0,0.29966946382663323
+222,"N-Phenyl-N'-1,2,3-thiadiazol-5-yl-urea",40087,51707-55-2,0,SCAFFOLD:O=C(Nc1ccccc1)Nc1cnns1,0,0,0.20571766299690075
+228,Chlorthion (Ref: BAY 22/190 ),10372,500-28-7,1,SCAFFOLD:c1ccccc1,1,1,0.7626026213635559
+230,"2,4,5,6-Tetrachloro-1,3-benzenedicarbonitrile",15910,1897-45-6,0,SCAFFOLD:c1ccccc1,0,1,0.5114079121551787
+234,Dinocap (Ref: ENT 24727),5284389,39300-45-3,1,SCAFFOLD:c1ccccc1,1,0,0.31675038024974084
+239,"N'-(4-chlorophenyl)-N,N-dimethylurea",8800,150-68-5,0,SCAFFOLD:c1ccccc1,0,0,0.28236268262308234
+241,"N-(3-Chlorophenyl)carbamic acid, 1-Methylethyl ester",2728,101-21-3,0,SCAFFOLD:c1ccccc1,0,0,0.2255293414929082
+253,"O,O-Dimethyl O-[3-methyl-4-(methylthio)phenyl]ester phosphorothioic acid",3346,55-38-9,1,SCAFFOLD:c1ccccc1,1,1,0.8646012778228948
+255,"2-(2,4,5-Trichlorophenoxy)propanoic acid",7158,93-72-1,0,SCAFFOLD:c1ccccc1,0,0,0.1269421944571088
+263,"2,4-D-dimethylammonium",16180,2008-39-1,0,SCAFFOLD:c1ccccc1,0,0,0.15453207688264464
+266,"alpha-[(Dimethoxyphosphinothioyl)thio] benzeneacetic acid, Ethyl ester",17435,2597-03-7,1,SCAFFOLD:c1ccccc1,1,1,0.8104572420349033
+267,"2,3,6-TBA (Ref: HC 1281)",5759,50-31-7,0,SCAFFOLD:c1ccccc1,0,0,0.11070861983583788
+275,Binapacryl (Ref: FMC 9044),10234,485-31-4,0,SCAFFOLD:c1ccccc1,0,0,0.45790215593425077
+276,Dichlobenil (Ref: H 133),3031,1194-65-6,1,SCAFFOLD:c1ccccc1,1,0,0.46892142488510735
+277,Mecoprop (Ref: RD 4593),7153,7085-19-0,0,SCAFFOLD:c1ccccc1,0,0,0.1550553993924013
+284,MCPB (Ref: MB 3046),7207,94-81-5,0,SCAFFOLD:c1ccccc1,0,0,0.08591341720305465
+292,Carbofenthion,13081,786-19-6,1,SCAFFOLD:c1ccccc1,1,1,0.9006543454667382
+293,"2,4-DB (Ref: ENT 8538)",1489,94-82-6,0,SCAFFOLD:c1ccccc1,0,0,0.14439519662213082
+297,Dichlorprop (Ref: RD 406),8427,120-36-5,0,SCAFFOLD:c1ccccc1,0,0,0.10042010698606346
+303,"4-(Dimethylamino)-3,5-dimethylphenol, Methylcarbamate(ester)",9414,315-18-4,1,SCAFFOLD:c1ccccc1,1,1,0.6435855125157292
+306,"2-Chloro-N-(2,6-diethylphenyl)-N-(methoxymethyl)acetamide",2078,15972-60-8,0,SCAFFOLD:c1ccccc1,0,0,0.2054277665669188
+313,Fenaminosulf (Ref: BAY 5027),23668198,140-56-7,0,SCAFFOLD:c1ccccc1,0,0,0.2586897729365677
+314,"4-(Dimethylamino)-3-methylphenol, Methylcarbamate (ester)",16247,2032-59-9,1,SCAFFOLD:c1ccccc1,1,1,0.6031069523661625
+320,"2,6-Dinitro-N,N-dipropyl-4-(trifluoromethyl)benzenamine",5569,1582-09-8,0,SCAFFOLD:c1ccccc1,0,0,0.3143318960298828
+322,Methyl trithion,13721,953-17-3,1,SCAFFOLD:c1ccccc1,1,1,0.8810986266614784
+325,"1,3-Dithiolo[4,5-b]quinoxaline-2-thione",7159,93-75-4,0,SCAFFOLD:S=c1sc2nc3ccccc3nc2s1,0,0,0.3969453437633625
+332,XMC (Ref: H 69),17563,2655-14-3,1,SCAFFOLD:c1ccccc1,1,1,0.608029869500773
+333,Monolinuron (Ref: HOE 002747),15629,1746-81-2,0,SCAFFOLD:c1ccccc1,0,0,0.24205869130239704
+339,"O-[4[(Dimethylamino)sulfonyl]phenyl]O,O-dimethylester phosphorothioic acid",5859,52-85-7,1,SCAFFOLD:c1ccccc1,1,1,0.7884167128538674
+342,Chloramben (Ref: ACP M-629),8630,133-90-4,0,SCAFFOLD:c1ccccc1,0,0,0.21962721863733525
+344,Ioxynil (Ref: ACP 63-303),15530,1689-83-4,1,SCAFFOLD:c1ccccc1,1,0,0.3969785587760593
+346,"Phosphoric acid, 2-Chloro-1-(2,4-dichlorophenyl)ethenyl diethyl ester",10107,470-90-6,1,SCAFFOLD:c1ccccc1,1,1,0.5854731195511694
+348,Chlorthal-dimethyl (Ref: DAC 893),2943,1861-32-1,0,SCAFFOLD:c1ccccc1,0,0,0.14244268540284133
+351,"Phosphorothioic acid, O,O-Diethyl O(4-methylsulfinyl)phenyl)ester",8292,115-90-2,1,SCAFFOLD:c1ccccc1,1,1,0.9051682451242468
+352,Chlorthiamid (Ref: WL 5792.),2734819,1918-13-4,0,SCAFFOLD:c1ccccc1,0,0,0.27569399926562554
+359,"O-Ethyl O-(2,4,5-trichlorophenyl)ester ethylphosphonothioic acid",9477,327-98-0,1,SCAFFOLD:c1ccccc1,1,1,0.790951615934221
+364,Chlorbromuron (Ref: C6313),25912,13360-45-7,0,SCAFFOLD:c1ccccc1,0,0,0.23747687057236902
+367,3-methyl-5-(1-methylethyl)phenol 1-(N-methylcarbamate)  ,17516,2631-37-0,1,SCAFFOLD:c1ccccc1,1,1,0.6485593081515819
+368,Bensulide (Ref: R 4461),12932,741-58-2,1,SCAFFOLD:c1ccccc1,1,1,0.662105002646572
+369,(2E)-3-[(Dimethoxyphosphinyl)oxy]-2-butenoic acid 1-phenylethyl ester,5371578,7700-17-6,1,SCAFFOLD:c1ccccc1,1,1,0.8420281044673869
+371,"N,N-Dimethyl-N'-[3-(trifluoromethyl)phenyl]urea",16562,2164-17-2,0,SCAFFOLD:c1ccccc1,0,0,0.23602028434490738
+372,Metobromuron (Ref: C 3216),18290,3060-89-7,0,SCAFFOLD:c1ccccc1,0,0,0.2701297147726792
+374,"1,1-Dichloro-N-[(dimethylamino)sulfonyl]-1-fluoro-N-phenylmethanesulfenamide",14145,1085-98-9,0,SCAFFOLD:c1ccccc1,0,0,0.2963297595271349
+375,Chlordimeform (Ref: ENT 27335),22544,6164-98-3,0,SCAFFOLD:c1ccccc1,0,0,0.24949697073109392
+378,Butachlor (Ref: CP 53619),31677,23184-66-9,0,SCAFFOLD:c1ccccc1,0,0,0.20352219094291257
+379,(1-Methylethyl)phosphoramidic acid ethyl-3-methyl-4-(methylthio)phenyl ester,31070,22224-92-6,1,SCAFFOLD:c1ccccc1,1,1,0.7149445455353071
+380,"Phosphoric acid (1Z)-2-chloro-1-(2,4,5-trichlorophenyl)ethenyl dimethyl ester",5284462,22248-79-9,1,SCAFFOLD:c1ccccc1,1,1,0.600473822705454
+383,Formetanate (Ref: SN 36056),31099,22259-30-9,1,SCAFFOLD:c1ccccc1,1,1,0.6508666473653565
+388,N-1H-Benzimidazol-2-yl carbamic acid methyl ester,25429,10605-21-7,0,SCAFFOLD:c1ccc2[nH]cnc2c1,0,0,0.31230587696871986
+389,"Phosphorothioic acid, O-(2,5-Dichloro-4-iodophenyl) O,O-dimethyl ester",28935,18181-70-9,1,SCAFFOLD:c1ccccc1,1,1,0.8058146379711737
+390,"Ethylphosphonodithioic acid, O-Ethyl S-phenyl ester",13676,944-22-9,1,SCAFFOLD:c1ccccc1,1,1,0.7667478135991861
+395,Fenclorim (Ref: CGA 123407),77338,3740-92-9,0,SCAFFOLD:c1ccc(-c2ncccn2)cc1,0,0,0.3502470281065469
+396,"3,5-Dibromo-4-hydroxybenzonitrile",15531,1689-84-5,1,SCAFFOLD:c1ccccc1,1,0,0.47245494957733014
+398,"N,N-Dimethyl-N'-[3[[(methylamino)carbonyl]oxy]phenyl]methanimidamide hydrochloride (1:1)",31899,23422-53-9,1,SCAFFOLD:c1ccccc1,1,1,0.6498262696382318
+405,"N,N'-[1,2-Phenylenebis(iminocarbonothioyl)]bis-C,C'- dimethyl ester carbamic acid",3032791,23564-05-8,0,SCAFFOLD:c1ccccc1,0,0,0.27692473795593425
+407,"Octanoic acid, 2,6-Dibromo-4-cyanophenyl ester",15533,1689-99-2,0,SCAFFOLD:c1ccccc1,0,0,0.3348923093844703
+411,Asulam (Ref: M&B 9057),18752,3337-71-1,0,SCAFFOLD:c1ccccc1,0,0,0.23558552124583876
+412,Thiophanate,3032792,23564-06-9,0,SCAFFOLD:c1ccccc1,0,0,0.2920847901168288
+414,Metoxuron (Ref: SAN 6915H),29863,19937-59-8,0,SCAFFOLD:c1ccccc1,0,0,0.1660317709109223
+417,"2-(2,4-Dichlorophenoxy)acetic acid, 2-Ethylhexyl ester",61286,1928-43-4,0,SCAFFOLD:c1ccccc1,0,0,0.15785526602763167
+418,"4-Ethoxy-7-phenyl-3,5-dioxa-6-aza-4-phosphaoct-6-ene-8-nitrile 4-sulfide",26927,14816-18-3,1,SCAFFOLD:c1ccccc1,1,1,0.7947520598836014
+419,Monalide (Ref: SN 35830),23715,7287-36-7,0,SCAFFOLD:c1ccccc1,0,0,0.24666547631807872
+422,Bromophos-ethyl (Ref: SHG-2225),20965,4824-78-6,1,SCAFFOLD:c1ccccc1,1,1,0.8553004490680246
+427,Oryzalin (Ref: EL 119),29393,19044-88-3,0,SCAFFOLD:c1ccccc1,0,0,0.3298943877923741
+431,Dimethyl 4-(methylsulfanyl)phenyl phosphate,18621,3254-63-5,1,SCAFFOLD:c1ccccc1,1,1,0.8102990991797318
+433,Carbetamide (Ref: RP 11561),27689,16118-49-3,0,SCAFFOLD:c1ccccc1,0,0,0.22334751798697514
+439,4-[4-(Acetyloxy)phenyl]-2-butanone,19137,3572-06-3,0,SCAFFOLD:c1ccccc1,0,0,0.4620554897739159
+445,Isopropalin (Ref: EL-179),36606,33820-53-0,1,SCAFFOLD:c1ccccc1,1,0,0.39636014238022277
+447,Propyzamide (Ref: RH 315),32154,23950-58-5,0,SCAFFOLD:c1ccccc1,0,0,0.1850856338876618
+448,"2,2-Dimethyl-1,3-benzodioxol-4-ol 4-(N-methylcarbamate)",2314,22781-23-3,1,SCAFFOLD:c1ccc2c(c1)OCO2,1,1,0.7427102748831043
+450,Chlorotoluron (Ref: C 2242),27375,15545-48-9,0,SCAFFOLD:c1ccccc1,0,0,0.1903088484065868
+454,"N,N-Diethylcarbamothioic acid S-[(4-chlorophenyl)methyl] ester",34192,28249-77-6,0,SCAFFOLD:c1ccccc1,0,1,0.5541862222208409
+457,Proximpham,17808,2828-42-4,0,SCAFFOLD:c1ccccc1,0,0,0.2641330275725691
+461,Fluchloralin (Ref: BAS 392H),36392,33245-39-5,0,SCAFFOLD:c1ccccc1,0,0,0.31860474457834753
+462,"4-(1,1-Dimethylethyl)-N-(1-methylpropyl)-2,6-dinitrobenzenamine",36565,33629-47-9,0,SCAFFOLD:c1ccccc1,0,0,0.3257232359679426
+470,"1-[2-(2,4-Dichlorophenyl)-2-(2-propenyloxy)ethyl]-1H-imidazole",37175,35554-44-0,0,SCAFFOLD:c1ccc(CCn2ccnc2)cc1,0,0,0.36935279374194385
+483,"N-Ethyl-N-(2-methyl-2-propenyl)-2,6-dinitro-4-(trifluoromethyl)benzenamine",41381,55283-68-6,0,SCAFFOLD:c1ccccc1,0,0,0.2973952881201392
+488,2-[(Ethylthio)methyl]phenol 1-(N-methylcarbamate),34766,29973-13-5,1,SCAFFOLD:c1ccccc1,1,1,0.7502882282254287
+496,1-Methyl-3-phenyl-5-[3-(trifluoromethyl)phenyl]-4(1H)pyridinone,43079,59756-60-4,0,SCAFFOLD:O=c1c(-c2ccccc2)c[nH]cc1-c1ccccc1,0,0,0.24705428336159627
+503,"alpha-(4-Chlorophenyl)-alpha-(1-cyclopropylethyl)-1H-1,2,4-triazole-1-ethanol",86132,94361-06-5,0,SCAFFOLD:c1ccc(C(CC2CC2)Cn2cncn2)cc1,0,0,0.3815001644829725
+505,4-(4-Chloro-2-methylphenoxy)butanoic acid sodium salt (1:1),23675729,6062-26-6,0,SCAFFOLD:c1ccccc1,0,0,0.09807405926895775
+507,Sulprofos (Ref: NTN 9306),37125,35400-43-2,1,SCAFFOLD:c1ccccc1,1,1,0.8907903143513142
+519,Akton,15649,1757-18-2,1,SCAFFOLD:c1ccccc1,1,1,0.7057623609305219
+523,Dimethachlor (Ref: CGA 17020),39722,50563-36-5,0,SCAFFOLD:c1ccccc1,0,0,0.2525659954393848
+524,Isoproturon (Ref: HOE 16410),36679,34123-59-6,0,SCAFFOLD:c1ccccc1,0,0,0.47381562095329166
+527,Isoprocarb (Ref: OMS 32),17517,2631-40-5,1,SCAFFOLD:c1ccccc1,1,1,0.7573377916361029
+528,Mefluidide (Ref: MBR 12325),40896,53780-34-0,0,SCAFFOLD:c1ccccc1,0,0,0.24362336850232702
+530,2-Chloro-N-(2-ethyl-6-methylphenyl)-N-(2-methoxy-1-methylethyl)acetamide,4169,51218-45-2,0,SCAFFOLD:c1ccccc1,0,0,0.24444590478013012
+531,O-(4-bromo-2-chlorophenyl) O-ethyl S-propyl ester phosphorothioic acid,38779,41198-08-7,1,SCAFFOLD:c1ccccc1,1,1,0.7676403338682838
+538,"2,6-Dinitro-N1,N1-dipropyl-4-(trifluoromethyl)-1,3-benzenediamine",34469,29091-21-2,0,SCAFFOLD:c1ccccc1,0,0,0.2990033730989048
+540,"N-(2,6-Dimethylphenyl)-N-(methoxyacetyl)alanine methyl ester",42586,57837-19-1,0,SCAFFOLD:c1ccccc1,0,0,0.3795448765682313
+551,"N,N'-[Thiobis[(methylimino)carbonyloxy]]bisethanimidothioic acid dimethyl ester",62155,59669-26-0,1,ACYCLIC:CSC(C)=NOC(=O)N(C)SN(C)C(=O)ON=C(C)SC,1,1,0.5403566688805386
+552,"1,1-Dichloro-N-[(dimethylamino)sulfonyl]-1-fluoro-N-(4-methylphenyl)methanesulfenamide",12898,731-27-1,0,SCAFFOLD:c1ccccc1,0,0,0.33671559581148336
+572,Ioxynil octanoate,19730,3861-47-0,1,SCAFFOLD:c1ccccc1,1,0,0.30299640968532765
+578,2-[(Aminomethoxyphosphinothioyl)oxy]benzoic acid 1-methylethyl ester,90479,24353-61-5,1,SCAFFOLD:c1ccccc1,1,1,0.6990876200627213
+579,Nitrothal-isopropyl (Ref: BAS 300 OOF),43704,10552-74-6,0,SCAFFOLD:c1ccccc1,0,0,0.23988976709415474
+582,"Phosphorothioic acid O-(2,6-dichloro-4-methylphenyl) O,O-dimethyl ester",91664,57018-04-9,0,SCAFFOLD:c1ccccc1,0,1,0.8083490242046159
+590,"3-[2-Chloro-2-(4-chlorophenyl)ethenyl]-2,2-dimethylcyclopropanecarboxylic acid cyano(4-fluoro-3-phenoxyphenyl)methyl ester",6033664,69770-45-2,1,SCAFFOLD:O=C(OCc1cccc(Oc2ccccc2)c1)C1CC1C=Cc1ccccc1,1,1,0.9127938295163177
+593,"Tetrahydro-5,5-dimethyl-2(1H)-pyrimidio[3-[4-trifluoromethyl)phenyl]-1-[2-[4-(trifluoromethyl)phenyl]ethenyl]-2-propenylidene]hydrazone",5281875,67485-29-4,0,SCAFFOLD:C(=Cc1ccccc1)C(C=Cc1ccccc1)=NNC1=NCCCN1,0,0,0.36667560749819467
+594,Benalaxyl (Ref: M 9834),51369,71626-11-4,0,SCAFFOLD:O=C(Cc1ccccc1)Nc1ccccc1,0,0,0.4826174634121878
+625,Pyroquilon (Ref: CGA 49104),91665,57369-32-1,0,SCAFFOLD:O=C1CCc2cccc3c2N1CC3,0,0,0.2992552911936819
+633,Diethofencarb (Ref: S 1605),91742,87130-20-9,0,SCAFFOLD:c1ccccc1,0,0,0.30598184482854607
+641,Isofenphos-methyl,127394,99675-03-3,1,SCAFFOLD:c1ccccc1,1,1,0.6830410210385957
+651,Fenothiocarb (Ref: KCO 3001),44178,62850-32-2,0,SCAFFOLD:c1ccccc1,0,0,0.43345309020957046
+673,Pretilachlor (Ref: CGA 26423),91644,51218-49-6,0,SCAFFOLD:c1ccccc1,0,0,0.26234484674059355
+692,Tiocarbazil (Ref: M 3432),37523,36756-79-3,0,SCAFFOLD:c1ccccc1,0,0,0.4110165195060174
+693,"3,5-Dichloro-N-(3-chloro-1-ethyl-1-methyl-2-oxopropyl)-4-methylbenzamide",122087,156052-68-5,0,SCAFFOLD:c1ccccc1,0,0,0.14426051503091478
+697,Diethatyl ethyl (Ref: BAY NNT 6867),38090,38727-55-8,0,SCAFFOLD:c1ccccc1,0,0,0.21730077002727616
+709,Ecolyst (Ref: HSDB 7282),213029,274671-61-3,0,SCAFFOLD:c1ccccc1,0,0,0.47527554708451236
+710,"1-[[2-[2-Chloro-4-(4-chlorophenoxyl)phenyl]-4-methyl-1,3-dioxolan-2-yl]methyl]-1H-1,2,4-triazole",86173,119446-68-3,0,SCAFFOLD:c1ccc(Oc2ccc(C3(Cn4cncn4)OCCO3)cc2)cc1,0,0,0.22950163884766614
+735,Anilofos (Ref: HOE 30374),91687,64249-01-0,1,SCAFFOLD:c1ccccc1,1,1,0.8486853229103838
+744,Prosulfocarb (Ref: SC 0574),62020,52888-80-9,0,SCAFFOLD:c1ccccc1,0,1,0.5597799352614792
+750,Tebutam (Ref: GPC-5544),92299,35256-85-0,0,SCAFFOLD:c1ccccc1,0,0,0.2799745538778607
+753,Cymiazol (Ref: CGA 50439),43714,61676-87-7,0,SCAFFOLD:c1ccc(N=c2[nH]ccs2)cc1,0,0,0.24313397536974152
+768,"2-Chloro-6-[(4,6-dimethoxy-2-pyrimidinyl)thio]benzoic acid sodium salt (1:1)",23682187,123343-16-8,0,SCAFFOLD:c1ccc(Sc2ncccn2)cc1,0,0,0.16269034721024866
+775,Orbencarb (Ref: B-3356),36867,34622-58-7,0,SCAFFOLD:c1ccccc1,0,0,0.3948463312687014
+777,Alanycarb,9576091,83130-01-2,1,SCAFFOLD:c1ccccc1,1,1,0.5365401685608459
+785,Epoxiconazole (Ref: BAS 480F),3317081,135319-73-2,0,SCAFFOLD:c1ccc(C2OC2(Cn2cncn2)c2ccccc2)cc1,0,0,0.2913721966153304
+794,"2-(2,6-Difluorophenyl)-4-[4-(1,1-dimethylethyl)-2-ethoxyphenyl]-4,5-dihydrooxazole",153974,153233-91-1,0,SCAFFOLD:c1ccc(C2=NC(c3ccccc3)CO2)cc1,0,0,0.3677892221303896
+798,Flupoxam (Ref: MON 18500),86353,119126-15-7,0,SCAFFOLD:c1ccc(-c2ncnn2-c2ccccc2)cc1,0,0,0.3735669892299864
+804,4-Chloro-N-[2-[3-methoxy-4-(2-propynyloxy)phenyl]ethyl]-alpha-(2-propynyloxy)benzeneacetamide,11292824,374726-62-2,0,SCAFFOLD:O=C(Cc1ccccc1)NCCc1ccccc1,0,0,0.4759927302143233
+834,Verbutin (Ref: MB-599),11458968,185676-84-0,0,SCAFFOLD:c1ccccc1,0,1,0.5040275967939
+837,Propisochlor,167454,86763-47-5,0,SCAFFOLD:c1ccccc1,0,0,0.2337566408977642
+849,2-Chloro-N-(2-ethoxyethyl)-N-(2-methyl-1-phenyl-1-propen-1-yl)acetamide,6450826,106700-29-2,0,SCAFFOLD:c1ccccc1,0,0,0.30925399087741423
+858,Bromoxynil-potassium,23691011,2961-68-4,0,SCAFFOLD:c1ccccc1,0,0,0.49061276117456515
+862,Indanofan (Ref: MK 243),11046097,133220-30-1,0,SCAFFOLD:O=C1c2ccccc2C(=O)C1CC1(c2ccccc2)CO1,0,0,0.25882199931257516
+868,Bromoxynil-butanoate,62526,3861-41-4,0,SCAFFOLD:c1ccccc1,0,0,0.3956261192448896
+878,Iprovalicarb (Ref: SZX 0722),10958189,140923-17-7,0,SCAFFOLD:c1ccccc1,0,0,0.4497071689041025
+880,Zarilamid (Ref: ICIA001),158659,84527-51-5,1,SCAFFOLD:c1ccccc1,1,0,0.3905297904107056
+883,"N-[2,4-Dimethyl-5-[[(trifluoromethyl)sulfonyl]amino]phenyl]acetamide compd. with 2,2'-Iminobis[ethanol](1:1)",62067,53780-36-2,0,SCAFFOLD:c1ccccc1,0,0,0.2342780255870549
+893,Asulam sodium (Ref: AE F102789),61292,2302-17-2,0,SCAFFOLD:c1ccccc1,0,0,0.2257549521549388
+897,Pyrifenox (Ref: CGA 179945),6023583,88283-41-4,0,SCAFFOLD:N=C(Cc1cccnc1)c1ccccc1,0,0,0.33748112917275447
+899,Mecoprop etexyl,598095,71526-69-7,0,SCAFFOLD:c1ccccc1,0,0,0.2185529052253593
+910,"3-(1-Ethylpropyl)phenol, 1-(N-Methylcarbamate) mixt. with 3-(1-Methylbutyl)phenyl N-methylcarbamate",24721,8065-36-9,1,SCAFFOLD:c1ccccc1,1,1,0.6141443215334328
+912,"(3-Bromo-6-methoxy-2-methylphenyl)(2,3,4-trimethoxy-6-methylphenyl)methanone",6451057,220899-03-6,0,SCAFFOLD:O=C(c1ccccc1)c1ccccc1,0,0,0.22640817296604512
+917,MCPA-thioethyl,32876,25319-90-8,0,SCAFFOLD:c1ccccc1,0,0,0.3665148070614654
+921,Sintofen (Ref: SC 2053),10915750,130561-48-7,0,SCAFFOLD:O=c1cnn(-c2ccccc2)c2ccccc12,0,0,0.25786804046925604
+938,Ioxynil-sodium,23666695,2961-62-8,1,SCAFFOLD:c1ccccc1,1,0,0.4476198122581767
+939,Ioxynil-lithium,23691010,2961-61-7,1,SCAFFOLD:c1ccccc1,1,0,0.4815255883230097
+944,"(2R)-2-(2,4-Dichlorophenoxy)propanoic acid 2-ethylhexyl ester",24843409,865363-39-9,0,SCAFFOLD:c1ccccc1,0,0,0.16341759456817898
+945,Orysastrobin,11486133,248593-16-0,0,SCAFFOLD:c1ccccc1,0,0,0.41889539458622294
+947,"2,4,5-trichlorophenol",44147467,95-95-4,0,SCAFFOLD:c1ccccc1,0,0,0.31788263444815634
+954,Iprobenfos,18772466,26087-47-8,0,SCAFFOLD:c1ccccc1,0,1,0.6150637427663761
+958,Isopyrazam (Ref: SYN 520453),25271089,881685-58-1,0,SCAFFOLD:O=C(Nc1cccc2c1C1CCC2C1)c1cn[nH]c1,0,0,0.27952352937600433
+959,"2-(4-Chloro-2-methylphenoxy)acetic acid, 2-Ethylhexyl ester",93128,29450-45-1,0,SCAFFOLD:c1ccccc1,0,0,0.18492446813082014
+970,"N,N'-[1,2-Phenylenebis(iminocarbonothioyl)]bis-C,C'-dimethyl ester carbamic acid mixt. with 2,4,5,6-tetrachloro-1,3-benzenedicarbonitrile",56842817,8077-21-2,1,SCAFFOLD:c1ccccc1,1,0,0.3864431770774236
+991,"N-[9-(Dichloromethylene)-1,2,3,4-tetrahydro-1,4-1H-pyrazole-4-carboxamide",53491464,1072957-71-1,0,SCAFFOLD:C=C1C2CCC1c1c(NC(=O)c3cn[nH]c3)cccc12,0,0,0.34670912871152604
+1005,Sodium 5-nitroguaiacolate,3017748,67233-85-6,0,SCAFFOLD:c1ccccc1,0,0,0.19791256946212676
+1016,Methyl 3-(4-chlorophenyl)-3-[(N-{[(propan-2-yl)oxy]carbonyl}valyl)amino]propanoate,11338509,283159-90-0,0,SCAFFOLD:c1ccccc1,0,1,0.538405111212075
+1030,Benzyl 4-amino-3-chloro-6-(4-chloro-2-fluoro-3-methoxyphenyl)-5-fluoropyridine-2-carboxylate,70495450,1390661-72-9,0,SCAFFOLD:O=C(OCc1ccccc1)c1cccc(-c2ccccc2)n1,0,0,0.1931455038870935
+1034,2-(4-Chloro-2-methylphenoxy)acetic acid compd. with N-methylmethanamine (1:1),62420,2039-46-5,0,SCAFFOLD:c1ccccc1,0,0,0.18834839101263973
