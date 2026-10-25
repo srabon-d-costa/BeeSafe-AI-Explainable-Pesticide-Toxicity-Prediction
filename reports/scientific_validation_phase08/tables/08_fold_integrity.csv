@@ -1,0 +1,5 @@
+﻿outer_fold,train_records,evaluation_records,train_groups,evaluation_groups,overlapping_groups,evaluation_toxic_prevalence
+1,769,256,483,83,0,0.28515625
+2,769,256,403,163,0,0.2890625
+3,768,257,401,165,0,0.28793774319066145
+4,769,256,411,155,0,0.28515625

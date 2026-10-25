@@ -1,0 +1,26 @@
+{
+  "status": "AUDIT_ONLY_INSUFFICIENT_OR_UNVERIFIED_EXTERNAL_DATA",
+  "external_validation_performed": false,
+  "reason": "S1_contact: only 6 unique non-overlapping candidates; minimum is 30; S2_oral: only 2 unique non-overlapping candidates; minimum is 30",
+  "beetoxai_files": {
+    "S1_contact": "E:\\CODE\\Python\\ALL Project\\Machine Learning\\BeeSafe AI\\data\\external\\raw\\1-s2.0-S2667318521000131-mmc1.csv",
+    "S2_oral": "E:\\CODE\\Python\\ALL Project\\Machine Learning\\BeeSafe AI\\data\\external\\raw\\1-s2.0-S2667318521000131-mmc2.csv"
+  },
+  "source_apisTox_csv": "E:\\CODE\\Python\\ALL Project\\Machine Learning\\BeeSafe AI\\data\\raw\\dataset_final.csv",
+  "source_independence_verified_by_code": false,
+  "endpoint_compatibility_verified_by_code": false,
+  "n_scored": 0,
+  "metrics_by_endpoint": {},
+  "source_overlap_scope": "All records in original data/raw/dataset_final.csv",
+  "source_overlap_uses_full_apisTox_csv": true,
+  "min_nonoverlapping_n_per_endpoint": 30,
+  "min_records_per_class": 5,
+  "source_independence_manual_attestation": false,
+  "endpoint_compatibility_manual_attestation": false,
+  "audit_csv": "reports\\scientific_validation_phase08\\tables\\08_beetoxai_dataset_audit.csv",
+  "overlap_records_csv": "reports\\scientific_validation_phase08\\tables\\08_beetoxai_apisTox_overlap_records.csv",
+  "nonoverlapping_candidates_csv": "reports\\scientific_validation_phase08\\tables\\08_beetoxai_nonoverlapping_external_candidates.csv",
+  "metrics_file": null,
+  "n_exact_canonical_overlaps_excluded": 103,
+  "n_nonoverlap_candidates": 8
+}

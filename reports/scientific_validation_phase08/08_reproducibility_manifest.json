@@ -1,0 +1,39 @@
+{
+  "project": "BeeSafe AI",
+  "phase": "08",
+  "created_utc": "2026-10-25T19:09:44.354217+00:00",
+  "inputs_sha256": {
+    "data\\processed\\phase03\\03_baseline_features.npz": "4158884bd73d7e3f744b0cffc62d86bdf162b942858d3bec96780b8dc4fb930a",
+    "data\\processed\\phase03\\03_baseline_metadata.csv": "e84ebaea6fe518ec850f038c29c9365de3673ee9f02b709d42da571ad66616b6",
+    "models\\05_advanced_tuned_candidate.joblib": "3c402a7329afb061b003587ab88cecffec2b15d056292eb231182b5497c25965",
+    "reports\\model_optimization_advanced\\05_nested_cv_oof_predictions.csv": "9e644feec1cab4d01c32ed08816284e5a935fbe7856d432459e72ff91cb70def",
+    "data\\external\\raw\\1-s2.0-S2667318521000131-mmc1.csv": "f3f72deec3fe9efe68f4e0beea14f10774f034559b2d509fe567c9326e591c14",
+    "data\\external\\raw\\1-s2.0-S2667318521000131-mmc2.csv": "db8fea6b0210d053176a35d2444baf25aaf7221bd8b6238ac210c4d8b9729d87",
+    "data\\raw\\dataset_final.csv": "de4b160a23601a44ac5ec5b23aae95973acba060135630a6df8f73d128baea9e"
+  },
+  "outputs": [
+    "reports\\scientific_validation_phase08\\08_external_validation_status.json",
+    "reports\\scientific_validation_phase08\\08_reproducibility_manifest.json",
+    "reports\\scientific_validation_phase08\\08_scientific_validation_summary.json",
+    "reports\\scientific_validation_phase08\\figures\\08_brier_by_fold.png",
+    "reports\\scientific_validation_phase08\\figures\\08_calibration_comparison.png",
+    "reports\\scientific_validation_phase08\\tables\\08_beetoxai_apisTox_overlap_records.csv",
+    "reports\\scientific_validation_phase08\\tables\\08_beetoxai_dataset_audit.csv",
+    "reports\\scientific_validation_phase08\\tables\\08_beetoxai_nonoverlapping_external_candidates.csv",
+    "reports\\scientific_validation_phase08\\tables\\08_calibration_fold_log.csv",
+    "reports\\scientific_validation_phase08\\tables\\08_calibration_method_comparison.csv",
+    "reports\\scientific_validation_phase08\\tables\\08_cross_fitted_calibrated_predictions.csv",
+    "reports\\scientific_validation_phase08\\tables\\08_deployment_ensemble_fold_log.csv",
+    "reports\\scientific_validation_phase08\\tables\\08_fold_calibration_stability.csv",
+    "reports\\scientific_validation_phase08\\tables\\08_fold_integrity.csv",
+    "reports\\scientific_validation_phase08\\tables\\08_group_bootstrap_intervals.csv",
+    "reports\\scientific_validation_phase08\\tables\\08_group_bootstrap_replicates.csv",
+    "reports\\scientific_validation_phase08\\tables\\08_isotonic_calibration_bins.csv",
+    "reports\\scientific_validation_phase08\\tables\\08_raw_calibration_bins.csv",
+    "reports\\scientific_validation_phase08\\tables\\08_raw_oof_calibration_bins.csv",
+    "reports\\scientific_validation_phase08\\tables\\08_sigmoid_calibration_bins.csv"
+  ],
+  "deployment_bundle_sha256": "59380d8ba55405691192f2e2fa28b9176f38d8e0278cd58e999db8094b6a717e",
+  "external_validation_status": "AUDIT_ONLY_INSUFFICIENT_OR_UNVERIFIED_EXTERNAL_DATA",
+  "external_validation_status_sha256": "4e29828ba063c556753e83e7cef4a51c7e46e15e88648bab1a366d7dbc18bec2"
+}

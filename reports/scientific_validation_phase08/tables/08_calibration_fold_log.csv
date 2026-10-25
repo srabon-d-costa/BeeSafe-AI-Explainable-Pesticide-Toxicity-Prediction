@@ -1,0 +1,13 @@
+﻿outer_fold,inner_fold,base_fit_records,calibration_records,outer_evaluation_records,base_model_family,calibration_method
+1,1,513,256,256,Extra Trees — Morgan,sigmoid_and_isotonic
+1,2,512,257,256,Extra Trees — Morgan,sigmoid_and_isotonic
+1,3,513,256,256,Extra Trees — Morgan,sigmoid_and_isotonic
+2,1,512,257,256,Extra Trees — Morgan,sigmoid_and_isotonic
+2,2,512,257,256,Extra Trees — Morgan,sigmoid_and_isotonic
+2,3,514,255,256,Extra Trees — Morgan,sigmoid_and_isotonic
+3,1,512,256,257,Extra Trees — Morgan,sigmoid_and_isotonic
+3,2,512,256,257,Extra Trees — Morgan,sigmoid_and_isotonic
+3,3,512,256,257,Extra Trees — Morgan,sigmoid_and_isotonic
+4,1,515,254,256,Extra Trees — Morgan,sigmoid_and_isotonic
+4,2,509,260,256,Extra Trees — Morgan,sigmoid_and_isotonic
+4,3,514,255,256,Extra Trees — Morgan,sigmoid_and_isotonic

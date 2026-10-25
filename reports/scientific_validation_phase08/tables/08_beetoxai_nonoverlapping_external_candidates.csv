@@ -1,0 +1,9 @@
+﻿dataset,endpoint,source_file,source_row_index_in_beetoxai_file,Outcome,label_numeric,SMILES,canonical_smiles,set,exact_canonical_overlap_apisTox
+S1_contact,acute contact,1-s2.0-S2667318521000131-mmc1.csv,337,Toxic,1,CNC(=N[N+](=O)[O-])NCc1cnc(Cl)s1,CNC(=N[N+](=O)[O-])NCc1cnc(Cl)s1,External,False
+S1_contact,acute contact,1-s2.0-S2667318521000131-mmc1.csv,339,Nontoxic,0,COCCOc1cccc2c1c(=O)c(C(=O)O)nn2-c1ccc(Cl)cc1,COCCOc1cccc2c1c(=O)c(C(=O)O)nn2-c1ccc(Cl)cc1,External,False
+S1_contact,acute contact,1-s2.0-S2667318521000131-mmc1.csv,350,Nontoxic,0,O=C1C(Cl)=C(Cl)C(=O)N1c1ccc(F)cc1,O=C1C(Cl)=C(Cl)C(=O)N1c1ccc(F)cc1,External,False
+S1_contact,acute contact,1-s2.0-S2667318521000131-mmc1.csv,352,Nontoxic,0,CCCCOCCOC(=O)C(C)Oc1ccc(Cl)cc1Cl,CCCCOCCOC(=O)C(C)Oc1ccc(Cl)cc1Cl,External,False
+S1_contact,acute contact,1-s2.0-S2667318521000131-mmc1.csv,353,Nontoxic,0,CCCCC(CC)COC(=O)c1nc(Cl)c(Cl)c(N)c1Cl,CCCCC(CC)COC(=O)c1nc(Cl)c(Cl)c(N)c1Cl,External,False
+S1_contact,acute contact,1-s2.0-S2667318521000131-mmc1.csv,355,Nontoxic,0,CCCOc1nn(C(O)=NS(=O)(=O)c2ccccc2C(=O)OC)c(=O)n1C,CCCOc1nn(C(O)=NS(=O)(=O)c2ccccc2C(=O)OC)c(=O)n1C,External,False
+S2_oral,acute oral,1-s2.0-S2667318521000131-mmc2.csv,135,Toxic,1,CCC(C)C1OC2(C=CC1C)CC1CC(C/C=C(\C)C(OC3CC(OC)C(OC4CC(OC)C(O)C(C)O4)C(C)O3)C(C)/C=C/C=C3\COC4C(O)C(C)=CC(C(=O)O1)C34O)O2,CCC(C)C1OC2(C=CC1C)CC1CC(C/C=C(\C)C(OC3CC(OC)C(OC4CC(OC)C(O)C(C)O4)C(C)O3)C(C)/C=C/C=C3\COC4C(O)C(C)=CC(C(=O)O1)C34O)O2,External,False
+S2_oral,acute oral,1-s2.0-S2667318521000131-mmc2.csv,140,Toxic,1,CCC1OC2(CCC1C)CC1CC(C/C=C(\C)CC(C)/C=C/C=C3\COC4C(O)C(C)=CC(C(=O)O1)C34O)O2,CCC1OC2(CCC1C)CC1CC(C/C=C(\C)CC(C)/C=C/C=C3\COC4C(O)C(C)=CC(C(=O)O1)C34O)O2,External,False
