@@ -1,0 +1,61 @@
+﻿bit_id,mean_abs_shap_value,example_name,example_CID,example_fragment_smiles,center_atom_index,radius
+1917,0.01291466481872039,Ethanedioic acid,971,C=O,0,1
+807,0.005222329000573427,Ethanedioic acid,971,C,1,0
+1917,0.01291466481872039,Benzoic acid,243,C=O,0,1
+807,0.005222329000573427,Benzoic acid,243,C,1,0
+875,0.008683098686199512,Tetradifon (Ref: ENT 23737),8305,ccc,11,1
+192,0.05772361212374588,"S-[(1,3-Dihydro-1,3-dioxo-2H-isoindol-2-yl)methyl]O,O-dimethyl ester, Phosphorodithioic acid",12901,P,2,0
+695,0.018483637880375006,"S-[(1,3-Dihydro-1,3-dioxo-2H-isoindol-2-yl)methyl]O,O-dimethyl ester, Phosphorodithioic acid",12901,O,1,0
+601,0.017945583980786887,"S-[(1,3-Dihydro-1,3-dioxo-2H-isoindol-2-yl)methyl]O,O-dimethyl ester, Phosphorodithioic acid",12901,COP,1,1
+1729,0.01521066091566435,"S-[(1,3-Dihydro-1,3-dioxo-2H-isoindol-2-yl)methyl]O,O-dimethyl ester, Phosphorodithioic acid",12901,P=S,3,1
+116,0.006610504595070002,"S-[(1,3-Dihydro-1,3-dioxo-2H-isoindol-2-yl)methyl]O,O-dimethyl ester, Phosphorodithioic acid",12901,S,6,0
+97,0.00574544885357061,"S-[(1,3-Dihydro-1,3-dioxo-2H-isoindol-2-yl)methyl]O,O-dimethyl ester, Phosphorodithioic acid",12901,S,3,0
+807,0.005222329000573427,"S-[(1,3-Dihydro-1,3-dioxo-2H-isoindol-2-yl)methyl]O,O-dimethyl ester, Phosphorodithioic acid",12901,NCS,7,1
+1917,0.01291466481872039,Calcium carbonate,10112,C=O,0,1
+192,0.05772361212374588,Bromophos,16422,P,2,0
+695,0.018483637880375006,Bromophos,16422,O,1,0
+601,0.017945583980786887,Bromophos,16422,COP,1,1
+1729,0.01521066091566435,Bromophos,16422,P=S,3,1
+875,0.008683098686199512,Bromophos,16422,ccc,8,1
+97,0.00574544885357061,Bromophos,16422,S,3,0
+674,0.005726800131463392,Potassium thiocyanate,516872,C,1,0
+1384,0.0051063606923062695,Potassium thiocyanate,516872,N,0,0
+192,0.05772361212374588,Formothion (Ref: SAN 6913I),17345,P,2,0
+695,0.018483637880375006,Formothion (Ref: SAN 6913I),17345,O,1,0
+601,0.017945583980786887,Formothion (Ref: SAN 6913I),17345,COP,1,1
+1729,0.01521066091566435,Formothion (Ref: SAN 6913I),17345,P=S,3,1
+116,0.006610504595070002,Formothion (Ref: SAN 6913I),17345,S,6,0
+97,0.00574544885357061,Formothion (Ref: SAN 6913I),17345,S,3,0
+1203,0.011223046134377548,2-[[Ethoxy[(1-methylethyl)amino]phosphinothioyl]oxy]benzoic acid 1-methylethyl ester,32872,CCOP,1,2
+1716,0.009185218316822284,2-[[Ethoxy[(1-methylethyl)amino]phosphinothioyl]oxy]benzoic acid 1-methylethyl ester,32872,COP,2,1
+875,0.008683098686199512,Neburon,11145,ccc,16,1
+674,0.005726800131463392,"Cyanamide (Ref: LH 21,810A)",9864,C,1,0
+1384,0.0051063606923062695,"Cyanamide (Ref: LH 21,810A)",9864,N,0,0
+345,0.016234512219875243,1-Naphthalenol methylcarbamate,6129,CNC,1,1
+1896,0.009575533386810641,1-Naphthalenol methylcarbamate,6129,CNC(=O)O,1,2
+116,0.006610504595070002,Cartap (Ref: TL 1258),27159,S,5,0
+1754,0.01768096132628398,Eugenol,3314,cc(C)c,3,1
+1203,0.011223046134377548,Tetraethyl ester diphosphoric acid,7873,CCOP,1,2
+1716,0.009185218316822284,Tetraethyl ester diphosphoric acid,7873,COP,2,1
+674,0.005726800131463392,"3-(2-Chloro-3,3,3-trifluoro-1-propenyl)-2,2-dimethylcyclopropanecarboxylic acid cyano(3-phenoxyphenyl)methyl ester",5281873,C,16,0
+1384,0.0051063606923062695,"3-(2-Chloro-3,3,3-trifluoro-1-propenyl)-2,2-dimethylcyclopropanecarboxylic acid cyano(3-phenoxyphenyl)methyl ester",5281873,N,17,0
+1223,0.0043496004932869255,"3-(2-Chloro-3,3,3-trifluoro-1-propenyl)-2,2-dimethylcyclopropanecarboxylic acid cyano(3-phenoxyphenyl)methyl ester",5281873,CC1C(C(=O)O)C1(C)C,11,2
+1754,0.01768096132628398,Methyleugenol (Ref: Ent 21040),7127,cc(C)c,3,1
+1754,0.01768096132628398,Capsaicin (Ref: NCI-C56564),1548943,cc(C)c,4,1
+345,0.016234512219875243,"2-(1-Methylethoxy)phenol, 1-(N-Methylcarbamate)",4944,CNC,1,1
+1896,0.009575533386810641,"2-(1-Methylethoxy)phenol, 1-(N-Methylcarbamate)",4944,CNC(=O)O,1,2
+1203,0.011223046134377548,Ethion (Ref: ENT 24105),3286,CCOP,1,2
+1716,0.009185218316822284,Ethion (Ref: ENT 24105),3286,COP,2,1
+345,0.016234512219875243,"3,5-Dimethyl-4-(methylthio)phenol, Methylcarbamate",16248,CNC,1,1
+1896,0.009575533386810641,"3,5-Dimethyl-4-(methylthio)phenol, Methylcarbamate",16248,CNC(=O)O,1,2
+1263,0.008106028116456583,Carbosulfan (Ref: OMS 3022),41384,NC(=O)O,12,1
+1223,0.0043496004932869255,Pyrethrins (pyrethrin I),5281045,CC1C(C(=O)O)C1(C)C,12,2
+1223,0.0043496004932869255,Pyrethrins and Pyrethroids,71310221,CC1C(C(=O)O)C1(C)C,12,2
+1263,0.008106028116456583,[2-[[[1-(4-Chlorophenyl)-1H-pyrazol-3-yl]oxy]methyl]phenyl]methoxycarbamic acid methyl ester,6422843,NC(=O)O,2,1
+113,0.008986683390781493,Chlordane (Technical Grade),5993,CCl,5,1
+113,0.008986683390781493,"1,4,5,6,7,8,8-Heptachloro-3a,4,7,7a-tetrahydro-4,7-methano-1H-indene",3589,CCl,5,1
+113,0.008986683390781493,"(1R,4S,4aS,5S,8R,8aR)-rel-1,2,3,4,10,10-Hexachloro-1,4,4a,5,8,8a-hexahydro-1,4:5,8-dimethanonaphthalene",2087,CCl,5,1
+59,0.007461511240064643,Lithium perfluorooctane sulfonate,23677927,CC(F)(F)F,25,1
+1263,0.008106028116456583,Dimetilan,12572,NC(=O)O,5,1
+59,0.007461511240064643,"1,3-Dithiolan-2-ylidenephosphoramidic acid diethyl ester",13689,CSC(=NP)SC,6,2
+59,0.007461511240064643,"1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Heptadecafluoro-1-octanesulfonic acid potassium salt",23669238,CC(F)(F)F,25,1

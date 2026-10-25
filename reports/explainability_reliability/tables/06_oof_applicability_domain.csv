@@ -1,0 +1,1026 @@
+﻿source_row_index,outer_fold,max_tanimoto_to_outer_training,nearest_training_name,nearest_training_CID,nearest_training_label
+1,1,0.28,"1,1'-(2,2-Dichloroethylidene)bis[4-chlorobenzene]",6294,0
+3,1,0.38461538461538464,6-Chloro-3-pyridinecarboxylic acid,79222,0
+4,1,0.2727272727272727,4-Chloro-alpha-(4-chlorophenyl)-alpha-methylbenzenemethanol,6624,0
+10,1,0.6153846153846154,"p-Phenylphosphonothioic acid, O-(4-Bromo-2,5-dichlorophenyl) O-methyl ester",30709,1
+18,1,0.14285714285714285,"Cyanamide (Ref: LH 21,810A)",9864,1
+19,1,0.3333333333333333,"3-[(Dimethoxyphosphinyl)oxy]-2-butenoic acid, Methyl ester",5355863,1
+20,1,0.2903225806451613,Dialifos (Ref: AC 14503),25146,1
+25,1,0.3617021276595745,Chloroxuron (Ref: C 1983),16115,0
+27,1,0.17857142857142858,"4-Amino-3,5,6-trichloro-2-pyridinecarboxylic acid",15965,0
+31,1,0.25,2-phenylphenol,7017,0
+35,1,0.40425531914893614,Halauxifen (Ref: X11393729),25181547,0
+40,1,0.42857142857142855,Chloroxuron (Ref: C 1983),16115,0
+41,1,0.22727272727272727,4-Chloro-N-[2-[3-methoxy-4-(2-propynyloxy)phenyl]ethyl]-alpha-(2-propynyloxy)benzeneacetamide,11292824,0
+43,1,0.25,Imazamethabenz (Ref: AC 263840),3034382,0
+45,1,0.2,"Sulfuric acid, Zinc salt (1:1)",24424,0
+46,1,0.15789473684210525,Benoxacor (Ref: CGA 154281),62306,0
+47,1,0.5471698113207547,"2-Chloro-N-[2,6-dinitro-4-(trifluoromethyl)phenyl]-N-ethyl-6-fluorobenzenemethanamine",62210,0
+49,1,0.36666666666666664,Fentin acetate (Ref: OMS 1020),16682804,0
+52,1,0.38461538461538464,"Nitric acid, Chromium(3+) salt",24598,0
+53,1,1.0,Myristyl alcohol,8209,0
+56,1,0.30357142857142855,Dimefuron (Ref: RP 23465),91612,0
+57,1,0.28,Chlorotriphenylstannane,12540,0
+64,1,0.5555555555555556,Chloroxuron (Ref: C 1983),16115,0
+65,1,0.3333333333333333,Benalaxyl (Ref: M 9834),51369,0
+66,1,0.3548387096774194,Methoxychlor (Ref: OMS 466),4115,1
+68,1,0.5294117647058824,"O,O'-(Thiodi-4,1-phenylene) O,O,O',O'-tetramethyl ester phosphorothioic acid",5392,1
+80,1,0.41935483870967744,Fentin acetate (Ref: OMS 1020),16682804,0
+81,1,0.7857142857142857,Nerolidol,5284507,0
+83,1,0.16666666666666666,Trichlorfon (Ref: OMS 800),5853,1
+85,1,0.125,(2-Chloroethyl)phosphonic acid,27982,0
+88,1,0.4473684210526316,"2-[(3,5,6-Trichloro-2-pyridinyl)oxy]acetic acid",41428,0
+89,1,0.25925925925925924,"3-(4-Chlorophenyl)-3-(3,4-dimethoxyphenyl)-1-(4-morpholinyl)-2-propen-1-one",86298,0
+90,1,0.25396825396825395,Fluazinam (Ref: IKF 1216),91731,0
+93,1,0.20833333333333334,Dodemorph,61899,0
+94,1,0.2564102564102564,4-Chloro-N-[2-[3-methoxy-4-(2-propynyloxy)phenyl]ethyl]-alpha-(2-propynyloxy)benzeneacetamide,11292824,0
+95,1,0.25,Methyl cyclohexenone,14511,0
+98,1,0.5833333333333334,"Methylarsonic acid, Monosodium salt",23664719,0
+99,1,0.325,Aclonifen (Ref: AE F068300),92389,0
+100,1,0.5555555555555556,1-Naphthalenol methylcarbamate,6129,1
+103,1,0.3617021276595745,"2-[[[[(4,6-Dimethyl-2-pyrimidinyl)amino]carbonyl]amino]sulfonyl]benzoic acid, Methyl ester",52997,0
+110,1,0.3333333333333333,Pentacosane,12406,0
+112,1,0.21212121212121213,Dichlone (Ref: USR 604),8342,0
+117,1,0.2631578947368421,Arsenic acid,234,1
+119,1,0.48,Metazachlor (Ref: BAS 47900H),49384,0
+127,1,0.3611111111111111,"2,4-Dichloro-1-(4-nitrophenoxy)benzene",15787,0
+129,1,0.5294117647058824,"O,O-Dimethyl O-(3,5,6-trichloro-2-pyridinyl) ester phosphorothioic acid",21803,1
+130,1,0.3333333333333333,1-Naphthalenol methylcarbamate,6129,1
+143,1,0.6585365853658537,P-Phenylphosphonothioic acid O-ethyl O-(4-nitrophenyl) ester ,16421,1
+145,1,0.2857142857142857,Chlorotriphenylstannane,12540,0
+150,1,0.5,"2-Cyclohexyl-4,6-dinitrophenol",8540,0
+151,1,0.29411764705882354,"Nitric acid, Chromium(3+) salt",24598,0
+160,1,0.2976190476190476,Chitosan hydrochloride,21896651,0
+166,1,0.53125,2-naphthyloxyacetic acid,8422,0
+170,1,0.1875,Sodium tetrathiocarbonate (Ref: GY-81),3034198,0
+171,1,0.68,Ethion (Ref: ENT 24105),3286,1
+177,1,0.3333333333333333,Chlorotriphenylstannane,12540,0
+183,1,0.425,"O,O'-(Thiodi-4,1-phenylene) O,O,O',O'-tetramethyl ester phosphorothioic acid",5392,1
+184,1,0.34375,Trichlorfon (Ref: OMS 800),5853,1
+185,1,0.42857142857142855,"N-[3-[[(Phenylamino)carbonyl]oxy]phenyl]carbamic acid, Ethyl ester",24743,0
+190,1,0.3902439024390244,"2-[(3,5,6-Trichloro-2-pyridinyl)oxy]acetic acid",41428,0
+191,1,0.3559322033898305,Norflurazon (Ref: H 52143),33775,0
+198,1,0.3684210526315789,"2,4-Dichloro-1-(4-nitrophenoxy)benzene",15787,0
+201,1,0.7272727272727273,"2-[[[[[(4,6-Dimethoxy-2-pyrimidinyl)amino]carbonyl]amino]sulfonyl]amino]-N,N-dimethylbenzamide",11091168,0
+202,1,0.32,Diclofop (Ref: AE F021079),38687,0
+206,1,0.5416666666666666,"[(3,5,6-Trichloro-2-pyridinyl)oxy]acetic acid, 2-Butoxyethyl ester",47455,0
+208,1,0.3157894736842105,"2,4-Dichloro-1-(4-nitrophenoxy)benzene",15787,0
+209,1,0.39622641509433965,Chitosan hydrochloride,21896651,0
+210,1,0.45454545454545453,P-Phenylphosphonothioic acid O-ethyl O-(4-nitrophenyl) ester ,16421,1
+213,1,0.30357142857142855,"2-Cyclohexyl-4,6-dinitrophenol",8540,0
+215,1,0.4222222222222222,"2-Cyclohexyl-4,6-dinitrophenol",8540,0
+218,1,0.3076923076923077,1-[[2-(4-Ethoxyphenyl)-2-methylpropoxy]methyl]-3-phenoxybenzene,71245,1
+222,1,0.42857142857142855,N-(2-Chloro-4-pyridinyl)-N'-phenylurea  ,93379,0
+228,1,0.4146341463414634,"O,O'-(Thiodi-4,1-phenylene) O,O,O',O'-tetramethyl ester phosphorothioic acid",5392,1
+230,1,0.1836734693877551,4-Bromo-2-(4-chlorophenyl)-1-(ethoxymethyl)-5-(trifluoromethyl)-1H-pyrrole-3-carbonitrile,91778,1
+234,1,0.265625,"2-Cyclohexyl-4,6-dinitrophenol",8540,0
+239,1,0.8275862068965517,Chloroxuron (Ref: C 1983),16115,0
+241,1,0.40425531914893614,Mepronil (Ref: B1 2459),41632,0
+245,1,0.7037037037037037,Demeton-O-methyl (Ref: ENT 18862),13346,1
+252,1,0.25,Ethanedioic acid,971,0
+253,1,0.5,"O,O'-(Thiodi-4,1-phenylene) O,O,O',O'-tetramethyl ester phosphorothioic acid",5392,1
+254,1,0.6666666666666666,"S-[2-(Ethylthio)ethyl]O,O-dimethyl ester phosphorodithioc acid",12541,1
+255,1,0.525,Diclofop (Ref: AE F021079),38687,0
+263,1,0.43478260869565216,Diclofop (Ref: AE F021079),38687,0
+266,1,0.5,"2-[(Dimethoxyphosphinothioyl)thio]butanedioic acid 1,4-diethyl ester",4004,1
+267,1,0.4411764705882353,"3,7-Dichloro-8-quinolinecarboxylic acidZ",91739,0
+271,1,0.7727272727272727,Ethion (Ref: ENT 24105),3286,1
+275,1,0.29310344827586204,"2-Cyclohexyl-4,6-dinitrophenol",8540,0
+276,1,0.2962962962962963,"3,6-Bis(2-chlorophenyl)-1,2,4,5-tetrazine",73670,0
+277,1,0.5853658536585366,Diclofop (Ref: AE F021079),38687,0
+284,1,0.3673469387755102,Diclofop (Ref: AE F021079),38687,0
+292,1,0.53125,Ethion (Ref: ENT 24105),3286,1
+293,1,0.4166666666666667,Diclofop (Ref: AE F021079),38687,0
+297,1,0.7297297297297297,Diclofop (Ref: AE F021079),38687,0
+298,1,0.2,Beflubutamid (Ref: UBH 820),6451159,0
+303,1,0.34146341463414637,1-Naphthalenol methylcarbamate,6129,1
+306,1,0.40384615384615385,Thenylchlor (Ref: NSK 850),443036,0
+313,1,0.1956521739130435,Bensultap (Ref: OMS 3011),87176,0
+314,1,0.3409090909090909,1-Naphthalenol methylcarbamate,6129,1
+320,1,0.5294117647058824,"2-Chloro-N-[2,6-dinitro-4-(trifluoromethyl)phenyl]-N-ethyl-6-fluorobenzenemethanamine",62210,0
+322,1,0.4,Chlorbenside (Ref: ENT 20696),7639,0
+327,1,0.6129032258064516,"3-[(Dimethoxyphosphinyl)oxy]-2-butenoic acid, Methyl ester",5355863,1
+331,1,0.5833333333333334,"Methylarsonic acid, Monosodium salt",23664719,0
+332,1,0.3783783783783784,1-Naphthalenol methylcarbamate,6129,1
+333,1,0.6285714285714286,Chloroxuron (Ref: C 1983),16115,0
+337,1,0.4,Chlordane (Technical Grade),5993,1
+339,1,0.5,"O,O'-(Thiodi-4,1-phenylene) O,O,O',O'-tetramethyl ester phosphorothioic acid",5392,1
+340,1,0.4375,"1,1a,3,3a,4,5,5,5a,5b,6-Decachlorooctahydro-1,3,4-metheno-2H-cyclobuta[cd]pentalen-2-one",299,1
+342,1,0.45454545454545453,Aminopyralid (Ref: XDE 750),213012,1
+344,1,0.22916666666666666,Cyhalofop,15118048,0
+345,1,0.5714285714285714,2-Methyl-2-(methylsulfinyl)propanal O-[(methylamino)carbonyl]oxime,9568700,1
+346,1,0.3275862068965517,Pyrifenox (Ref: CGA 179945),6023583,0
+348,1,0.43333333333333335,Picloram-methyl,84224,0
+351,1,0.42857142857142855,Butathiofos (Ref: Dowco 429),185020,1
+352,1,0.27586206896551724,"3,6-Bis(2-chlorophenyl)-1,2,4,5-tetrazine",73670,0
+359,1,0.42857142857142855,"Phosphorothioic acid, O,O-Diethyl O-(3,5,6-trichloro-2-pyridinyl) ester",2730,1
+362,1,0.6428571428571429,Vernolate (Ref: R-106),16003,1
+364,1,0.4,Chloroxuron (Ref: C 1983),16115,0
+365,1,0.5614035087719298,"2,2-Dimethyl-3-(2-methyl-1-propenyl)cyclopropanecarboxylic acid, [2,5-dioxo-3-(2-propynyl)-1-imidazolidinyl]methyl ester",123622,1
+367,1,0.3181818181818182,1-Naphthalenol methylcarbamate,6129,1
+368,1,0.29411764705882354,Bensultap (Ref: OMS 3011),87176,0
+369,1,0.525,"3-[(Dimethoxyphosphinyl)oxy]-2-butenoic acid, Methyl ester",5355863,1
+370,1,0.6333333333333333,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester",3082,1
+371,1,0.40476190476190477,Difenoxuron (Ref: C3470),26576,0
+372,1,0.47368421052631576,Difenoxuron (Ref: C3470),26576,0
+374,1,0.2826086956521739,Bensultap (Ref: OMS 3011),87176,0
+375,1,0.5294117647058824,Amitraz (Ref: ENT 27967),36324,0
+378,1,0.36363636363636365,Metazachlor (Ref: BAS 47900H),49384,0
+379,1,0.2857142857142857,"Phosphorothioic acid O-(3-chloro-4-methyl-2-oxo-2H-1-benzopyran-7-yl) O,O-diethyl ester",2871,1
+380,1,0.3170731707317073,"3-[(Dimethoxyphosphinyl)oxy]-2-butenoic acid, Methyl ester",5355863,1
+383,1,0.391304347826087,1-Naphthalenol methylcarbamate,6129,1
+389,1,0.4358974358974359,"O,O-Dimethyl O-(3,5,6-trichloro-2-pyridinyl) ester phosphorothioic acid",21803,1
+390,1,0.34782608695652173,Triazophos (Ref: HOE 002960 ),32184,0
+396,1,0.20408163265306123,Cyhalofop,15118048,0
+398,1,0.3829787234042553,1-Naphthalenol methylcarbamate,6129,1
+402,1,0.32558139534883723,Oryctalure,92058,0
+405,1,0.35714285714285715,N-1H-Benzimidazol-2-yl carbamic acid methyl ester,25429,0
+406,1,0.5555555555555556,2-Methyl-2-(methylsulfinyl)propanal O-[(methylamino)carbonyl]oxime,9568700,1
+407,1,0.4,"C6-12 Fatty acids, Me esters",16204500,0
+411,1,0.2711864406779661,Flupyrsulfuron,132910,0
+412,1,0.41304347826086957,"N-[3-[[(Phenylamino)carbonyl]oxy]phenyl]carbamic acid, Ethyl ester",24743,0
+414,1,0.5384615384615384,Difenoxuron (Ref: C3470),26576,0
+417,1,0.3787878787878788,Cloquintocet-mexyl (Ref: CGA 185072),93528,0
+418,1,0.4375,Oxabetrinil (Ref: CGA 92194),9576081,0
+419,1,0.40476190476190477,Chloroxuron (Ref: C 1983),16115,0
+422,1,0.5,"p-Phenylphosphonothioic acid, O-(4-Bromo-2,5-dichlorophenyl) O-methyl ester",30709,1
+427,1,0.31666666666666665,"2-Chloro-N-[2,6-dinitro-4-(trifluoromethyl)phenyl]-N-ethyl-6-fluorobenzenemethanamine",62210,0
+428,1,0.6551724137931034,Glufosinate-ammonium (Ref: HOE 039866),53597,0
+430,1,0.3142857142857143,Dichlone (Ref: USR 604),8342,0
+431,1,0.4411764705882353,"O,O'-(Thiodi-4,1-phenylene) O,O,O',O'-tetramethyl ester phosphorothioic acid",5392,1
+433,1,0.4166666666666667,"N-[3-[[(Phenylamino)carbonyl]oxy]phenyl]carbamic acid, Ethyl ester",24743,0
+439,1,0.2978723404255319,"2-(Acetyloxy)-3-dodecyl-1,4-naphthalenedione",93315,0
+445,1,0.3275862068965517,"2-Chloro-N-[2,6-dinitro-4-(trifluoromethyl)phenyl]-N-ethyl-6-fluorobenzenemethanamine",62210,0
+447,1,0.2857142857142857,Halofenozide (Ref: RH 0345),114994,0
+450,1,0.5263157894736842,Chloroxuron (Ref: C 1983),16115,0
+454,1,0.4,Chlorbenside (Ref: ENT 20696),7639,0
+457,1,0.4090909090909091,"N-[3-[[(Phenylamino)carbonyl]oxy]phenyl]carbamic acid, Ethyl ester",24743,0
+461,1,0.509090909090909,"2-Chloro-N-[2,6-dinitro-4-(trifluoromethyl)phenyl]-N-ethyl-6-fluorobenzenemethanamine",62210,0
+462,1,0.27419354838709675,"2-Chloro-N-[2,6-dinitro-4-(trifluoromethyl)phenyl]-N-ethyl-6-fluorobenzenemethanamine",62210,0
+475,1,0.2,6-chloro-3-pyridinemethanol,177161,0
+483,1,0.5272727272727272,"2-Chloro-N-[2,6-dinitro-4-(trifluoromethyl)phenyl]-N-ethyl-6-fluorobenzenemethanamine",62210,0
+488,1,0.4878048780487805,1-Naphthalenol methylcarbamate,6129,1
+491,1,0.17307692307692307,S-abscisic acid,5280896,0
+494,1,0.20588235294117646,"1,8-cineole",2758,0
+499,1,0.7272727272727273,Hydroprene (Ref: OMS 1696),5372477,1
+504,1,0.5128205128205128,"alpha, alpha-bis(4-Chlorophenyl)-3-pyridinemethanol",28768,1
+505,1,0.3018867924528302,Diclofop (Ref: AE F021079),38687,0
+506,1,0.5238095238095238,Myristyl alcohol,8209,0
+507,1,0.3684210526315789,Ethion (Ref: ENT 24105),3286,1
+518,1,0.38636363636363635,"alpha, alpha-bis(4-Chlorophenyl)-3-pyridinemethanol",28768,1
+519,1,0.36,"Phosphorothioic acid, O,O-Diethyl O-(3,5,6-trichloro-2-pyridinyl) ester",2730,1
+523,1,0.5416666666666666,Thenylchlor (Ref: NSK 850),443036,0
+524,1,0.5714285714285714,Chloroxuron (Ref: C 1983),16115,0
+527,1,0.5555555555555556,1-Naphthalenol methylcarbamate,6129,1
+528,1,0.2647058823529412,"N2-[1,1-Dimethyl-2-(methylsulfonyl)ethyl]-3-iodo-N1-[2-methyl-4-[1,2,2,2-tetrafluoro-1-(trifluoromethyl)ethyl]phenyl]-1,2-benzenedicarboxamide",11193251,0
+530,1,0.4,Benalaxyl (Ref: M 9834),51369,0
+531,1,0.4482758620689655,Pyraclofos (Ref: OMS 3040),93460,1
+535,1,0.5555555555555556,Fosamine (Ref: DPX 1108),33257,0
+538,1,0.3492063492063492,"2-Chloro-N-[2,6-dinitro-4-(trifluoromethyl)phenyl]-N-ethyl-6-fluorobenzenemethanamine",62210,0
+540,1,0.6904761904761905,Benalaxyl (Ref: M 9834),51369,0
+552,1,0.26785714285714285,"4-Chloro-2-cyano-N,N-dimethyl-5-(4-methylphenyl)-1H-imidazole-1-sulfonamide",9862076,0
+553,1,0.2222222222222222,Dimoxystrobin (Ref: BAS 505F),10936292,0
+572,1,0.4,"C6-12 Fatty acids, Me esters",16204500,0
+578,1,0.29310344827586204,"2-(4-Methoxy[1,1'-biphenyl]-3-yl)hydrazinecarboxylic acid, 1-Methylethyl ester",176879,1
+579,1,0.2765957446808511,"2-Cyclohexyl-4,6-dinitrophenol",8540,0
+582,1,0.4722222222222222,"O,O-Dimethyl O-(3,5,6-trichloro-2-pyridinyl) ester phosphorothioic acid",21803,1
+600,1,0.7619047619047619,8-dodecenol,5283295,1
+631,1,0.3958333333333333,alpha-Cyclopropyl-alpha-(4-methoxyphenyl)-5-pyrimidinemethanol,25572,0
+633,1,0.35294117647058826,"N-[3-[[(Phenylamino)carbonyl]oxy]phenyl]carbamic acid, Ethyl ester",24743,0
+640,1,0.25,Potassium bicarbonate,516893,0
+641,1,0.3,"2-(4-Methoxy[1,1'-biphenyl]-3-yl)hydrazinecarboxylic acid, 1-Methylethyl ester",176879,1
+647,1,0.5471698113207547,"alpha-[2-(4-Chlorophenyl)ethyl]-alpha-phenyl-1H-1,2,4-triazole-1-propanenitrile",86138,1
+651,1,0.3673469387755102,Fenoxycarb (Ref: OMS 3010),51605,0
+655,1,0.4074074074074074,1-Methyl-3-phenyl-5-[3-(trifluoromethyl)phenyl]-4(1H)pyridinone,43079,0
+667,1,0.34375,1-[[2-(4-Ethoxyphenyl)-2-methylpropoxy]methyl]-3-phenoxybenzene,71245,1
+673,1,0.37037037037037035,Metazachlor (Ref: BAS 47900H),49384,0
+689,1,0.5,"5-[(4-Chlorophenyl)methyl]-2,2-dimethyl-1-(1H-1,2,4-triazol-1-ylmethyl)cyclopentanol",86210,0
+692,1,0.3076923076923077,Benalaxyl (Ref: M 9834),51369,0
+693,1,0.2962962962962963,N-[(2-Chlorophenyl)methyl]-N'-(1-methyl-1-phenylethyl)urea,11709249,0
+697,1,0.4117647058823529,Metazachlor (Ref: BAS 47900H),49384,0
+704,1,0.5818181818181818,Diflubenzuron (Ref: OMS 1804),37123,1
+709,1,0.21311475409836064,4-Chloro-3-ethyl-1-methyl-N-[[4-(4-methylphenoxy)phenyl]methyl]-1H-pyrazole-5-carboxamide,10110536,1
+724,1,0.45901639344262296,"2-(Difluoromethyl)-4-(2-methylpropyl)-6-(trifluoromethyl)-3,5-pyridinedicarbothioic acid, S3,S5-Dimethyl ester",91757,0
+726,1,0.4918032786885246,(alphaE)-alpha-(Methoxyimino)-2-[(2-methylphenoxy)methyl]benzeneacetic acid methyl ester,86438,0
+728,1,0.4772727272727273,"4-(2,2-Difluoro-1,3-benzodioxol-4-yl)-1H-pyrrole-3-carbonitrile",86398,0
+735,1,0.44680851063829785,Formothion (Ref: SAN 6913I),17345,1
+744,1,0.53125,"N,N-dipropylcarbamothioic acid S-ethyl ester",12968,1
+747,1,0.2549019607843137,Methabenzthiazuron (Ref: BAY 74283 ),29216,1
+750,1,0.32,Benalaxyl (Ref: M 9834),51369,0
+753,1,0.36585365853658536,Amitraz (Ref: ENT 27967),36324,0
+768,1,0.5208333333333334,"2,6-Bis[(4,6-dimethoxy-2-pyrimidinyl)oxy]benzoic acid sodium salt",23682789,0
+775,1,0.3469387755102041,N-[(2-Chlorophenyl)methyl]-N'-(1-methyl-1-phenylethyl)urea,11709249,0
+777,1,0.46,"N,N'-[Thiobis[(methylimino)carbonyloxy]]bisethanimidothioic acid dimethyl ester",62155,1
+799,1,0.24242424242424243,Flucarbazone,3081367,0
+815,1,0.390625,Flumiclorac,92414,0
+834,1,0.3076923076923077,4-Chloro-N-[2-[3-methoxy-4-(2-propynyloxy)phenyl]ethyl]-alpha-(2-propynyloxy)benzeneacetamide,11292824,0
+836,1,0.5333333333333333,Methoxyfenozide (Ref: RH 2485),105010,0
+837,1,0.4528301886792453,Metazachlor (Ref: BAS 47900H),49384,0
+840,1,0.3389830508474576,Thenylchlor (Ref: NSK 850),443036,0
+845,1,0.39622641509433965,Dinotefuran (Ref: MTI 446),197701,1
+849,1,0.2857142857142857,Fenoxycarb (Ref: OMS 3010),51605,0
+858,1,0.18181818181818182,3-Bromo-1-(3-chloro-2-pyridinyl)-N-[4-cyano-2-methyl-6-[(methylamino)carbonyl]phenyl]-1H-pyrazole-5-carboxamide,11578610,1
+861,1,0.5490196078431373,Imidacloprid (Ref: BAY NTN 33893),86418,1
+868,1,0.27419354838709675,"(2R)-2-[4-(4-Cyano-2-fluorophenoxy)phenoxy]propanoic acid, Butyl ester",180089,0
+878,1,0.48214285714285715,Benthiavalicarb-isopropyl (Ref: KIF-230),53297381,0
+880,1,0.4,Chlorobenzilate (Ref: ENT 18596),10522,1
+883,1,0.25333333333333335,"N2-[1,1-Dimethyl-2-(methylsulfonyl)ethyl]-3-iodo-N1-[2-methyl-4-[1,2,2,2-tetrafluoro-1-(trifluoromethyl)ethyl]phenyl]-1,2-benzenedicarboxamide",11193251,0
+891,1,0.13333333333333333,Aluminium ammonium sulphate,3032540,0
+893,1,0.27419354838709675,Flupyrsulfuron-methyl-sodium,15764724,0
+898,1,0.5277777777777778,N-[[(Methylamino)carbonyl]oxy]ethanimidothioic acid methyl ester,4109,1
+899,1,0.3728813559322034,Diclofop-methyl (Ref: HOE 023408),39985,0
+910,1,0.35714285714285715,"N-[3-[[(Phenylamino)carbonyl]oxy]phenyl]carbamic acid, Ethyl ester",24743,0
+912,1,0.52,"(5-Chloro-2-methoxy-4-methylpyridin-3-yl)(2,3,4-trimethoxy-6-methylphenyl)methanone",23082663,0
+917,1,0.32608695652173914,Chlorobenzilate (Ref: ENT 18596),10522,1
+921,1,0.2876712328767123,Cinosulfuron (Ref: CGA 142464),92420,0
+929,1,0.65,Fenoxaprop-P (Ref: AE-F088406),11949285,0
+931,1,0.5740740740740741,N-[2-[3-Chloro-5-(trifluoromethyl)-2-pyridinyl]ethyl]-2-(trifluoromethyl)benzamide,11158353,0
+938,1,0.17647058823529413,Cyhalofop,15118048,0
+939,1,0.17647058823529413,Cyhalofop,15118048,0
+941,1,0.25,Potassium bicarbonate,516893,0
+943,1,0.41818181818181815,"2-(4-Chlorophenyl)-3-ethyl-2,5-dihydro-5-oxo-4-pyridazinecarboxylic acid potassium salt",23681559,0
+944,1,0.45454545454545453,Diclofop-methyl (Ref: HOE 023408),39985,0
+945,1,0.5614035087719298,Dimoxystrobin (Ref: BAS 505F),10936292,0
+947,1,0.23529411764705882,"2-[(3,5,6-Trichloro-2-pyridinyl)oxy]acetic acid",41428,0
+954,1,0.2826086956521739,"S-[(1,3-Dihydro-1,3-dioxo-2H-isoindol-2-yl)methyl]O,O-dimethyl ester, Phosphorodithioic acid",12901,1
+959,1,0.373134328358209,Cloquintocet-mexyl (Ref: CGA 185072),93528,0
+970,1,0.2962962962962963,N-1H-Benzimidazol-2-yl carbamic acid methyl ester,25429,0
+972,1,0.3230769230769231,Flutolanil (Ref: NNF 136),47898,0
+978,1,0.15384615384615385,"Arsenic acid (H3AsO4), Sodium salt (1:?)",23677060,1
+983,1,0.32857142857142857,Bensulfuron-methyl (Ref: DPX F5384),54960,0
+1005,1,0.38095238095238093,"2,4-Dichloro-1-(4-nitrophenoxy)benzene",15787,0
+1009,1,0.3620689655172414,Mepronil (Ref: B1 2459),41632,0
+1013,1,0.225,Flumorph (Ref: SYP L190),11057755,0
+1016,1,0.3787878787878788,Benthiavalicarb-isopropyl (Ref: KIF-230),53297381,0
+1017,1,0.2,"Sulfuric acid, Zinc salt (1:1)",24424,0
+1020,1,0.2111111111111111,Benalaxyl (Ref: M 9834),51369,0
+1034,1,0.36363636363636365,"2-[(3,5,6-Trichloro-2-pyridinyl)oxy]acetic acid",41428,0
+0,2,0.3,Calcium carbonate,10112,0
+11,2,0.2545454545454545,"4,5-Dihydro-6-methyl-4-[(E)-(3-pyridinylmethylene)amino]-1,2,4-triazin-3(2H)-one",9576037,0
+12,2,0.17391304347826086,Bromoxynil-potassium,23691011,0
+23,2,0.2857142857142857,Glyphosate-dimethylammonium,13208144,0
+28,2,0.5416666666666666,"C6-12 Fatty acids, Me esters",16204500,0
+29,2,0.14285714285714285,Cadmium chloride (CdCl2),24947,1
+30,2,0.17647058823529413,"2,4,5,6-Tetrachloro-1,3-benzenedicarbonitrile",15910,0
+33,2,0.5789473684210527,"Benzo[b]thiophene-4-ol, 4-(N-methylcarbamate)",14119,1
+34,2,0.375,Myristyl acetate,12531,0
+39,2,0.5,Calcium carbonate,10112,0
+51,2,0.47058823529411764,Orange oil,22311,0
+54,2,0.1935483870967742,1-Methyl-2-pyrrolidinone,13387,0
+62,2,0.19230769230769232,Hydroxytriphenylstannane,6327657,0
+63,2,0.20833333333333334,Hydroquinone,785,0
+70,2,0.5294117647058824,Chlordimeform (Ref: ENT 27335),22544,0
+72,2,0.5416666666666666,"C6-12 Fatty acids, Me esters",16204500,0
+73,2,0.4,"Phosphorodithioic acid O-ethyl S,S-dipropyl ester",3289,1
+77,2,0.38095238095238093,"2,4-D (Ref: L 208)",1486,0
+82,2,0.5416666666666666,"C6-12 Fatty acids, Me esters",16204500,0
+96,2,0.27586206896551724,Pyroquilon (Ref: CGA 49104),91665,0
+97,2,0.2916666666666667,Benzoic acid,243,0
+106,2,0.34375,"Phosphoric acid 1,2-dibromo-2,2-dichloroethyl dimethyl ester",4420,1
+114,2,0.7727272727272727,"O,O-Diethyl S-[(ethylthio)methyl])ester, Phosphorodithioic acid",4790,1
+115,2,0.5121951219512195,"Phosphorothioic acid, O,O-Diethyl O-2-pyrazinyl ester  ",9272,1
+118,2,0.38461538461538464,Naptalam (Ref: ACP 322),8594,0
+122,2,0.3770491803278688,Imibenconazole (Ref: HF 6305),93483,0
+124,2,0.19230769230769232,Warfarin,54678486,0
+131,2,0.40625,Alpha-pinene,6654,0
+137,2,0.40625,Tetramethrin (Ref: ENT 27339),83975,1
+139,2,0.2,Fenpicoxamid (Ref: XDE 777),121494114,0
+148,2,0.2727272727272727,"Nitrous acid, Sodium salt",23668193,0
+149,2,0.4117647058823529,"2-[(Trichloromethyl)thio]-1H-isoindole-1,3(2H)dione",8607,0
+156,2,0.34146341463414637,Naptalam (Ref: ACP 322),8594,0
+158,2,0.13333333333333333,Metam-sodium (Ref: N 869),5366415,0
+163,2,0.5384615384615384,"Methylarsonic acid, Monosodium salt",23664719,0
+164,2,0.53125,(4-chlorophenoxy)acetic acid,26229,0
+167,2,0.36619718309859156,Tetramethrin (Ref: ENT 27339),83975,1
+168,2,0.323943661971831,Tetramethrin (Ref: ENT 27339),83975,1
+172,2,0.4393939393939394,Flufenoxuron (Ref: BAS 3071),91766,0
+178,2,0.43283582089552236,Flufenoxuron (Ref: BAS 3071),91766,0
+180,2,0.34782608695652173,"2-[4-(4-Chlorophenoxy)-2-(trifluoromethyl)phenyl]-1-(1H-1,2,4-triazol-1-yl)propan-2-ol",71230671,0
+186,2,0.6666666666666666,"Methylarsonic acid, Monosodium salt",23664719,0
+189,2,0.37681159420289856,"5-[(4-Chlorophenyl)methyl]-2,2-dimethyl-1-(1H-1,2,4-triazol-1-ylmethyl)cyclopentanol",86210,0
+194,2,0.631578947368421,Sumithrin ,187827,1
+195,2,0.4230769230769231,"Phosphorodithioic acid O-ethyl S,S-dipropyl ester",3289,1
+196,2,0.2459016393442623,Warfarin,54678486,0
+199,2,0.4146341463414634,2-[(1-Naphthalenylamino)carbonyl]benzoic acid sodium salt (1:1),23690427,0
+207,2,0.5,"1,4,5,6,7,8,8-Heptachloro-3a,4,7,7a-tetrahydro-4,7-methano-1H-indene",3589,1
+211,2,0.43333333333333335,Tetramethrin (Ref: ENT 27339),83975,1
+223,2,0.39622641509433965,Laminarin (Ref: H11),439306,0
+224,2,0.5294117647058824,Parathion-methyl (Ref: OMS 213),4130,0
+225,2,0.3333333333333333,Phenylmercury chloride,7511,0
+229,2,0.32653061224489793,"N-(3-Chlorophenyl)carbamic acid, 1-Methylethyl ester",2728,0
+232,2,0.27692307692307694,"2-[1-[2-[[(3,5-Difluorophenyl)amino]carbonyl]hydrazinylidene]ethyl]-3-pyridinecarboxylic acid",123626,0
+238,2,0.5161290322580645,"S-[2-(Ethylthio)ethyl]O,O-dimethyl ester phosphorothioic acid",13526,1
+244,2,0.23809523809523808,"Sulfuric acid, Iron(3+) salt (3:2)",24826,0
+247,2,0.1875,Calcium phosphate,24456,0
+248,2,0.4084507042253521,Gibberellins,622971,0
+258,2,0.41935483870967744,(Acetato-kappaO)phenylmercury,16682730,1
+259,2,0.06060606060606061,Dikegulac,65420,0
+264,2,0.44,"O,O-Dimethyl S-[(4-oxo-1,2,3-benzotriazin-3(4H)-yl)methyl] ester, Phosphorodithioic acid",2268,1
+272,2,0.29545454545454547,"N-(3,4-Dichlorophenyl)propanamide",4933,0
+280,2,0.4230769230769231,Carbofenthion,13081,1
+286,2,0.95,"(2E)-3,7-Dimethyl-2,6-octadien-1-ol",637566,0
+305,2,0.2,Hydroxytriphenylstannane,6327657,0
+312,2,0.20408163265306123,Dimethirimol (Ref: PP675),21290,0
+317,2,0.20512820512820512,"S-[(4,6-Diamino-1,3,5-triazin-2-yl)methyl]O,O-dimethyl ester phosphorodithioic acid",6543,1
+318,2,0.8275862068965517,"N'-(4-chlorophenyl)-N,N-dimethylurea",8800,0
+324,2,0.35294117647058826,"1,3-Dithiolo[4,5-b]quinoxaline-2-thione",7159,0
+329,2,0.6666666666666666,"Methylarsonic acid, Monosodium salt",23664719,0
+341,2,0.2682926829268293,"2-[(Trichloromethyl)thio]-1H-isoindole-1,3(2H)dione",8607,0
+363,2,0.2916666666666667,Lenacil (Ref: DPX B634),16559,0
+366,2,0.5625,Butocarboxim (Ref: Co 755),5360962,1
+373,2,0.2,Tetramethrin (Ref: ENT 27339),83975,1
+382,2,0.41935483870967744,Tetramethrin (Ref: ENT 27339),83975,1
+384,2,0.45,2-(4-Thiazolyl)-1H-benzimidazole,5430,1
+385,2,0.3333333333333333,Tetramethrin (Ref: ENT 27339),83975,1
+386,2,0.5348837209302325,Dichlorprop (Ref: RD 406),8427,0
+400,2,0.19642857142857142,"(5-Hydroxy-1,3-dimethyl-1H-pyrazol-4-yl)[2-(methylsulfonyl)-4-(trifluoromethyl)phenyl]methanone",11693711,0
+401,2,0.38461538461538464,Diphenamid (Ref: L 34314),13728,0
+408,2,0.39285714285714285,Laminarin (Ref: H11),439306,0
+420,2,0.25,Metamitron (Ref: BAY DRW 1139),38854,0
+423,2,0.30612244897959184,N-1H-Benzimidazol-2-yl carbamic acid methyl ester,25429,0
+435,2,0.6,5-decenol (Ref: BAS 287 1),5283292,0
+436,2,0.28846153846153844,Benalaxyl (Ref: M 9834),51369,0
+451,2,0.7619047619047619,5-decenol (Ref: BAS 287 1),5283292,0
+452,2,0.3125,"2-(1-Methylethoxy)phenol, 1-(N-Methylcarbamate)",4944,1
+453,2,0.5714285714285714,2-Methyl-2-(methylthio)propanol O-[(methylamino)carbonyl]oxime,2086,1
+456,2,0.2727272727272727,Benzoic acid,243,0
+458,2,0.2786885245901639,"2-(2,4,5-Trichlorophenoxy)acetic acid, Butyl ester",7161,0
+464,2,0.8571428571428571,Looplure (Ref: ENT 33266),5363527,0
+466,2,0.46153846153846156,2-(Dimethylamino)-N-[[(methylamino)carbonyl]oxy]-2-oxo-ethanimidothioic acid methyl ester,9595287,1
+467,2,0.2857142857142857,1-methylcyclopropene,151080,1
+471,2,0.38181818181818183,Chlorthion (Ref: BAY 22/190 ),10372,1
+478,2,0.3382352941176471,Tetramethrin (Ref: ENT 27339),83975,1
+479,2,0.4262295081967213,Tetramethrin (Ref: ENT 27339),83975,1
+486,2,0.2127659574468085,"4-(Dimethylamino)-3,5-dimethylphenol, Methylcarbamate(ester)",9414,1
+490,2,0.4230769230769231,Mancozeb,13307026,0
+492,2,0.14285714285714285,"C6-12 Fatty acids, Me esters",16204500,0
+497,2,0.3958333333333333,alpha-(1-Methylethyl)-alpha-[4-(trifluoromethoxy)phenyl]-5-pyrimidinemethanol,73668,0
+502,2,0.5737704918032787,Metsulfuron-methyl (Ref: DPX T6376),52999,0
+503,2,0.48148148148148145,Tebuconazole (Ref: HWG 1608),86102,0
+509,2,0.391304347826087,Flufenoxuron (Ref: BAS 3071),91766,0
+510,2,0.5614035087719298,Fenpropathrin (Ref: OMS 1999),47326,1
+511,2,0.25757575757575757,"2-(4-Chlorophenyl)-1-ethyl-1,4-dihydro-6-methyl-4-oxo-3-pyridinecarboxylic acid, Potassium salt",23674747,0
+512,2,0.2608695652173913,"1,2-Dihydro-3,6-pyridazinedione",21954,0
+514,2,0.46153846153846156,Procymidone (Ref: S 7131),36242,0
+521,2,0.22033898305084745,"2-[(4-Chlorophenyl)methyl]-5-(1-methylethyl)-1-(1H-1,2,4-triazol-1-ylmethyl)cyclopentanol",86211,0
+526,2,0.5757575757575758,"N'-(4-chlorophenyl)-N,N-dimethylurea",8800,0
+529,2,0.9615384615384616,Looplure (Ref: ENT 33266),5363527,0
+533,2,0.26,Benazolin (Ref: RD 7693),19662,0
+539,2,0.21428571428571427,"1,4,5,6,7,8,8-Heptachloro-3a,4,7,7a-tetrahydro-4,7-methano-1H-indene",3589,1
+542,2,0.3050847457627119,Fenothiocarb (Ref: KCO 3001),44178,0
+543,2,0.5333333333333333,Fenpropathrin (Ref: OMS 1999),47326,1
+546,2,0.35714285714285715,Triflumizole (Ref: NF 114 ),91699,0
+547,2,0.4322033898305085,Abamectin (Ref: MK 936),6435890,1
+548,2,0.43333333333333335,Abamectin (Ref: MK 936),6435890,1
+555,2,0.21428571428571427,Frontalin,10888022,0
+558,2,0.23214285714285715,1-Methyl-3-phenyl-5-[3-(trifluoromethyl)phenyl]-4(1H)pyridinone,43079,0
+559,2,0.25,"2-[4-(1,1-Dimethylethyl)phenoxy]cyclohexyl 2-propynyl ester sulfurous acid",4936,0
+561,2,0.5384615384615384,"beta-(4-Chlorophenoxy)-alpha-(1,1-dimethylethyl)-1H-1,2,4-triazole-1-ethanol",41368,0
+564,2,0.23809523809523808,"Sulfuric acid, Iron(3+) salt (3:2)",24826,0
+570,2,0.7297297297297297,Dichlorprop (Ref: RD 406),8427,0
+580,2,0.4,Procymidone (Ref: S 7131),36242,0
+581,2,0.453125,"2,2-Dimethyl-3-(2-methyl-1-propenyl)cyclopropanecarboxylic acid, [2,5-dioxo-3-(2-propynyl)-1-imidazolidinyl]methyl ester",123622,1
+585,2,0.25,Haloxyfop-P-methyl (Ref: DE 535),13363033,0
+586,2,0.5932203389830508,Bifenthrin (Ref: FMC 54800),6442842,1
+587,2,0.42857142857142855,"N-[3-[[(Phenylamino)carbonyl]oxy]phenyl]carbamic acid, Ethyl ester",24743,0
+591,2,0.72,Metsulfuron-methyl (Ref: DPX T6376),52999,0
+597,2,0.68,Metsulfuron (Ref: IN F5438),91730,0
+601,2,0.2523364485981308,Polyoxin B,418922,0
+603,2,0.4305555555555556,Flufenoxuron (Ref: BAS 3071),91766,0
+605,2,0.4423076923076923,"N-(2,6-Dimethylphenyl)-N-(methoxyacetyl)alanine methyl ester",42586,0
+617,2,0.30434782608695654,Tridemorph (Ref: BAS 2205-F),32518,0
+618,2,0.2549019607843137,Diphenamid (Ref: L 34314),13728,0
+619,2,0.36,Dichlone (Ref: USR 604),8342,0
+629,2,0.6170212765957447,"beta-(4-Chlorophenoxy)-alpha-(1,1-dimethylethyl)-1H-1,2,4-triazole-1-ethanol",41368,0
+630,2,0.6538461538461539,"alpha-[2-(4-Chlorophenyl)ethyl]-alpha-phenyl-1H-1,2,4-triazole-1-propanenitrile",86138,1
+635,2,0.2153846153846154,Propisochlor,167454,0
+636,2,0.379746835443038,Haloxyfop-etotyl (Ref: DOWCO 453EE),91743,0
+638,2,0.26153846153846155,Pencycuron (Ref: NTN 19701),91692,0
+644,2,0.2786885245901639,1-[[2-(4-Ethoxyphenyl)-2-methylpropoxy]methyl]-3-phenoxybenzene,71245,1
+646,2,0.23076923076923078,Oxolinic acid,4628,0
+648,2,0.325,Sodium o-nitrophenolate,69985,0
+649,2,0.6206896551724138,Quizalofop-ethyl (Ref: DPX Y6202),53518,1
+652,2,0.40816326530612246,Flutriafol (Ref: PP 450),91727,1
+653,2,0.19148936170212766,Mefluidide (Ref: MBR 12325),40896,0
+654,2,0.4594594594594595,Oryctalure,92058,0
+656,2,0.59375,Azimsulfuron,86355,0
+659,2,0.4166666666666667,"2,3,6-TBA (Ref: HC 1281)",5759,0
+660,2,0.4411764705882353,"2,3,6-TBA (Ref: HC 1281)",5759,0
+661,2,0.25,5-Methyl-2-(1-methylethyl)phenol,6989,0
+671,2,0.6140350877192983,Metsulfuron-methyl (Ref: DPX T6376),52999,0
+674,2,0.2545454545454545,"2-Aminobenzoic acid, Methyl ester",8635,0
+676,2,0.2077922077922078,Sintofen (Ref: SC 2053),10915750,0
+680,2,0.5,Tebuconazole (Ref: HWG 1608),86102,0
+681,2,0.31746031746031744,Tebufenpyrad (Ref: AC 801757),86354,1
+686,2,0.5384615384615384,"N-[[(4,6-Dimethoxy-2-pyrimidinyl)amino]carbonyl]-(2,2,2-trifluoroethoxy)-2-pyridinesulfonamide sodium salt (1:1)",23676736,0
+687,2,0.6338028169014085,Cyclaniliprole (Ref: IKI-3106),24822142,1
+690,2,0.6666666666666666,Cyprodinil (Ref: CGA 219417),86367,0
+698,2,0.6545454545454545,Metsulfuron (Ref: IN F5438),91730,0
+699,2,0.3090909090909091,Dichlorprop (Ref: RD 406),8427,0
+700,2,0.34285714285714286,Demeton (Ref: ENT 17295),24722,1
+701,2,0.3870967741935484,Flumiclorac,92414,0
+710,2,0.4142857142857143,"2-[4-(4-Chlorophenoxy)-2-(trifluoromethyl)phenyl]-1-(1H-1,2,4-triazol-1-yl)propan-2-ol",71230671,0
+713,2,0.5490196078431373,1-[(6-Chloro-3-pyridinyl)methyl]-N-nitro-1H-imidazol-2-amine,14626249,1
+716,2,0.6825396825396826,Quizalofop-ethyl (Ref: DPX Y6202),53518,1
+718,2,0.4166666666666667,Flufenoxuron (Ref: BAS 3071),91766,0
+721,2,0.5454545454545454,Amidosulfuron,91777,0
+727,2,0.203125,Oxolinic acid,4628,0
+729,2,0.2923076923076923,Cyflumetofen (Ref: OK-5101),11496052,0
+734,2,0.47619047619047616,Fluazifop-butyl (Ref: SL 236),50897,0
+739,2,0.475,Cadusafos (Ref: FMC 67825),91752,1
+740,2,0.21428571428571427,N-(Phosphonomethyl)glycine compd. with 2-propanamine (1:1),38078,0
+755,2,0.5714285714285714,"N-[[(4,6-Dimethoxy-2-pyrimidinyl)amino]carbonyl]-2-(ethylsulfonyl)imidazo[1,2-a]pyridine-3-sulfonamide",86426,0
+756,2,0.7272727272727273,Cyclosulfamuron (Ref: BAS 710H),6451137,0
+765,2,0.4461538461538462,"2-[(4-Amino-3,5-dichloro-6-fluoro-2-pyridinyl)oxy]acetic acid 1-methylheptyl ester",54745,0
+771,2,0.3191489361702128,"2,6-Dichloro-4-nitrobenzenamine",7430,0
+773,2,0.3582089552238806,"5-[(4-Chlorophenyl)methyl]-2,2-dimethyl-1-(1H-1,2,4-triazol-1-ylmethyl)cyclopentanol",86210,0
+774,2,0.5238095238095238,Cyprodinil (Ref: CGA 219417),86367,0
+778,2,0.25925925925925924,Methyleugenol (Ref: Ent 21040),7127,0
+779,2,0.65,Metamifop (Ref: DBH-129),59558935,0
+793,2,0.4146341463414634,Prohexadione-calcium (Ref: BAS 125W),12001831,0
+797,2,0.24285714285714285,Nuarimol (Ref: EL 228),91683,0
+800,2,0.46,[N(Z)]-N-[3-[(6-Chloro-3-pyridinyl)methyl]-2-thiazolidinylidene]cyanamide,115224,0
+802,2,0.532258064516129,Bensulfuron-methyl (Ref: DPX F5384),54960,0
+803,2,0.5245901639344263,Bensulfuron (Ref: IN R9419),107828,0
+806,2,0.48214285714285715,Iprovalicarb (Ref: SZX 0722),10958189,0
+808,2,0.5081967213114754,Oxadiargyl (Ref: RP 020630 ),94498,0
+810,2,0.5714285714285714,N-(Phosphonomethyl)glycine,3496,0
+813,2,0.2676056338028169,"3,3-Dimethylbutanoic acid 2-oxo-3-(2,4,6-trimethylphenyl)-1-oaxspiro[4.4]non-3-en-4-yl ester",9907412,0
+817,2,0.26785714285714285,"1,1-Dichloro-N-[(dimethylamino)sulfonyl]-1-fluoro-N-(4-methylphenyl)methanesulfenamide",12898,0
+819,2,0.41025641025641024,"N-(5,7-Dimethoxy[1,2,4]triazolo[1,5-a]pyrimidin-2-yl)-2-methoxy-4-(trifluoromethyl)-3-pyridinesulfonamide",11571555,0
+820,2,0.5084745762711864,Amidosulfuron,91777,0
+822,2,0.30303030303030304,Dichlone (Ref: USR 604),8342,0
+825,2,0.5789473684210527,Metsulfuron (Ref: IN F5438),91730,0
+829,2,0.35294117647058826,Fluazifop-butyl (Ref: SL 236),50897,0
+835,2,0.4852941176470588,Fenpropathrin (Ref: OMS 1999),47326,1
+839,2,0.5272727272727272,"3-(2,2-Dichloroethenyl)-2,2-dimethylcyclopropanecarboxylic acid, (3-Phenoxyphenyl)methyl ester",40326,1
+844,2,0.5535714285714286,Pyriminobac-methyl (Ref: KIH-6127),9604652,0
+846,2,0.7096774193548387,Propoxycarbazone-sodium (Ref: MKH 6561),12056759,0
+847,2,0.4222222222222222,"N-Phenylcarbamic acid, 1-Methylethyl ester",24685,0
+848,2,0.64,N-(Phosphonomethyl)glycine,3496,0
+850,2,0.48148148148148145,Clodinafop (Ref: CGA 193469),5483847,0
+851,2,0.6101694915254238,"2-Chloro-N-[[(4,6-dimethoxy-2-pyrimidinyl)amino]carbonyl]imidazo[1,2-a]pyridine-3-sulfonamide",92433,0
+854,2,0.6440677966101694,Azimsulfuron,86355,0
+856,2,0.2537313432835821,Zarilamid (Ref: ICIA001),158659,1
+859,2,0.6666666666666666,Flucarbazone-sodium (Ref: BAY MKH 6562),12056760,0
+860,2,0.3389830508474576,Iprovalicarb (Ref: SZX 0722),10958189,0
+869,2,0.5238095238095238,Bensulfuron (Ref: IN R9419),107828,0
+870,2,0.23529411764705882,Cinidon-ethyl (Ref: BAS 615H),5851439,0
+871,2,0.43283582089552236,"3,3-Dimethylbutanoic acid 2-oxo-3-(2,4,6-trimethylphenyl)-1-oaxspiro[4.4]non-3-en-4-yl ester",9907412,0
+872,2,0.5689655172413793,Clethodim (Ref: RE 45601),135491728,0
+873,2,0.32142857142857145,Chlorobenzilate (Ref: ENT 18596),10522,1
+876,2,0.3404255319148936,"C6-12 Fatty acids, Me esters",16204500,0
+890,2,0.6451612903225806,Cycloxydim (Ref: BAS 517H),91765,0
+895,2,0.3424657534246575,Triflumizole (Ref: NF 114 ),91699,0
+901,2,0.4230769230769231,"O,O-Dimethyl S-[(4-oxo-1,2,3-benzotriazin-3(4H)-yl)methyl] ester, Phosphorodithioic acid",2268,1
+902,2,0.2127659574468085,Piperonyl butoxide (Ref: ENT 14250),5794,0
+903,2,0.42592592592592593,Monolinuron (Ref: HOE 002747),15629,0
+904,2,0.6,Calcium arsenate,24501,1
+905,2,0.7049180327868853,"N-[[(4,6-Dimethoxy-2-pyrimidinyl)amino]carbonyl]-(2,2,2-trifluoroethoxy)-2-pyridinesulfonamide sodium salt (1:1)",23676736,0
+908,2,0.40350877192982454,Sethoxydim (Ref: BAS 9052H),52923,1
+915,2,0.6774193548387096,(alphaE)-alpha-(Methoxymethylene)-2-[[[6-(trifluoromethyl)-2-pyridinyl]oxy]methyl]benzeneacetic acid methyl ester,11285653,0
+920,2,0.2153846153846154,Tribenuron-methyl (Ref: DPX L5300),153909,1
+927,2,0.352112676056338,Triflumuron (Ref: OMS 2015),47445,0
+932,2,0.37333333333333335,"N-[[(4,6-Dimethoxy-2-pyrimidinyl)amino]carbonyl]-(2,2,2-trifluoroethoxy)-2-pyridinesulfonamide sodium salt (1:1)",23676736,0
+934,2,0.22807017543859648,Nitrothal-isopropyl (Ref: BAS 300 OOF),43704,0
+949,2,0.64,N-(Phosphonomethyl)glycine,3496,0
+950,2,0.56,Pyriminobac-methyl (Ref: KIH-6127),9604652,0
+951,2,0.32432432432432434,Fenclorim (Ref: CGA 123407),77338,0
+952,2,0.25609756097560976,"alpha,2-Dichloro-5-[4-(difluoromethyl)-4,5-dihydro-3-methyl-5-oxo-1H-1,2,4-triazol-1-yl]-4-fluorobenzenepropanoic acid",443229,0
+953,2,0.6582278481012658,1-(3-Chloropyridin-2-yl)-N-[4-cyano-2-methyl-6-(methylcarbamoyl)phenyl]-3-{[5-(trifluoromethyl)-2H-tetrazol-2-yl]methyl}-1H-pyrazole-5-carboxamide,56602311,1
+958,2,0.640625,"N-[9-(Dichloromethylene)-1,2,3,4-tetrahydro-1,4-1H-pyrazole-4-carboxamide",53491464,0
+960,2,0.19642857142857142,5-Methyl-2-(1-methylethyl)phenol,6989,0
+974,2,0.5714285714285714,N-(Phosphonomethyl)glycine,3496,0
+975,2,0.3424657534246575,Triflumizole (Ref: NF 114 ),91699,0
+977,2,0.25,"N2-[1,1-Dimethyl-2-(methylsulfonyl)ethyl]-3-iodo-N1-[2-methyl-4-[1,2,2,2-tetrafluoro-1-(trifluoromethyl)ethyl]phenyl]-1,2-benzenedicarboxamide",11193251,0
+981,2,0.2248062015503876,Dihydroazadirachtin,44631173,0
+982,2,0.5238095238095238,Alloxydim,3034433,0
+985,2,0.2537313432835821,Benalaxyl (Ref: M 9834),51369,0
+987,2,0.1958762886597938,"5-[[(2,6-Difluorophenyl)methoxy]methyl]-4,5-dihydro-5-methyl(3-methyl-2-thienyl)isoxazole",11500973,0
+989,2,0.6862745098039216,Spinosad (Ref: XDE 105),21871655,1
+992,2,0.26582278481012656,3-[2-Chloro-4-(methanesulfonyl)benzoyl]-4-(phenylsulfanyl)bicyclo[3.2.1]oct-3-en-2-one,11236201,0
+993,2,0.4153846153846154,Cycloxydim (Ref: BAS 517H),91765,0
+994,2,0.46153846153846156,Fenpropathrin (Ref: OMS 1999),47326,1
+995,2,0.52,"(3-Bromo-6-methoxy-2-methylphenyl)(2,3,4-trimethoxy-6-methylphenyl)methanone",6451057,0
+1003,2,0.36764705882352944,"N-[2-(1,3-Dimethylbutyl)-3-thienyl]-1-methyl-3-(trifluoromethyl)-1H-pyrazole-4-carboxamide",11388558,0
+1006,2,0.28735632183908044,Fenpyroximate (Ref: NNI 850),9576412,0
+1011,2,0.3188405797101449,Tribenuron-methyl (Ref: DPX L5300),153909,1
+1012,2,0.375,Sumithrin ,187827,1
+1015,2,0.1836734693877551,Pyrifenox (Ref: CGA 179945),6023583,0
+1018,2,0.38028169014084506,"N-(3',4'-Dichloro-5-fluoro[1,1'-biphenyl]-2-yl)-3-(difluoromethyl)-1-methyl-1H-pyrazole-4-carboxamide",11434448,0
+1021,2,0.3898305084745763,1-[(6-Chloro-3-pyridinyl)methyl]-N-nitro-1H-imidazol-2-amine,14626249,1
+1022,2,0.29545454545454547,"[[2-Chloro-4-fluoro-5-[(tetrahydro-3-oxo-1H,3H-[1,3,4]thiadiazolo [3,4-a]pyridazin-1-ylidine)amino]phenyl]thioacetic acid methyl ester",93542,0
+1023,2,0.6,N-(Phosphonomethyl)glycine,3496,0
+8,3,0.47058823529411764,Carvone,7439,0
+14,3,0.5555555555555556,"As,As-Dimethylarsinic acid",2513,0
+16,3,0.44680851063829785,Anilofos (Ref: HOE 30374),91687,1
+22,3,0.6129032258064516,"Phosphoric acid, (1E)-3-(Dimethylamino)-1-methyl-3-oxo-1-propen-1-yl dimethyl ester",5371560,1
+24,3,0.125,Ethanedioic acid,971,0
+32,3,0.3111111111111111,Diphenamid (Ref: L 34314),13728,0
+36,3,0.125,Copper sulphate,24462,0
+37,3,0.2647058823529412,"N,N-Bis(2-methylpropyl)carbamothioic acid S-ethyl ester",16181,0
+38,3,0.26666666666666666,Frontalin,10888022,0
+42,3,0.2727272727272727,Calcium carbonate,10112,0
+48,3,0.14285714285714285,Copper II chloride,24014,0
+55,3,0.2727272727272727,"Sulfuric acid, Iron(3+) salt (3:2)",24826,0
+58,3,0.23809523809523808,Tetraethyl ester diphosphoric acid,7873,1
+71,3,0.6,Calcium acid methanearsonate,22193,0
+76,3,0.22580645161290322,Methyl cyclohexenone,14511,0
+79,3,0.2857142857142857,Carene,26049,0
+92,3,0.5,"alpha-[(Dimethoxyphosphinothioyl)thio] benzeneacetic acid, Ethyl ester",17435,1
+109,3,0.7857142857142857,Linalool,6549,0
+111,3,0.2777777777777778,"N,N'-[1,2-Phenylenebis(iminocarbonothioyl)]bis-C,C'- dimethyl ester carbamic acid",3032791,0
+116,3,0.3770491803278688,"S-[(6-Chloro-2-oxo-3(2H)-benzoxazolyl)methyl]O,O-diethyl ester phosphorodithioic acid",4793,1
+123,3,0.1794871794871795,2-phenylphenol,7017,0
+125,3,0.3,"Sulfuric acid, Iron(3+) salt (3:2)",24826,0
+133,3,0.6333333333333333,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl ester phosphorothioic acid",14210,1
+136,3,0.44680851063829785,Mepronil (Ref: B1 2459),41632,0
+140,3,0.17647058823529413,"1,3-dichloropropene (Ref: D D92)",24726,1
+141,3,0.24242424242424243,"(1R,4S,4aS,5S,8R,8aR)-rel-1,2,3,4,10,10-Hexachloro-1,4,4a,5,8,8a-hexahydro-1,4:5,8-dimethanonaphthalene",2087,1
+142,3,0.3888888888888889,"(OC-6-11)-tris(N,N-Dimethylcarbamodithioato-kappaS,kappaS')iron",26710,0
+146,3,0.40625,Verbenone,29025,0
+154,3,0.19230769230769232,Diquat,6795,0
+159,3,0.5,"2-[[[[(4,6-Dimethyl-2-pyrimidinyl)amino]carbonyl]amino]sulfonyl]benzoic acid, Methyl ester",52997,0
+161,3,0.25,Butachlor (Ref: CP 53619),31677,0
+162,3,0.05263157894736842,"(2E)-3,7-Dimethyl-2,6-octadien-1-ol",637566,0
+165,3,0.72,"2-[[[[(4,6-Dimethyl-2-pyrimidinyl)amino]carbonyl]amino]sulfonyl]benzoic acid, Methyl ester",52997,0
+169,3,0.038461538461538464,"6-Methyl-1,3-dithiolo[4,5-b]quinoxalin-2-one",17109,0
+174,3,0.15789473684210525,Zinc borate,167155,0
+179,3,0.43333333333333335,Milbemycin A4,9959038,1
+187,3,0.25,Fenpropidin (Ref: CGA 114900),91694,1
+203,3,0.5,DNOC (Ref: ENT 154),10800,0
+204,3,0.2222222222222222,5-Amino-4-chloro-2-phenyl-3(2H)-pyridazinone,15546,0
+205,3,0.5,"(1R,4S,4aS,5S,8R,8aR)-rel-1,2,3,4,10,10-Hexachloro-1,4,4a,5,8,8a-hexahydro-1,4:5,8-dimethanonaphthalene",2087,1
+216,3,0.5862068965517241,"Phosphorodithioic acid, O,O-Diethyl-S-[2-(ethylthio)ethyl] ester",3118,1
+217,3,0.5254237288135594,Chlorimuron,91762,0
+221,3,0.3055555555555556,"N,N-Bis(2-methylpropyl)carbamothioic acid S-ethyl ester",16181,0
+226,3,0.425531914893617,"Phosphorothioic acid O,O-diethyl O-2-quinoxalinyl ester  ",26124,1
+227,3,0.2916666666666667,Ethion (Ref: ENT 24105),3286,1
+231,3,0.7037037037037037,Demeton (Ref: ENT 17295),24722,1
+235,3,0.3793103448275862,Demeton (Ref: ENT 17295),24722,1
+236,3,0.4,Methyl trithion,13721,1
+237,3,0.38461538461538464,Propineb (Ref: BAY 46131),6100711,0
+242,3,0.6666666666666666,(E)-dec-5-enyl acetate,5363095,0
+246,3,0.48936170212765956,"S-[(1,3-Dihydro-1,3-dioxo-2H-isoindol-2-yl)methyl]O,O-dimethyl ester, Phosphorodithioic acid",12901,1
+251,3,0.43333333333333335,Ethion (Ref: ENT 24105),3286,1
+257,3,0.3333333333333333,"(OC-6-11)-tris(N,N-Dimethylcarbamodithioato-kappaS,kappaS')iron",26710,0
+260,3,0.38461538461538464,1-Naphthaleneacetic acid,6862,0
+262,3,0.5714285714285714,"S-[2-(Ethylthio)ethyl]O,O-dimethyl ester phosphorodithioc acid",12541,1
+268,3,0.6190476190476191,Quizalofop-P-tefuryl (Ref: UBI C4874 ),86175,0
+269,3,0.4473684210526316,"2,4-D (Ref: L 208)",1486,0
+279,3,0.36585365853658536,"Phosphoric acid, (1E)-3-(Dimethylamino)-1-methyl-3-oxo-1-propen-1-yl dimethyl ester",5371560,1
+282,3,0.32142857142857145,Hexadecanoic acid,985,0
+283,3,0.2,Diquat,6795,0
+285,3,0.20408163265306123,Multistriatin,13199930,0
+287,3,0.3090909090909091,Triazamate (Ref: RH 7988),86306,0
+294,3,0.38461538461538464,Benzoic acid,243,0
+301,3,0.4864864864864865,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl ester phosphorothioic acid",14210,1
+302,3,0.625,TCA-sodium,23681045,0
+304,3,0.4375,"1,1a,2,2,3,3a,4,5,5,5a,5b,6-Dodecachlorooctahydro-1,3,4-metheno-1H-cyclobuta[cd]pentalene",16945,1
+308,3,0.5121951219512195,"Phosphorothioic acid O,O-diethyl O-2-quinoxalinyl ester  ",26124,1
+311,3,0.34615384615384615,Ethirimol (Ref: PP149),32152,1
+315,3,0.30434782608695654,Carene,26049,0
+319,3,0.2553191489361702,"4-(Dimethylamino)-3,5-dimethylphenol, Methylcarbamate(ester)",9414,1
+325,3,0.35294117647058826,"6-Methyl-1,3-dithiolo[4,5-b]quinoxalin-2-one",17109,0
+326,3,0.38461538461538464,Propineb (Ref: BAY 46131),6100711,0
+330,3,0.4084507042253521,Gibberellic acid,6466,0
+335,3,0.3142857142857143,Chloramben (Ref: ACP M-629),8630,0
+343,3,0.27586206896551724,Dichlobenil (Ref: H 133),3031,1
+350,3,0.38461538461538464,"Phosphoric acid, (1E)-3-(Dimethylamino)-1-methyl-3-oxo-1-propen-1-yl dimethyl ester",5371560,1
+354,3,0.4230769230769231,Propineb (Ref: BAY 46131),6100711,0
+358,3,0.5454545454545454,N-[[(Methylamino)carbonyl]oxy]ethanimidothioic acid methyl ester,4109,1
+360,3,0.5757575757575758,"Phosphoric acid, (1E)-3-(Dimethylamino)-1-methyl-3-oxo-1-propen-1-yl dimethyl ester",5371560,1
+361,3,0.47619047619047616,Bromophos-ethyl (Ref: SHG-2225),20965,1
+387,3,0.5333333333333333,Oxycarboxin (Ref: F 461),21330,0
+388,3,0.35714285714285715,"N,N'-[1,2-Phenylenebis(iminocarbonothioyl)]bis-C,C'- dimethyl ester carbamic acid",3032791,0
+391,3,0.2765957446808511,"2,4-D (Ref: L 208)",1486,0
+393,3,0.5789473684210527,1-Naphthalenol methylcarbamate,6129,1
+395,3,0.32432432432432434,"3-Phenyl-5-(2-thienyl)-1,2,4-oxadiazole",695679,1
+399,3,0.9615384615384616,(E)-dec-5-enyl acetate,5363095,0
+403,3,0.43333333333333335,Chlorthal-dimethyl (Ref: DAC 893),2943,0
+404,3,0.3125,"3,6-Bis(2-chlorophenyl)-1,2,4,5-tetrazine",73670,0
+424,3,0.23076923076923078,Chloramben (Ref: ACP M-629),8630,0
+425,3,0.38461538461538464,"S-[2-(Ethylsulfonyl)ethyl]O,O-dimethyl ester phosphorothioic acid",28213,1
+429,3,0.4583333333333333,Mepronil (Ref: B1 2459),41632,0
+432,3,0.6551724137931034,Glufosinate (Ref: HOE 00661),4794,0
+434,3,0.36666666666666664,Pyridafenthion (Ref: ENT 23968)),8381,1
+437,3,0.24444444444444444,"4-(Dimethylamino)-3,5-dimethylphenol, Methylcarbamate(ester)",9414,1
+441,3,0.3409090909090909,"Phosphorothioic acid O-(2,6-dichloro-4-methylphenyl) O,O-dimethyl ester",91664,0
+442,3,0.35714285714285715,"N-Acetylphosphoramidothioic acid O,S-dimethyl ester",1982,1
+443,3,0.3137254901960784,"2-(2,4,5-Trichlorophenoxy)propanoic acid",7158,0
+444,3,0.17777777777777778,Chlordane (Technical Grade),5993,1
+446,3,0.5102040816326531,Pyridafenthion (Ref: ENT 23968)),8381,1
+448,3,0.5909090909090909,"2,3-Dihydro-2,2-dimethyl-7-benzofuranol 7-(N-methylcarbamate)",2566,1
+449,3,0.42,Isoxathion (Ref: SL 6711),29307,1
+455,3,0.5818181818181818,Flucycloxuron (Ref: OMS 3041),6537963,0
+459,3,0.5294117647058824,"Phosphorothioic acid, O,O-Dimethyl O-(2,4,5-trichlorophenyl)ester",9298,1
+460,3,0.3235294117647059,Tridemorph (Ref: BAS 2205-F),32518,0
+463,3,0.4146341463414634,"1-Naphthaleneacetic acid, Sodium salt",23694671,0
+465,3,0.5384615384615384,8-dodecenol,5283295,1
+468,3,0.7272727272727273,Kinoprene,6434236,0
+470,3,0.35,Penconazole (Ref: CGA 71818),91693,1
+496,3,0.4074074074074074,Flurtamone (Ref: RPA 590515),91755,0
+500,3,0.5230769230769231,Flufenoxuron (Ref: BAS 3071),91766,0
+508,3,0.5740740740740741,"2,6-Dichloro-N-[[3-chloro-5-(trifluoromethyl)-2-pyridinyl]methyl]benzamide",11159021,0
+513,3,0.19607843137254902,Multistriatin,13199930,0
+515,3,0.42857142857142855,"2,3,6-TBA (Ref: HC 1281)",5759,0
+517,3,0.46153846153846156,Vinclozolin (Ref: BAS 352F),39676,0
+522,3,0.40816326530612246,Flusilazole (Ref: DPX H6573),73675,0
+525,3,0.5957446808510638,Benalaxyl (Ref: M 9834),51369,0
+532,3,0.5178571428571429,Flufenoxuron (Ref: BAS 3071),91766,0
+536,3,0.352112676056338,2-[2-(4-Cyanophenyl)-1-[3-(trifluoromethyl)phenyl]ethylidene]-N-[4-(trifluoromethoxy)phenyl]hydrazinecarboxamide,20056430,1
+545,3,0.6,Copper II carbonate,14452,0
+549,3,0.3541666666666667,"Phosphorothioic acid O,O-diethyl O-2-quinoxalinyl ester  ",26124,1
+551,3,0.5161290322580645,N-[[(Methylamino)carbonyl]oxy]ethanimidothioic acid methyl ester,4109,1
+556,3,0.625,"1-(4-Chlorophenoxy)-3,3-dimethyl-1-(1H-1,2,4-triazol-1-yl)-2-butanone",39385,0
+563,3,0.37777777777777777,"2,4-D (Ref: L 208)",1486,0
+565,3,0.2571428571428571,"N,N-Bis(2-methylpropyl)carbamothioic acid S-ethyl ester",16181,0
+568,3,0.2727272727272727,Ethanedioic acid,971,0
+573,3,0.4897959183673469,"N'-(3,4-Dichlorophenyl)-N,N-dimethylurea",3120,0
+574,3,0.4,"N'-(4-chlorophenyl)-N,N-dimethylurea",8800,0
+577,3,0.4166666666666667,"S-[(6-Chloro-2-oxo-3(2H)-benzoxazolyl)methyl]O,O-diethyl ester phosphorodithioic acid",4793,1
+584,3,0.4915254237288136,Flufenoxuron (Ref: BAS 3071),91766,0
+593,3,0.20634920634920634,"N,N-Dimethyl-N'-[3-(trifluoromethyl)phenyl]urea",16562,0
+598,3,0.26865671641791045,Piperalin (Ref: HSDB 7058),18996,0
+599,3,0.6825396825396826,Quizalofop-P-tefuryl (Ref: UBI C4874 ),86175,0
+606,3,0.35,(4-chlorophenoxy)acetic acid,26229,0
+608,3,0.13513513513513514,Cyclohexylethylcarbamothioic acid S-ethyl ester,14337,1
+609,3,0.5641025641025641,Medlure,20056429,0
+613,3,0.4482758620689655,Diclobutrazol (Ref: PP296),53309,1
+615,3,0.5147058823529411,Flufenoxuron (Ref: BAS 3071),91766,0
+620,3,0.275,Tridemorph (Ref: BAS 2205-F),32518,0
+621,3,0.35714285714285715,Prochloraz (Ref: BTS 40542),73665,0
+622,3,0.46153846153846156,Flufenoxuron (Ref: BAS 3071),91766,0
+623,3,0.29411764705882354,Bensulide (Ref: R 4461),12932,1
+625,3,0.27586206896551724,"1,2,3,4-Tetrahydronaphthalene",8404,1
+627,3,0.5416666666666666,"2-(2,4,5-Trichlorophenoxy)acetic acid, Butyl ester",7161,0
+628,3,0.68,Sulfometuron,52998,0
+632,3,0.28,Ethion (Ref: ENT 24105),3286,1
+637,3,0.4339622641509434,"beta-(4-Chlorophenoxy)-alpha-(1,1-dimethylethyl)-1H-1,2,4-triazole-1-ethanol",41368,0
+639,3,0.2833333333333333,"2,6-Bis[(4,6-dimethoxy-2-pyrimidinyl)oxy]benzoic acid sodium salt",23682789,0
+645,3,0.4603174603174603,"2-[[[[(4,6-Dimethyl-2-pyrimidinyl)amino]carbonyl]amino]sulfonyl]benzoic acid, Methyl ester",52997,0
+650,3,0.35294117647058826,N-[(2-Chlorophenyl)methyl]-N'-(1-methyl-1-phenylethyl)urea,11709249,0
+658,3,0.45901639344262296,"2-(Difluoromethyl)-5-(4,5-dihydro-2-thiazolyl)-4-(2-methylpropyl)-6-(trifluoromethyl)-3-pyridinecarboxylic acid methyl ester",91776,0
+663,3,0.3037974683544304,Prochloraz (Ref: BTS 40542),73665,0
+664,3,0.4666666666666667,"2-[[[[(4,6-Dimethyl-2-pyrimidinyl)amino]carbonyl]amino]sulfonyl]benzoic acid, Methyl ester",52997,0
+668,3,0.5471698113207547,"N-Butyl-N-ethyl-2,6-dinitro-4-(trifluoromethyl)benzenamine",2319,0
+675,3,0.5333333333333333,Chromafenozide (Ref: ANS 118),10157484,0
+678,3,0.7096774193548387,Propoxycarbazone,177355,0
+679,3,0.3387096774193548,Chromafenozide (Ref: ANS 118),10157484,0
+685,3,0.45454545454545453,Chloramben (Ref: ACP M-629),8630,0
+691,3,0.22857142857142856,"4-Chloro-2-cyano-N,N-dimethyl-5-(4-methylphenyl)-1H-imidazole-1-sulfonamide",9862076,0
+694,3,0.5689655172413793,Tepraloxydim (Ref: BAS 620H),135585373,0
+695,3,0.3333333333333333,"(5-Hydroxy-1,3-dimethyl-1H-pyrazol-4-yl)[2-(methylsulfonyl)-4-(trifluoromethyl)phenyl]methanone",11693711,0
+702,3,0.6056338028169014,Quizalofop-P-tefuryl (Ref: UBI C4874 ),86175,0
+706,3,0.4745762711864407,"2-[[[[(4,6-Dimethyl-2-pyrimidinyl)amino]carbonyl]amino]sulfonyl]benzoic acid, Methyl ester",52997,0
+711,3,0.4745762711864407,Chromafenozide (Ref: ANS 118),10157484,0
+712,3,0.328125,"2,6-Dichloro-N-[[3-chloro-5-(trifluoromethyl)-2-pyridinyl]methyl]benzamide",11159021,0
+714,3,0.6538461538461539,"alpha-Butyl-alpha-(4-chlorophenyl)-1H-1,2,4-triazole-1-propanenitrile",6336,0
+715,3,0.4461538461538462,Cloquintocet-mexyl (Ref: CGA 185072),93528,0
+719,3,0.43333333333333335,Sulfometuron,52998,0
+722,3,0.2727272727272727,Haloxyfop (Ref: DOWCO 453),50895,0
+731,3,0.4918032786885246,(alphaE)-alpha-(Methoxyimino)-2-[[[(E)-[1-[3-(trifluoromethyl)phenyl]ethylidene]amino]oxy]methyl]benzeneacteic acid methyl ester,213016,0
+738,3,0.30612244897959184,"2,4-D (Ref: L 208)",1486,0
+741,3,0.28735632183908044,"N-[6-[[[(Z)-[(1-Methyl-1H-tetrazol-5-yl)phenylmethylene]amino]oxy]methyl]-2-pyridinyl]-1,1-dimethylethyl ester carbamic acid",56945144,0
+742,3,0.6363636363636364,"2-[[[[(4,6-Dimethyl-2-pyrimidinyl)amino]carbonyl]amino]sulfonyl]benzoic acid, Methyl ester",52997,0
+745,3,0.2682926829268293,Chloramben (Ref: ACP M-629),8630,0
+746,3,0.32,5-Amino-4-chloro-2-phenyl-3(2H)-pyridazinone,15546,0
+751,3,0.25,N-[(2-Chlorophenyl)methyl]-N'-(1-methyl-1-phenylethyl)urea,11709249,0
+754,3,0.475,(2-Oxo-3-thiazolidinyl)phosphonothioic acid O-ethyl S-(1-methylpropyl)ester,91758,1
+757,3,0.28169014084507044,Hexaconazole (Ref: PP 523),66461,0
+758,3,0.46551724137931033,Sulfometuron,52998,0
+759,3,0.5454545454545454,Nicosulfuron (Ref: DPX V9360),73281,1
+760,3,0.4473684210526316,Trifloxysulfuron (Ref: CGA 292230),9955886,0
+762,3,0.4342105263157895,Trifloxysulfuron (Ref: CGA 292230),9955886,0
+764,3,0.3684210526315789,Fluacrypyrim,9954185,1
+766,3,0.32142857142857145,Benoxacor (Ref: CGA 154281),62306,0
+767,3,0.6111111111111112,Sulfometuron,52998,0
+772,3,0.42105263157894735,"1-[(6-Chloro-3-pyridinyl)methyl]-4,5-dihydro-1H-imidazol-2-amine",10130527,1
+776,3,0.4594594594594595,"3-(N-butyl-N-acetyl)-aminopropionic acid, ethyl ester (Ref: OMS 3065)",104150,0
+780,3,0.33962264150943394,Fenoxycarb (Ref: OMS 3010),51605,0
+782,3,0.4782608695652174,Flufenoxuron (Ref: BAS 3071),91766,0
+783,3,0.5081967213114754,Azafenidin,443029,0
+784,3,0.21739130434782608,2-Chloro-N-(ethoxymethyl)-N-(2-ethyl-6-methylphenyl)acetamide,1988,0
+785,3,0.39622641509433965,Flusilazole (Ref: DPX H6573),73675,0
+786,3,0.6666666666666666,"4,6-Dimethyl-N-phenyl-2-pyrimidinamine",91650,0
+788,3,0.453125,"2-[[[[(4,6-Dimethyl-2-pyrimidinyl)amino]carbonyl]amino]sulfonyl]benzoic acid, Methyl ester",52997,0
+789,3,0.4318181818181818,"Phosphorothioic acid O,O-diethyl O-2-quinoxalinyl ester  ",26124,1
+790,3,0.3269230769230769,"1-[(6-Chloro-3-pyridinyl)methyl]-4,5-dihydro-1H-imidazol-2-amine",10130527,1
+792,3,0.4067796610169492,Imidacloprid (Ref: BAY NTN 33893),86418,1
+794,3,0.2602739726027397,Silafluofen (Ref: HOE 084498),92430,1
+795,3,0.4827586206896552,"(5-Hydroxy-1,3-dimethyl-1H-pyrazol-4-yl)[2-(methylsulfonyl)-4-(trifluoromethyl)phenyl]methanone",11693711,0
+798,3,0.2619047619047619,Bifenthrin (Ref: FMC 54800),6442842,1
+804,3,0.3076923076923077,Verbutin (Ref: MB-599),11458968,0
+805,3,0.43243243243243246,"2-[2-Chloro-4-fluoro-5-[5-methyl-6-oxo-4-(trifluoromethyl)-1(6H)-pyridazinyl]phenoxy]acetic acid, Ethyl ester",3083546,0
+812,3,0.4146341463414634,"4-(Cyclopropylhydroxymethylene)-3,5-dioxocyclohexanecarboxylic acid ethyl ester",92421,0
+816,3,0.6666666666666666,Flucarbazone,3081367,0
+828,3,0.43548387096774194,"alpha-(4-Chlorophenyl)-alpha-(1-cyclopropylethyl)-1H-1,2,4-triazole-1-ethanol",86132,0
+831,3,0.46,"1-[(6-Chloro-3-pyridinyl)methyl]-4,5-dihydro-1H-imidazol-2-amine",10130527,1
+833,3,0.5,Triticonazole (Ref: RPA 400727),6537961,0
+852,3,0.37735849056603776,Cyclohexylethylcarbamothioic acid S-ethyl ester,14337,1
+853,3,0.56,"2,6-Bis[(4,6-dimethoxy-2-pyrimidinyl)oxy]benzoic acid sodium salt",23682789,0
+855,3,0.5344827586206896,Bensulfuron-methyl (Ref: DPX F5384),54960,0
+866,3,0.6440677966101694,Pyrazosulfuron,93525,0
+874,3,0.3548387096774194,Fluxapyroxad (Ref: BAS 700F),16095400,0
+875,3,0.7169811320754716,"2-[[[[(4,6-Dimethyl-2-pyrimidinyl)amino]carbonyl]amino]sulfonyl]benzoic acid, Methyl ester",52997,0
+877,3,0.24050632911392406,Fluazaindolizine (Ref: DPX-Q8U80),46944253,0
+879,3,0.463768115942029,Flufenoxuron (Ref: BAS 3071),91766,0
+882,3,0.55,Flufenoxuron (Ref: BAS 3071),91766,0
+884,3,0.23809523809523808,Carene,26049,0
+886,3,0.2857142857142857,Chloramben (Ref: ACP M-629),8630,0
+888,3,0.1958762886597938,"1-[4-[4-[5-(2,6-Difluorophenyl)-4,5-dihydro-3-isoxazolyl]-2-thiazolyl]-1-piperidinyl]-2-[5-methyl-3-(trifluoromethyl)-1H-pyrazol-1-yl]ethanone",56945145,0
+889,3,0.5238095238095238,Alloxydim sodium,74087703,0
+892,3,0.23404255319148937,Chloramben (Ref: ACP M-629),8630,0
+900,3,0.5,Cycloxydim (Ref: BAS 517H),91765,0
+918,3,0.5614035087719298,Orysastrobin,11486133,0
+919,3,0.31746031746031744,Cyflumetofen (Ref: OK-5101),11496052,0
+924,3,0.5161290322580645,"N-[[4,6-Dimethoxy-2-pyrimidinyl)amino]carbonyl]-3-(trifluoromethyl)-2-pyridinesulfonamide",93539,0
+925,3,0.125,Copper II chloride,24014,0
+928,3,0.23809523809523808,Kinoprene,6434236,0
+930,3,0.5416666666666666,Hexadecanoic acid,985,0
+936,3,0.6774193548387096,Fluacrypyrim,9954185,1
+937,3,0.34210526315789475,Multistriatin,13199930,0
+940,3,0.36764705882352944,Penflufen (Ref: BYF-14182),11674113,0
+942,3,0.41818181818181815,"2-(4-Chlorophenyl)-1-ethyl-1,4-dihydro-6-methyl-4-oxo-3-pyridinecarboxylic acid, Potassium salt",23674747,0
+946,3,0.25,"3,3-Dimethylbutanoic acid 2-oxo-3-(2,4,6-trimethylphenyl)-1-oaxspiro[4.4]non-3-en-4-yl ester",9907412,0
+948,3,0.2777777777777778,"(OC-6-11)-tris(N,N-Dimethylcarbamodithioato-kappaS,kappaS')iron",26710,0
+957,3,0.22058823529411764,Haloxyfop-sodium,23681922,0
+961,3,0.3939393939393939,Milbemycin A4,9959038,1
+962,3,0.2073170731707317,"2-(Difluoromethyl)-5-(4,5-dihydro-2-thiazolyl)-4-(2-methylpropyl)-6-(trifluoromethyl)-3-pyridinecarboxylic acid methyl ester",91776,0
+965,3,0.3787878787878788,"2-[7-Fluoro-3,4-dihydro-3-oxo-4-(2-propynyl)-2H-1,4-benzoxazin-6-yl]-4,5,6,7-tetrahydro-1H-isoindole-1,3(2H)-dione",92425,0
+969,3,0.34328358208955223,Imidacloprid (Ref: BAY NTN 33893),86418,1
+973,3,0.6190476190476191,Isopyrazam (Ref: SYN 520453),25271089,0
+976,3,0.34285714285714286,"2,3,6-TBA (Ref: HC 1281)",5759,0
+980,3,0.6086956521739131,Benalaxyl (Ref: M 9834),51369,0
+984,3,0.35294117647058826,Copper II carbonate,14452,0
+986,3,0.3103448275862069,"1-[(6-Chloro-3-pyridinyl)methyl]-4,5-dihydro-1H-imidazol-2-amine",10130527,1
+988,3,0.6129032258064516,Iodosulfuron-methyl-sodium (Ref: AE F115008),16760189,0
+990,3,0.28205128205128205,Chloramben (Ref: ACP M-629),8630,0
+996,3,0.21818181818181817,Dimethirimol (Ref: PP675),21290,0
+997,3,0.3090909090909091,Isoprocarb (Ref: OMS 32),17517,1
+998,3,0.6582278481012658,3-Bromo-1-(3-chloro-2-pyridinyl)-N-[4-cyano-2-methyl-6-[(methylamino)carbonyl]phenyl]-1H-pyrazole-5-carboxamide,11578610,1
+999,3,0.2702702702702703,Flurtamone (Ref: RPA 590515),91755,0
+1001,3,0.3194444444444444,Flutolanil (Ref: NNF 136),47898,0
+1002,3,0.34,"3,6-Dichloro-2-methyoxybenzoic acid",3030,0
+1008,3,0.5,Propoxycarbazone,177355,0
+1010,3,0.25,Pyrazosulfuron-ethyl (Ref: NC 311),91750,0
+1014,3,0.49230769230769234,Flucarbazone,3081367,0
+1027,3,0.40425531914893614,"3,6-Dichloro-2-methyoxybenzoic acid",3030,0
+1030,3,0.3157894736842105,"3,6-Dichloro-2-methyoxybenzoic acid",3030,0
+1033,3,0.30158730158730157,Mefenpyr diethyl (Ref: HOE 107892),10937610,0
+2,4,0.1111111111111111,Ethanedioic acid,971,0
+5,4,0.48936170212765956,"O,O-Dimethyl S-[(4-oxo-1,2,3-benzotriazin-3(4H)-yl)methyl] ester, Phosphorodithioic acid",2268,1
+6,4,0.95,Farnesol,445070,0
+7,4,0.5,Potassium bicarbonate,516893,0
+9,4,0.125,Potassium thiocyanate,516872,1
+13,4,0.3,Sulfuryl fluoride,17607,1
+15,4,0.13333333333333333,Camphechlor (Ref: Hercules 3956),58167,1
+17,4,0.3,Sulfuryl fluoride,17607,1
+21,4,0.3,Sulfuryl fluoride,17607,1
+26,4,0.3,Sulfuryl fluoride,17607,1
+44,4,0.15789473684210525,1-decanol,8174,0
+50,4,0.4117647058823529,Captan (Ref: SR 406),8606,0
+59,4,0.3,Sulfuryl fluoride,17607,1
+60,4,0.2727272727272727,Disodium phosphonate (Ref: IKF-916 25 SC),6336603,0
+61,4,0.16666666666666666,"Phosphoramidothioic acid, O,S-Dimethyl ester",4096,1
+67,4,0.35714285714285715,"Phosphoramidothioic acid, O,S-Dimethyl ester",4096,1
+69,4,0.625,Dalapon-sodium,517058,0
+74,4,0.4,Zarilamid (Ref: ICIA001),158659,1
+75,4,0.24324324324324326,Fuberidazole,19756,0
+78,4,0.1,Metaldehyde,61021,0
+84,4,1.0,1-decanol,8174,0
+86,4,0.2608695652173913,5-Methyl-3(2H)-isoxazolone,24781,0
+87,4,0.4782608695652174,4-Chloro-alpha-(1-methylethyl)benzeneacetic acid cyano(3-phenoxyphenyl)methyl ester,3347,1
+91,4,0.6428571428571429,Pebulate (Ref: R 2061),14215,1
+101,4,0.34285714285714286,Pebulate (Ref: R 2061),14215,1
+102,4,0.35135135135135137,alpha-(2-Chlorophenyl)-alpha-(4-chlorophenyl)-5-pyrimidinemethanol,43226,1
+104,4,0.6153846153846154,1-decanol,8174,0
+105,4,0.6666666666666666,"Arsenic acid (H3AsO4), Sodium salt (1:?)",23677060,1
+107,4,0.3548387096774194,Anethole,637563,0
+108,4,0.3333333333333333,Pyrethrins (jasmolin I),12304687,1
+113,4,0.28205128205128205,Chlorophacinone (Ref: LM 91),19402,1
+120,4,0.6521739130434783,Ethion (Ref: ENT 24105),3286,1
+121,4,0.35135135135135137,alpha-(2-Chlorophenyl)-alpha-(4-chlorophenyl)-5-pyrimidinemethanol,43226,1
+126,4,0.36,"3,6-Bis(2-chlorophenyl)-1,2,4,5-tetrazine",73670,0
+128,4,0.32,Clofencet (Ref: MON 21250 ),123627,0
+132,4,0.2727272727272727,1-decanol,8174,0
+134,4,0.31746031746031744,"2,2-Dimethyl-1,3-benzodioxol-4-ol 4-(N-methylcarbamate)",2314,1
+135,4,0.625,Climbazole (Ref: 106162),37907,1
+138,4,0.38461538461538464,Trichloronitromethane,6423,0
+144,4,0.2894736842105263,Chlorophacinone (Ref: LM 91),19402,1
+147,4,0.23076923076923078,Cadusafos (Ref: FMC 67825),91752,1
+152,4,0.2916666666666667,"3-Cyclohexyl-6-(dimethylamino)-1-methyl-1,3,5-triazine-2,4-(1H,3H)dione",39965,0
+153,4,0.6666666666666666,"Phosphorodithioic acid, O,O-Diethyl-S-[2-(ethylthio)ethyl] ester",3118,1
+155,4,0.34375,Alpha-pinene,6654,0
+157,4,0.125,Calcium phosphate,24456,0
+173,4,0.2786885245901639,Monolinuron (Ref: HOE 002747),15629,0
+175,4,0.14814814814814814,Borax,16211214,0
+176,4,0.3888888888888889,"N,N,N',N'-Tetramethylthioperoxydicarbonic diamide ([(H2N)C(S)]2S2)",5455,0
+181,4,0.3181818181818182,alpha-(2-Chlorophenyl)-alpha-(4-chlorophenyl)-5-pyrimidinemethanol,43226,1
+182,4,0.0,Ethanedioic acid,971,0
+188,4,0.19791666666666666,Streptomycin sulphate,44134949,0
+192,4,0.4838709677419355,"(1R,4S,4aS,5S,8R,8aR)-rel-1,2,3,4,10,10-Hexachloro-1,4,4a,5,8,8a-hexahydro-1,4:5,8-dimethanonaphthalene",2087,1
+193,4,0.20634920634920634,Sethoxydim (Ref: BAS 9052H),52923,1
+197,4,0.18947368421052632,Gibberellic acid,6466,0
+200,4,0.17647058823529413,Garlic extract,16315,0
+212,4,0.15555555555555556,"2,2-Dimethyl-3-(2-methyl-1-propen-1-yl)cyclopropanecarboxylic acid [5-(phenylmethyl)-3-furanyl]methyl ester",5053,1
+214,4,0.4838709677419355,"(1R,4S,4aS,5S,8R,8aR)-rel-1,2,3,4,10,10-Hexachloro-1,4,4a,5,8,8a-hexahydro-1,4:5,8-dimethanonaphthalene",2087,1
+219,4,0.5272727272727272,"(1R,3S)-3-(2,2-Dichloroethenyl)-2,2-dimethyl-(2,3,5,6-tetrafluorophenyl)methyl ester cyclopropanecarboxylic acid",656612,1
+220,4,0.3888888888888889,"N,N,N',N'-Tetramethylthioperoxydicarbonic diamide ([(H2N)C(S)]2S2)",5455,0
+233,4,0.24242424242424243,Chlorbenside (Ref: ENT 20696),7639,0
+240,4,0.4482758620689655,Cadusafos (Ref: FMC 67825),91752,1
+243,4,0.16129032258064516,"N-Cyclopropyl-1,3,5-triazine-2,4,6-triamine",47866,0
+249,4,0.5294117647058824,Dalapon-sodium,517058,0
+250,4,0.515625,4-Chloro-alpha-(1-methylethyl)benzeneacetic acid cyano(3-phenoxyphenyl)methyl ester,3347,1
+256,4,0.25,Methyl cyclohexenone,14511,0
+261,4,0.30303030303030304,Anilazine (Ref: ENT 26 058),7541,0
+265,4,0.30303030303030304,Anilazine (Ref: ENT 26 058),7541,0
+270,4,0.4117647058823529,"Phosphorothioic acid, O,O-Diethyl O(4-methylsulfinyl)phenyl)ester",8292,1
+273,4,0.53125,Prosulfocarb (Ref: SC 0574),62020,0
+274,4,0.6,Copper II acetate,8895,0
+278,4,0.3620689655172414,"Phosphorodithioic acid O,O-diethyl S-[(4-oxo-1,2,3-benzotriazin-3(4H)-yl)methyl] ester",17531,1
+281,4,0.25,"2-Chloro-N-[[(4-methoxy-6-methyl-1,3,5-triazin-2-yl)amino]carbonyl]benzenesulfonamide",47491,0
+288,4,0.24074074074074073,Bupirimate (Ref: PP 588),38884,0
+289,4,0.25,Bupirimate (Ref: PP 588),38884,0
+291,4,0.17647058823529413,(1-Methylethyl)phosphoramidic acid ethyl-3-methyl-4-(methylthio)phenyl ester,31070,1
+296,4,0.45,Fuberidazole,19756,0
+299,4,0.6585365853658537,"Phosphorothioic acid, O,O-Diethyl-O-(4-nitrophenyl)ester",991,1
+300,4,0.2708333333333333,"O-[2-(Diethylamino)-6-methyl-4-pyrimidinyl]O,O-dimethyl ester, Phosphorothioic acid",34526,1
+307,4,0.3333333333333333,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester",3082,1
+309,4,0.6153846153846154,Bromophos,16422,1
+310,4,0.275,"alpha-(4-(1,1,3,3-Tetramethylbutyl)phenyl)-omega-hydroxypoly(oxy-1,2-ethanediyl)",5590,0
+316,4,0.5641025641025641,Siglure,164964,0
+321,4,0.21951219512195122,Verbenone,29025,0
+334,4,0.23809523809523808,Streptomycin sulphate,44134949,0
+336,4,0.1774193548387097,"2-[[[[[4-Ethoxy-6-(methylamino)-1,3,5-triazin-2-yl]amino]carbonyl]amino]sulfonyl]benzoic acid",86304,0
+338,4,0.38461538461538464,Chlorophacinone (Ref: LM 91),19402,1
+347,4,0.3333333333333333,Tetraethyl ester diphosphoric acid,7873,1
+349,4,0.325,"N-Phenylcarbamic acid, 1-Methylethyl ester",24685,0
+353,4,0.25,Bupirimate (Ref: PP 588),38884,0
+355,4,0.5909090909090909,"2,2-Dimethyl-1,3-benzodioxol-4-ol 4-(N-methylcarbamate)",2314,1
+356,4,0.3,"3,6-Bis(2-chlorophenyl)-1,2,4,5-tetrazine",73670,0
+357,4,0.1935483870967742,(1-Methylethyl)phosphoramidic acid ethyl-3-methyl-4-(methylthio)phenyl ester,31070,1
+376,4,0.24,Piperophos (Ref: C 19 490),32230,0
+377,4,0.24561403508771928,Piperonyl butoxide (Ref: ENT 14250),5794,0
+381,4,0.21428571428571427,Dodemorph,61899,0
+392,4,0.2727272727272727,Sulfuryl fluoride,17607,1
+394,4,0.24074074074074073,Bupirimate (Ref: PP 588),38884,0
+397,4,0.4878048780487805,1-Naphthalenol methylcarbamate,6129,1
+409,4,0.5333333333333333,"5,6-Dihydro-2-methyl-N-phenyl-1,4-oxathiin-3-carboxamide",21307,0
+410,4,0.5333333333333333,"S-[2-(Ethylthio)ethyl]O,O-dimethyl ester phosphorothioic acid",13526,1
+415,4,0.5128205128205128,alpha-(2-Chlorophenyl)-alpha-(4-chlorophenyl)-5-pyrimidinemethanol,43226,1
+421,4,0.37735849056603776,Fentrazamide (Ref: BAY YRC 2388),3081363,0
+426,4,0.22807017543859648,Bupirimate (Ref: PP 588),38884,0
+438,4,0.2196969696969697,Sabadilla (Ref: ENT 123 ),76419455,0
+440,4,0.64,Glyphosate-sodium,23677848,0
+469,4,0.52,Hydroprene (Ref: OMS 1696),5372477,1
+472,4,0.1836734693877551,"O,O-Diethyl O-[6-methyl-2-(1-methylethyl)-4-pyrimidinyl] ester phosphorothioic acid",3017,1
+473,4,0.3559322033898305,Flurochloridone (Ref: R 40244),91677,0
+474,4,0.46808510638297873,"Phosphorothioic acid O,O-diethyl O-2-quinoxalinyl ester  ",26124,1
+476,4,0.23076923076923078,Pyrethrins (jasmolin I),12304687,1
+477,4,0.42857142857142855,"N-Phenyl-N'-1,2,3-thiadiazol-5-yl-urea",40087,0
+480,4,0.5161290322580645,Glyphosate-sodium,23677848,0
+481,4,0.225,Glufosinate (Ref: HOE 00661),4794,0
+482,4,0.26666666666666666,"1,8-cineole",2758,0
+484,4,0.2641509433962264,Bupirimate (Ref: PP 588),38884,0
+485,4,0.23214285714285715,Hydroprene (Ref: OMS 1696),5372477,1
+487,4,0.34210526315789475,Sordidin,85099697,0
+489,4,0.2916666666666667,Isoxaflutole (Ref: RPA 201772),84098,0
+493,4,0.5614035087719298,4-Chloro-alpha-(1-methylethyl)benzeneacetic acid cyano(3-phenoxyphenyl)methyl ester,3347,1
+495,4,0.22058823529411764,"2,6-Dichloro-N-[[3-chloro-5-(trifluoromethyl)-2-pyridinyl]methyl]benzamide",11159021,0
+498,4,0.25862068965517243,Pyridate (Ref: CL 11344),41463,0
+501,4,0.48484848484848486,4-Chloro-alpha-(1-methylethyl)benzeneacetic acid cyano(3-phenoxyphenyl)methyl ester,3347,1
+516,4,0.35555555555555557,Procymidone (Ref: S 7131),36242,0
+520,4,0.48484848484848486,4-Chloro-alpha-(1-methylethyl)benzeneacetic acid cyano(3-phenoxyphenyl)methyl ester,3347,1
+534,4,0.6170212765957447,Paclobutrazol (Ref: PP 333),73671,1
+537,4,0.4444444444444444,Paclobutrazol (Ref: PP 333),73671,1
+541,4,0.5555555555555556,P-(Aminocarbonyl)phosphonic acid monoethyl ester ammonium salt (1:1),33256,0
+544,4,0.13793103448275862,Dodemorph,61899,0
+550,4,0.15789473684210525,Linalool,6549,0
+554,4,0.2777777777777778,Tetraethyl ester diphosphoric acid,7873,1
+557,4,0.16091954022988506,Gibberellins,622971,0
+560,4,0.3125,Fenoxycarb (Ref: OMS 3010),51605,0
+562,4,0.30612244897959184,Fenoxycarb (Ref: OMS 3010),51605,0
+566,4,0.4117647058823529,Dimethachlor (Ref: CGA 17020),39722,0
+567,4,0.2222222222222222,1-methylcyclopropene,151080,1
+569,4,0.49230769230769234,4-Chloro-alpha-(1-methylethyl)benzeneacetic acid cyano(3-phenoxyphenyl)methyl ester,3347,1
+571,4,0.47619047619047616,"(2R)-2-[4-(4-Cyano-2-fluorophenoxy)phenoxy]propanoic acid, Butyl ester",180089,0
+575,4,0.5102040816326531,Triazophos (Ref: HOE 002960 ),32184,0
+576,4,0.2,Mildiomycin (Ref: AR-1F1870),12850205,0
+583,4,0.5625,N-[[(Methylamino)carbonyl]oxy]ethanimidothioic acid methyl ester,4109,1
+588,4,0.4461538461538462,Quizalofop-ethyl (Ref: DPX Y6202),53518,1
+589,4,0.5932203389830508,"(1R,3R)-rel-3-[(1Z)-2-Chloro-3,3,3-trifluoro-1-propen-1-yl]-2,2-dimethylcyclopropanecarboxylic acid (2,3,5,6-tetrafluoro-4-methylphenyl)methyl ester",54382,1
+590,4,0.4342105263157895,4-Chloro-alpha-(1-methylethyl)benzeneacetic acid cyano(3-phenoxyphenyl)methyl ester,3347,1
+592,4,0.43283582089552236,"2,2-Dimethylbutanoic acid, 3-(2,4-Dichlorophenyl)-2-oxo-1-oxaspiro[4.5]dec-3-en-4-yl ester",177863,0
+594,4,0.6904761904761905,"N-(2,6-Dimethylphenyl)-N-(methoxyacetyl)alanine methyl ester",42586,0
+595,4,0.23076923076923078,Glufosinate (Ref: HOE 00661),4794,0
+596,4,0.23214285714285715,Bupirimate (Ref: PP 588),38884,0
+602,4,0.5,Diclofop (Ref: AE F021079),38687,0
+604,4,0.27419354838709675,"1-[2-(2,4-Dichlorophenyl)-2-(2-propenyloxy)ethyl]-1H-imidazole",37175,0
+607,4,0.5106382978723404,Dimethachlor (Ref: CGA 17020),39722,0
+610,4,0.20689655172413793,"Phosphorothioic acid, O,O-Diethyl-O-(4-nitrophenyl)ester",991,1
+611,4,0.4166666666666667,4-Chloro-alpha-(1-methylethyl)benzeneacetic acid cyano(3-phenoxyphenyl)methyl ester,3347,1
+612,4,0.14285714285714285,Dodemorph,61899,0
+614,4,0.3269230769230769,Fenoxycarb (Ref: OMS 3010),51605,0
+616,4,0.4375,"4-Ethoxy-7-phenyl-3,5-dioxa-6-aza-4-phosphaoct-6-ene-8-nitrile 4-sulfide",26927,1
+624,4,0.4057971014492754,Chlorfluazuron (Ref: CGA 112913),91708,0
+626,4,0.34375,Silafluofen (Ref: HOE 084498),92430,1
+634,4,0.4583333333333333,"N-[3-[[(Phenylamino)carbonyl]oxy]phenyl]carbamic acid, Ethyl ester",24743,0
+642,4,0.55,Bistrifluron (Ref: DBI-3204),10275455,0
+643,4,0.34177215189873417,Alanycarb,9576091,1
+657,4,0.3246753246753247,Chlorfluazuron (Ref: CGA 112913),91708,0
+662,4,0.4482758620689655,O-(4-bromo-2-chlorophenyl) O-ethyl S-propyl ester phosphorothioic acid,38779,1
+665,4,0.5423728813559322,"2-[[[[[4,6-Bis(difluoromethoxy)-2-pyrimidinyl]amino]carbonyl]amino]sulfonyl]benzoic acid, Methyl ester",101525,0
+666,4,0.39622641509433965,"N-[3-[[(Phenylamino)carbonyl]oxy]phenyl]carbamic acid, Ethyl ester",24743,0
+669,4,0.5964912280701754,Chlorimuron,91762,0
+677,4,0.18181818181818182,Codlemone (Ref: BAS 2851),1787910,0
+682,4,0.26582278481012656,Tau-fluvalinate (Ref: SAN 527l),91768,0
+683,4,0.32,"2,4-Dichloro-1-(4-nitrophenoxy)benzene",15787,0
+684,4,0.29545454545454547,"Methyl N-[2-({2-chloro-4-fluoro-5-[3-methyl-2,6-dioxo-4-(trifluoromethyl)-3,6-dihydropyrimidin-1(2H)-yl]phenyl}sulfanyl)propanoyl]-beta-alaninate",67295585,1
+688,4,0.31746031746031744,"4-Chloro-2-(1,1-dimethylethyl)-5-[[[4-(1,1-dimethylethyl)phenyl]methyl]thio]-3(2H)pyridazinene",91754,1
+696,4,0.3783783783783784,Prohexadione-calcium (Ref: BAS 125W),12001831,0
+703,4,0.5272727272727272,"2-(2,4,5-Trichlorophenoxy)acetic acid, Butyl ester",7161,0
+705,4,0.39285714285714285,Furalaxyl-M,12767955,1
+707,4,0.23076923076923078,"2-(2,2-Difluoroethoxy)-N-(5,8-dimethoxy[1,2,4]triazolo[1,5-c]pyrimidin-2-yl)-6-(trifluoromethyl)benzenesulfonamide",11784975,0
+708,4,0.2727272727272727,Sulfuryl fluoride,17607,1
+717,4,0.5714285714285714,"N-[[(4,6-Dimethoxy-2-pyrimidinyl)amino]carbonyl]-3-(ethylsulfonyl)-2-pyridine sulfonamide",91779,0
+720,4,0.4084507042253521,"2-(2,2-Difluoroethoxy)-N-(5,8-dimethoxy[1,2,4]triazolo[1,5-c]pyrimidin-2-yl)-6-(trifluoromethyl)benzenesulfonamide",11784975,0
+723,4,0.5185185185185185,Diclofop-methyl (Ref: HOE 023408),39985,0
+725,4,0.3090909090909091,Dimetilan,12572,1
+730,4,0.3333333333333333,2-Chloro-N-(1-methylethyl)-N-phenylacetamide,4931,0
+732,4,0.25,Tetradifon (Ref: ENT 23737),8305,1
+733,4,0.4772727272727273,Fenpiclonil (Ref: CGA 142705),91724,1
+736,4,0.27906976744186046,Broflanilide (Ref: MCI-8007),53341374,1
+737,4,0.375,Myristyl acetate,12531,0
+743,4,0.2727272727272727,"3-[2,4-Dichloro-5-(1-methylethoxy)phenyl]-5-(1,1-dimethylethyl)-1,3,4-oxadiazol-2(3H)-one",29732,0
+748,4,0.32051282051282054,2-[2-Chloro-5-[4-chloro-5-(difluoromethoxy)-1-methyl-1H-pyrazol-3-yl]-4-fluorophenoxy]acetic acid ethyl ester,182951,0
+749,4,0.32142857142857145,Furilazole (Ref: MON 13900),86187,0
+752,4,0.2545454545454545,Nicotine,89594,0
+761,4,0.6101694915254238,"3-Chloro-5-[[[[(4,6-dimethoxy-2-pyrimidinyl)amino]carbonyl]amino]sulfonyl]-1-methyl-1H-pyrazole-4-carboxylic acid, Methyl ester",91763,0
+763,4,0.2876712328767123,"3-Chloro-5-[[[[(4,6-dimethoxy-2-pyrimidinyl)amino]carbonyl]amino]sulfonyl]-1-methyl-1H-pyrazole-4-carboxylic acid, Methyl ester",91763,0
+769,4,0.5370370370370371,2-[4-[(6-Chloro-2-quinoxalinyl)oxy]phenoxy]propanoic acid,178795,0
+770,4,0.5614035087719298,Tetramethrin (Ref: ENT 27339),83975,1
+781,4,0.325,Ethametsulfuron-methyl (Ref: DPX-A7881),91756,1
+787,4,0.1917808219178082,"1-[[2-(2,4-Dichlorophenyl)-4-propyl-1,3-dioxolan-2-yl]methyl]-1H-1,2,4-triazole",43234,0
+791,4,0.2982456140350877,Fenoxycarb (Ref: OMS 3010),51605,0
+796,4,0.40816326530612246,"2,4-D (Ref: L 208)",1486,0
+801,4,0.4827586206896552,Isoxaflutole (Ref: RPA 201772),84098,0
+807,4,0.24242424242424243,Benazolin (Ref: RD 7693),19662,0
+809,4,0.23404255319148937,"N'-(4-chlorophenyl)-N,N-dimethylurea",8800,0
+811,4,0.2878787878787879,Chlozolinate (Ref: M 8164),51574,0
+814,4,0.44,Flucythrinate (Ref: OMS 2007),50980,1
+818,4,0.27848101265822783,2-[2-Chloro-5-[4-chloro-5-(difluoromethoxy)-1-methyl-1H-pyrazol-3-yl]-4-fluorophenoxy]acetic acid ethyl ester,182951,0
+821,4,0.3409090909090909,"2,4-D (Ref: L 208)",1486,0
+823,4,0.2857142857142857,Oryzalin (Ref: EL 119),29393,0
+826,4,0.26506024096385544,"2-(2,2-Difluoroethoxy)-N-(5,8-dimethoxy[1,2,4]triazolo[1,5-c]pyrimidin-2-yl)-6-(trifluoromethyl)benzenesulfonamide",11784975,0
+827,4,0.39622641509433965,Clothianidin (Ref: CGA 322704),213027,1
+830,4,0.3793103448275862,Clothianidin (Ref: CGA 322704),213027,1
+838,4,0.22916666666666666,"4,6-Dimethyl-N-phenyl-2-pyrimidinamine",91650,0
+841,4,0.38596491228070173,"2,6-Difluoro-N-[[[4-(trifluoromethyl)phenyl]amino]carbonyl]benzamide",107651,1
+842,4,0.24285714285714285,Prochloraz manganese complex (Ref: BTS 46828),155203,0
+843,4,0.46296296296296297,"2-Chloro-6-[(4,6-dimethoxy-2-pyrimidinyl)thio]benzoic acid sodium salt (1:1)",23682187,0
+857,4,0.26666666666666666,Isoxaflutole (Ref: RPA 201772),84098,0
+862,4,0.26666666666666666,Bixlozone (Ref: F9600),15056663,0
+863,4,0.43243243243243246,2-[2-Chloro-5-[4-chloro-5-(difluoromethoxy)-1-methyl-1H-pyrazol-3-yl]-4-fluorophenoxy]acetic acid ethyl ester,182951,0
+864,4,0.6129032258064516,Iodosulfuron,11027582,0
+865,4,0.28169014084507044,Silafluofen (Ref: HOE 084498),92430,1
+867,4,0.5416666666666666,Dimethachlor (Ref: CGA 17020),39722,0
+881,4,0.6451612903225806,Profoxydim (Ref: BAS 625H),197395,0
+885,4,0.3018867924528302,Bupirimate (Ref: PP 588),38884,0
+887,4,0.631578947368421,"2,2-Dimethyl-3-(2-methyl-1-propen-1-yl)cyclopropanecarboxylic acid [5-(phenylmethyl)-3-furanyl]methyl ester",5053,1
+894,4,0.23636363636363636,Hydroprene (Ref: OMS 1696),5372477,1
+896,4,0.34615384615384615,Bupirimate (Ref: PP 588),38884,0
+897,4,0.3275862068965517,"Phosphoric acid, 2-Chloro-1-(2,4-dichlorophenyl)ethenyl diethyl ester",10107,1
+906,4,0.449438202247191,Imidacloprid (Ref: BAY NTN 33893),86418,1
+907,4,0.27450980392156865,"2-(1-Methylpropyl)-4,6-dinitrophenol",6950,0
+909,4,0.2523364485981308,Mildiomycin (Ref: AR-1F1870),12850205,0
+911,4,0.2535211267605634,Clofencet (Ref: MON 21250 ),123627,0
+913,4,0.3968253968253968,Hexaconazole (Ref: PP 523),66461,0
+914,4,0.22988505747126436,Flucycloxuron (Ref: OMS 3041),6537963,0
+916,4,0.29310344827586204,Chloroxuron (Ref: C 1983),16115,0
+922,4,0.43478260869565216,Quizalofop-ethyl (Ref: DPX Y6202),53518,1
+923,4,0.41025641025641024,"2-(2,2-Difluoroethoxy)-N-(5,8-dimethoxy[1,2,4]triazolo[1,5-c]pyrimidin-2-yl)-6-(trifluoromethyl)benzenesulfonamide",11784975,0
+926,4,0.2702702702702703,Cyflumetofen (Ref: OK-5101),11496052,0
+933,4,0.6862745098039216,Spinetoram,73462741,1
+935,4,0.26666666666666666,Propoxycarbazone-sodium (Ref: MKH 6561),12056759,0
+955,4,0.2248062015503876,Sabadilla (Ref: ENT 123 ),76419455,0
+956,4,0.24096385542168675,Streptomycin sulphate,44134949,0
+963,4,0.40540540540540543,"O,O-Diethyl S-[2-(ethylsulfanyl)ethyl] phosphorothioate",24723,1
+964,4,0.15384615384615385,"2,2-Dimethyl-3-(2-methyl-1-propen-1-yl)cyclopropanecarboxylic acid [5-(phenylmethyl)-3-furanyl]methyl ester",5053,1
+966,4,0.27692307692307694,Imazapyr,54738,0
+967,4,0.32857142857142857,Silafluofen (Ref: HOE 084498),92430,1
+968,4,0.4492753623188406,"N-(2-[1,1'-Bicyclopropyl]-2-ylphenyl)-3-(difluoromethyl)-1-methyl-1H-pyrazole-4-carboxamide",11688533,1
+971,4,0.5483870967741935,"N-(2-[1,1'-Bicyclopropyl]-2-ylphenyl)-3-(difluoromethyl)-1-methyl-1H-pyrazole-4-carboxamide",11688533,1
+979,4,0.7049180327868853,Trifloxysulfuron (Ref: CGA 292230),9955886,0
+991,4,0.640625,Isopyrazam (Ref: SYN 520453),25271089,0
+1000,4,0.35294117647058826,"2-[(2-Chlorophenyl)methyl]-4,4-dimethyl-3-isoxazolidinone",54778,0
+1004,4,0.6338028169014085,Chlorantraniliprole (Ref: DPX E2Y45),11271640,1
+1007,4,0.325,Fomesafen (Ref: PP 021),51556,0
+1019,4,0.46551724137931033,Tebuconazole (Ref: HWG 1608),86102,0
+1024,4,0.3076923076923077,"3-(Difluoromethyl)-N-methoxy-1-methyl-N-[1-(2,4,6-trichlorophenyl)propan-2-yl]-1H-pyrazole-4-carboxamide",56933411,0
+1025,4,0.36,Isopyrazam (Ref: SYN 520453),25271089,0
+1026,4,0.1891891891891892,L-ascorbic acid,54670067,1
+1028,4,0.4268292682926829,"(1R,3R)-rel-3-[(1Z)-2-Chloro-3,3,3-trifluoro-1-propen-1-yl]-2,2-dimethylcyclopropanecarboxylic acid (2,3,5,6-tetrafluoro-4-methylphenyl)methyl ester",54382,1
+1029,4,0.5454545454545454,Chlorantraniliprole (Ref: DPX E2Y45),11271640,1
+1031,4,0.5714285714285714,Glyphosate-sodium,23677848,0
+1032,4,0.6153846153846154,Glyphosate-sodium,23677848,0

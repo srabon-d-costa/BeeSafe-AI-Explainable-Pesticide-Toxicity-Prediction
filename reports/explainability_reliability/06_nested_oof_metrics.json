@@ -1,0 +1,28 @@
+{
+  "nested_oof_average_precision": 0.7391062021228673,
+  "nested_oof_roc_auc": 0.8173595019403109,
+  "nested_oof_brier_score": 0.1358199669291375,
+  "nested_oof_log_loss": 0.43623796924043035,
+  "positive_class_prevalence": 0.2868292682926829,
+  "n_oof_records": 1025,
+  "threshold_metrics": [
+    {
+      "threshold_rule": "default_0.50",
+      "precision_toxic": 0.7777777777777778,
+      "recall_toxic": 0.5952380952380952,
+      "f1_toxic": 0.674373795761079,
+      "f2_toxic": 0.6245538900785154,
+      "balanced_accuracy": 0.7634193212168588,
+      "mcc": 0.5756701664126278
+    },
+    {
+      "threshold_rule": "outer-training-OOF-selected-threshold",
+      "precision_toxic": 0.4354243542435424,
+      "recall_toxic": 0.8027210884353742,
+      "f1_toxic": 0.5645933014354066,
+      "f2_toxic": 0.6868451688009313,
+      "balanced_accuracy": 0.6920582186362918,
+      "mcc": 0.3480342918391239
+    }
+  ]
+}
