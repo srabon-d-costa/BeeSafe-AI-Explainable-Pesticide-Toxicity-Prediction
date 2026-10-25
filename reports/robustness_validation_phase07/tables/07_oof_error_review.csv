@@ -1,0 +1,1026 @@
+﻿source_row_index,name,CID,CAS,SMILES,structure_group,outer_fold,y_true,oof_probability,max_tanimoto_to_outer_training,error_type_at_050,error_type_at_fold_threshold
+1,Para-cymene,7463,99-87-6,Cc1ccc(C(C)C)cc1,SCAFFOLD:c1ccccc1,1,0,0.6571076692396361,0.28,false_positive,false_positive
+3,Benzoic acid,243,65-85-0,O=C(O)c1ccccc1,SCAFFOLD:c1ccccc1,1,0,0.1784908890581137,0.3846153846153846,correct,correct
+4,Tetradifon (Ref: ENT 23737),8305,116-29-0,O=S(=O)(c1ccc(Cl)cc1)c1cc(Cl)c(Cl)cc1Cl,SCAFFOLD:O=S(=O)(c1ccccc1)c1ccccc1,1,1,0.0560176932806607,0.2727272727272727,false_negative,false_negative
+10,Bromophos,16422,2104-96-3,COP(=S)(OC)Oc1cc(Cl)c(Br)cc1Cl,SCAFFOLD:c1ccccc1,1,1,0.9889979590278514,0.6153846153846154,correct,correct
+18,Copper (I) oxide,14830,1317-39-1,O.[Cu].[Cu],ACYCLIC:[Cu],1,0,0.3281666598685469,0.1428571428571428,correct,false_positive
+19,"Phosphoric acid 2,2-dichloroethenyl dimethyl ester",3039,62-73-7,COP(=O)(OC)OC=C(Cl)Cl,ACYCLIC:COP(=O)(OC)OC=C(Cl)Cl,1,1,0.9031287985835968,0.3333333333333333,correct,correct
+20,2-[[Ethoxy[(1-methylethyl)amino]phosphinothioyl]oxy]benzoic acid 1-methylethyl ester,32872,25311-71-1,CCOP(=S)(NC(C)C)Oc1ccccc1C(=O)OC(C)C,SCAFFOLD:c1ccccc1,1,1,0.9348532417008792,0.2903225806451613,correct,correct
+25,Neburon,11145,555-37-3,CCCCN(C)C(=O)Nc1ccc(Cl)c(Cl)c1,SCAFFOLD:c1ccccc1,1,0,0.046522291546117,0.3617021276595745,correct,correct
+27,"2,3,4,5,6-Pentachlorophenol",992,87-86-5,Oc1c(Cl)c(Cl)c(Cl)c(Cl)c1Cl,SCAFFOLD:c1ccccc1,1,0,0.3108941779848194,0.1785714285714285,correct,false_positive
+31,Hydroquinone,785,123-31-9,Oc1ccc(O)cc1,SCAFFOLD:c1ccccc1,1,0,0.2581362415344668,0.25,correct,false_positive
+35,"3,6-Dichloro-2-methyoxybenzoic acid",3030,1918-00-9,COc1c(Cl)ccc(Cl)c1C(=O)O,SCAFFOLD:c1ccccc1,1,0,0.0275801587480985,0.4042553191489361,correct,correct
+40,"N'-(3,4-Dichlorophenyl)-N-methoxy-N-methylurea",9502,330-55-2,CON(C)C(=O)Nc1ccc(Cl)c(Cl)c1,SCAFFOLD:c1ccccc1,1,0,0.0268201859714263,0.4285714285714285,correct,correct
+41,Eugenol,3314,97-53-0,C=CCc1ccc(O)c(OC)c1,SCAFFOLD:c1ccccc1,1,0,0.5322555825472431,0.2272727272727272,false_positive,false_positive
+43,5-Methyl-2-(1-methylethyl)phenol,6989,89-83-8,Cc1ccc(C(C)C)c(O)c1,SCAFFOLD:c1ccccc1,1,0,0.3381243890574644,0.25,correct,false_positive
+45,"Chloric acid, Sodium salt (1:1)",516902,7775-09-9,[Na+].[O-][Cl+2]([O-])[O-],ACYCLIC:[O-][Cl+2]([O-])[O-],1,0,0.2692026957688263,0.2,correct,false_positive
+46,Strychnine,441071,57-24-9,O=C1CC2OCC=C3CN4CCC56c7ccccc7N1C5C2C3CC46,SCAFFOLD:O=C1CC2OCC=C3CN4CCC56c7ccccc7N1C5C2C3CC46,1,0,0.1902943560120863,0.1578947368421052,correct,correct
+47,"N-Butyl-N-ethyl-2,6-dinitro-4-(trifluoromethyl)benzenamine",2319,1861-40-1,CCCCN(CC)c1c([N+](=O)[O-])cc(C(F)(F)F)cc1[N+](=O)[O-],SCAFFOLD:c1ccccc1,1,0,0.1255865730802046,0.5471698113207547,correct,correct
+49,"Benzoic acid, Methyl ester",7150,93-58-3,COC(=O)c1ccccc1,SCAFFOLD:c1ccccc1,1,0,0.0640473168869706,0.3666666666666666,correct,correct
+52,Trichloronitromethane,6423,76-06-2,O=[N+]([O-])C(Cl)(Cl)Cl,ACYCLIC:O=[N+]([O-])C(Cl)(Cl)Cl,1,0,0.1586738149716845,0.3846153846153846,correct,correct
+53,1-decanol,8174,112-30-1,CCCCCCCCCCO,ACYCLIC:CCCCCCCCCCO,1,0,0.265190283061121,1.0,correct,false_positive
+56,"N-(3,4-Dichlorophenyl)propanamide",4933,709-98-8,CCC(=O)Nc1ccc(Cl)c(Cl)c1,SCAFFOLD:c1ccccc1,1,0,0.0857822243343813,0.3035714285714285,correct,correct
+57,Cinnamaldehyde,637511,104-55-2,O=CC=Cc1ccccc1,SCAFFOLD:c1ccccc1,1,0,0.1041715084536167,0.28,correct,correct
+64,"N'-(3,4-Dichlorophenyl)-N,N-dimethylurea",3120,330-54-1,CN(C)C(=O)Nc1ccc(Cl)c(Cl)c1,SCAFFOLD:c1ccccc1,1,0,0.0474830223471368,0.5555555555555556,correct,correct
+65,2-Chloro-N-(1-methylethyl)-N-phenylacetamide,4931,1918-16-7,CC(C)N(C(=O)CCl)c1ccccc1,SCAFFOLD:c1ccccc1,1,0,0.201643295110678,0.3333333333333333,correct,correct
+66,Anethole,637563,4180-23-8,CC=Cc1ccc(OC)cc1,SCAFFOLD:c1ccccc1,1,0,0.1640171246863475,0.3548387096774194,correct,correct
+68,Parathion-methyl (Ref: OMS 213),4130,298-00-0,COP(=S)(OC)Oc1ccc([N+](=O)[O-])cc1,SCAFFOLD:c1ccccc1,1,0,0.9760434722961306,0.5294117647058824,false_positive,false_positive
+80,(Acetato-kappaO)phenylmercury,16682730,62-38-4,CC(=O)O[Hg]c1ccccc1,SCAFFOLD:c1ccccc1,1,1,0.0585673877575985,0.4193548387096774,false_negative,false_negative
+81,Linalool,6549,78-70-6,C=CC(C)(O)CCC=C(C)C,ACYCLIC:C=CC(C)(O)CCC=C(C)C,1,0,0.1459999623281554,0.7857142857142857,correct,correct
+83,"N,N'-[1,4-Piperazinediylbis(2,2,2-trichloroethylidene)]bis-formamide",33565,26644-46-2,O=CNC(N1CCN(C(NC=O)C(Cl)(Cl)Cl)CC1)C(Cl)(Cl)Cl,SCAFFOLD:C1CNCCN1,1,0,0.3362699387209701,0.1666666666666666,correct,false_positive
+85,Dibromochloropropane (Ref: OS1897),7280,96-12-8,ClCC(Br)CBr,ACYCLIC:ClCC(Br)CBr,1,0,0.3191043526041617,0.125,correct,false_positive
+88,"2,4-D (Ref: L 208)",1486,94-75-7,O=C(O)COc1ccc(Cl)cc1Cl,SCAFFOLD:c1ccccc1,1,0,0.0251873055719195,0.4473684210526316,correct,correct
+89,Methyleugenol (Ref: Ent 21040),7127,93-15-2,C=CCc1ccc(OC)c(OC)c1,SCAFFOLD:c1ccccc1,1,0,0.6137385257047356,0.2592592592592592,false_positive,false_positive
+90,"N-(1-Ethylpropyl)-3,4-dimethyl-2,6-dinitro-benzenamine",38479,40487-42-1,CCC(CC)Nc1c([N+](=O)[O-])cc(C)c(C)c1[N+](=O)[O-],SCAFFOLD:c1ccccc1,1,0,0.1336532970345135,0.2539682539682539,correct,correct
+93,Metaldehyde,61021,108-62-3,CC1OC(C)OC(C)OC(C)O1,SCAFFOLD:C1OCOCOCO1,1,0,0.1325705787508546,0.2083333333333333,correct,correct
+94,Capsaicin (Ref: NCI-C56564),1548943,404-86-4,COc1cc(CNC(=O)CCCCC=CC(C)C)ccc1O,SCAFFOLD:c1ccccc1,1,1,0.5889319673683203,0.2564102564102564,correct,correct
+95,1-Methyl-2-pyrrolidinone,13387,872-50-4,CN1CCCC1=O,SCAFFOLD:O=C1CCCN1,1,0,0.2440848932702587,0.25,correct,false_positive
+98,"As,As-Dimethylarsinic acid",2513,75-60-5,C[As](C)(=O)O,ACYCLIC:C[As](C)(=O)O,1,0,0.5927991523961879,0.5833333333333334,false_positive,false_positive
+99,Sodium o-nitrophenolate,69985,824-39-5,O=[N+]([O-])c1ccccc1[O-].[Na+],SCAFFOLD:c1ccccc1,1,0,0.1187812742742724,0.325,correct,correct
+100,"2-(1-Methylethoxy)phenol, 1-(N-Methylcarbamate)",4944,114-26-1,CNC(=O)Oc1ccccc1OC(C)C,SCAFFOLD:c1ccccc1,1,1,0.9859242370215224,0.5555555555555556,correct,correct
+103,"2-Aminobenzoic acid, Methyl ester",8635,134-20-3,COC(=O)c1ccccc1N,SCAFFOLD:c1ccccc1,1,0,0.4116102375439593,0.3617021276595745,correct,false_positive
+110,Tridemorph (Ref: BAS 2205-F),32518,81412-43-3,CCCCCCCCCCCCCN1CC(C)OC(C)C1,SCAFFOLD:C1COCCN1,1,0,0.212297885013125,0.3333333333333333,correct,correct
+112,Dithianon (Ref: BAS 216F),18771,3347-22-6,N#Cc1sc2c(=O)c3ccccc3c(=O)c=2sc1C#N,SCAFFOLD:O=c1c2sccsc=2c(=O)c2ccccc12,1,0,0.3457602955442799,0.2121212121212121,correct,false_positive
+117,As-(4-Aminophenyl)arsonic acid,7389,98-50-0,Nc1ccc([As](=O)(O)O)cc1,SCAFFOLD:c1ccccc1,1,0,0.7176004946284428,0.2631578947368421,false_positive,false_positive
+119,2-Chloro-N-(ethoxymethyl)-N-(2-ethyl-6-methylphenyl)acetamide,1988,34256-82-1,CCOCN(C(=O)CCl)c1c(C)cccc1CC,SCAFFOLD:c1ccccc1,1,0,0.2900574969040753,0.48,correct,false_positive
+127,Sodium p-nitrophenolate,13214,824-78-2,O=[N+]([O-])c1ccc([O-])cc1.[Na+],SCAFFOLD:c1ccccc1,1,0,0.1683769175632586,0.3611111111111111,correct,correct
+129,"Phosphorothioic acid, O,O-Dimethyl O-(2,4,5-trichlorophenyl)ester",9298,299-84-3,COP(=S)(OC)Oc1cc(Cl)c(Cl)cc1Cl,SCAFFOLD:c1ccccc1,1,1,0.9889979590278514,0.5294117647058824,correct,correct
+130,"3,5-Dimethyl-4-(methylthio)phenol, Methylcarbamate",16248,2032-65-7,CNC(=O)Oc1cc(C)c(SC)c(C)c1,SCAFFOLD:c1ccccc1,1,1,0.8680962511009485,0.3333333333333333,correct,correct
+143,"Phosphorothioic acid, O,O-Diethyl-O-(4-nitrophenyl)ester",991,56-38-2,CCOP(=S)(OCC)Oc1ccc([N+](=O)[O-])cc1,SCAFFOLD:c1ccccc1,1,1,0.978778270319379,0.6585365853658537,correct,correct
+145,Hydroxytriphenylstannane,6327657,76-87-9,O.c1ccc([Sn](c2ccccc2)c2ccccc2)cc1,SCAFFOLD:c1cc[c]([Sn]([c]2ccccc2)[c]2ccccc2)cc1,1,0,0.2428734985773069,0.2857142857142857,correct,false_positive
+150,DNOC (Ref: ENT 154),10800,534-52-1,Cc1cc([N+](=O)[O-])cc([N+](=O)[O-])c1O,SCAFFOLD:c1ccccc1,1,0,0.1144209203613133,0.5,correct,correct
+151,"1,2,3,4,5-Pentachloro-6-nitrobenzene",6720,82-68-8,O=[N+]([O-])c1c(Cl)c(Cl)c(Cl)c(Cl)c1Cl,SCAFFOLD:c1ccccc1,1,0,0.1230186129396588,0.2941176470588235,correct,correct
+160,Streptomycin sulphate,44134949,3810-74-0,CNC1C(OC2C(OC3C(O)C(O)C(N=C(N)N)C(O)C3N=C(N)N)OC(C)C2(O)C=O)OC(CO)C(O)C1O.CNC1C(OC2C(OC3C(O)C(O)C(N=C(N)N)C(O)C3N=C(N)N)OC(C)C2(O)C=O)OC(CO)C(O)C1O.O=S(=O)(O)O.O=S(=O)(O)O.O=S(=O)(O)O,SCAFFOLD:C1CCC(OC2OCCC2OC2CCCCO2)CC1,1,0,0.4003767262711188,0.2976190476190476,correct,false_positive
+166,(4-chlorophenoxy)acetic acid,26229,122-88-3,O=C(O)COc1ccc(Cl)cc1,SCAFFOLD:c1ccccc1,1,0,0.0805581336170754,0.53125,correct,correct
+170,Calcium sulfide (Ca(Sx)),121494065,1344-81-6,[Ca+2].[S-]SSS[S-],ACYCLIC:[S-]SSS[S-],1,0,0.2060886242552937,0.1875,correct,correct
+171,"Phosphorodithioic acid S-[[(1,1-dimethylethyl)thio]O,O-diethylmethyl]ester",25670,13071-79-9,CCOP(=S)(OCC)SCSC(C)(C)C,ACYCLIC:CCOP(=S)(OCC)SCSC(C)(C)C,1,1,0.9577068692299884,0.68,correct,correct
+177,Phenylmercury chloride,7511,100-56-1,Cl[Hg]c1ccccc1,SCAFFOLD:c1ccccc1,1,0,0.4631078871437143,0.3333333333333333,correct,false_positive
+183,"Phosphorothioic acid O,O-dimethyl O-(3-methyl-4-nitrophenyl)ester",31200,122-14-5,COP(=S)(OC)Oc1ccc([N+](=O)[O-])c(C)c1,SCAFFOLD:c1ccccc1,1,1,0.9574560641785212,0.425,correct,correct
+184,"Phosphoric acid 1,2-dibromo-2,2-dichloroethyl dimethyl ester",4420,300-76-5,COP(=O)(OC)OC(Br)C(Cl)(Cl)Br,ACYCLIC:COP(=O)(OC)OC(Br)C(Cl)(Cl)Br,1,1,0.930138909426448,0.34375,correct,correct
+185,"N-Phenylcarbamic acid, 1-Methylethyl ester",24685,122-42-9,CC(C)OC(=O)Nc1ccccc1,SCAFFOLD:c1ccccc1,1,0,0.1759791832971405,0.4285714285714285,correct,correct
+190,2-(4-Chloro-2-methylphenoxy)acetic acid,7204,94-74-6,Cc1cc(Cl)ccc1OCC(=O)O,SCAFFOLD:c1ccccc1,1,0,0.0738787433631459,0.3902439024390244,correct,correct
+191,Flurochloridone (Ref: R 40244),91677,61213-25-0,O=C1C(Cl)C(CCl)CN1c1cccc(C(F)(F)F)c1,SCAFFOLD:O=C1CCCN1c1ccccc1,1,0,0.1439065340058888,0.3559322033898305,correct,correct
+198,"2,6-Dichloro-4-nitrobenzenamine",7430,99-30-9,Nc1c(Cl)cc([N+](=O)[O-])cc1Cl,SCAFFOLD:c1ccccc1,1,0,0.0545069255031627,0.3684210526315789,correct,correct
+201,Cyclosulfamuron (Ref: BAS 710H),6451137,136849-15-5,COc1cc(OC)nc(NC(=O)NS(=O)(=O)Nc2ccccc2C(=O)C2CC2)n1,SCAFFOLD:O=C(Nc1ncccn1)NS(=O)(=O)Nc1ccccc1C(=O)C1CC1,1,0,0.0880635915123454,0.7272727272727273,correct,correct
+202,2-(4-Chloro-2-methylphenoxy)acetic acid sodium salt (1:1),2724048,3653-48-3,Cc1cc(Cl)ccc1OCC(=O)[O-].[Na+],SCAFFOLD:c1ccccc1,1,0,0.0838838554009538,0.32,correct,correct
+206,"2-(2,4,5-Trichlorophenoxy)acetic acid, Butyl ester",7161,93-79-8,CCCCOC(=O)COc1cc(Cl)c(Cl)cc1Cl,SCAFFOLD:c1ccccc1,1,0,0.0247730901421661,0.5416666666666666,correct,correct
+208,Tecnazene,8330,117-18-0,O=[N+]([O-])c1c(Cl)c(Cl)cc(Cl)c1Cl,SCAFFOLD:c1ccccc1,1,0,0.3100179933503171,0.3157894736842105,correct,false_positive
+209,Laminarin (Ref: H11),439306,9008-22-4,OCC1OC(OC2C(O)C(CO)OC(OC3C(O)C(O)OC(CO)C3O)C2O)C(O)C(O)C1O,SCAFFOLD:C1CCC(OC2CCOC(OC3CCOCC3)C2)OC1,1,0,0.3695633018999144,0.3962264150943396,correct,false_positive
+210,"Phosphoric acid, Dimethyl 4-nitrophenyl ester",13708,950-35-6,COP(=O)(OC)Oc1ccc([N+](=O)[O-])cc1,SCAFFOLD:c1ccccc1,1,1,0.9232025282669164,0.4545454545454545,correct,correct
+213,Dinobuton (Ref: OMS 1056),13783,973-21-7,CCC(C)c1cc([N+](=O)[O-])cc([N+](=O)[O-])c1OC(=O)OC(C)C,SCAFFOLD:c1ccccc1,1,0,0.4078739704794069,0.3035714285714285,correct,false_positive
+215,"2-(1-Methylpropyl)-4,6-dinitrophenol",6950,88-85-7,CCC(C)c1cc([N+](=O)[O-])cc([N+](=O)[O-])c1O,SCAFFOLD:c1ccccc1,1,0,0.1856900187348431,0.4222222222222222,correct,correct
+218,"alpha-(4-(1,1,3,3-Tetramethylbutyl)phenyl)-omega-hydroxypoly(oxy-1,2-ethanediyl)",5590,9002-93-1,CC(C)(C)CC(C)(C)c1ccc(OCCO)cc1,SCAFFOLD:c1ccccc1,1,0,0.1991784515324291,0.3076923076923077,correct,correct
+222,"N-Phenyl-N'-1,2,3-thiadiazol-5-yl-urea",40087,51707-55-2,O=C(Nc1ccccc1)Nc1cnns1,SCAFFOLD:O=C(Nc1ccccc1)Nc1cnns1,1,0,0.1744017854343177,0.4285714285714285,correct,correct
+228,Chlorthion (Ref: BAY 22/190 ),10372,500-28-7,COP(=S)(OC)Oc1ccc([N+](=O)[O-])c(Cl)c1,SCAFFOLD:c1ccccc1,1,1,0.9715118088921064,0.4146341463414634,correct,correct
+230,"2,4,5,6-Tetrachloro-1,3-benzenedicarbonitrile",15910,1897-45-6,N#Cc1c(Cl)c(Cl)c(Cl)c(C#N)c1Cl,SCAFFOLD:c1ccccc1,1,0,0.5336269661812747,0.1836734693877551,false_positive,false_positive
+234,Dinocap (Ref: ENT 24727),5284389,39300-45-3,CC=CC(=O)Oc1c(C(C)CCCCCC)cc([N+](=O)[O-])cc1[N+](=O)[O-],SCAFFOLD:c1ccccc1,1,1,0.2168653533875074,0.265625,false_negative,false_negative
+239,"N'-(4-chlorophenyl)-N,N-dimethylurea",8800,150-68-5,CN(C)C(=O)Nc1ccc(Cl)cc1,SCAFFOLD:c1ccccc1,1,0,0.1857946334554558,0.8275862068965517,correct,correct
+241,"N-(3-Chlorophenyl)carbamic acid, 1-Methylethyl ester",2728,101-21-3,CC(C)OC(=O)Nc1cccc(Cl)c1,SCAFFOLD:c1ccccc1,1,0,0.1759471710194008,0.4042553191489361,correct,correct
+245,Demeton (Ref: ENT 17295),24722,8065-48-3,CCOP(=S)(OCC)OCCSCC,ACYCLIC:CCOP(=S)(OCC)OCCSCC,1,1,0.9432788739581556,0.7037037037037037,correct,correct
+252,ACC,535,22059-21-8,NC1(C(=O)O)CC1,SCAFFOLD:C1CC1,1,0,0.0759704315135669,0.25,correct,correct
+253,"O,O-Dimethyl O-[3-methyl-4-(methylthio)phenyl]ester phosphorothioic acid",3346,55-38-9,COP(=S)(OC)Oc1ccc(SC)c(C)c1,SCAFFOLD:c1ccccc1,1,1,0.9744689170660042,0.5,correct,correct
+254,"Phosphorodithioic acid, O,O-Diethyl-S-[2-(ethylthio)ethyl] ester",3118,298-04-4,CCOP(=S)(OCC)SCCSCC,ACYCLIC:CCOP(=S)(OCC)SCCSCC,1,1,0.9646129781266723,0.6666666666666666,correct,correct
+255,"2-(2,4,5-Trichlorophenoxy)propanoic acid",7158,93-72-1,CC(Oc1cc(Cl)c(Cl)cc1Cl)C(=O)O,SCAFFOLD:c1ccccc1,1,0,0.0254662594861074,0.525,correct,correct
+263,"2,4-D-dimethylammonium",16180,2008-39-1,CNC.O=C(O)COc1ccc(Cl)cc1Cl,SCAFFOLD:c1ccccc1,1,0,0.0702379177562294,0.4347826086956521,correct,correct
+266,"alpha-[(Dimethoxyphosphinothioyl)thio] benzeneacetic acid, Ethyl ester",17435,2597-03-7,CCOC(=O)C(SP(=S)(OC)OC)c1ccccc1,SCAFFOLD:c1ccccc1,1,1,0.9100635018368272,0.5,correct,correct
+267,"2,3,6-TBA (Ref: HC 1281)",5759,50-31-7,O=C(O)c1c(Cl)ccc(Cl)c1Cl,SCAFFOLD:c1ccccc1,1,0,0.0302708233562086,0.4411764705882353,correct,correct
+271,"O,O-Diethyl S-[(ethylthio)methyl])ester, Phosphorodithioic acid",4790,298-02-2,CCOP(=S)(OCC)SCSCC,ACYCLIC:CCOP(=S)(OCC)SCSCC,1,1,0.9646129781266723,0.7727272727272727,correct,correct
+275,Binapacryl (Ref: FMC 9044),10234,485-31-4,CCC(C)c1cc([N+](=O)[O-])cc([N+](=O)[O-])c1OC(=O)C=C(C)C,SCAFFOLD:c1ccccc1,1,0,0.3560292613588767,0.293103448275862,correct,false_positive
+276,Dichlobenil (Ref: H 133),3031,1194-65-6,N#Cc1c(Cl)cccc1Cl,SCAFFOLD:c1ccccc1,1,1,0.3400147427476777,0.2962962962962963,false_negative,correct
+277,Mecoprop (Ref: RD 4593),7153,7085-19-0,Cc1cc(Cl)ccc1OC(C)C(=O)O,SCAFFOLD:c1ccccc1,1,0,0.0839693718609628,0.5853658536585366,correct,correct
+284,MCPB (Ref: MB 3046),7207,94-81-5,Cc1cc(Cl)ccc1OCCCC(=O)O,SCAFFOLD:c1ccccc1,1,0,0.0755079986032232,0.3673469387755102,correct,correct
+292,Carbofenthion,13081,786-19-6,CCOP(=S)(OCC)SCSc1ccc(Cl)cc1,SCAFFOLD:c1ccccc1,1,1,0.9955251834978488,0.53125,correct,correct
+293,"2,4-DB (Ref: ENT 8538)",1489,94-82-6,CNC.O=C(O)CCCOc1ccc(Cl)cc1Cl,SCAFFOLD:c1ccccc1,1,0,0.0702379177562294,0.4166666666666667,correct,correct
+297,Dichlorprop (Ref: RD 406),8427,120-36-5,CC(Oc1ccc(Cl)cc1Cl)C(=O)O,SCAFFOLD:c1ccccc1,1,0,0.0238284580507491,0.7297297297297297,correct,correct
+298,N-(Phenylmethyl)-1H-purin-6-amine,62389,1214-39-7,c1ccc(CNc2ncnc3nc[nH]c23)cc1,SCAFFOLD:c1ccc(CNc2ncnc3nc[nH]c23)cc1,1,0,0.4786804297452154,0.2,correct,false_positive
+303,"4-(Dimethylamino)-3,5-dimethylphenol, Methylcarbamate(ester)",9414,315-18-4,CNC(=O)Oc1cc(C)c(N(C)C)c(C)c1,SCAFFOLD:c1ccccc1,1,1,0.932905190916722,0.3414634146341463,correct,correct
+306,"2-Chloro-N-(2,6-diethylphenyl)-N-(methoxymethyl)acetamide",2078,15972-60-8,CCc1cccc(CC)c1N(COC)C(=O)CCl,SCAFFOLD:c1ccccc1,1,0,0.0622892101363008,0.4038461538461538,correct,correct
+313,Fenaminosulf (Ref: BAY 5027),23668198,140-56-7,CN(C)c1ccc(N=NS(=O)(=O)[O-])cc1.[Na+],SCAFFOLD:c1ccccc1,1,0,0.3044986948406938,0.1956521739130435,correct,false_positive
+314,"4-(Dimethylamino)-3-methylphenol, Methylcarbamate (ester)",16247,2032-59-9,CNC(=O)Oc1ccc(N(C)C)c(C)c1,SCAFFOLD:c1ccccc1,1,1,0.9292149552264862,0.3409090909090909,correct,correct
+320,"2,6-Dinitro-N,N-dipropyl-4-(trifluoromethyl)benzenamine",5569,1582-09-8,CCCN(CCC)c1c([N+](=O)[O-])cc(C(F)(F)F)cc1[N+](=O)[O-],SCAFFOLD:c1ccccc1,1,0,0.2283822461950984,0.5294117647058824,correct,false_positive
+322,Methyl trithion,13721,953-17-3,COP(=S)(OC)SCSc1ccc(Cl)cc1,SCAFFOLD:c1ccccc1,1,1,0.9971748162352188,0.4,correct,correct
+327,"Phosphoric acid, (1E)-3-(Dimethylamino)-1-methyl-3-oxo-1-propen-1-yl dimethyl ester",5371560,141-66-2,COP(=O)(OC)OC(C)=CC(=O)N(C)C,ACYCLIC:COP(=O)(OC)OC(C)=CC(=O)N(C)C,1,1,0.9683427367726068,0.6129032258064516,correct,correct
+331,Methylarsonic acid,8948,124-58-3,C[As](=O)(O)O,ACYCLIC:C[As](=O)(O)O,1,0,0.5927991523961879,0.5833333333333334,false_positive,false_positive
+332,XMC (Ref: H 69),17563,2655-14-3,CNC(=O)Oc1cc(C)cc(C)c1,SCAFFOLD:c1ccccc1,1,1,0.7754364869246503,0.3783783783783784,correct,correct
+333,Monolinuron (Ref: HOE 002747),15629,1746-81-2,CON(C)C(=O)Nc1ccc(Cl)cc1,SCAFFOLD:c1ccccc1,1,0,0.1700588942017197,0.6285714285714286,correct,correct
+337,Alpha-endosulfan,12309460,959-98-8,O=S1OCC2C(CO1)C1(Cl)C(Cl)=C(Cl)C2(Cl)C1(Cl)Cl,SCAFFOLD:O=S1OCC2C3C=CC(C3)C2CO1,1,1,0.9168038187184516,0.4,correct,correct
+339,"O-[4[(Dimethylamino)sulfonyl]phenyl]O,O-dimethylester phosphorothioic acid",5859,52-85-7,COP(=S)(OC)Oc1ccc(S(=O)(=O)N(C)C)cc1,SCAFFOLD:c1ccccc1,1,1,0.9760434722961306,0.5,correct,correct
+340,"1,1a,2,2,3,3a,4,5,5,5a,5b,6-Dodecachlorooctahydro-1,3,4-metheno-1H-cyclobuta[cd]pentalene",16945,2385-85-5,ClC1(Cl)C2(Cl)C3(Cl)C4(Cl)C(Cl)(Cl)C5(Cl)C3(Cl)C1(Cl)C5(Cl)C24Cl,SCAFFOLD:C1C2C3C4CC5C3C1C5C24,1,1,0.872908667645666,0.4375,correct,correct
+342,Chloramben (Ref: ACP M-629),8630,133-90-4,Nc1cc(Cl)cc(C(=O)O)c1Cl,SCAFFOLD:c1ccccc1,1,0,0.4266911670505546,0.4545454545454545,correct,false_positive
+344,Ioxynil (Ref: ACP 63-303),15530,1689-83-4,N#Cc1cc(I)c(O)c(I)c1,SCAFFOLD:c1ccccc1,1,1,0.3265549622135387,0.2291666666666666,false_negative,correct
+345,2-Methyl-2-(methylthio)propanol O-[(methylamino)carbonyl]oxime,2086,116-06-3,CNC(=O)ON=CC(C)(C)SC,ACYCLIC:CNC(=O)ON=CC(C)(C)SC,1,1,0.9822946297304276,0.5714285714285714,correct,correct
+346,"Phosphoric acid, 2-Chloro-1-(2,4-dichlorophenyl)ethenyl diethyl ester",10107,470-90-6,CCOP(=O)(OCC)OC(=CCl)c1ccc(Cl)cc1Cl,SCAFFOLD:c1ccccc1,1,1,0.7990191604769734,0.3275862068965517,correct,correct
+348,Chlorthal-dimethyl (Ref: DAC 893),2943,1861-32-1,COC(=O)c1c(Cl)c(Cl)c(C(=O)OC)c(Cl)c1Cl,SCAFFOLD:c1ccccc1,1,0,0.0712335462413371,0.4333333333333333,correct,correct
+351,"Phosphorothioic acid, O,O-Diethyl O(4-methylsulfinyl)phenyl)ester",8292,115-90-2,CCOP(=S)(OCC)Oc1ccc(S(C)=O)cc1,SCAFFOLD:c1ccccc1,1,1,0.9905490676694868,0.4285714285714285,correct,correct
+352,Chlorthiamid (Ref: WL 5792.),2734819,1918-13-4,NC(=S)c1c(Cl)cccc1Cl,SCAFFOLD:c1ccccc1,1,0,0.141849332394411,0.2758620689655172,correct,correct
+359,"O-Ethyl O-(2,4,5-trichlorophenyl)ester ethylphosphonothioic acid",9477,327-98-0,CCOP(=S)(CC)Oc1cc(Cl)c(Cl)cc1Cl,SCAFFOLD:c1ccccc1,1,1,0.9819568802368092,0.4285714285714285,correct,correct
+362,Pebulate (Ref: R 2061),14215,1114-71-2,CCCCN(CC)C(=O)SCCC,ACYCLIC:CCCCN(CC)C(=O)SCCC,1,1,0.7255588034948577,0.6428571428571429,correct,correct
+364,Chlorbromuron (Ref: C6313),25912,13360-45-7,CON(C)C(=O)Nc1ccc(Br)c(Cl)c1,SCAFFOLD:c1ccccc1,1,0,0.1350979318119226,0.4,correct,correct
+365,Tetramethrin (Ref: ENT 27339),83975,7696-12-0,CC(C)=CC1C(C(=O)OCN2C(=O)C3=C(CCCC3)C2=O)C1(C)C,SCAFFOLD:O=C(OCN1C(=O)C2=C(CCCC2)C1=O)C1CC1,1,1,1.0,0.5614035087719298,correct,correct
+367,3-methyl-5-(1-methylethyl)phenol 1-(N-methylcarbamate)  ,17516,2631-37-0,CNC(=O)Oc1cc(C)cc(C(C)C)c1,SCAFFOLD:c1ccccc1,1,1,0.7671898381310847,0.3181818181818182,correct,correct
+368,Bensulide (Ref: R 4461),12932,741-58-2,CC(C)OP(=S)(OC(C)C)SCCNS(=O)(=O)c1ccccc1,SCAFFOLD:c1ccccc1,1,1,0.7823365349361928,0.2941176470588235,correct,correct
+369,(2E)-3-[(Dimethoxyphosphinyl)oxy]-2-butenoic acid 1-phenylethyl ester,5371578,7700-17-6,COP(=O)(OC)OC(C)=CC(=O)OC(C)c1ccccc1,SCAFFOLD:c1ccccc1,1,1,0.9381989074010708,0.525,correct,correct
+370,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl ester phosphorothioic acid",14210,1113-02-6,CNC(=O)CSP(=O)(OC)OC,ACYCLIC:CNC(=O)CSP(=O)(OC)OC,1,1,0.9702829921222844,0.6333333333333333,correct,correct
+371,"N,N-Dimethyl-N'-[3-(trifluoromethyl)phenyl]urea",16562,2164-17-2,CN(C)C(=O)Nc1cccc(C(F)(F)F)c1,SCAFFOLD:c1ccccc1,1,0,0.1030792668060771,0.4047619047619047,correct,correct
+372,Metobromuron (Ref: C 3216),18290,3060-89-7,CON(C)C(=O)Nc1ccc(Br)cc1,SCAFFOLD:c1ccccc1,1,0,0.1709054201156849,0.4736842105263157,correct,correct
+374,"1,1-Dichloro-N-[(dimethylamino)sulfonyl]-1-fluoro-N-phenylmethanesulfenamide",14145,1085-98-9,CN(C)S(=O)(=O)N(SC(F)(Cl)Cl)c1ccccc1,SCAFFOLD:c1ccccc1,1,0,0.2206191403785608,0.2826086956521739,correct,correct
+375,Chlordimeform (Ref: ENT 27335),22544,6164-98-3,Cc1cc(Cl)ccc1N=CN(C)C,SCAFFOLD:c1ccccc1,1,0,0.1346052708282998,0.5294117647058824,correct,correct
+378,Butachlor (Ref: CP 53619),31677,23184-66-9,CCCCOCN(C(=O)CCl)c1c(CC)cccc1CC,SCAFFOLD:c1ccccc1,1,0,0.0616378643584596,0.3636363636363636,correct,correct
+379,(1-Methylethyl)phosphoramidic acid ethyl-3-methyl-4-(methylthio)phenyl ester,31070,22224-92-6,CCOP(=O)(NC(C)C)Oc1ccc(SC)c(C)c1,SCAFFOLD:c1ccccc1,1,1,0.916766754291127,0.2857142857142857,correct,correct
+380,"Phosphoric acid (1Z)-2-chloro-1-(2,4,5-trichlorophenyl)ethenyl dimethyl ester",5284462,22248-79-9,COP(=O)(OC)OC(=CCl)c1cc(Cl)c(Cl)cc1Cl,SCAFFOLD:c1ccccc1,1,1,0.8567787173833771,0.3170731707317073,correct,correct
+383,Formetanate (Ref: SN 36056),31099,22259-30-9,CNC(=O)Oc1cccc(N=CN(C)C)c1,SCAFFOLD:c1ccccc1,1,1,0.8635068153576266,0.391304347826087,correct,correct
+389,"Phosphorothioic acid, O-(2,5-Dichloro-4-iodophenyl) O,O-dimethyl ester",28935,18181-70-9,COP(=S)(OC)Oc1cc(Cl)c(I)cc1Cl,SCAFFOLD:c1ccccc1,1,1,0.9889979590278514,0.4358974358974359,correct,correct
+390,"Ethylphosphonodithioic acid, O-Ethyl S-phenyl ester",13676,944-22-9,CCOP(=S)(CC)Sc1ccccc1,SCAFFOLD:c1ccccc1,1,1,0.9255430922176648,0.3478260869565217,correct,correct
+396,"3,5-Dibromo-4-hydroxybenzonitrile",15531,1689-84-5,N#Cc1cc(Br)c(O)c(Br)c1,SCAFFOLD:c1ccccc1,1,1,0.4609436952958898,0.2040816326530612,false_negative,correct
+398,"N,N-Dimethyl-N'-[3[[(methylamino)carbonyl]oxy]phenyl]methanimidamide hydrochloride (1:1)",31899,23422-53-9,CNC(=O)Oc1cccc(N=CN(C)C)c1.Cl,SCAFFOLD:c1ccccc1,1,1,0.8635068153576266,0.3829787234042553,correct,correct
+402,Kelevan (Ref: GC-9160),20226,4234-79-1,CCOC(=O)CCC(=O)CC1(O)C2(Cl)C3(Cl)C4(Cl)C(Cl)(Cl)C5(Cl)C3(Cl)C1(Cl)C5(Cl)C42Cl,SCAFFOLD:C1C2C3C4CC5C3C1C5C24,1,0,0.7997877148356067,0.3255813953488372,false_positive,false_positive
+405,"N,N'-[1,2-Phenylenebis(iminocarbonothioyl)]bis-C,C'- dimethyl ester carbamic acid",3032791,23564-05-8,COC(=O)NC(=S)Nc1ccccc1NC(=S)NC(=O)OC,SCAFFOLD:c1ccccc1,1,0,0.1216680918878807,0.3571428571428571,correct,correct
+406,Aldoxycarb,9570093,1646-88-4,CNC(=O)ON=CC(C)(C)S(C)(=O)=O,ACYCLIC:CNC(=O)ON=CC(C)(C)S(C)(=O)=O,1,0,0.8905058578894439,0.5555555555555556,false_positive,false_positive
+407,"Octanoic acid, 2,6-Dibromo-4-cyanophenyl ester",15533,1689-99-2,CCCCCCCC(=O)Oc1c(Br)cc(C#N)cc1Br,SCAFFOLD:c1ccccc1,1,0,0.2220074955284473,0.4,correct,false_positive
+411,Asulam (Ref: M&B 9057),18752,3337-71-1,COC(=O)NS(=O)(=O)c1ccc(N)cc1,SCAFFOLD:c1ccccc1,1,0,0.24343403880466,0.2711864406779661,correct,false_positive
+412,Thiophanate,3032792,23564-06-9,CCOC(=O)NC(=S)Nc1ccccc1NC(=S)NC(=O)OCC,SCAFFOLD:c1ccccc1,1,0,0.1184937970373464,0.4130434782608695,correct,correct
+414,Metoxuron (Ref: SAN 6915H),29863,19937-59-8,COc1ccc(NC(=O)N(C)C)cc1Cl,SCAFFOLD:c1ccccc1,1,0,0.0403732153716439,0.5384615384615384,correct,correct
+417,"2-(2,4-Dichlorophenoxy)acetic acid, 2-Ethylhexyl ester",61286,1928-43-4,CCCCC(CC)COC(=O)COc1ccc(Cl)cc1Cl,SCAFFOLD:c1ccccc1,1,0,0.0385190639457182,0.3787878787878788,correct,correct
+418,"4-Ethoxy-7-phenyl-3,5-dioxa-6-aza-4-phosphaoct-6-ene-8-nitrile 4-sulfide",26927,14816-18-3,CCOP(=S)(OCC)ON=C(C#N)c1ccccc1,SCAFFOLD:c1ccccc1,1,1,0.9095352194733816,0.4375,correct,correct
+419,Monalide (Ref: SN 35830),23715,7287-36-7,CCCC(C)(C)C(=O)Nc1ccc(Cl)cc1,SCAFFOLD:c1ccccc1,1,0,0.2550743483771144,0.4047619047619047,correct,false_positive
+422,Bromophos-ethyl (Ref: SHG-2225),20965,4824-78-6,CCOP(=S)(OCC)Oc1cc(Cl)c(Br)cc1Cl,SCAFFOLD:c1ccccc1,1,1,0.9908609551545514,0.5,correct,correct
+427,Oryzalin (Ref: EL 119),29393,19044-88-3,CCCN(CCC)c1c([N+](=O)[O-])cc(S(N)(=O)=O)cc1[N+](=O)[O-],SCAFFOLD:c1ccccc1,1,0,0.23442852519272,0.3166666666666666,correct,false_positive
+428,Glufosinate (Ref: HOE 00661),4794,51276-47-2,CP(=O)(O)CCC(N)C(=O)O,ACYCLIC:CP(=O)(O)CCC(N)C(=O)O,1,0,0.0834866569327759,0.6551724137931034,correct,correct
+430,Bentazone,2328,25057-89-0,CC(C)N1C(=O)c2ccccc2NS1(=O)=O,SCAFFOLD:O=C1NS(=O)(=O)Nc2ccccc21,1,0,0.3318889650915328,0.3142857142857143,correct,false_positive
+431,Dimethyl 4-(methylsulfanyl)phenyl phosphate,18621,3254-63-5,COP(=O)(OC)Oc1ccc(SC)cc1,SCAFFOLD:c1ccccc1,1,1,0.9631417465988265,0.4411764705882353,correct,correct
+433,Carbetamide (Ref: RP 11561),27689,16118-49-3,CCNC(=O)C(C)OC(=O)Nc1ccccc1,SCAFFOLD:c1ccccc1,1,0,0.101594134048573,0.4166666666666667,correct,correct
+439,4-[4-(Acetyloxy)phenyl]-2-butanone,19137,3572-06-3,CC(=O)CCc1ccc(OC(C)=O)cc1,SCAFFOLD:c1ccccc1,1,0,0.6881905683573197,0.2978723404255319,false_positive,false_positive
+445,Isopropalin (Ref: EL-179),36606,33820-53-0,CCCN(CCC)c1c([N+](=O)[O-])cc(C(C)C)cc1[N+](=O)[O-],SCAFFOLD:c1ccccc1,1,1,0.316560950693772,0.3275862068965517,false_negative,correct
+447,Propyzamide (Ref: RH 315),32154,23950-58-5,C#CC(C)(C)NC(=O)c1cc(Cl)cc(Cl)c1,SCAFFOLD:c1ccccc1,1,0,0.0670086172878867,0.2857142857142857,correct,correct
+450,Chlorotoluron (Ref: C 2242),27375,15545-48-9,Cc1ccc(NC(=O)N(C)C)cc1Cl,SCAFFOLD:c1ccccc1,1,0,0.0504998128783782,0.5263157894736842,correct,correct
+454,"N,N-Diethylcarbamothioic acid S-[(4-chlorophenyl)methyl] ester",34192,28249-77-6,CCN(CC)C(=O)SCc1ccc(Cl)cc1,SCAFFOLD:c1ccccc1,1,0,0.6196945046291362,0.4,false_positive,false_positive
+457,Proximpham,17808,2828-42-4,CC(C)=NOC(=O)Nc1ccccc1,SCAFFOLD:c1ccccc1,1,0,0.1080559588691201,0.4090909090909091,correct,correct
+461,Fluchloralin (Ref: BAS 392H),36392,33245-39-5,CCCN(CCCl)c1c([N+](=O)[O-])cc(C(F)(F)F)cc1[N+](=O)[O-],SCAFFOLD:c1ccccc1,1,0,0.226837568942444,0.509090909090909,correct,false_positive
+462,"4-(1,1-Dimethylethyl)-N-(1-methylpropyl)-2,6-dinitrobenzenamine",36565,33629-47-9,CCC(C)Nc1c([N+](=O)[O-])cc(C(C)(C)C)cc1[N+](=O)[O-],SCAFFOLD:c1ccccc1,1,0,0.1636285322775356,0.2741935483870967,correct,correct
+475,"5-Chloro-2-(3,4,4-trifluorobut-3-ene-1-sulfonyl)-1,3-thiazole",11534927,318290-98-1,O=S(=O)(CCC(F)=C(F)F)c1ncc(Cl)s1,SCAFFOLD:c1cscn1,1,0,0.2057310692458595,0.2,correct,correct
+483,"N-Ethyl-N-(2-methyl-2-propenyl)-2,6-dinitro-4-(trifluoromethyl)benzenamine",41381,55283-68-6,C=C(C)CN(CC)c1c([N+](=O)[O-])cc(C(F)(F)F)cc1[N+](=O)[O-],SCAFFOLD:c1ccccc1,1,0,0.1896050871754808,0.5272727272727272,correct,correct
+488,2-[(Ethylthio)methyl]phenol 1-(N-methylcarbamate),34766,29973-13-5,CCSCc1ccccc1OC(=O)NC,SCAFFOLD:c1ccccc1,1,1,0.9587383166757198,0.4878048780487805,correct,correct
+491,Grandlure (Ref: SHA 112401),6449788,11104-05-5,CC1(C)CCCC(=CC=O)C1,SCAFFOLD:C=C1CCCCC1,1,0,0.0943672914769778,0.173076923076923,correct,correct
+494,Lineatin,155682,71899-16-6,CC12CC3OC(C1)C2C(C)(C)O3,SCAFFOLD:C1C2OCC3C1CC3O2,1,0,0.1253313337885724,0.2058823529411764,correct,correct
+499,Kinoprene,6434236,42588-37-4,C#CCOC(=O)C=C(C)C=CCC(C)CCCC(C)C,ACYCLIC:C#CCOC(=O)C=C(C)C=CCC(C)CCCC(C)C,1,0,0.8605458584725812,0.7272727272727273,false_positive,false_positive
+504,alpha-(2-Chlorophenyl)-alpha-(4-chlorophenyl)-5-pyrimidinemethanol,43226,60168-88-9,OC(c1ccc(Cl)cc1)(c1cncnc1)c1ccccc1Cl,SCAFFOLD:c1ccc(C(c2ccccc2)c2cncnc2)cc1,1,1,0.4839607899226549,0.5128205128205128,false_negative,correct
+505,4-(4-Chloro-2-methylphenoxy)butanoic acid sodium salt (1:1),23675729,6062-26-6,Cc1cc(Cl)ccc1OCCCC(=O)[O-].[Na+],SCAFFOLD:c1ccccc1,1,0,0.0855131106410311,0.3018867924528302,correct,correct
+506,2-(Octylsulfanyl)ethan-1-ol,19079,3547-33-9,CCCCCCCCSCCO,ACYCLIC:CCCCCCCCSCCO,1,0,0.2856610324599911,0.5238095238095238,correct,false_positive
+507,Sulprofos (Ref: NTN 9306),37125,35400-43-2,CCCSP(=S)(OCC)Oc1ccc(SC)cc1,SCAFFOLD:c1ccccc1,1,1,0.7849999446796017,0.3684210526315789,correct,correct
+518,Nuarimol (Ref: EL 228),91683,63284-71-9,OC(c1ccc(F)cc1)(c1cncnc1)c1ccccc1Cl,SCAFFOLD:c1ccc(C(c2ccccc2)c2cncnc2)cc1,1,0,0.4305989515581497,0.3863636363636363,correct,false_positive
+519,Akton,15649,1757-18-2,CCOP(=S)(OCC)OC(=CCl)c1cc(Cl)ccc1Cl,SCAFFOLD:c1ccccc1,1,1,0.9480184954387754,0.36,correct,correct
+523,Dimethachlor (Ref: CGA 17020),39722,50563-36-5,COCCN(C(=O)CCl)c1c(C)cccc1C,SCAFFOLD:c1ccccc1,1,0,0.0554783902901704,0.5416666666666666,correct,correct
+524,Isoproturon (Ref: HOE 16410),36679,34123-59-6,CC(C)c1ccc(NC(=O)N(C)C)cc1,SCAFFOLD:c1ccccc1,1,0,0.6034825605959455,0.5714285714285714,false_positive,false_positive
+527,Isoprocarb (Ref: OMS 32),17517,2631-40-5,CNC(=O)Oc1ccccc1C(C)C,SCAFFOLD:c1ccccc1,1,1,0.9870429411470604,0.5555555555555556,correct,correct
+528,Mefluidide (Ref: MBR 12325),40896,53780-34-0,CC(=O)Nc1cc(NS(=O)(=O)C(F)(F)F)c(C)cc1C,SCAFFOLD:c1ccccc1,1,0,0.3019518510505218,0.2647058823529412,correct,false_positive
+530,2-Chloro-N-(2-ethyl-6-methylphenyl)-N-(2-methoxy-1-methylethyl)acetamide,4169,51218-45-2,CCc1cccc(C)c1N(C(=O)CCl)C(C)COC,SCAFFOLD:c1ccccc1,1,0,0.13328575713605,0.4,correct,correct
+531,O-(4-bromo-2-chlorophenyl) O-ethyl S-propyl ester phosphorothioic acid,38779,41198-08-7,CCCSP(=O)(OCC)Oc1ccc(Br)cc1Cl,SCAFFOLD:c1ccccc1,1,1,0.8919961182293646,0.4482758620689655,correct,correct
+535,P-(Aminocarbonyl)phosphonic acid monoethyl ester ammonium salt (1:1),33256,25954-13-6,CCOP(=O)([O-])C(N)=O.[NH4+],ACYCLIC:CCOP(=O)([O-])C(N)=O,1,0,0.469516095612512,0.5555555555555556,correct,false_positive
+538,"2,6-Dinitro-N1,N1-dipropyl-4-(trifluoromethyl)-1,3-benzenediamine",34469,29091-21-2,CCCN(CCC)c1c([N+](=O)[O-])cc(C(F)(F)F)c(N)c1[N+](=O)[O-],SCAFFOLD:c1ccccc1,1,0,0.2334008861945276,0.3492063492063492,correct,false_positive
+540,"N-(2,6-Dimethylphenyl)-N-(methoxyacetyl)alanine methyl ester",42586,57837-19-1,COCC(=O)N(c1c(C)cccc1C)C(C)C(=O)OC,SCAFFOLD:c1ccccc1,1,0,0.1642078628135908,0.6904761904761905,correct,correct
+552,"1,1-Dichloro-N-[(dimethylamino)sulfonyl]-1-fluoro-N-(4-methylphenyl)methanesulfenamide",12898,731-27-1,Cc1ccc(N(SC(F)(Cl)Cl)S(=O)(=O)N(C)C)cc1,SCAFFOLD:c1ccccc1,1,0,0.2816040196116302,0.2678571428571428,correct,false_positive
+553,2-Cyano-N-[(ethylamino)carbonyl]-2-(methoxyimino)acetamide,42614,57966-95-7,CCNC(=O)NC(=O)C(C#N)=NOC,ACYCLIC:CCNC(=O)NC(=O)C(C#N)=NOC,1,0,0.1720429120611195,0.2222222222222222,correct,correct
+572,Ioxynil octanoate,19730,3861-47-0,CCCCCCCC(=O)Oc1c(I)cc(C#N)cc1I,SCAFFOLD:c1ccccc1,1,1,0.1903259009046435,0.4,false_negative,false_negative
+578,2-[(Aminomethoxyphosphinothioyl)oxy]benzoic acid 1-methylethyl ester,90479,24353-61-5,COP(N)(=S)Oc1ccccc1C(=O)OC(C)C,SCAFFOLD:c1ccccc1,1,1,0.9691502130094256,0.293103448275862,correct,correct
+579,Nitrothal-isopropyl (Ref: BAS 300 OOF),43704,10552-74-6,CC(C)OC(=O)c1cc(C(=O)OC(C)C)cc([N+](=O)[O-])c1,SCAFFOLD:c1ccccc1,1,0,0.1739498764584612,0.2765957446808511,correct,correct
+582,"Phosphorothioic acid O-(2,6-dichloro-4-methylphenyl) O,O-dimethyl ester",91664,57018-04-9,COP(=S)(OC)Oc1c(Cl)cc(C)cc1Cl,SCAFFOLD:c1ccccc1,1,0,0.8327324184516486,0.4722222222222222,false_positive,false_positive
+600,5-decenol (Ref: BAS 287 1),5283292,56578-18-8,CCCCC=CCCCCO,ACYCLIC:CCCCC=CCCCCO,1,0,0.3357403521801222,0.7619047619047619,correct,false_positive
+631,alpha-(1-Methylethyl)-alpha-[4-(trifluoromethoxy)phenyl]-5-pyrimidinemethanol,73668,56425-91-3,CC(C)C(O)(c1ccc(OC(F)(F)F)cc1)c1cncnc1,SCAFFOLD:c1ccc(Cc2cncnc2)cc1,1,0,0.2803088889028106,0.3958333333333333,correct,false_positive
+633,Diethofencarb (Ref: S 1605),91742,87130-20-9,CCOc1ccc(NC(=O)OC(C)C)cc1OCC,SCAFFOLD:c1ccccc1,1,0,0.2261459639553116,0.3529411764705882,correct,false_positive
+640,Dipotassium phosphonate,21889738,13492-26-7,[K+].[K+].[O-]P([O-])O,ACYCLIC:[O-]P([O-])O,1,0,0.3672371026044799,0.25,correct,false_positive
+641,Isofenphos-methyl,127394,99675-03-3,COP(=S)(NC(C)C)Oc1ccccc1C(=O)OC(C)C,SCAFFOLD:c1ccccc1,1,1,0.9711368972133018,0.3,correct,correct
+647,Tebuconazole (Ref: HWG 1608),86102,107534-96-3,CC(C)(C)C(O)(CCc1ccc(Cl)cc1)Cn1cncn1,SCAFFOLD:c1ccc(CCCCn2cncn2)cc1,1,0,0.7066473514374837,0.5471698113207547,false_positive,false_positive
+651,Fenothiocarb (Ref: KCO 3001),44178,62850-32-2,CN(C)C(=O)SCCCCOc1ccccc1,SCAFFOLD:c1ccccc1,1,0,0.3192692231040536,0.3673469387755102,correct,false_positive
+655,Flurtamone (Ref: RPA 590515),91755,96525-23-4,CNC1=C(c2cccc(C(F)(F)F)c2)C(=O)C(c2ccccc2)O1,SCAFFOLD:O=C1C(c2ccccc2)=COC1c1ccccc1,1,0,0.2217084615554652,0.4074074074074074,correct,false_positive
+667,Silafluofen (Ref: HOE 084498),92430,105024-66-6,CCOc1ccc([Si](C)(C)CCCc2ccc(F)c(Oc3ccccc3)c2)cc1,SCAFFOLD:c1ccc(Oc2cccc(CCC[SiH2]c3ccccc3)c2)cc1,1,1,0.4810603107648186,0.34375,false_negative,correct
+673,Pretilachlor (Ref: CGA 26423),91644,51218-49-6,CCCOCCN(C(=O)CCl)c1c(CC)cccc1CC,SCAFFOLD:c1ccccc1,1,0,0.0513508806184334,0.3703703703703703,correct,correct
+689,Triticonazole (Ref: RPA 400727),6537961,131983-72-7,CC1(C)CCC(=Cc2ccc(Cl)cc2)C1(O)Cn1cncn1,SCAFFOLD:C(=C1CCCC1Cn1cncn1)c1ccccc1,1,0,0.4232322182136303,0.5,correct,false_positive
+692,Tiocarbazil (Ref: M 3432),37523,36756-79-3,CCC(C)N(C(=O)SCc1ccccc1)C(C)CC,SCAFFOLD:c1ccccc1,1,0,0.239955128543665,0.3076923076923077,correct,false_positive
+693,"3,5-Dichloro-N-(3-chloro-1-ethyl-1-methyl-2-oxopropyl)-4-methylbenzamide",122087,156052-68-5,CCC(C)(NC(=O)c1cc(Cl)c(C)c(Cl)c1)C(=O)CCl,SCAFFOLD:c1ccccc1,1,0,0.039324227361819,0.2962962962962963,correct,correct
+697,Diethatyl ethyl (Ref: BAY NNT 6867),38090,38727-55-8,CCOC(=O)CN(C(=O)CCl)c1c(CC)cccc1CC,SCAFFOLD:c1ccccc1,1,0,0.0622892101363008,0.4117647058823529,correct,correct
+704,Flucycloxuron (Ref: OMS 3041),6537963,113036-88-7,O=C(NC(=O)c1c(F)cccc1F)Nc1ccc(CON=C(c2ccc(Cl)cc2)C2CC2)cc1,SCAFFOLD:O=C(NC(=O)c1ccccc1)Nc1ccc(CON=C(c2ccccc2)C2CC2)cc1,1,0,0.2757206439098069,0.5818181818181818,correct,false_positive
+709,Ecolyst (Ref: HSDB 7282),213029,274671-61-3,CC[NH+](CC)CCOCc1ccc(C)cc1.[Cl-],SCAFFOLD:c1ccccc1,1,0,0.7458698996543552,0.2131147540983606,false_positive,false_positive
+724,"2-(Difluoromethyl)-5-(4,5-dihydro-2-thiazolyl)-4-(2-methylpropyl)-6-(trifluoromethyl)-3-pyridinecarboxylic acid methyl ester",91776,117718-60-2,COC(=O)c1c(C(F)F)nc(C(F)(F)F)c(C2=NCCS2)c1CC(C)C,SCAFFOLD:c1cncc(C2=NCCS2)c1,1,0,0.4047083753425438,0.4590163934426229,correct,false_positive
+726,(alphaE)-alpha-(Methoxyimino)-2-[[[(E)-[1-[3-(trifluoromethyl)phenyl]ethylidene]amino]oxy]methyl]benzeneacteic acid methyl ester,213016,141517-21-7,CON=C(C(=O)OC)c1ccccc1CON=C(C)c1cccc(C(F)(F)F)c1,SCAFFOLD:C(=NOCc1ccccc1)c1ccccc1,1,0,0.1658597768903331,0.4918032786885246,correct,correct
+728,Fenpiclonil (Ref: CGA 142705),91724,74738-17-3,N#Cc1c[nH]cc1-c1cccc(Cl)c1Cl,SCAFFOLD:c1ccc(-c2cc[nH]c2)cc1,1,1,0.1891823540465694,0.4772727272727273,false_negative,false_negative
+735,Anilofos (Ref: HOE 30374),91687,64249-01-0,COP(=S)(OC)SCC(=O)N(c1ccc(Cl)cc1)C(C)C,SCAFFOLD:c1ccccc1,1,1,0.9874197598580904,0.4468085106382978,correct,correct
+744,Prosulfocarb (Ref: SC 0574),62020,52888-80-9,CCCN(CCC)C(=O)SCc1ccccc1,SCAFFOLD:c1ccccc1,1,0,0.3031484450271085,0.53125,correct,false_positive
+747,"1,2,3-Benzothiadiazole-7-carbothioic acid S-methyl ester",86412,135158-54-2,CSC(=O)c1cccc2nnsc12,SCAFFOLD:c1ccc2snnc2c1,1,0,0.3382203477558183,0.2549019607843137,correct,false_positive
+750,Tebutam (Ref: GPC-5544),92299,35256-85-0,CC(C)N(Cc1ccccc1)C(=O)C(C)(C)C,SCAFFOLD:c1ccccc1,1,0,0.1879211514784149,0.32,correct,correct
+753,Cymiazol (Ref: CGA 50439),43714,61676-87-7,Cc1ccc(N=c2sccn2C)c(C)c1,SCAFFOLD:c1ccc(N=c2[nH]ccs2)cc1,1,0,0.47749138496116,0.3658536585365853,correct,false_positive
+768,"2-Chloro-6-[(4,6-dimethoxy-2-pyrimidinyl)thio]benzoic acid sodium salt (1:1)",23682187,123343-16-8,COc1cc(OC)nc(Sc2cccc(Cl)c2C(=O)[O-])n1.[Na+],SCAFFOLD:c1ccc(Sc2ncccn2)cc1,1,0,0.0856574258430298,0.5208333333333334,correct,correct
+775,Orbencarb (Ref: B-3356),36867,34622-58-7,CCN(CC)C(=O)SCc1ccccc1Cl,SCAFFOLD:c1ccccc1,1,0,0.255869812550659,0.3469387755102041,correct,false_positive
+777,Alanycarb,9576091,83130-01-2,CCOC(=O)CCN(Cc1ccccc1)SN(C)C(=O)ON=C(C)SC,SCAFFOLD:c1ccccc1,1,1,0.3558760586135047,0.46,false_negative,correct
+799,"4-Amino-N-(1,1-dimethylethyl)-4,5-dihydro-3-(1-methylethyl)-5-oxo-1H-1,2,4-triazole-1-carboxamide",153920,129909-90-6,CC(C)c1nn(C(=O)NC(C)(C)C)c(=O)n1N,SCAFFOLD:O=c1[nH]cn[nH]1,1,0,0.1595379471640551,0.2424242424242424,correct,correct
+815,Pentoxazone (Ref: KPP-314),11714234,110956-75-7,CC(C)=C1OC(=O)N(c2cc(OC3CCCC3)c(Cl)cc2F)C1=O,SCAFFOLD:C=C1OC(=O)N(c2cccc(OC3CCCC3)c2)C1=O,1,0,0.1063974070763818,0.390625,correct,correct
+834,Verbutin (Ref: MB-599),11458968,185676-84-0,CC#CCOC(C)c1ccc(OC)c(OC)c1,SCAFFOLD:c1ccccc1,1,0,0.7015322455651917,0.3076923076923077,false_positive,false_positive
+836,Chromafenozide (Ref: ANS 118),10157484,143807-66-3,Cc1cc(C)cc(C(=O)N(NC(=O)c2ccc3c(c2C)CCCO3)C(C)(C)C)c1,SCAFFOLD:O=C(NNC(=O)c1ccc2c(c1)CCCO2)c1ccccc1,1,0,0.1966238275602956,0.5333333333333333,correct,correct
+837,Propisochlor,167454,86763-47-5,CCc1cccc(C)c1N(COC(C)C)C(=O)CCl,SCAFFOLD:c1ccccc1,1,0,0.1042782883077651,0.4528301886792453,correct,correct
+840,Dimethenamid-P,13633097,163515-14-8,COCC(C)N(C(=O)CCl)c1c(C)csc1C,SCAFFOLD:c1ccsc1,1,0,0.1482185554013348,0.3389830508474576,correct,correct
+845,Clothianidin (Ref: CGA 322704),213027,210880-92-5,CN=C(NCc1cnc(Cl)s1)N[N+](=O)[O-],SCAFFOLD:c1cscn1,1,1,0.2286652018728922,0.3962264150943396,false_negative,correct
+849,2-Chloro-N-(2-ethoxyethyl)-N-(2-methyl-1-phenyl-1-propen-1-yl)acetamide,6450826,106700-29-2,CCOCCN(C(=O)CCl)C(=C(C)C)c1ccccc1,SCAFFOLD:c1ccccc1,1,0,0.2879599306731293,0.2857142857142857,correct,false_positive
+858,Bromoxynil-potassium,23691011,2961-68-4,N#Cc1cc(Br)c([O-])c(Br)c1.[K+],SCAFFOLD:c1ccccc1,1,0,0.4972999202483348,0.1818181818181818,correct,false_positive
+861,1-[(6-Chloro-3-pyridinyl)methyl]-N-nitro-1H-imidazol-2-amine,14626249,115086-54-9,O=[N+]([O-])Nc1nccn1Cc1ccc(Cl)nc1,SCAFFOLD:c1cncc(Cn2ccnc2)c1,1,1,0.6941050363216278,0.5490196078431373,correct,correct
+868,Bromoxynil-butanoate,62526,3861-41-4,CCCC(=O)Oc1c(Br)cc(C#N)cc1Br,SCAFFOLD:c1ccccc1,1,0,0.2234352384128377,0.2741935483870967,correct,false_positive
+878,Iprovalicarb (Ref: SZX 0722),10958189,140923-17-7,Cc1ccc(C(C)NC(=O)C(NC(=O)OC(C)C)C(C)C)cc1,SCAFFOLD:c1ccccc1,1,0,0.6976579022761107,0.4821428571428571,false_positive,false_positive
+880,Zarilamid (Ref: ICIA001),158659,84527-51-5,CCOC(C#N)NC(=O)c1ccc(Cl)cc1,SCAFFOLD:c1ccccc1,1,1,0.1689758287053189,0.4,false_negative,false_negative
+883,"N-[2,4-Dimethyl-5-[[(trifluoromethyl)sulfonyl]amino]phenyl]acetamide compd. with 2,2'-Iminobis[ethanol](1:1)",62067,53780-36-2,CC(=O)Nc1cc(NS(=O)(=O)C(F)(F)F)c(C)cc1C.OCCNCCO,SCAFFOLD:c1ccccc1,1,0,0.2917883942502084,0.2533333333333333,correct,false_positive
+891,Kaolin calcined (Ref: SIK6463.5),64742,92704-41-1,[Al+3].[Al+3].[O-][Si]([O-])([O-])O[Si]([O-])([O-])[O-],ACYCLIC:[O-][Si]([O-])([O-])O[Si]([O-])([O-])[O-],1,0,0.2147950775816953,0.1333333333333333,correct,correct
+893,Asulam sodium (Ref: AE F102789),61292,2302-17-2,COC(=O)[N-]S(=O)(=O)c1ccc(N)cc1.[Na+],SCAFFOLD:c1ccccc1,1,0,0.3806278717169011,0.2741935483870967,correct,false_positive
+898,"N-[[(Methylamino)carbonyl]oxy]ethanimidothioic acid, 2-Cyanoethylester",34476,25171-63-5,CNC(=O)ON=C(C)SCCC#N,ACYCLIC:CNC(=O)ON=C(C)SCCC#N,1,0,0.973521799526626,0.5277777777777778,false_positive,false_positive
+899,Mecoprop etexyl,598095,71526-69-7,CCCCC(CC)COC(=O)C(C)Oc1ccc(Cl)cc1C,SCAFFOLD:c1ccccc1,1,0,0.1097663865361646,0.3728813559322034,correct,correct
+910,"3-(1-Ethylpropyl)phenol, 1-(N-Methylcarbamate) mixt. with 3-(1-Methylbutyl)phenyl N-methylcarbamate",24721,8065-36-9,CCC(CC)c1cccc(OC(=O)NC)c1.CCCC(C)c1cccc(OC(=O)NC)c1,SCAFFOLD:c1ccccc1,1,1,0.7582565704366089,0.3571428571428571,correct,correct
+912,"(3-Bromo-6-methoxy-2-methylphenyl)(2,3,4-trimethoxy-6-methylphenyl)methanone",6451057,220899-03-6,COc1cc(C)c(C(=O)c2c(OC)ccc(Br)c2C)c(OC)c1OC,SCAFFOLD:O=C(c1ccccc1)c1ccccc1,1,0,0.116352089032747,0.52,correct,correct
+917,MCPA-thioethyl,32876,25319-90-8,CCSC(=O)COc1ccc(Cl)cc1C,SCAFFOLD:c1ccccc1,1,0,0.577261476893822,0.3260869565217391,false_positive,false_positive
+921,Sintofen (Ref: SC 2053),10915750,130561-48-7,COCCOc1cccc2c1c(=O)c(C(=O)O)nn2-c1ccc(C)cc1,SCAFFOLD:O=c1cnn(-c2ccccc2)c2ccccc12,1,0,0.5026307377127863,0.2876712328767123,false_positive,false_positive
+929,Metamifop (Ref: DBH-129),59558935,256412-89-2,CC(Oc1ccc(Oc2nc3ccc(Cl)cc3o2)cc1)C(=O)N(C)c1ccccc1F,SCAFFOLD:O=C(COc1ccc(Oc2nc3ccccc3o2)cc1)Nc1ccccc1,1,0,0.2104634815426257,0.65,correct,correct
+931,"2,6-Dichloro-N-[[3-chloro-5-(trifluoromethyl)-2-pyridinyl]methyl]benzamide",11159021,239110-15-7,O=C(NCc1ncc(C(F)(F)F)cc1Cl)c1c(Cl)cccc1Cl,SCAFFOLD:O=C(NCc1ccccn1)c1ccccc1,1,0,0.052701415861677,0.5740740740740741,correct,correct
+938,Ioxynil-sodium,23666695,2961-62-8,N#Cc1cc(I)c([O-])c(I)c1.[Na+],SCAFFOLD:c1ccccc1,1,1,0.4431045595304682,0.1764705882352941,false_negative,correct
+939,Ioxynil-lithium,23691010,2961-61-7,N#Cc1cc(I)c([O-])c(I)c1.[Li+],SCAFFOLD:c1ccccc1,1,1,0.4431045595304682,0.1764705882352941,false_negative,correct
+941,Potassium hydrogen phosphonate,23701737,13977-65-6,[K+].[O-]P(O)O,ACYCLIC:[O-]P(O)O,1,0,0.3672371026044799,0.25,correct,false_positive
+943,"2-(4-Chlorophenyl)-1-ethyl-1,4-dihydro-6-methyl-4-oxo-3-pyridinecarboxylic acid, Potassium salt",23674747,81052-29-1,CCn1c(C)cc(=O)c(C(=O)[O-])c1-c1ccc(Cl)cc1.[K+],SCAFFOLD:O=c1cc[nH]c(-c2ccccc2)c1,1,0,0.2571556769208903,0.4181818181818181,correct,false_positive
+944,"(2R)-2-(2,4-Dichlorophenoxy)propanoic acid 2-ethylhexyl ester",24843409,865363-39-9,CCCCC(CC)COC(=O)C(C)Oc1ccc(Cl)cc1Cl,SCAFFOLD:c1ccccc1,1,0,0.0413153823528032,0.4545454545454545,correct,correct
+945,Orysastrobin,11486133,248593-16-0,CNC(=O)C(=NOC)c1ccccc1CON=C(C)C(=NOC)C(C)=NOC,SCAFFOLD:c1ccccc1,1,0,0.3327001161985649,0.5614035087719298,correct,false_positive
+947,"2,4,5-trichlorophenol",44147467,95-95-4,Oc1cc(Cl)c(Cl)cc1Cl,SCAFFOLD:c1ccccc1,1,0,0.2167648366105998,0.2352941176470588,correct,correct
+954,Iprobenfos,18772466,26087-47-8,CC(C)OP(=O)(OC(C)C)SCc1ccccc1,SCAFFOLD:c1ccccc1,1,0,0.6996944781975007,0.2826086956521739,false_positive,false_positive
+959,"2-(4-Chloro-2-methylphenoxy)acetic acid, 2-Ethylhexyl ester",93128,29450-45-1,CCCCC(CC)COC(=O)COc1ccc(Cl)cc1C,SCAFFOLD:c1ccccc1,1,0,0.0940968614860181,0.373134328358209,correct,correct
+970,"N,N'-[1,2-Phenylenebis(iminocarbonothioyl)]bis-C,C'-dimethyl ester carbamic acid mixt. with 2,4,5,6-tetrachloro-1,3-benzenedicarbonitrile",56842817,8077-21-2,COC(=O)NC(=S)Nc1ccccc1NC(=S)NC(=O)OC.N#Cc1c(Cl)c(Cl)c(Cl)c(C#N)c1Cl,SCAFFOLD:c1ccccc1,1,1,0.271961110857106,0.2962962962962963,false_negative,correct
+972,Cyflumetofen (Ref: OK-5101),11496052,400882-07-7,COCCOC(=O)C(C#N)(C(=O)c1ccccc1C(F)(F)F)c1ccc(C(C)(C)C)cc1,SCAFFOLD:O=C(Cc1ccccc1)c1ccccc1,1,0,0.1589874419203103,0.3230769230769231,correct,correct
+978,Sodium tetraborate pentahydrate,71306767,11130-12-4,O.O.O.O.O.OB(O)O.[Na+],ACYCLIC:OB(O)O,1,0,0.3238188430873982,0.1538461538461538,correct,false_positive
+983,"N-{2-[(4,6-Dimethoxypyrimidin-2-yl)(hydroxy)methyl]-6-(methoxymethyl)phenyl}-1,1-difluoromethanesulfonamide",11407474,221205-90-9,COCc1cccc(C(O)c2nc(OC)cc(OC)n2)c1NS(=O)(=O)C(F)F,SCAFFOLD:c1ccc(Cc2ncccn2)cc1,1,0,0.1348406508922774,0.3285714285714285,correct,correct
+1005,Sodium 5-nitroguaiacolate,3017748,67233-85-6,COc1ccc([N+](=O)[O-])cc1[O-].[Na+],SCAFFOLD:c1ccccc1,1,0,0.1344103048865156,0.3809523809523809,correct,correct
+1009,"N-[1,1-Dimethyl-2-[2-methyl-4-(1-methylethoxy)phenyl]-2-oxoethyl]-3-methyl-2-thiophenecarboxamide",71657865,875915-78-9,Cc1cc(OC(C)C)ccc1C(=O)C(C)(C)NC(=O)c1sccc1C,SCAFFOLD:O=C(CNC(=O)c1cccs1)c1ccccc1,1,0,0.4075673980715938,0.3620689655172414,correct,false_positive
+1013,(2Z)-2-[[2-Fluoro-5-(trifluoromethyl)phenyl]thio]-2-[3-(2-methoxyphenyl)-2-thiazolidinylidene]acetonitrile,44151818,958647-10-4,COc1ccccc1N1CCSC1=C(C#N)Sc1cc(C(F)(F)F)ccc1F,SCAFFOLD:C(Sc1ccccc1)=C1SCCN1c1ccccc1,1,0,0.3569302854853398,0.225,correct,false_positive
+1016,Methyl 3-(4-chlorophenyl)-3-[(N-{[(propan-2-yl)oxy]carbonyl}valyl)amino]propanoate,11338509,283159-90-0,COC(=O)CC(NC(=O)C(NC(=O)OC(C)C)C(C)C)c1ccc(Cl)cc1,SCAFFOLD:c1ccccc1,1,0,0.5689409781501894,0.3787878787878788,false_positive,false_positive
+1017,Zinc borate,167155,10361-94-1,[O-]B([O-])[O-].[O-]B([O-])[O-].[Zn+2].[Zn+2].[Zn+2],ACYCLIC:[O-]B([O-])[O-],1,0,0.2826122010306812,0.2,correct,false_positive
+1020,Fenpicoxamid (Ref: XDE 777),121494114,517875-34-2,COc1ccnc(C(=O)NC2COC(=O)C(Cc3ccccc3)C(OC(=O)C(C)C)C(C)OC2=O)c1OCOC(=O)C(C)C,SCAFFOLD:O=C(NC1COC(=O)C(Cc2ccccc2)CCOC1=O)c1ccccn1,1,0,0.3475541085374891,0.2111111111111111,correct,false_positive
+1034,2-(4-Chloro-2-methylphenoxy)acetic acid compd. with N-methylmethanamine (1:1),62420,2039-46-5,CNC.Cc1cc(Cl)ccc1OCC(=O)O,SCAFFOLD:c1ccccc1,1,0,0.1066020791596544,0.3636363636363636,correct,correct
+0,Ethanedioic acid,971,144-62-7,O=C(O)C(=O)O,ACYCLIC:O=C(O)C(=O)O,2,0,0.0974717267169245,0.3,correct,correct
+11,Nicotine,89594,54-11-5,CN1CCCC1c1cccnc1,SCAFFOLD:c1cncc(C2CCCN2)c1,2,0,0.1460463703209601,0.2545454545454545,correct,correct
+12,Potassium thiocyanate,516872,333-20-0,N#C[S-].[K+],ACYCLIC:N#C[S-],2,1,0.2699391455077067,0.1739130434782608,false_negative,correct
+23,(2-Chloroethyl)phosphonic acid,27982,16672-87-0,O=P(O)(O)CCCl,ACYCLIC:O=P(O)(O)CCCl,2,0,0.33979275196851,0.2857142857142857,correct,false_positive
+28,Hexadecanoic acid,985,57-10-3,CCCCCCCCCCCCCCCC(=O)O,ACYCLIC:CCCCCCCCCCCCCCCC(=O)O,2,0,0.0718025519486781,0.5416666666666666,correct,correct
+29,Copper II chloride,24014,7447-39-4,Cl[Cu]Cl,ACYCLIC:[Cl][Cu][Cl],2,0,0.161317037238051,0.1428571428571428,correct,correct
+30,"Cyanamide (Ref: LH 21,810A)",9864,420-04-2,N#CN,ACYCLIC:N#CN,2,1,0.2597741265264995,0.1764705882352941,false_negative,correct
+33,1-Naphthalenol methylcarbamate,6129,63-25-2,CNC(=O)Oc1cccc2ccccc12,SCAFFOLD:c1ccc2ccccc2c1,2,1,0.7899894577938711,0.5789473684210527,correct,correct
+34,N-Dodecylguanidine acetate (1:1),17110,2439-10-3,CC(=O)O.CCCCCCCCCCCCN=C(N)N,ACYCLIC:CCCCCCCCCCCCN=C(N)N,2,0,0.115868960359862,0.375,correct,correct
+39,Potassium bicarbonate,516893,298-14-6,O=C([O-])O.[K+],ACYCLIC:O=C([O-])O,2,0,0.0897597648446128,0.5,correct,correct
+51,Carvone,7439,99-49-0,C=C(C)C1CC=C(C)C(=O)C1,SCAFFOLD:O=C1C=CCCC1,2,0,0.1338314126862055,0.4705882352941176,correct,correct
+54,"Tetrahydro-3,5-dimethyl-2H-1,3,5-thiadiazine-2-thione",10788,533-74-4,CN1CSC(=S)N(C)C1,SCAFFOLD:S=C1NCNCS1,2,1,0.215606511316479,0.1935483870967742,false_negative,false_negative
+62,Diquat dibromide,6794,85-00-7,[Br-].[Br-].c1cc[n+]2c(c1)-c1cccc[n+]1CC2,SCAFFOLD:c1cc[n+]2c(c1)-c1cccc[n+]1CC2,2,0,0.1970344311492296,0.1923076923076923,correct,correct
+63,8-hydroxyquinoline,1923,148-24-3,Oc1cccc2cccnc12,SCAFFOLD:c1ccc2ncccc2c1,2,0,0.0960237836757447,0.2083333333333333,correct,correct
+70,Amitraz (Ref: ENT 27967),36324,33089-61-1,Cc1ccc(N=CN(C)C=Nc2ccc(C)cc2C)c(C)c1,SCAFFOLD:C(=Nc1ccccc1)NC=Nc1ccccc1,2,0,0.1074117481173893,0.5294117647058824,correct,correct
+72,Caprylic acid,379,124-07-2,CCCCCCCC(=O)O,ACYCLIC:CCCCCCCC(=O)O,2,0,0.0718025519486781,0.5416666666666666,correct,correct
+73,Tetraethyl ester diphosphoric acid,7873,107-49-3,CCOP(=O)(OCC)OP(=O)(OCC)OCC,ACYCLIC:CCOP(=O)(OCC)OP(=O)(OCC)OCC,2,1,0.5548279173184754,0.4,correct,correct
+77,"2,4-Dichloro-1-(4-nitrophenoxy)benzene",15787,1836-75-5,O=[N+]([O-])c1ccc(Oc2ccc(Cl)cc2Cl)cc1,SCAFFOLD:c1ccc(Oc2ccccc2)cc1,2,0,0.1541173224542735,0.3809523809523809,correct,correct
+82,Nonanoic acid,8158,112-05-0,CCCCCCCCC(=O)O,ACYCLIC:CCCCCCCCC(=O)O,2,0,0.0718025519486781,0.5416666666666666,correct,correct
+96,"1,2,3,4-Tetrahydronaphthalene",8404,119-64-2,c1ccc2c(c1)CCCC2,SCAFFOLD:c1ccc2c(c1)CCCC2,2,1,0.1214956747220379,0.2758620689655172,false_negative,false_negative
+97,2-phenylphenol,7017,90-43-7,Oc1ccccc1-c1ccccc1,SCAFFOLD:c1ccc(-c2ccccc2)cc1,2,0,0.0804374704872569,0.2916666666666667,correct,correct
+106,Trichlorfon (Ref: OMS 800),5853,52-68-6,COP(=O)(OC)C(O)C(Cl)(Cl)Cl,ACYCLIC:COP(=O)(OC)C(O)C(Cl)(Cl)Cl,2,1,0.5201553497001409,0.34375,correct,correct
+114,Ethion (Ref: ENT 24105),3286,563-12-2,CCOP(=S)(OCC)SCSP(=S)(OCC)OCC,ACYCLIC:CCOP(=S)(OCC)SCSP(=S)(OCC)OCC,2,1,0.80457630471979,0.7727272727272727,correct,correct
+115,"Phosphorothioic acid O,O-diethyl O-2-quinoxalinyl ester  ",26124,13593-03-8,CCOP(=S)(OCC)Oc1cnc2ccccc2n1,SCAFFOLD:c1ccc2nccnc2c1,2,1,0.8183220950919795,0.5121951219512195,correct,correct
+118,1-Naphthaleneacetic acid,6862,86-87-3,O=C(O)Cc1cccc2ccccc12,SCAFFOLD:c1ccc2ccccc2c1,2,0,0.0896445141659598,0.3846153846153846,correct,correct
+122,Penconazole (Ref: CGA 71818),91693,66246-88-6,CCCC(Cn1cncn1)c1ccc(Cl)cc1Cl,SCAFFOLD:c1ccc(CCn2cncn2)cc1,2,1,0.1361107333169244,0.3770491803278688,false_negative,false_negative
+124,L-ascorbic acid,54670067,50-81-7,O=C1OC(C(O)CO)C(O)=C1O,SCAFFOLD:O=C1C=CCO1,2,1,0.1134778921112248,0.1923076923076923,false_negative,false_negative
+131,Verbenone,29025,80-57-9,CC1=CC(=O)C2CC1C2(C)C,SCAFFOLD:O=C1C=CC2CC1C2,2,0,0.1861707708398887,0.40625,correct,correct
+137,Pyrethrins (pyrethrin I),5281045,121-21-1,C=CC=CCC1=C(C)C(OC(=O)C2C(C=C(C)C)C2(C)C)CC1=O,SCAFFOLD:O=C1C=CC(OC(=O)C2CC2)C1,2,1,0.5772068461359056,0.40625,correct,correct
+139,Rotenone (Ref: ENT 133),6758,83-79-4,C=C(C)C1Cc2c(ccc3c2OC2COc4cc(OC)c(OC)cc4C2C3=O)O1,SCAFFOLD:O=C1c2ccc3c(c2OC2COc4ccccc4C12)CCO3,2,1,0.1527955490855685,0.2,false_negative,false_negative
+148,Disodium phosphonate (Ref: IKF-916 25 SC),6336603,13708-85-5 ,O=[PH]([O-])[O-].[Na+].[Na+],ACYCLIC:O=[PH]([O-])[O-],2,0,0.1047818385712768,0.2727272727272727,correct,correct
+149,Captan (Ref: SR 406),8606,133-06-2,O=C1C2CC=CCC2C(=O)N1SC(Cl)(Cl)Cl,SCAFFOLD:O=C1NC(=O)C2CC=CCC12,2,0,0.1465656189964418,0.4117647058823529,correct,correct
+156,1-naphthylacetamide,6861,86-86-2,NC(=O)Cc1cccc2ccccc12,SCAFFOLD:c1ccc2ccccc2c1,2,0,0.0842813378663269,0.3414634146341463,correct,correct
+158,Cryolite (Na3(AlF6)),16693908,15096-52-3,F[Al-3](F)(F)(F)(F)F.[Na+].[Na+].[Na+],ACYCLIC:[F][Al-3]([F])([F])([F])([F])[F],2,0,0.2351648665401084,0.1333333333333333,correct,correct
+163,Lead arsenate,24572,7784-40-9,O=[As]([O-])([O-])O.[Pb+2],ACYCLIC:O=[As]([O-])([O-])O,2,1,0.1699472186859124,0.5384615384615384,false_negative,false_negative
+164,2-naphthyloxyacetic acid,8422,120-23-0,O=C(O)COc1ccc2ccccc2c1,SCAFFOLD:c1ccc2ccccc2c1,2,0,0.0727273625510162,0.53125,correct,correct
+167,Pyrethrins and Pyrethroids,71310221,8003-34-7,C=CC=CCC1=C(C)C(OC(=O)C2C(C=C(C)C(=O)OC)C2(C)C)CC1=O.C=CC=CCC1=C(C)C(OC(=O)C2C(C=C(C)C)C2(C)C)CC1=O,SCAFFOLD:O=C1C=CC(OC(=O)C2CC2)C1,2,1,0.5800811207974143,0.3661971830985915,correct,correct
+168,Pyrethrins (pyrethrin II) (Ref: ENT 7543 ),583586,121-29-9,C=CC=CCC1=C(C)C(OC(=O)C2C(C=C(C)C(=O)OC)C2(C)C)CC1=O,SCAFFOLD:O=C1C=CC(OC(=O)C2CC2)C1,2,1,0.5692244589407526,0.323943661971831,correct,correct
+172,Acifluorfen (Ref: RH 5781),44073,50594-66-6,O=C(O)c1cc(Oc2ccc(C(F)(F)F)cc2Cl)ccc1[N+](=O)[O-],SCAFFOLD:c1ccc(Oc2ccccc2)cc1,2,0,0.130459064202851,0.4393939393939394,correct,correct
+178,"5-[2-Chloro-4-(trifluoromethyl)phenoxy]-2-nitrobenzoic acid, Sodium salt (1:1)",44072,62476-59-9,O=C([O-])c1cc(Oc2ccc(C(F)(F)F)cc2Cl)ccc1[N+](=O)[O-].[Na+],SCAFFOLD:c1ccc(Oc2ccccc2)cc1,2,0,0.1238743600722324,0.4328358208955223,correct,correct
+180,"1-[2-(2,4-Dichlorophenyl)-3-(1,1,2,2-tetrafluoroethoxy)propyl]-1H-1,2,4-triazole",80277,112281-77-3,FC(F)C(F)(F)OCC(Cn1cncn1)c1ccc(Cl)cc1Cl,SCAFFOLD:c1ccc(CCn2cncn2)cc1,2,0,0.1276896465174737,0.3478260869565217,correct,correct
+186,"Arsenic acid (H3AsO4), Sodium salt (1:?)",23677060,7631-89-2,O=[As]([O-])(O)O.[Na+],ACYCLIC:O=[As]([O-])(O)O,2,1,0.1471774799120581,0.6666666666666666,false_negative,false_negative
+189,"1-[[2-(2,4-Dichlorophenyl)-4-propyl-1,3-dioxolan-2-yl]methyl]-1H-1,2,4-triazole",43234,60207-90-1,CCCC1COC(Cn2cncn2)(c2ccc(Cl)cc2Cl)O1,SCAFFOLD:c1ccc(C2(Cn3cncn3)OCCO2)cc1,2,0,0.2078450829923016,0.3768115942028985,correct,correct
+194,"2,2-Dimethyl-3-(2-methyl-1-propen-1-yl)cyclopropanecarboxylic acid [5-(phenylmethyl)-3-furanyl]methyl ester",5053,10453-86-8,CC(C)=CC1C(C(=O)OCc2coc(Cc3ccccc3)c2)C1(C)C,SCAFFOLD:O=C(OCc1coc(Cc2ccccc2)c1)C1CC1,2,1,0.6330894600351052,0.631578947368421,correct,correct
+195,Tribufos,5125,78-48-8,CCCCSP(=O)(SCCCC)SCCCC,ACYCLIC:CCCCSP(=O)(SCCCC)SCCCC,2,0,0.5616885026448576,0.4230769230769231,false_positive,false_positive
+196,Karanjin,100633,521-88-0,COc1c(-c2ccccc2)oc2c(ccc3occc32)c1=O,SCAFFOLD:O=c1cc(-c2ccccc2)oc2c1ccc1occc12,2,0,0.2292019450617284,0.2459016393442623,correct,correct
+199,"1-Naphthaleneacetic acid, Sodium salt",23694671,61-31-4,O=C([O-])Cc1cccc2ccccc12.[Na+],SCAFFOLD:c1ccc2ccccc2c1,2,0,0.0691534944408383,0.4146341463414634,correct,correct
+207,"(1R,4S,4aS,5S,8R,8aR)-rel-1,2,3,4,10,10-Hexachloro-1,4,4a,5,8,8a-hexahydro-1,4:5,8-dimethanonaphthalene",2087,309-00-2,ClC1=C(Cl)C2(Cl)C3C4C=CC(C4)C3C1(Cl)C2(Cl)Cl,SCAFFOLD:C1=CC2CC1C1C3C=CC(C3)C21,2,1,0.7039571367242416,0.5,correct,correct
+211,Bioallethrin,11442,260359-57-7,C=CCC1=C(C)C(OC(=O)C2C(C=C(C)C)C2(C)C)CC1=O,SCAFFOLD:O=C1C=CC(OC(=O)C2CC2)C1,2,1,0.5333480647856421,0.4333333333333333,correct,correct
+223,Chitosan hydrochloride,21896651,9012-76-4,COC(=O)NC1C(OC2C(CO)OC(OC3C(CO)OC(O)C(N)C3O)C(N)C2O)OC(CO)C(OC2OC(CO)C(OC3OC(CO)C(OC4OC(CO)C(OC5OC(CO)C(OC6OC(CO)C(OC7OC(CO)C(O)C(O)C7N)C(O)C6N)C(O)C5N)C(O)C4N)C(O)C3N)C(O)C2N)C1O,SCAFFOLD:C1CCC(OC2CCC(OC3CCC(OC4CCC(OC5CCC(OC6CCC(OC7CCC(OC8CCC(OC9CCCOC9)OC8)OC7)OC6)OC5)OC4)OC3)OC2)OC1,2,0,0.2472613345796656,0.3962264150943396,correct,false_positive
+224,"O,O'-(Thiodi-4,1-phenylene) O,O,O',O'-tetramethyl ester phosphorothioic acid",5392,3383-96-8,COP(=S)(OC)Oc1ccc(Sc2ccc(OP(=S)(OC)OC)cc2)cc1,SCAFFOLD:c1ccc(Sc2ccccc2)cc1,2,1,0.749332976742544,0.5294117647058824,correct,correct
+225,Chlorotriphenylstannane,12540,639-58-7,Cl[Sn](c1ccccc1)(c1ccccc1)c1ccccc1,SCAFFOLD:c1cc[c]([SnH]([c]2ccccc2)[c]2ccccc2)cc1,2,0,0.1621245849941701,0.3333333333333333,correct,correct
+229,"2-Chloro-9-hydroxy-9H-fluorene-9-carboxylic acid, Methyl ester",17334,2536-31-4,COC(=O)C1(O)c2ccccc2-c2ccc(Cl)cc21,SCAFFOLD:c1ccc2c(c1)Cc1ccccc1-2,2,0,0.1124086026327597,0.3265306122448979,correct,correct
+232,Imazapyr,54738,81334-34-1,CC(C)C1(C)N=C(c2ncccc2C(=O)O)NC1=O,SCAFFOLD:O=C1CN=C(c2ccccn2)N1,2,0,0.0982818601386238,0.2769230769230769,correct,correct
+238,"Phosphorothioic acid, S-[2-(Ethylsulfinyl)ethyl] O,O-dimethyl ester",4618,301-12-2,CCS(=O)CCSP(=O)(OC)OC,ACYCLIC:CCS(=O)CCSP(=O)(OC)OC,2,1,0.7681659742313706,0.5161290322580645,correct,correct
+244,Lithium perfluorooctane sulfonate,23677927,29457-72-5,O=S(=O)([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F.[Li+],ACYCLIC:O=S(=O)([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,2,1,0.1142710914771594,0.238095238095238,false_negative,false_negative
+247,"N,N,N',N'-Tetramethylphosphorodiamidic fluoride",8264,115-26-4,CN(C)P(=O)(F)N(C)C,ACYCLIC:CN(C)P(=O)(F)N(C)C,2,1,0.2579137725162644,0.1875,false_negative,correct
+248,Gibberellic acid,6466,77-06-5,C=C1CC23CC1(O)CCC2C12C=CC(O)C(C)(C(=O)O1)C2C3C(=O)O,SCAFFOLD:C=C1CC23CC1CCC2C12C=CCC(C(=O)O1)C2C3,2,0,0.2202416714363719,0.4084507042253521,correct,correct
+258,Fentin acetate (Ref: OMS 1020),16682804,900-95-8,CC(=O)O[Sn](c1ccccc1)(c1ccccc1)c1ccccc1,SCAFFOLD:c1cc[c]([SnH]([c]2ccccc2)[c]2ccccc2)cc1,2,0,0.1935647339836919,0.4193548387096774,correct,correct
+259,Barium polysulphide,6857597,50864-67-0,[Ba+2].[S-2],ACYCLIC:[S-2],2,0,0.1392599864265155,0.0606060606060606,correct,correct
+264,"Phosphorodithioic acid S-[(5-methoxy-2-oxo-1,3,4-thiadiazol-3(2H)yl)methyl] O,O-dimethyl ester",13709,950-37-8,COc1nn(CSP(=S)(OC)OC)c(=O)s1,SCAFFOLD:O=c1[nH]ncs1,2,1,0.7949121015881107,0.44,correct,correct
+272,Methazole (Ref: VCS-438),4690,20354-26-1,Cn1c(=O)on(-c2ccc(Cl)c(Cl)c2)c1=O,SCAFFOLD:O=c1[nH]c(=O)n(-c2ccccc2)o1,2,0,0.0740814720077577,0.2954545454545454,correct,correct
+280,"S-[(6-Chloro-2-oxo-3(2H)-benzoxazolyl)methyl]O,O-diethyl ester phosphorodithioic acid",4793,2310-17-0,CCOP(=S)(OCC)SCn1c(=O)oc2cc(Cl)ccc21,SCAFFOLD:O=c1[nH]c2ccccc2o1,2,1,0.7794397177668662,0.4230769230769231,correct,correct
+286,Farnesol,445070,4602-84-0,CC(C)=CCCC(C)=CCCC(C)=CCO,ACYCLIC:CC(C)=CCCC(C)=CCCC(C)=CCO,2,0,0.1239760885237402,0.95,correct,correct
+305,Diquat,6795,2764-72-9,c1cc[n+]2c(c1)-c1cccc[n+]1CC2,SCAFFOLD:c1cc[n+]2c(c1)-c1cccc[n+]1CC2,2,0,0.1936979825510988,0.2,correct,correct
+312,"5-Bromo-6-methyl-3-(1-methylpropyl)-2,4(1H,3H)-pyrimidinedione",9411,314-40-9,CCC(C)n1c(=O)[nH]c(C)c(Br)c1=O,SCAFFOLD:O=c1cc[nH]c(=O)[nH]1,2,0,0.1945389816060827,0.2040816326530612,correct,correct
+317,"N-Cyclopropyl-1,3,5-triazine-2,4,6-triamine",47866,66215-27-8,Nc1nc(N)nc(NC2CC2)n1,SCAFFOLD:c1ncnc(NC2CC2)n1,2,0,0.1441618277814718,0.2051282051282051,correct,correct
+318,Chloroxuron (Ref: C 1983),16115,1982-47-4,CN(C)C(=O)Nc1ccc(Oc2ccc(Cl)cc2)cc1,SCAFFOLD:c1ccc(Oc2ccccc2)cc1,2,0,0.212174272202634,0.8275862068965517,correct,correct
+324,"6-Methyl-1,3-dithiolo[4,5-b]quinoxalin-2-one",17109,2439-01-2,Cc1ccc2nc3sc(=O)sc3nc2c1,SCAFFOLD:O=c1sc2nc3ccccc3nc2s1,2,0,0.1405609219136113,0.3529411764705882,correct,correct
+329,"Methylarsonic acid, Disodium salt",8947,144-21-8,C[As](=O)([O-])[O-].[Na+].[Na+],ACYCLIC:C[As](=O)([O-])[O-],2,0,0.2516590847511553,0.6666666666666666,correct,false_positive
+341,Captafol (Ref: Ortho-5865),17038,2425-06-1,O=C1C2CC=CCC2C(=O)N1SC(Cl)(Cl)C(Cl)Cl,SCAFFOLD:O=C1NC(=O)C2CC=CCC12,2,0,0.1785817912155033,0.2682926829268293,correct,correct
+363,"3-Cyclohexyl-6-(dimethylamino)-1-methyl-1,3,5-triazine-2,4-(1H,3H)dione",39965,51235-04-2,CN(C)c1nc(=O)n(C2CCCCC2)c(=O)n1C,SCAFFOLD:O=c1nc[nH]c(=O)n1C1CCCCC1,2,0,0.161265881470126,0.2916666666666667,correct,correct
+366,N-[[(Methylamino)carbonyl]oxy]ethanimidothioic acid methyl ester,4109,16752-77-5,CNC(=O)ON=C(C)SC,ACYCLIC:CNC(=O)ON=C(C)SC,2,1,0.6432773710063087,0.5625,correct,correct
+373,S-abscisic acid,5280896,21293-29-8,CC(C=CC1(O)C(C)=CC(=O)CC1(C)C)=CC(=O)O,SCAFFOLD:O=C1C=CCCC1,2,0,0.2137452137313123,0.2,correct,correct
+382,Pyrethrins (jasmolin I),12304687,4466-14-2,CCC=CCC1=C(C)C(OC(=O)C2C(C=C(C)C)C2(C)C)CC1=O,SCAFFOLD:O=C1C=CC(OC(=O)C2CC2)C1,2,1,0.5349774852681581,0.4193548387096774,correct,correct
+384,Fuberidazole,19756,3878-19-1,c1coc(-c2nc3ccccc3[nH]2)c1,SCAFFOLD:c1coc(-c2nc3ccccc3[nH]2)c1,2,0,0.2581379093009616,0.45,correct,false_positive
+385,Pyrethrins (jasmolin II),12304690,1172-63-0,CCC=CCC1=C(C)C(OC(=O)C2C(C=C(C)C(=O)OC)C2(C)C)CC1=O,SCAFFOLD:O=C1C=CC(OC(=O)C2CC2)C1,2,1,0.5203889410962808,0.3333333333333333,correct,correct
+386,Diclofop-methyl (Ref: HOE 023408),39985,51338-27-3,COC(=O)C(C)Oc1ccc(Oc2ccc(Cl)cc2Cl)cc1,SCAFFOLD:c1ccc(Oc2ccccc2)cc1,2,0,0.1562001497203907,0.5348837209302325,correct,correct
+400,"5-Chloro-3-(1,1-dimethylethyl)-6-methyl-2,4(1H,3H)-pyrimidinedione",22188,5902-51-2,Cc1[nH]c(=O)n(C(C)(C)C)c(=O)c1Cl,SCAFFOLD:O=c1cc[nH]c(=O)[nH]1,2,0,0.0902949439317973,0.1964285714285714,correct,correct
+401,Chlorophacinone (Ref: LM 91),19402,3691-35-8,O=C1c2ccccc2C(=O)C1C(=O)C(c1ccccc1)c1ccc(Cl)cc1,SCAFFOLD:O=C1c2ccccc2C(=O)C1C(=O)C(c1ccccc1)c1ccccc1,2,1,0.2499403511021779,0.3846153846153846,false_negative,correct
+408,Validamycin A,443629,37248-47-8,OCC1=CC(NC2CC(CO)C(OC3OC(CO)C(O)C(O)C3O)C(O)C2O)C(O)C(O)C1O,SCAFFOLD:C1=CC(NC2CCC(OC3CCCCO3)CC2)CCC1,2,1,0.2318194394326878,0.3928571428571428,false_negative,false_negative
+420,Metribuzin (Ref: DPX G2504),30479,21087-64-9,CSc1nnc(C(C)(C)C)c(=O)n1N,SCAFFOLD:O=c1cnnc[nH]1,2,0,0.218525349675542,0.25,correct,correct
+423,Methabenzthiazuron (Ref: BAY 74283 ),29216,18691-97-9,CNC(=O)N(C)c1nc2ccccc2s1,SCAFFOLD:c1ccc2scnc2c1,2,1,0.3181496934381215,0.3061224489795918,false_negative,correct
+435,Muscalure,5365075,27519-02-4,CCCCCCCCC=CCCCCCCCCCCCCC,ACYCLIC:CCCCCCCCC=CCCCCCCCCCCCCC,2,0,0.1096294957431645,0.6,correct,correct
+436,"2-Fluoroethyl ([1,1'-biphenyl]-4-yl)acetate",20288,4301-50-2,O=C(Cc1ccc(-c2ccccc2)cc1)OCCF,SCAFFOLD:c1ccc(-c2ccccc2)cc1,2,0,0.1452696134082289,0.2884615384615384,correct,correct
+451,8-dodecenol,5283295,40642-40-8,CCCC=CCCCCCCCO,ACYCLIC:CCCC=CCCCCCCCO,2,1,0.0759414210932719,0.7619047619047619,false_negative,false_negative
+452,Napropamide (Ref: R 7465),27189,15299-99-7,CCN(CC)C(=O)C(C)Oc1cccc2ccccc12,SCAFFOLD:c1ccc2ccccc2c1,2,0,0.136883033740673,0.3125,correct,correct
+453,2-Methyl-2-(methylsulfinyl)propanal O-[(methylamino)carbonyl]oxime,9568700,1646-87-3,CNC(=O)ON=CC(C)(C)S(C)=O,ACYCLIC:CNC(=O)ON=CC(C)(C)S(C)=O,2,1,0.5198967558076933,0.5714285714285714,correct,correct
+456,"Benzoyl chloride, (2,4,6-Trichlorophenyl)hydrazone",33246,25939-05-3,ClC(=NNc1c(Cl)cc(Cl)cc1Cl)c1ccccc1,SCAFFOLD:C(=NNc1ccccc1)c1ccccc1,2,1,0.1492660253222214,0.2727272727272727,false_negative,false_negative
+458,Piperalin (Ref: HSDB 7058),18996,3478-94-2,CC1CCCCN1CCCOC(=O)c1ccc(Cl)c(Cl)c1,SCAFFOLD:O=C(OCCCN1CCCCC1)c1ccccc1,2,0,0.12127982153818,0.2786885245901639,correct,correct
+464,(E)-dodec-8-enyl acetate,5363237,38363-29-0,CCCC=CCCCCCCCOC(C)=O,ACYCLIC:CCCC=CCCCCCCCOC(C)=O,2,0,0.1035532720422816,0.8571428571428571,correct,correct
+466,"3,3-Dimethyl-1-(methylthio)-2-butanone O-[(methylamino)carbonyl]oxime",38235,39196-18-4,CNC(=O)ON=C(CSC)C(C)(C)C,ACYCLIC:CNC(=O)ON=C(CSC)C(C)(C)C,2,1,0.6248723692569946,0.4615384615384615,correct,correct
+467,Methyl cyclohexenone,14511,1193-18-6,CC1=CC(=O)CCC1,SCAFFOLD:O=C1C=CCCC1,2,0,0.1574560558071339,0.2857142857142857,correct,correct
+471,Bifenox,39230,42576-02-3,COC(=O)c1cc(Oc2ccc(Cl)cc2Cl)ccc1[N+](=O)[O-],SCAFFOLD:c1ccc(Oc2ccccc2)cc1,2,0,0.1445623008330407,0.3818181818181818,correct,correct
+478,Pyrethrins (cinerin II),5281548,121-20-0,CC=CCC1=C(C)C(OC(=O)C2C(C=C(C)C(=O)OC)C2(C)C)CC1=O,SCAFFOLD:O=C1C=CC(OC(=O)C2CC2)C1,2,1,0.5075026515696155,0.3382352941176471,correct,correct
+479,Pyrethrins (cinerin I),5281547,25402-06-6,CC=CCC1=C(C)C(OC(=O)C2C(C=C(C)C)C2(C)C)CC1=O,SCAFFOLD:O=C1C=CC(OC(=O)C2CC2)C1,2,1,0.5199007572765446,0.4262295081967213,correct,correct
+486,"N-[5-(1,1-Dimethylethyl)-1,3,4-thiadiazol-2-yl]-N,N'-dimethylurea",5383,34014-18-1,CNC(=O)N(C)c1nnc(C(C)(C)C)s1,SCAFFOLD:c1nncs1,2,0,0.3175185780684734,0.2127659574468085,correct,false_positive
+490,Propineb (Ref: BAY 46131),6100711,12071-83-9,CC(CNC(=S)[S-])NC(=S)[S-].[Zn+2],ACYCLIC:CC(CNC(=S)[S-])NC(=S)[S-],2,0,0.1191184495898643,0.4230769230769231,correct,correct
+492,Guazatine (Ref: EM 379),3526,13516-27-3,NC(N)=NCCCCCCCCNCCCCCCCCN=C(N)N,ACYCLIC:NC(N)=NCCCCCCCCNCCCCCCCCN=C(N)N,2,0,0.1161055575364082,0.1428571428571428,correct,correct
+497,alpha-Cyclopropyl-alpha-(4-methoxyphenyl)-5-pyrimidinemethanol,25572,12771-68-5,COc1ccc(C(O)(c2cncnc2)C2CC2)cc1,SCAFFOLD:c1ccc(C(c2cncnc2)C2CC2)cc1,2,0,0.3622202225732582,0.3958333333333333,correct,false_positive
+502,"2-[[[[(4-Chloro-6-methoxy-2-pyrimidinyl)amino]carbonyl]amino]sulfonyl]benzoic acid, Ethyl ester",56160,90982-32-4,CCOC(=O)c1ccccc1S(=O)(=O)NC(=O)Nc1nc(Cl)cc(OC)n1,SCAFFOLD:O=C(Nc1ncccn1)NS(=O)(=O)c1ccccc1,2,0,0.1669730276577506,0.5737704918032787,correct,correct
+503,"alpha-(4-Chlorophenyl)-alpha-(1-cyclopropylethyl)-1H-1,2,4-triazole-1-ethanol",86132,94361-06-5,CC(C1CC1)C(O)(Cn1cncn1)c1ccc(Cl)cc1,SCAFFOLD:c1ccc(C(CC2CC2)Cn2cncn2)cc1,2,0,0.2684639942063759,0.4814814814814814,correct,false_positive
+509,2-Chloro-1-(3-ethoxy-4-nitrophenoxy)-4-(trifluoromethyl)benzene,39327,42874-03-3,CCOc1cc(Oc2ccc(C(F)(F)F)cc2Cl)ccc1[N+](=O)[O-],SCAFFOLD:c1ccc(Oc2ccccc2)cc1,2,0,0.2382654875765529,0.391304347826087,correct,correct
+510,4-Chloro-alpha-(1-methylethyl)benzeneacetic acid cyano(3-phenoxyphenyl)methyl ester,3347,51630-58-1,CC(C)C(C(=O)OC(C#N)c1cccc(Oc2ccccc2)c1)c1ccc(Cl)cc1,SCAFFOLD:O=C(Cc1ccccc1)OCc1cccc(Oc2ccccc2)c1,2,1,0.6349123051427765,0.5614035087719298,correct,correct
+511,4-Bromo-2-(4-chlorophenyl)-1-(ethoxymethyl)-5-(trifluoromethyl)-1H-pyrrole-3-carbonitrile,91778,122453-73-0,CCOCn1c(-c2ccc(Cl)cc2)c(C#N)c(Br)c1C(F)(F)F,SCAFFOLD:c1ccc(-c2ccc[nH]2)cc1,2,1,0.3786844677086816,0.2575757575757575,false_negative,correct
+512,5-Methyl-3(2H)-isoxazolone,24781,10004-44-1,Cc1cc(=O)[nH]o1,SCAFFOLD:O=c1cco[nH]1,2,0,0.0829472504781312,0.2608695652173913,correct,correct
+514,Vinclozolin (Ref: BAS 352F),39676,50471-44-8,C=CC1(C)OC(=O)N(c2cc(Cl)cc(Cl)c2)C1=O,SCAFFOLD:O=C1COC(=O)N1c1ccccc1,2,0,0.1569687041759177,0.4615384615384615,correct,correct
+521,Azocyclotin (Ref: BAY BUE 1452),91634,41083-11-8,c1ncn([Sn](C2CCCCC2)(C2CCCCC2)C2CCCCC2)n1,SCAFFOLD:c1nc[n]([Sn]([CH]2CCCCC2)([CH]2CCCCC2)[CH]2CCCCC2)n1,2,0,0.1173678112183486,0.2203389830508474,correct,correct
+526,Difenoxuron (Ref: C3470),26576,14214-32-5,COc1ccc(Oc2ccc(NC(=O)N(C)C)cc2)cc1,SCAFFOLD:c1ccc(Oc2ccccc2)cc1,2,0,0.2328740873366266,0.5757575757575758,correct,correct
+529,(E)-dec-5-enyl acetate,5363095,38421-90-8,CCCCC=CCCCCOC(C)=O,ACYCLIC:CCCCC=CCCCCOC(C)=O,2,0,0.1120409032059398,0.9615384615384616,correct,correct
+533,Tricyclazole (Ref: EL 291),39040,41814-78-2,Cc1cccc2sc3nncn3c12,SCAFFOLD:c1ccc2c(c1)sc1nncn12,2,0,0.2056071820712419,0.26,correct,correct
+539,Dienochlor (Ref: SAN 804),16686,2227-17-0,ClC1=C(Cl)C(Cl)(C2(Cl)C(Cl)=C(Cl)C(Cl)=C2Cl)C(Cl)=C1Cl,SCAFFOLD:C1=CC(C2C=CC=C2)C=C1,2,0,0.4326494036924,0.2142857142857142,correct,false_positive
+542,Pyridate (Ref: CL 11344),41463,55512-33-9,CCCCCCCCSC(=O)Oc1cc(Cl)nnc1-c1ccccc1,SCAFFOLD:c1ccc(-c2cccnn2)cc1,2,0,0.4073081397325928,0.3050847457627119,correct,false_positive
+543,Flucythrinate (Ref: OMS 2007),50980,70124-77-5,CC(C)C(C(=O)OC(C#N)c1cccc(Oc2ccccc2)c1)c1ccc(OC(F)F)cc1,SCAFFOLD:O=C(Cc1ccccc1)OCc1cccc(Oc2ccccc2)c1,2,1,0.6294913844753132,0.5333333333333333,correct,correct
+546,Prochloraz (Ref: BTS 40542),73665,67747-09-5,CCCN(CCOc1c(Cl)cc(Cl)cc1Cl)C(=O)n1ccnc1,SCAFFOLD:O=C(NCCOc1ccccc1)n1ccnc1,2,0,0.1485933128024696,0.3571428571428571,correct,correct
+547,Milbemectin (Ref: SL 8601),57369723,51596-11-3 (MA4),CC1=CCC2CC(CC3(CCC(C)C(C)O3)O2)OC(=O)C2C=C(C)C(O)C3OCC(=CC=CC(C)C1)C23O,SCAFFOLD:O=C1OC2CC(CC=CCCC=CC=C3COC4CC=CC1C34)OC1(CCCCO1)C2,2,1,0.3491436491730199,0.4322033898305085,false_negative,correct
+548,Milbemycin A4,9959038,51596-11-3,CCC1OC2(CCC1C)CC1CC(CC=C(C)CC(C)C=CC=C3COC4C(O)C(C)=CC(C(=O)O1)C34O)O2,SCAFFOLD:O=C1OC2CC(CC=CCCC=CC=C3COC4CC=CC1C34)OC1(CCCCO1)C2,2,1,0.3891794996012267,0.4333333333333333,false_negative,correct
+555,"1,7-dioxaspiro(5.5)undecane",67437,180-84-7,C1CCC2(CCCCO2)OC1,SCAFFOLD:C1CCC2(CCCCO2)OC1,2,0,0.1945854178046778,0.2142857142857142,correct,correct
+558,Difenzoquat metilsulfate (Ref: AC 84777),39424,43222-48-6,COS(=O)(=O)[O-].Cn1c(-c2ccccc2)cc(-c2ccccc2)[n+]1C,SCAFFOLD:c1ccc(-c2cc(-c3ccccc3)[nH+][nH]2)cc1,2,0,0.2453440383788427,0.2321428571428571,correct,false_positive
+559,Fenpropidin (Ref: CGA 114900),91694,67306-00-7,CC(Cc1ccc(C(C)(C)C)cc1)CN1CCCCC1,SCAFFOLD:c1ccc(CCCN2CCCCC2)cc1,2,1,0.2391626884636839,0.25,false_negative,false_negative
+561,Diclobutrazol (Ref: PP296),53309,75736-33-3,CC(C)(C)C(O)C(Cc1ccc(Cl)cc1Cl)n1cncn1.CC(C)(C)C(O)C(Cc1ccc(Cl)cc1Cl)n1cncn1,SCAFFOLD:c1ccc(CCn2cncn2)cc1,2,1,0.0738250277615698,0.5384615384615384,false_negative,false_negative
+564,"1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Heptadecafluoro-1-octanesulfonic acid potassium salt",23669238,2795-39-3,O=S(=O)([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F.[K+],ACYCLIC:O=S(=O)([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,2,1,0.1137097639158318,0.238095238095238,false_negative,false_negative
+570,Diclofop (Ref: AE F021079),38687,40843-25-2,CC(Oc1ccc(Oc2ccc(Cl)cc2Cl)cc1)C(=O)O,SCAFFOLD:c1ccc(Oc2ccccc2)cc1,2,0,0.0956827573420281,0.7297297297297297,correct,correct
+580,Chlozolinate (Ref: M 8164),51574,84332-86-5,CCOC(=O)C1(C)OC(=O)N(c2cc(Cl)cc(Cl)c2)C1=O,SCAFFOLD:O=C1COC(=O)N1c1ccccc1,2,0,0.1991577850809167,0.4,correct,correct
+581,"2,2-Dimethyl-3-(2-methyl-1-propenyl)cyclopropanecarboxylic acid 2-methyl-4-oxo-3-(2-propynyl)-2-cyclopenten-1-yl ester",9839306,23031-36-9,C#CCC1=C(C)C(OC(=O)C2C(C=C(C)C)C2(C)C)CC1=O,SCAFFOLD:O=C1C=CC(OC(=O)C2CC2)C1,2,1,0.5544147593024031,0.453125,correct,correct
+585,"(4aS)-7-Chloro-2,5-dihydro-2-[[(methoxycarbonyl)[4-(trifluoromethoxy)phenyl]amino]carbonyl]indeno[1,2-e][1,3,4]oxadiazine-4a(3H)-carboxylic acid methyl ester",107720,173584-44-6,COC(=O)N(C(=O)N1COC2(C(=O)OC)Cc3cc(Cl)ccc3C2=N1)c1ccc(OC(F)(F)F)cc1,SCAFFOLD:O=C(Nc1ccccc1)N1COC2Cc3ccccc3C2=N1,2,1,0.2568279643387182,0.25,false_negative,correct
+586,"(1R,3R)-rel-3-[(1Z)-2-Chloro-3,3,3-trifluoro-1-propen-1-yl]-2,2-dimethylcyclopropanecarboxylic acid (2,3,5,6-tetrafluoro-4-methylphenyl)methyl ester",54382,79538-32-2,Cc1c(F)c(F)c(COC(=O)C2C(C=C(Cl)C(F)(F)F)C2(C)C)c(F)c1F,SCAFFOLD:O=C(OCc1ccccc1)C1CC1,2,1,0.6226847634896642,0.5932203389830508,correct,correct
+587,Fenoxycarb (Ref: OMS 3010),51605,79127-80-3,CCOC(=O)NCCOc1ccc(Oc2ccccc2)cc1,SCAFFOLD:c1ccc(Oc2ccccc2)cc1,2,0,0.3378200376069635,0.4285714285714285,correct,false_positive
+591,"2-[[[[(4,6-Dimethyl-2-pyrimidinyl)amino]carbonyl]amino]sulfonyl]benzoic acid, Methyl ester",52997,74222-97-2,COC(=O)c1ccccc1S(=O)(=O)NC(=O)Nc1nc(C)cc(C)n1,SCAFFOLD:O=C(Nc1ncccn1)NS(=O)(=O)c1ccccc1,2,0,0.128612479404035,0.72,correct,correct
+597,Sulfometuron,52998,74223-56-6,Cc1cc(C)nc(NC(=O)NS(=O)(=O)c2ccccc2C(=O)O)n1,SCAFFOLD:O=C(Nc1ncccn1)NS(=O)(=O)c1ccccc1,2,0,0.1025613444527131,0.68,correct,correct
+601,Mildiomycin (Ref: AR-1F1870),12850205,67527-71-3,NC(N)=NCC(O)CC(O)(C(=O)O)C1OC(n2cc(CO)c(N)nc2=O)C=CC1NC(=O)C(N)CO,SCAFFOLD:O=c1ncccn1C1C=CCCO1,2,0,0.2949128510697871,0.2523364485981308,correct,false_positive
+603,Fomesafen (Ref: PP 021),51556,72178-02-0,CS(=O)(=O)NC(=O)c1cc(Oc2ccc(C(F)(F)F)cc2Cl)ccc1[N+](=O)[O-],SCAFFOLD:c1ccc(Oc2ccccc2)cc1,2,0,0.1483747206596069,0.4305555555555556,correct,correct
+605,Oxadixyl (Ref: SAN 371F),53735,77732-09-3,COCC(=O)N(c1c(C)cccc1C)N1CCOC1=O,SCAFFOLD:O=C1OCCN1Nc1ccccc1,2,0,0.1035418461444693,0.4423076923076923,correct,correct
+617,"(2R,6S)-rel-4-[3-[4-(1,1-Dimethylethyl)phenyl]-2-methylpropyl]-2,6-dimethylmorpholine  ",93365,67564-91-4,CC(Cc1ccc(C(C)(C)C)cc1)CN1CC(C)OC(C)C1,SCAFFOLD:c1ccc(CCCN2CCOCC2)cc1,2,0,0.2163354213372139,0.3043478260869565,correct,correct
+618,Imazaquin (Ref: BAS 725H),54739,81335-37-7,CC(C)C1(C)N=C(c2nc3ccccc3cc2C(=O)O)NC1=O,SCAFFOLD:O=C1CN=C(c2ccc3ccccc3n2)N1,2,1,0.1343952440400009,0.2549019607843137,false_negative,false_negative
+619,"3,6-Bis(2-chlorophenyl)-1,2,4,5-tetrazine",73670,74115-24-5,Clc1ccccc1-c1nnc(-c2ccccc2Cl)nn1,SCAFFOLD:c1ccc(-c2nnc(-c3ccccc3)nn2)cc1,2,0,0.264347255002835,0.36,correct,false_positive
+629,Paclobutrazol (Ref: PP 333),73671,76738-62-0,CC(C)(C)C(O)C(Cc1ccc(Cl)cc1)n1cncn1,SCAFFOLD:c1ccc(CCn2cncn2)cc1,2,1,0.1368215277074796,0.6170212765957447,false_negative,false_negative
+630,"alpha-Butyl-alpha-(4-chlorophenyl)-1H-1,2,4-triazole-1-propanenitrile",6336,88671-89-0,CCCCC(C#N)(Cn1cncn1)c1ccc(Cl)cc1,SCAFFOLD:c1ccc(CCn2cncn2)cc1,2,0,0.364740637958145,0.6538461538461539,correct,false_positive
+635,Cinmethylin (Ref: BAS 684 H),91745,87818-31-3,Cc1ccccc1COC1CC2(C(C)C)CCC1(C)O2,SCAFFOLD:c1ccc(COC2CC3CCC2O3)cc1,2,0,0.1277300510345998,0.2153846153846154,correct,correct
+636,"5-[2-Chloro-4-(trifluoromethyl)phenoxy]-2-nitrobenzoic acid, 2-Ethoxy-1-methyl-2-oxoethyl ester",62276,77501-63-4,CCOC(=O)C(C)OC(=O)c1cc(Oc2ccc(C(F)(F)F)cc2Cl)ccc1[N+](=O)[O-],SCAFFOLD:c1ccc(Oc2ccccc2)cc1,2,0,0.2348090766197431,0.379746835443038,correct,correct
+638,"(4R,5R)-rel-5-(4-Chlorophenyl)-N-cyclohexyl-4-methyl-2-oxo-3-thiazolidinecarboxamide",13218777,78587-05-0,CC1C(c2ccc(Cl)cc2)SC(=O)N1C(=O)NC1CCCCC1,SCAFFOLD:O=C(NC1CCCCC1)N1CC(c2ccccc2)SC1=O,2,0,0.1406235789466365,0.2615384615384615,correct,correct
+644,Diafenthiuron (Ref: CGA 106630),3034380,80060-09-9,CC(C)c1cc(Oc2ccccc2)cc(C(C)C)c1NC(=S)NC(C)(C)C,SCAFFOLD:c1ccc(Oc2ccccc2)cc1,2,1,0.43096972444783,0.2786885245901639,false_negative,correct
+646,Imazethapyr (Ref: AC 252925),54740,81335-77-5,CCc1cnc(C2=NC(C)(C(C)C)C(=O)N2)c(C(=O)O)c1,SCAFFOLD:O=C1CN=C(c2ccccn2)N1,2,0,0.189816322420087,0.2307692307692307,correct,correct
+648,Aclonifen (Ref: AE F068300),92389,74070-46-5,Nc1c([N+](=O)[O-])ccc(Oc2ccccc2)c1Cl,SCAFFOLD:c1ccc(Oc2ccccc2)cc1,2,0,0.2600535255266062,0.325,correct,false_positive
+649,Fenoxaprop-ethyl,47938,66441-23-4,CCOC(=O)C(C)Oc1ccc(Oc2nc3ccc(Cl)cc3o2)cc1,SCAFFOLD:c1ccc(Oc2nc3ccccc3o2)cc1,2,0,0.2629372273376635,0.6206896551724138,correct,false_positive
+652,Flusilazole (Ref: DPX H6573),73675,85509-19-9,C[Si](Cn1cncn1)(c1ccc(F)cc1)c1ccc(F)cc1,SCAFFOLD:c1ccc([SiH](Cn2cncn2)c2ccccc2)cc1,2,0,0.1442953088784904,0.4081632653061224,correct,correct
+653,Sulfluramid (Ref: GX 071),77797,4151-50-2,CCNS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,ACYCLIC:CCNS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,2,1,0.1308248462111087,0.1914893617021276,false_negative,false_negative
+654,"3-(N-butyl-N-acetyl)-aminopropionic acid, ethyl ester (Ref: OMS 3065)",104150,52304-36-6,CCCCN(CCC(=O)OCC)C(C)=O,ACYCLIC:CCCCN(CCC(=O)OCC)C(C)=O,2,0,0.195990713941654,0.4594594594594595,correct,correct
+656,Pyrazosulfuron-ethyl (Ref: NC 311),91750,93697-74-6,CCOC(=O)c1cnn(C)c1S(=O)(=O)NC(=O)Nc1nc(OC)cc(OC)n1,SCAFFOLD:O=C(Nc1ncccn1)NS(=O)(=O)c1ccn[nH]1,2,0,0.0842190316248257,0.59375,correct,correct
+659,Quinmerac (Ref: BAS 518H),91749,90717-03-6,Cc1cnc2c(C(=O)O)c(Cl)ccc2c1,SCAFFOLD:c1ccc2ncccc2c1,2,0,0.0949247698834038,0.4166666666666667,correct,correct
+660,"3,7-Dichloro-8-quinolinecarboxylic acidZ",91739,84087-01-4,O=C(O)c1c(Cl)ccc2cc(Cl)cnc12,SCAFFOLD:c1ccc2ncccc2c1,2,0,0.0923775410717456,0.4411764705882353,correct,correct
+661,Imazamethabenz (Ref: AC 263840),3034382,100728-84-5,Cc1ccc(C(=O)O)c(C2=NC(C)(C(C)C)C(=O)N2)c1,SCAFFOLD:O=C1CN=C(c2ccccc2)N1,2,0,0.0802168362008804,0.25,correct,correct
+671,"2-[[[[[4,6-Bis(difluoromethoxy)-2-pyrimidinyl]amino]carbonyl]amino]sulfonyl]benzoic acid, Methyl ester",101525,86209-51-0,COC(=O)c1ccccc1S(=O)(=O)NC(=O)Nc1nc(OC(F)F)cc(OC(F)F)n1,SCAFFOLD:O=C(Nc1ncccn1)NS(=O)(=O)c1ccccc1,2,0,0.0932614107016391,0.6140350877192983,correct,correct
+674,Imazamethabenz-methyl (Ref: AC 222293),54744,81405-85-8,COC(=O)c1cc(C)ccc1C1=NC(C)(C(C)C)C(=O)N1.COC(=O)c1ccc(C)cc1C1=NC(C)(C(C)C)C(=O)N1,SCAFFOLD:O=C1CN=C(c2ccccc2)N1,2,0,0.1373689774226379,0.2545454545454545,correct,correct
+676,Imazamox (Ref: BAS 720H),86137,114311-32-9,COCc1cnc(C2=NC(C)(C(C)C)C(=O)N2)c(C(=O)O)c1,SCAFFOLD:O=C1CN=C(c2ccccn2)N1,2,0,0.208377091283154,0.2077922077922078,correct,correct
+680,Hexaconazole (Ref: PP 523),66461,79983-71-4,CCCCC(O)(Cn1cncn1)c1ccc(Cl)cc1Cl,SCAFFOLD:c1ccc(CCn2cncn2)cc1,2,0,0.2618733111235055,0.5,correct,false_positive
+681,"4-Chloro-2-(1,1-dimethylethyl)-5-[[[4-(1,1-dimethylethyl)phenyl]methyl]thio]-3(2H)pyridazinene",91754,96489-71-3,CC(C)(C)c1ccc(CSc2cnn(C(C)(C)C)c(=O)c2Cl)cc1,SCAFFOLD:O=c1cc(SCc2ccccc2)cn[nH]1,2,1,0.2536663754806031,0.3174603174603174,false_negative,correct
+686,"N-[[4,6-Dimethoxy-2-pyrimidinyl)amino]carbonyl]-3-(trifluoromethyl)-2-pyridinesulfonamide",93539,104040-78-0,COc1cc(OC)nc(NC(=O)NS(=O)(=O)c2ncccc2C(F)(F)F)n1,SCAFFOLD:O=C(Nc1ncccn1)NS(=O)(=O)c1ccccn1,2,0,0.0383382604456919,0.5384615384615384,correct,correct
+687,Chlorantraniliprole (Ref: DPX E2Y45),11271640,500008-45-7,CNC(=O)c1cc(Cl)cc(C)c1NC(=O)c1cc(Br)nn1-c1ncccc1Cl,SCAFFOLD:O=C(Nc1ccccc1)c1ccnn1-c1ccccn1,2,1,0.3986145611176219,0.6338028169014085,false_negative,correct
+690,"4,6-Dimethyl-N-phenyl-2-pyrimidinamine",91650,53112-28-0,Cc1cc(C)nc(Nc2ccccc2)n1,SCAFFOLD:c1ccc(Nc2ncccn2)cc1,2,0,0.069932557018281,0.6666666666666666,correct,correct
+698,Chlorimuron,91762,99283-00-8,COc1cc(Cl)nc(NC(=O)NS(=O)(=O)c2ccccc2C(=O)O)n1,SCAFFOLD:O=C(Nc1ncccn1)NS(=O)(=O)c1ccccc1,2,0,0.1399279383832795,0.6545454545454545,correct,correct
+699,"3-(4-Chlorophenyl)-3-(3,4-dimethoxyphenyl)-1-(4-morpholinyl)-2-propen-1-one",86298,110488-70-5,COc1ccc(C(=CC(=O)N2CCOCC2)c2ccc(Cl)cc2)cc1OC,SCAFFOLD:O=C(C=C(c1ccccc1)c1ccccc1)N1CCOCC1,2,0,0.180901742081861,0.3090909090909091,correct,correct
+700,"Phosphorothioic acid O,O-diethyl-O-(1,2,2,2-tetrachloroethyl) ester",91655,54593-83-8,CCOP(=S)(OCC)OC(Cl)C(Cl)(Cl)Cl,ACYCLIC:CCOP(=S)(OCC)OC(Cl)C(Cl)(Cl)Cl,2,1,0.7224509437173645,0.3428571428571428,correct,correct
+701,"2-[7-Fluoro-3,4-dihydro-3-oxo-4-(2-propynyl)-2H-1,4-benzoxazin-6-yl]-4,5,6,7-tetrahydro-1H-isoindole-1,3(2H)-dione",92425,103361-09-7,C#CCN1C(=O)COc2cc(F)c(N3C(=O)C4=C(CCCC4)C3=O)cc21,SCAFFOLD:O=C1COc2ccc(N3C(=O)C4=C(CCCC4)C3=O)cc2N1,2,0,0.2263834092067751,0.3870967741935484,correct,correct
+710,"1-[[2-[2-Chloro-4-(4-chlorophenoxyl)phenyl]-4-methyl-1,3-dioxolan-2-yl]methyl]-1H-1,2,4-triazole",86173,119446-68-3,CC1COC(Cn2cncn2)(c2ccc(Oc3ccc(Cl)cc3)cc2Cl)O1,SCAFFOLD:c1ccc(Oc2ccc(C3(Cn4cncn4)OCCO3)cc2)cc1,2,0,0.2601510466614106,0.4142857142857143,correct,false_positive
+713,Imidacloprid (Ref: BAY NTN 33893),86418,138261-41-3,O=[N+]([O-])NC1=NCCN1Cc1ccc(Cl)nc1,SCAFFOLD:C1=NCCN1Cc1cccnc1,2,1,0.4615214799461901,0.5490196078431373,false_negative,correct
+716,Quizalofop-P-tefuryl (Ref: UBI C4874 ),86175,119738-06-6,CC(Oc1ccc(Oc2cnc3cc(Cl)ccc3n2)cc1)C(=O)OCC1CCCO1,SCAFFOLD:O=C(COc1ccc(Oc2cnc3ccccc3n2)cc1)OCC1CCCO1,2,0,0.2708855543310828,0.6825396825396826,correct,false_positive
+718,Fluoroglycofen,92395,77501-60-1,O=C(O)COC(=O)c1cc(Oc2ccc(C(F)(F)F)cc2Cl)ccc1[N+](=O)[O-],SCAFFOLD:c1ccc(Oc2ccccc2)cc1,2,0,0.1673152051058008,0.4166666666666667,correct,correct
+721,Nicosulfuron (Ref: DPX V9360),73281,111991-09-4,COc1cc(OC)nc(NC(=O)NS(=O)(=O)c2ncccc2C(=O)N(C)C)n1,SCAFFOLD:O=C(Nc1ncccn1)NS(=O)(=O)c1ccccn1,2,1,0.0682598585755862,0.5454545454545454,false_negative,false_negative
+727,Imazapic (Ref: AC 263222),91770,104098-48-8,Cc1cnc(C2=NC(C)(C(C)C)C(=O)N2)c(C(=O)O)c1,SCAFFOLD:O=C1CN=C(c2ccccn2)N1,2,0,0.12241799602123,0.203125,correct,correct
+729,"4-[2-[4-(1,1-Dimethylethyl)phenyl]ethoxy]quinazoline",86356,120928-09-8,CC(C)(C)c1ccc(CCOc2ncnc3ccccc23)cc1,SCAFFOLD:c1ccc(CCOc2ncnc3ccccc23)cc1,2,1,0.1989745535825575,0.2923076923076923,false_negative,false_negative
+734,"(2R)-2-[4-(4-Cyano-2-fluorophenoxy)phenoxy]propanoic acid, Butyl ester",180089,122008-85-9,CCCCOC(=O)C(C)Oc1ccc(Oc2ccc(C#N)cc2F)cc1,SCAFFOLD:c1ccc(Oc2ccccc2)cc1,2,0,0.3435379214570127,0.4761904761904761,correct,false_positive
+739,(2-Oxo-3-thiazolidinyl)phosphonothioic acid O-ethyl S-(1-methylpropyl)ester,91758,98886-44-3,CCOP(=O)(SC(C)CC)N1CCSC1=O,SCAFFOLD:O=C1NCCS1,2,1,0.6084252015076567,0.475,correct,correct
+740,Iminoctadine triacetate (Ref: DF 125),162366,57520-17-9,CC(=O)O.CC(=O)O.CC(=O)O.NC(N)=NCCCCCCCCNCCCCCCCCN=C(N)N,ACYCLIC:NC(N)=NCCCCCCCCNCCCCCCCCN=C(N)N,2,0,0.1082421436649731,0.2142857142857142,correct,correct
+755,"N-[[(4,6-Dimethoxy-2-pyrimidinyl)amino]carbonyl]-3-(ethylsulfonyl)-2-pyridine sulfonamide",91779,122931-48-0,CCS(=O)(=O)c1cccnc1S(=O)(=O)NC(=O)Nc1nc(OC)cc(OC)n1,SCAFFOLD:O=C(Nc1ncccn1)NS(=O)(=O)c1ccccn1,2,0,0.082931266386299,0.5714285714285714,correct,correct
+756,"2-[[[[[(4,6-Dimethoxy-2-pyrimidinyl)amino]carbonyl]amino]sulfonyl]amino]-N,N-dimethylbenzamide",11091168,213464-77-8,COc1cc(OC)nc(NC(=O)NS(=O)(=O)Nc2ccccc2C(=O)N(C)C)n1,SCAFFOLD:O=C(Nc1ncccn1)NS(=O)(=O)Nc1ccccc1,2,0,0.0560759324335208,0.7272727272727273,correct,correct
+765,Cloquintocet-mexyl (Ref: CGA 185072),93528,99607-70-2,CCCCCC(C)OC(=O)COc1ccc(Cl)c2cccnc12,SCAFFOLD:c1ccc2ncccc2c1,2,0,0.0874265418378639,0.4461538461538462,correct,correct
+771,Flusulfamide (Ref: MTF 651),86268,106917-52-6,O=[N+]([O-])c1ccc(NS(=O)(=O)c2ccc(Cl)c(C(F)(F)F)c2)c(Cl)c1,SCAFFOLD:O=S(=O)(Nc1ccccc1)c1ccccc1,2,0,0.0940258476118409,0.3191489361702128,correct,correct
+773,Bromuconazole (Ref: LS 860263),3444,116255-48-2,Clc1ccc(C2(Cn3cncn3)CC(Br)CO2)c(Cl)c1,SCAFFOLD:c1ccc(C2(Cn3cncn3)CCCO2)cc1,2,0,0.2131689824558029,0.3582089552238806,correct,correct
+774,Mepanipyrim (Ref: KUF 6201),86296,110235-47-7,CC#Cc1cc(C)nc(Nc2ccccc2)n1,SCAFFOLD:c1ccc(Nc2ncccn2)cc1,2,0,0.1515416690307131,0.5238095238095238,correct,correct
+778,Flumorph (Ref: SYP L190),11057755,211867-47-9,COc1ccc(C(=CC(=O)N2CCOCC2)c2ccc(F)cc2)cc1OC,SCAFFOLD:O=C(C=C(c1ccccc1)c1ccccc1)N1CCOCC1,2,0,0.1740534049895023,0.2592592592592592,correct,correct
+779,Fenoxaprop-P (Ref: AE-F088406),11949285,113158-40-0,CC(Oc1ccc(Oc2nc3ccc(Cl)cc3o2)cc1)C(=O)O,SCAFFOLD:c1ccc(Oc2nc3ccccc3o2)cc1,2,0,0.14358590473972,0.65,correct,correct
+793,"4-(Cyclopropylhydroxymethylene)-3,5-dioxocyclohexanecarboxylic acid ethyl ester",92421,95266-40-3,CCOC(=O)C1CC(=O)C(=C(O)C2CC2)C(=O)C1,SCAFFOLD:O=C1CCCC(=O)C1=CC1CC1,2,0,0.2239939389193391,0.4146341463414634,correct,correct
+797,"(1E)-[2-[[6-(2-Chlorophenoxy)-5-fluoro-4-pyrimidinyl]oxy]phenyl](5,6-dihydro-1,4,2-dioxazin-3-yl)-methanone, O-Methyloxime",53395436,361377-29-9,CON=C(C1=NOCCO1)c1ccccc1Oc1ncnc(Oc2ccccc2Cl)c1F,SCAFFOLD:N=C(C1=NOCCO1)c1ccccc1Oc1cc(Oc2ccccc2)ncn1,2,0,0.1091732423474063,0.2428571428571428,correct,correct
+800,"1-[(6-Chloro-3-pyridinyl)methyl]-4,5-dihydro-1H-imidazol-2-amine",10130527,115970-17-7,NC1=NCCN1Cc1ccc(Cl)nc1,SCAFFOLD:C1=NCCN1Cc1cccnc1,2,1,0.3441176588695286,0.46,false_negative,correct
+802,Mesosulfuron-methyl (Ref: AE F130060),11409499,208465-21-8,COC(=O)c1ccc(CNS(C)(=O)=O)cc1S(=O)(=O)NC(=O)Nc1nc(OC)cc(OC)n1,SCAFFOLD:O=C(Nc1ncccn1)NS(=O)(=O)c1ccccc1,2,0,0.1242282020807946,0.532258064516129,correct,correct
+803,Flupyrsulfuron,132910,150315-10-9,COc1cc(OC)nc(NC(=O)NS(=O)(=O)c2nc(C(F)(F)F)ccc2C(=O)O)n1,SCAFFOLD:O=C(Nc1ncccn1)NS(=O)(=O)c1ccccn1,2,0,0.0625123552936501,0.5245901639344263,correct,correct
+806,Benthiavalicarb-isopropyl (Ref: KIF-230),53297381,177406-68-7,CC(C)OC(=O)NC(C(=O)NC(C)c1nc2ccc(F)cc2s1)C(C)C,SCAFFOLD:c1ccc2scnc2c1,2,0,0.1794755689988638,0.4821428571428571,correct,correct
+808,Azafenidin,443029,68049-83-2,C#CCOc1cc(-n2nc3n(c2=O)CCCC3)c(Cl)cc1Cl,SCAFFOLD:O=c1n(-c2ccccc2)nc2n1CCCC2,2,0,0.1955212392018113,0.5081967213114754,correct,correct
+810,Glyphosate-trimesium,105048,81591-81-3,C[S+](C)C.O=C(O)CNCP(=O)([O-])O,ACYCLIC:O=C(O)CNCP(=O)([O-])O,2,0,0.2591241985911361,0.5714285714285714,correct,false_positive
+813,"2,2-Dimethylpropanoic acid  8-(2,6-diethyl-4-methylphenyl)-1,2,4,5- tetrahydro-7-oxo-7H-pyrazolo[1,2-d][1,4,5]oxadiazepin-9-yl ester",210326,243973-20-8,CCc1cc(C)cc(CC)c1-c1c(OC(=O)C(C)(C)C)n2n(c1=O)CCOCC2,SCAFFOLD:O=c1c(-c2ccccc2)cn2n1CCOCC2,2,0,0.2442470478212907,0.2676056338028169,correct,false_positive
+817,"4-Chloro-2-cyano-N,N-dimethyl-5-(4-methylphenyl)-1H-imidazole-1-sulfonamide",9862076,120116-88-3,Cc1ccc(-c2c(Cl)nc(C#N)n2S(=O)(=O)N(C)C)cc1,SCAFFOLD:c1ccc(-c2cnc[nH]2)cc1,2,0,0.3572034314360064,0.2678571428571428,correct,false_positive
+819,"2-(2,2-Difluoroethoxy)-N-(5,8-dimethoxy[1,2,4]triazolo[1,5-c]pyrimidin-2-yl)-6-(trifluoromethyl)benzenesulfonamide",11784975,219714-96-2,COc1cnc(OC)n2nc(NS(=O)(=O)c3c(OCC(F)F)cccc3C(F)(F)F)nc12,SCAFFOLD:O=S(=O)(Nc1nc2ccncn2n1)c1ccccc1,2,0,0.1312613094510369,0.4102564102564102,correct,correct
+820,Foramsulfuron (Ref: AE F130360),11419598,173159-57-4,COc1cc(OC)nc(NC(=O)NS(=O)(=O)c2cc(NC=O)ccc2C(=O)N(C)C)n1,SCAFFOLD:O=C(Nc1ncccn1)NS(=O)(=O)c1ccccc1,2,0,0.1318337145948721,0.5084745762711864,correct,correct
+822,Diflovidazin (Ref: SZ1 121),153985,162320-67-4,Fc1cccc(F)c1-c1nnc(-c2ccccc2Cl)nn1,SCAFFOLD:c1ccc(-c2nnc(-c3ccccc3)nn2)cc1,2,0,0.2577678271448821,0.303030303030303,correct,false_positive
+825,Primisulfuron,91774,113036-87-6,O=C(Nc1nc(OC(F)F)cc(OC(F)F)n1)NS(=O)(=O)c1ccccc1C(=O)O,SCAFFOLD:O=C(Nc1ncccn1)NS(=O)(=O)c1ccccc1,2,0,0.0971060652854836,0.5789473684210527,correct,correct
+829,Pyridalyl (Ref: S-1812),11488729,179101-81-6,FC(F)(F)c1ccc(OCCCOc2c(Cl)cc(OCC=C(Cl)Cl)cc2Cl)nc1,SCAFFOLD:c1ccc(OCCCOc2ccccn2)cc1,2,0,0.1802244350492907,0.3529411764705882,correct,correct
+835,Tau-fluvalinate (Ref: SAN 527l),91768,102851-06-9,CC(C)C(Nc1ccc(C(F)(F)F)cc1Cl)C(=O)OC(C#N)c1cccc(Oc2ccccc2)c1,SCAFFOLD:O=C(CNc1ccccc1)OCc1cccc(Oc2ccccc2)c1,2,0,0.6153018904381167,0.4852941176470588,false_positive,false_positive
+839,"(1R,3S)-3-(2,2-Dichloroethenyl)-2,2-dimethyl-(2,3,5,6-tetrafluorophenyl)methyl ester cyclopropanecarboxylic acid",656612,118712-89-3,CC1(C)C(C=C(Cl)Cl)C1C(=O)OCc1c(F)c(F)cc(F)c1F,SCAFFOLD:O=C(OCc1ccccc1)C1CC1,2,1,0.6028971478304936,0.5272727272727272,correct,correct
+844,Pyribenzoxim (Ref: LGC 40863 ),178117,168088-61-7,COc1cc(OC)nc(Oc2cccc(Oc3nc(OC)cc(OC)n3)c2C(=O)ON=C(c2ccccc2)c2ccccc2)n1,SCAFFOLD:O=C(ON=C(c1ccccc1)c1ccccc1)c1c(Oc2ncccn2)cccc1Oc1ncccn1,2,0,0.1624035209661391,0.5535714285714286,correct,correct
+846,Propoxycarbazone,177355,145026-81-9,CCCOc1nn(C(=O)NS(=O)(=O)c2ccccc2C(=O)OC)c(=O)n1C,SCAFFOLD:O=C(NS(=O)(=O)c1ccccc1)n1nc[nH]c1=O,2,0,0.1407309430453665,0.7096774193548387,correct,correct
+847,"2-(4-Methoxy[1,1'-biphenyl]-3-yl)hydrazinecarboxylic acid, 1-Methylethyl ester",176879,149877-41-8,COc1ccc(-c2ccccc2)cc1NNC(=O)OC(C)C,SCAFFOLD:c1ccc(-c2ccccc2)cc1,2,1,0.13895777802468,0.4222222222222222,false_negative,false_negative
+848,Glyphosate-sodium,23677848,34494-03-6,O=C(O)CNCP(=O)([O-])O.[Na+],ACYCLIC:O=C(O)CNCP(=O)([O-])O,2,0,0.1428182787483355,0.64,correct,correct
+850,Cyhalofop,15118048,122008-78-0,CC(Oc1ccc(Oc2ccc(C#N)cc2F)cc1)C(=O)O,SCAFFOLD:c1ccc(Oc2ccccc2)cc1,2,0,0.3345196402253461,0.4814814814814814,correct,false_positive
+851,"3-Chloro-5-[[[[(4,6-dimethoxy-2-pyrimidinyl)amino]carbonyl]amino]sulfonyl]-1-methyl-1H-pyrazole-4-carboxylic acid, Methyl ester",91763,100784-20-1,COC(=O)c1c(Cl)nn(C)c1S(=O)(=O)NC(=O)Nc1nc(OC)cc(OC)n1,SCAFFOLD:O=C(Nc1ncccn1)NS(=O)(=O)c1ccn[nH]1,2,0,0.0461310105275924,0.6101694915254238,correct,correct
+854,Pyrazosulfuron,93525,98389-04-9,COc1cc(OC)nc(NC(=O)NS(=O)(=O)c2c(C(=O)O)cnn2C)n1,SCAFFOLD:O=C(Nc1ncccn1)NS(=O)(=O)c1ccn[nH]1,2,0,0.0561412017648006,0.6440677966101694,correct,correct
+856,N-(Cyano-2-thienylmethyl)-4-ethyl-2-(ethylamino)-5-thiazolecarboxamide,11174640,162650-77-3,CCNc1nc(CC)c(C(=O)NC(C#N)c2cccs2)s1,SCAFFOLD:O=C(NCc1cccs1)c1cncs1,2,0,0.3611615165246903,0.2537313432835821,correct,false_positive
+859,Flucarbazone,3081367,145026-88-6,COc1nn(C(=O)NS(=O)(=O)c2ccccc2OC(F)(F)F)c(=O)n1C,SCAFFOLD:O=C(NS(=O)(=O)c1ccccc1)n1nc[nH]c1=O,2,0,0.1073401275407558,0.6666666666666666,correct,correct
+860,Benthiavalicarb,20593234,413615-35-7,CC(NC(=O)C(NC(=O)O)C(C)C)c1nc2ccc(F)cc2s1,SCAFFOLD:c1ccc2scnc2c1,2,0,0.1238651047330548,0.3389830508474576,correct,correct
+869,Mesosulfuron (Ref: AE F154851),11520759,400852-66-6,COc1cc(OC)nc(NC(=O)NS(=O)(=O)c2cc(CNS(C)(=O)=O)ccc2C(=O)O)n1,SCAFFOLD:O=C(Nc1ncccn1)NS(=O)(=O)c1ccccc1,2,1,0.11944394481759,0.5238095238095238,false_negative,false_negative
+870,"2-Chloro-5-[3,6-dihydro-3-methyl-2,6-dioxo-4-(trifluoromethyl)-1(2H)-pyrimidinyl]benzoic acid 1,1-dimethyl-2-oxo-2-(2-propenyloxy)ethyl ester",11826859,134605-64-4,C=CCOC(=O)C(C)(C)OC(=O)c1cc(-n2c(=O)cc(C(F)(F)F)n(C)c2=O)ccc1Cl,SCAFFOLD:O=c1cc[nH]c(=O)n1-c1ccccc1,2,0,0.0756694456168189,0.2352941176470588,correct,correct
+871,"2,2-Dimethylbutanoic acid, 3-(2,4-Dichlorophenyl)-2-oxo-1-oxaspiro[4.5]dec-3-en-4-yl ester",177863,148477-71-8,CCC(C)(C)C(=O)OC1=C(c2ccc(Cl)cc2Cl)C(=O)OC12CCCCC2,SCAFFOLD:O=C1OC2(C=C1c1ccccc1)CCCCC2,2,0,0.2902530649310531,0.4328358208955223,correct,false_positive
+872,Tepraloxydim (Ref: BAS 620H),135585373,149979-41-9,CCC(NOCC=CCl)=C1C(=O)CC(C2CCOCC2)CC1=O,SCAFFOLD:C=C1C(=O)CC(C2CCOCC2)CC1=O,2,0,0.1466167467431479,0.5689655172413793,correct,correct
+873,Mefenpyr diethyl (Ref: HOE 107892),10937610,135590-91-9,CCOC(=O)C1=NN(c2ccc(Cl)cc2Cl)C(C)(C(=O)OCC)C1,SCAFFOLD:C1=NN(c2ccccc2)CC1,2,0,0.2166872554469257,0.3214285714285714,correct,correct
+876,Sucrose octanoate,5484222,42922-74-7,CCCCCCCC(=O)OC1(C2(CO)OC(CO)C(O)C2O)OC(CO)C(O)C(O)C1O,SCAFFOLD:C1CCC(C2CCCO2)OC1,2,0,0.1676840339177006,0.3404255319148936,correct,correct
+890,Profoxydim (Ref: BAS 625H),197395,139001-49-3,CCCC(NOCC(C)Oc1ccc(Cl)cc1)=C1C(=O)CC(C2CCCSC2)CC1=O,SCAFFOLD:O=C1CC(C2CCCSC2)CC(=O)C1=CNOCCOc1ccccc1,2,0,0.1872212225249755,0.6451612903225806,correct,correct
+895,Prochloraz manganese complex (Ref: BTS 46828),155203,69192-23-0,CCCN(CCOc1c(Cl)cc(Cl)cc1Cl)C(=O)n1ccnc1.CCCN(CCOc1c(Cl)cc(Cl)cc1Cl)C(=O)n1ccnc1.Cl[Mn]Cl,SCAFFOLD:O=C(NCCOc1ccccc1)n1ccnc1,2,0,0.144956949166106,0.3424657534246575,correct,correct
+901,"S-[(5-Ethoxy-2-oxo-1,3,4-thiadiazol-3(2H)-yl)methyl] O,O-dimethyl phosphorodithioate",17580,2669-32-1,CCOc1nn(CSP(=S)(OC)OC)c(=O)s1,SCAFFOLD:O=c1[nH]ncs1,2,1,0.7884483407521273,0.4230769230769231,correct,correct
+902,"alpha-Methyl-omega-[3-[1,3,3,3-tetramethyl-1-[(trimethylsilyl)oxy]-1-disiloxanyl]propoxy]poly(oxy-1,2-ethanediyl)",197160,27306-78-1,COCCOCCC[Si](C)(O[Si](C)(C)C)O[Si](C)(C)C,ACYCLIC:COCCOCCC[Si](C)(O[Si](C)(C)C)O[Si](C)(C)C,2,0,0.1337764154550768,0.2127659574468085,correct,correct
+903,"N'-[4-[(3,4-Dihydro-2-methoxy-2,4,4-trimethyl-2H-1-benzopyran-7-yl)oxy]phenyl]-N-methoxy-N-methylurea",14152665,111578-32-6,CON(C)C(=O)Nc1ccc(Oc2ccc3c(c2)OC(C)(OC)CC3(C)C)cc1,SCAFFOLD:c1ccc(Oc2ccc3c(c2)OCCC3)cc1,2,0,0.2645217208275607,0.4259259259259259,correct,false_positive
+904,Calcium acid methanearsonate,22193,5902-95-4 ,C[As](=O)([O-])[O-].C[As](=O)([O-])[O-].[Ca+2],ACYCLIC:C[As](=O)([O-])[O-],2,0,0.2692552006403613,0.6,correct,false_positive
+905,Trifloxysulfuron (Ref: CGA 292230),9955886,145099-21-4,COc1cc(OC)nc(NC(=O)NS(=O)(=O)c2ncccc2OCC(F)(F)F)n1,SCAFFOLD:O=C(Nc1ncccn1)NS(=O)(=O)c1ccccn1,2,0,0.0499311237383113,0.7049180327868853,correct,correct
+908,Tralkoxydim (Ref: PP 604),91746,87820-88-0,CCONC(CC)=C1C(=O)CC(c2c(C)cc(C)cc2C)CC1=O,SCAFFOLD:C=C1C(=O)CC(c2ccccc2)CC1=O,2,0,0.1749666324822886,0.4035087719298245,correct,correct
+915,Fluacrypyrim,9954185,229977-93-9,COC=C(C(=O)OC)c1ccccc1COc1cc(C(F)(F)F)nc(OC(C)C)n1,SCAFFOLD:c1ccc(COc2ccncn2)cc1,2,1,0.1344147330063754,0.6774193548387096,false_negative,false_negative
+920,Ethidimuron (Ref: MET 1486 ),91596,30043-49-3,CCS(=O)(=O)c1nnc(N(C)C(=O)NC)s1,SCAFFOLD:c1nncs1,2,0,0.3104396876394324,0.2153846153846154,correct,false_positive
+927,2-[2-(4-Cyanophenyl)-1-[3-(trifluoromethyl)phenyl]ethylidene]-N-[4-(trifluoromethoxy)phenyl]hydrazinecarboxamide,20056430,139968-49-3,N#Cc1ccc(CC(=NNC(=O)Nc2ccc(OC(F)(F)F)cc2)c2cccc(C(F)(F)F)c2)cc1,SCAFFOLD:O=C(NN=C(Cc1ccccc1)c1ccccc1)Nc1ccccc1,2,1,0.3385260906545462,0.352112676056338,false_negative,correct
+932,Flupyrsulfuron-methyl-sodium,15764724,144740-54-5,COC(=O)c1ccc(C(F)(F)F)nc1S(=O)(=O)NC(=O)[N-]c1nc(OC)cc(OC)n1.[Na+],SCAFFOLD:O=C([N-]c1ncccn1)NS(=O)(=O)c1ccccn1,2,0,0.0794326593841733,0.3733333333333333,correct,correct
+934,"2-[4,5-Dihydro-4-methyl-4-(1-methylethyl)-5-oxo-1H-imidazol-2-yl]-5-methyl-3-pyridinecarboxylic acid ammonium salt (1:1)",18772439,115136-53-3,Cc1cnc(C2=NC(C)(C(C)C)C(=O)N2)c(C(=O)[O-])c1.[NH4+],SCAFFOLD:O=C1CN=C(c2ccccn2)N1,2,0,0.1438491170148868,0.2280701754385964,correct,correct
+949,Glyphosate-monopotassium,23716553,39600-42-5,O=C(O)CNCP(=O)([O-])O.[K+],ACYCLIC:O=C(O)CNCP(=O)([O-])O,2,0,0.1482504172604463,0.64,correct,correct
+950,"2,6-Bis[(4,6-dimethoxy-2-pyrimidinyl)oxy]benzoic acid sodium salt",23682789,125401-92-5,COc1cc(OC)nc(Oc2cccc(Oc3nc(OC)cc(OC)n3)c2C(=O)[O-])n1.[Na+],SCAFFOLD:c1cnc(Oc2cccc(Oc3ncccn3)c2)nc1,2,0,0.0673330840760505,0.56,correct,correct
+951,"3-Phenyl-5-(2-thienyl)-1,2,4-oxadiazole",695679,330459-31-9,c1ccc(-c2noc(-c3cccs3)n2)cc1,SCAFFOLD:c1ccc(-c2noc(-c3cccs3)n2)cc1,2,1,0.1394901141107183,0.3243243243243243,false_negative,false_negative
+952,"2-Chloro-5-[3,6-dihydro-3-methyl-2,6-dioxo-4-(trifluoromethyl-1(2H)-pyrimidinyl]-4-fluoro-N-[[methyl(1-methylethyl)amino]sulfonyl]benzamide",11571392,372137-35-4,CC(C)N(C)S(=O)(=O)NC(=O)c1cc(-n2c(=O)cc(C(F)(F)F)n(C)c2=O)c(F)cc1Cl,SCAFFOLD:O=c1cc[nH]c(=O)n1-c1ccccc1,2,0,0.154817890200633,0.2560975609756097,correct,correct
+953,3-Bromo-1-(3-chloro-2-pyridinyl)-N-[4-cyano-2-methyl-6-[(methylamino)carbonyl]phenyl]-1H-pyrazole-5-carboxamide,11578610,736994-63-1,CNC(=O)c1cc(C#N)cc(C)c1NC(=O)c1cc(Br)nn1-c1ncccc1Cl,SCAFFOLD:O=C(Nc1ccccc1)c1ccnn1-c1ccccn1,2,1,0.5248655152473602,0.6582278481012658,correct,correct
+958,Isopyrazam (Ref: SYN 520453),25271089,881685-58-1,CC(C)C1C2CCC1c1c(NC(=O)c3cn(C)nc3C(F)F)cccc12,SCAFFOLD:O=C(Nc1cccc2c1C1CCC2C1)c1cn[nH]c1,2,0,0.1939476004553845,0.640625,correct,correct
+960,"N2-[(1R,2S)-2,3-Dihydro-2,6-dimethyl-1H-inden-1-yl]-6-(1-fluoroethyl)-1,3,5-triazine-2,4-diamine",44146693,950782-86-2,Cc1ccc2c(c1)C(Nc1nc(N)nc(C(C)F)n1)C(C)C2,SCAFFOLD:c1ccc2c(c1)CCC2Nc1ncncn1,2,0,0.1839371063883063,0.1964285714285714,correct,correct
+974,Glyphosate-sesquisodium (Ref: Mon 8000),71463591,70393-85-0,O=C(O)CNCP(=O)([O-])O.O=C(O)CNCP(=O)([O-])[O-].[Na+].[Na+].[Na+],ACYCLIC:O=C(O)CNCP(=O)([O-])[O-],2,0,0.1419849454150022,0.5714285714285714,correct,correct
+975,Prochloraz manganese chloride complex,71306902,75747-77-2,CCCN(CCOc1c(Cl)cc(Cl)cc1Cl)C(=O)n1ccnc1.CCCN(CCOc1c(Cl)cc(Cl)cc1Cl)C(=O)n1ccnc1.CCCN(CCOc1c(Cl)cc(Cl)cc1Cl)C(=O)n1ccnc1.CCCN(CCOc1c(Cl)cc(Cl)cc1Cl)C(=O)n1ccnc1.Cl[Mn]Cl,SCAFFOLD:O=C(NCCOc1ccccc1)n1ccnc1,2,0,0.144956949166106,0.3424657534246575,correct,correct
+977,"1-Acetyl-3,4-dihydro-3-[(3-pyridinylmethyl)amino]-6-[1,2,2,2-tetrafluoro-1-(trifluoromethyl)ethyl]-2(1H)-quinazolinone",11842644,337458-27-2,CC(=O)N1C(=O)N(NCc2cccnc2)Cc2cc(C(F)(C(F)(F)F)C(F)(F)F)ccc21,SCAFFOLD:O=C1Nc2ccccc2CN1NCc1cccnc1,2,1,0.2514547728715643,0.25,false_negative,correct
+981,Sabadilla (Ref: ENT 123 ),76419455,8051-02-3,CC=C(C)C(=O)OC1CCC2(C)C3CCC4C5(O)CC(O)C6(O)C(CN7CC(C)CCC7C6(C)O)C5(O)CC42OC13O.COc1ccc(C(=O)OC2CCC3(C)C4CCC5C6(O)CC(O)C7(O)C(CN8CC(C)CCC8C7(C)O)C6(O)CC53OC24O)cc1OC,SCAFFOLD:O=C(OC1CCC2C3CCC4C5CCC6CC7CCCCN7CC6C5CC42OC13)c1ccccc1,2,0,0.2714432115439057,0.2248062015503876,correct,false_positive
+982,Alloxydim sodium,74087703,55635-13-7,C=CCON=C(CCC)C1=C([O-])CC(C)(C)C(C(=O)OC)C1=O.[Na+],SCAFFOLD:O=C1C=CCCC1,2,0,0.1797462459780205,0.5238095238095238,correct,correct
+985,"S-Prop-2-en-1-yl 5-amino-4-(2-methylphenyl)-3-oxo-2-(propan-2-yl)-2,3-dihydro-1H-pyrazole-1-carbothioate",11493665,473798-59-3,C=CCSC(=O)n1c(N)c(-c2ccccc2C)c(=O)n1C(C)C,SCAFFOLD:O=c1[nH][nH]cc1-c1ccccc1,2,0,0.3151958357626738,0.2537313432835821,correct,false_positive
+987,"1-[4-[4-[5-(2,6-Difluorophenyl)-4,5-dihydro-3-isoxazolyl]-2-thiazolyl]-1-piperidinyl]-2-[5-methyl-3-(trifluoromethyl)-1H-pyrazol-1-yl]ethanone",56945145,1003318-67-9,Cc1cc(C(F)(F)F)nn1CC(=O)N1CCC(c2nc(C3=NOC(c4c(F)cccc4F)C3)cs2)CC1,SCAFFOLD:O=C(Cn1cccn1)N1CCC(c2nc(C3=NOC(c4ccccc4)C3)cs2)CC1,2,0,0.2636912288004608,0.1958762886597938,correct,false_positive
+989,Spinetoram,73462741,935545-74-7,CCOC1C(OC)C(C)OC(OC2CC3CCC4C5CC(=O)OC(CC)CCCC(OC6CCC(N(C)C)C(C)O6)C(C)C(=O)C5=CC4C3C2)C1OC,SCAFFOLD:O=C1CC2C(=CC3C4CC(OC5CCCCO5)CC4CCC23)C(=O)CC(OC2CCCCO2)CCCCO1,2,1,0.4977091410184596,0.6862745098039216,false_negative,correct
+992,4-Hydroxy-3-[[2-[(2-methoxyethoxy)methyl]-6-(trifluoromethyl)-3-pyridinyl]carbonyl]bicyclo[3.2.1]oct-3-en-2-one,22600466,352010-68-5,COCCOCc1nc(C(F)(F)F)ccc1C(O)=C1C(=O)C2CCC(C2)C1=O,SCAFFOLD:O=C1C(=Cc2cccnc2)C(=O)C2CCC1C2,2,0,0.1552256733954399,0.2658227848101265,correct,correct
+993,Butroxydim (Ref: ICIA0500),135993077,138164-12-2,CCCC(=O)c1c(C)cc(C)c(C2CC(=O)C(=C(CC)NOCC)C(=O)C2)c1C,SCAFFOLD:C=C1C(=O)CC(c2ccccc2)CC1=O,2,0,0.1884998863140106,0.4153846153846154,correct,correct
+994,Brofluthrinate (Ref: ZXI 8901),16722122,160791-64-0,CC(C)C(C(=O)OC(C#N)c1cccc(Oc2ccc(Br)cc2)c1)c1ccc(OC(F)F)cc1,SCAFFOLD:O=C(Cc1ccccc1)OCc1cccc(Oc2ccccc2)c1,2,1,0.632953535871675,0.4615384615384615,correct,correct
+995,"(5-Chloro-2-methoxy-4-methylpyridin-3-yl)(2,3,4-trimethoxy-6-methylphenyl)methanone",23082663,688046-61-9,COc1cc(C)c(C(=O)c2c(OC)ncc(Cl)c2C)c(OC)c1OC,SCAFFOLD:O=C(c1ccccc1)c1cccnc1,2,0,0.0792264205486802,0.52,correct,correct
+1003,Penflufen (Ref: BYF-14182),11674113,494793-67-8,Cc1nn(C)c(F)c1C(=O)Nc1ccccc1C(C)CC(C)C,SCAFFOLD:O=C(Nc1ccccc1)c1cn[nH]c1,2,0,0.1263089187224899,0.3676470588235294,correct,correct
+1006,"N-[6-[[[(Z)-[(1-Methyl-1H-tetrazol-5-yl)phenylmethylene]amino]oxy]methyl]-2-pyridinyl]-1,1-dimethylethyl ester carbamic acid",56945144,500207-04-5,Cn1nnnc1C(=NOCc1cccc(NC(=O)OC(C)(C)C)n1)c1ccccc1,SCAFFOLD:c1ccc(C(=NOCc2ccccn2)c2nnn[nH]2)cc1,2,0,0.1021213728605349,0.2873563218390804,correct,correct
+1011,Triafamone (Ref: AE 1887198),16004663,874195-61-6,COc1nc(OC)nc(C(=O)c2cccc(F)c2N(C)S(=O)(=O)C(F)F)n1,SCAFFOLD:O=C(c1ccccc1)c1ncncn1,2,0,0.1340456560963173,0.3188405797101449,correct,correct
+1012,Momfluorothrin (Ref: S-1563),25193220,609346-29-4,COCc1c(F)c(F)c(COC(=O)C2C(C=C(C)C#N)C2(C)C)c(F)c1F,SCAFFOLD:O=C(OCc1ccccc1)C1CC1,2,1,0.6059236732269614,0.375,correct,correct
+1015,"Cyclopropanecarboxylic acid, [(3S,4R,4aR,6S,6aS,12R,12aS,12bS)-3-[(Cyclopropylcarbonyl)oxy]-1,3,4,4a,5,6,6a,12,12a,12b-decahydro-6,12-dihydroxy-4,6a,12b-trimethyl-11-oxo-9-(3-pyridinyl)-2H,11H-naphtho[2,1-b]pyrano[3,4-e]pyran-4-yl]methyl ester",54589430,915972-17-7,CC1(COC(=O)C2CC2)C(OC(=O)C2CC2)CCC2(C)C1CC(O)C1(C)Oc3cc(-c4cccnc4)oc(=O)c3C(O)C21,SCAFFOLD:O=C(OCC1C(OC(=O)C2CC2)CCC2C3Cc4c(cc(-c5cccnc5)oc4=O)OC3CCC12)C1CC1,2,0,0.2791978394961648,0.1836734693877551,correct,false_positive
+1018,"3-(Difluoromethyl)-N-methoxy-1-methyl-N-[1-(2,4,6-trichlorophenyl)propan-2-yl]-1H-pyrazole-4-carboxamide",56933411,1228284-64-7,CON(C(=O)c1cn(C)nc1C(F)F)C(C)Cc1c(Cl)cc(Cl)cc1Cl,SCAFFOLD:O=C(NCCc1ccccc1)c1cn[nH]c1,2,0,0.1403033402404136,0.380281690140845,correct,correct
+1021,Flupyrimin,14127920,1689566-03-7,O=C(N=c1ccccn1Cc1ccc(Cl)nc1)C(F)(F)F,SCAFFOLD:N=c1ccccn1Cc1cccnc1,2,0,0.341529753631012,0.3898305084745763,correct,false_positive
+1022,"Methyl N-[2-({2-chloro-4-fluoro-5-[3-methyl-2,6-dioxo-4-(trifluoromethyl)-3,6-dihydropyrimidin-1(2H)-yl]phenyl}sulfanyl)propanoyl]-beta-alaninate",67295585,1220411-29-9,COC(=O)CCNC(=O)C(C)Sc1cc(-n2c(=O)cc(C(F)(F)F)n(C)c2=O)c(F)cc1Cl,SCAFFOLD:O=c1cc[nH]c(=O)n1-c1ccccc1,2,1,0.1427709117316863,0.2954545454545454,false_negative,false_negative
+1023,Glyphosate-diammonium,44146828,69254-40-6,O=C(O)CNCP(=O)([O-])[O-].[NH4+].[NH4+],ACYCLIC:O=C(O)CNCP(=O)([O-])[O-],2,0,0.1563244448558222,0.6,correct,correct
+8,Orange oil,22311,8028-48-6,C=C(C)C1CC=C(C)CC1,SCAFFOLD:C1=CCCCC1,3,0,0.2241993518873339,0.4705882352941176,correct,correct
+14,Arsenic acid,234,7778-39-4,O=[As](O)(O)O,ACYCLIC:O=[As](O)(O)O,3,1,0.2790236237312473,0.5555555555555556,false_negative,correct
+16,Formothion (Ref: SAN 6913I),17345,2540-82-1,COP(=S)(OC)SCC(=O)N(C)C=O,ACYCLIC:COP(=S)(OC)SCC(=O)N(C)C=O,3,1,0.8532735383520609,0.4468085106382978,correct,correct
+22,"3-[(Dimethoxyphosphinyl)oxy]-2-butenoic acid, Methyl ester",5355863,7786-34-7,COC(=O)C=C(C)OP(=O)(OC)OC,ACYCLIC:COC(=O)C=C(C)OP(=O)(OC)OC,3,1,0.7640081253648227,0.6129032258064516,correct,correct
+24,Aluminium phosphide,30332,20859-73-8,[Al]#P,ACYCLIC:[Al]#[P],3,1,0.2485859062571787,0.125,false_negative,false_negative
+32,Warfarin,54678486,81-81-2,CC(=O)CC(c1ccccc1)c1c(O)c2ccccc2oc1=O,SCAFFOLD:O=c1oc2ccccc2cc1Cc1ccccc1,3,0,0.3407493353032333,0.3111111111111111,correct,false_positive
+36,Copper (II) hydroxide,30154,20427-59-2,[Cu+2].[OH-].[OH-],ACYCLIC:[OH-],3,0,0.2870233100705056,0.125,correct,false_positive
+37,Cartap (Ref: TL 1258),27159,22042-59-7,CN(C)C(CSC(N)=O)CSC(N)=O,ACYCLIC:CN(C)C(CSC(N)=O)CSC(N)=O,3,1,0.3289964081738699,0.2647058823529412,false_negative,correct
+38,"1,8-cineole",2758,470-82-6,CC12CCC(CC1)C(C)(C)O2,SCAFFOLD:C1CC2CCC1CO2,3,0,0.2849947768984004,0.2666666666666666,correct,false_positive
+42,Calcium phosphate,24456,10103-46-5,O=P([O-])([O-])[O-].O=P([O-])([O-])[O-].[Ca+2].[Ca+2].[Ca+2],ACYCLIC:O=P([O-])([O-])[O-],3,0,0.4377566311802782,0.2727272727272727,correct,false_positive
+48,Cadmium chloride (CdCl2),24947,10108-64-2,Cl[Cd]Cl,ACYCLIC:[Cl][Cd][Cl],3,1,0.2674612205796463,0.1428571428571428,false_negative,false_negative
+55,Ferric phosphate,24861,10045-86-0,O=P([O-])([O-])[O-].[Fe+3],ACYCLIC:O=P([O-])([O-])[O-],3,0,0.4385278607575266,0.2727272727272727,correct,false_positive
+58,Ferric pyrophosphate,24877,10058-44-3,O=P([O-])([O-])OP(=O)([O-])[O-].O=P([O-])([O-])OP(=O)([O-])[O-].O=P([O-])([O-])OP(=O)([O-])[O-].[Fe+3].[Fe+3].[Fe+3].[Fe+3],ACYCLIC:O=P([O-])([O-])OP(=O)([O-])[O-],3,0,0.4659151897429358,0.238095238095238,correct,false_positive
+71,Calcium arsenate,24501,7778-44-1,O=[As]([O-])([O-])[O-].O=[As]([O-])([O-])[O-].[Ca+2].[Ca+2].[Ca+2],ACYCLIC:O=[As]([O-])([O-])[O-],3,1,0.3160375581544128,0.6,false_negative,correct
+76,Alpha-terpinoline,11463,586-62-9,CC1=CCC(=C(C)C)CC1,SCAFFOLD:C=C1CC=CCC1,3,0,0.286130134890534,0.2258064516129032,correct,false_positive
+79,Alpha-terpineol,17100,98-55-5,CC1=CCC(C(C)(C)O)CC1,SCAFFOLD:C1=CCCCC1,3,0,0.2582836316592141,0.2857142857142857,correct,correct
+92,"2-[(Dimethoxyphosphinothioyl)thio]butanedioic acid 1,4-diethyl ester",4004,121-75-5,CCOC(=O)CC(SP(=S)(OC)OC)C(=O)OCC,ACYCLIC:CCOC(=O)CC(SP(=S)(OC)OC)C(=O)OCC,3,1,0.7880562817123401,0.5,correct,correct
+109,Nerolidol,5284507,7212-44-4,C=CC(C)(O)CCC=C(C)CCC=C(C)C,ACYCLIC:C=CC(C)(O)CCC=C(C)CCC=C(C)C,3,0,0.2594453424709443,0.7857142857142857,correct,correct
+111,"N-[1-[(Butylamino)carbonyl]-1H-benzimidazol-2-yl]carbamic acid, Methyl ester",28780,17804-35-2,CCCCNC(=O)n1c(NC(=O)OC)nc2ccccc21,SCAFFOLD:c1ccc2[nH]cnc2c1,3,1,0.2693189204649673,0.2777777777777778,false_negative,false_negative
+116,"Phosphorodithioic acid O,O-diethyl S-[(4-oxo-1,2,3-benzotriazin-3(4H)-yl)methyl] ester",17531,2642-71-9,CCOP(=S)(OCC)SCn1nnc2ccccc2c1=O,SCAFFOLD:O=c1[nH]nnc2ccccc12,3,1,0.8852948783872382,0.3770491803278688,correct,correct
+123,Paraffin oils,68245,8012-95-1,Oc1cc(O)c2cc(O)c(-c3cc(O)c(O)c(O)c3)[o+]c2c1.[Cl-],SCAFFOLD:c1ccc(-c2ccc3ccccc3[o+]2)cc1,3,0,0.2835231163734067,0.1794871794871795,correct,false_positive
+125,Sulfuryl fluoride,17607,2699-79-8,O=S(=O)(F)F,ACYCLIC:O=S(=O)(F)F,3,1,0.2320368627388189,0.3,false_negative,false_negative
+133,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester",3082,60-51-5,CNC(=O)CSP(=S)(OC)OC,ACYCLIC:CNC(=O)CSP(=S)(OC)OC,3,1,0.8807148949078113,0.6333333333333333,correct,correct
+136,(3-Methylphenyl)carbamic acid 3-[(methoxycarbonyl)amino]phenyl ester,24744,13684-63-4,COC(=O)Nc1cccc(OC(=O)Nc2cccc(C)c2)c1,SCAFFOLD:O=C(Nc1ccccc1)Oc1ccccc1,3,0,0.4480789090218007,0.4468085106382978,correct,false_positive
+140,Garlic extract,16315,8008-99-9,C=CCSCC=C,ACYCLIC:C=CCSCC=C,3,0,0.3616134006559371,0.1764705882352941,correct,false_positive
+141,Dicyclopentadiene,6492,77-73-6,C1=CC2C3C=CC(C3)C2C1,SCAFFOLD:C1=CC2C3C=CC(C3)C2C1,3,0,0.3920706195972639,0.2424242424242424,correct,false_positive
+142,"N,N,N',N'-Tetramethylthioperoxydicarbonic diamide ([(H2N)C(S)]2S2)",5455,137-26-8,CN(C)C(=S)SSC(=S)N(C)C,ACYCLIC:CN(C)C(=S)SSC(=S)N(C)C,3,0,0.3953004386020948,0.3888888888888889,correct,false_positive
+146,Alpha-pinene,6654,80-56-8,CC1=CCC2CC1C2(C)C,SCAFFOLD:C1=CC2CC(C1)C2,3,0,0.377654191103978,0.40625,correct,false_positive
+154,"1,1'-Dimethyl-4,4'-bipyridinium chloride (1:2)",15938,1910-42-5,C[n+]1ccc(-c2cc[n+](C)cc2)cc1.[Cl-].[Cl-],SCAFFOLD:c1cc(-c2cc[nH+]cc2)cc[nH+]1,3,0,0.2603330485611053,0.1923076923076923,correct,correct
+159,Tribenuron-methyl (Ref: DPX L5300),153909,101200-48-0,COC(=O)c1ccccc1S(=O)(=O)NC(=O)N(C)c1nc(C)nc(OC)n1,SCAFFOLD:O=C(Nc1ncncn1)NS(=O)(=O)c1ccccc1,3,1,0.1569590612945586,0.5,false_negative,false_negative
+161,Piperonyl butoxide (Ref: ENT 14250),5794,51-03-6,CCCCOCCOCCOCc1cc2c(cc1CCC)OCO2,SCAFFOLD:c1ccc2c(c1)OCO2,3,0,0.3461173811071022,0.25,correct,false_positive
+162,Sulfur,5362487,7704-34-9,[S],ACYCLIC:[S],3,0,0.2720714412772457,0.0526315789473684,correct,false_positive
+165,Metsulfuron-methyl (Ref: DPX T6376),52999,74223-64-6,COC(=O)c1ccccc1S(=O)(=O)NC(=O)Nc1nc(C)nc(OC)n1,SCAFFOLD:O=C(Nc1ncncn1)NS(=O)(=O)c1ccccc1,3,0,0.0983474119621715,0.72,correct,correct
+169,Cadmium,23973,7440-43-9,[Cd],ACYCLIC:[Cd],3,0,0.2720714412772457,0.0384615384615384,correct,false_positive
+174,Borax,16211214,1303-96-4,O.O.O.O.O.O.O.O.O.O.O=BOB([O-])OB([O-])OB=O.[Na+].[Na+],ACYCLIC:O=BOB([O-])OB([O-])OB=O,3,0,0.3121517431199065,0.1578947368421052,correct,false_positive
+179,Abamectin (Ref: MK 936),6435890,71751-41-2,CCC(C)C1OC2(C=CC1C)CC1CC(CC=C(C)C(OC3CC(OC)C(OC4CC(OC)C(O)C(C)O4)C(C)O3)C(C)C=CC=C3COC4C(O)C(C)=CC(C(=O)O1)C34O)O2.COC1CC(OC2C(C)OC(OC3C(C)=CCC4CC(CC5(C=CC(C)C(C(C)C)O5)O4)OC(=O)C4C=C(C)C(O)C5OCC(=CC=CC3C)C45O)CC2OC)OC(C)C1O,SCAFFOLD:O=C1OC2CC(CC=CC(OC3CCC(OC4CCCCO4)CO3)CC=CC=C3COC4CC=CC1C34)OC1(C=CCCO1)C2,3,1,0.5770609652962712,0.4333333333333333,correct,correct
+187,"2-[4-(1,1-Dimethylethyl)phenoxy]cyclohexyl 2-propynyl ester sulfurous acid",4936,2312-35-8,C#CCOS(=O)OC1CCCCC1Oc1ccc(C(C)(C)C)cc1,SCAFFOLD:c1ccc(OC2CCCCC2)cc1,3,0,0.4601636648956579,0.25,correct,false_positive
+203,"2-Cyclohexyl-4,6-dinitrophenol",8540,131-89-5,O=[N+]([O-])c1cc(C2CCCCC2)c(O)c([N+](=O)[O-])c1,SCAFFOLD:c1ccc(C2CCCCC2)cc1,3,0,0.2791297732641062,0.5,correct,false_positive
+204,"2-[(1,1-Dimethylethyl)imino]tetrahydro-3-(1-methylethyl)-5-phenyl-4H-1,3,5-thiadiazin-4-one",50367,69327-76-0,CC(C)N1C(=O)N(c2ccccc2)CSC1=NC(C)(C)C,SCAFFOLD:N=C1NC(=O)N(c2ccccc2)CS1,3,0,0.3113568264522665,0.2222222222222222,correct,false_positive
+205,"1,4,5,6,7,8,8-Heptachloro-3a,4,7,7a-tetrahydro-4,7-methano-1H-indene",3589,76-44-8,ClC1=C(Cl)C2(Cl)C3C(Cl)C=CC3C1(Cl)C2(Cl)Cl,SCAFFOLD:C1=CC2C3C=CC(C3)C2C1,3,1,0.5981290470409425,0.5,correct,correct
+216,"O,O-Diethyl S-[2-(ethylsulfanyl)ethyl] phosphorothioate",24723,126-75-0,CCOP(=O)(OCC)SCCSCC,ACYCLIC:CCOP(=O)(OCC)SCCSCC,3,1,0.8495202206503304,0.5862068965517241,correct,correct
+217,"2-Chloro-N-[[(4-methoxy-6-methyl-1,3,5-triazin-2-yl)amino]carbonyl]benzenesulfonamide",47491,64902-72-3,COc1nc(C)nc(NC(=O)NS(=O)(=O)c2ccccc2Cl)n1,SCAFFOLD:O=C(Nc1ncncn1)NS(=O)(=O)c1ccccc1,3,0,0.108133827013946,0.5254237288135594,correct,correct
+221,"N,N-Bis(1-methylethyl)carbamothioic acid, S-(2,3,3-trichloro-2-propen-1-yl) ester",5543,2303-17-5,CC(C)N(C(=O)SCC(Cl)=C(Cl)Cl)C(C)C,ACYCLIC:CC(C)N(C(=O)SCC(Cl)=C(Cl)Cl)C(C)C,3,0,0.3985282637615744,0.3055555555555556,correct,false_positive
+226,"O,O-Diethyl O-[6-methyl-2-(1-methylethyl)-4-pyrimidinyl] ester phosphorothioic acid",3017,333-41-5,CCOP(=S)(OCC)Oc1cc(C)nc(C(C)C)n1,SCAFFOLD:c1cncnc1,3,1,0.8477490711845557,0.425531914893617,correct,correct
+227,Fosetyl,6328134,15845-66-6,CCOP(=O)=O,ACYCLIC:CCOP(=O)=O,3,0,0.4160210056281249,0.2916666666666667,correct,false_positive
+231,Demeton-O-methyl (Ref: ENT 18862),13346,867-27-6,CCSCCOP(=S)(OC)OC,ACYCLIC:CCSCCOP(=S)(OC)OC,3,1,0.8679743384398982,0.7037037037037037,correct,correct
+235,"Thiodiphosphoric acid, Tetrapropyl ester",18609,3244-90-4,CCCOP(=S)(OCCC)OP(=S)(OCCC)OCCC,ACYCLIC:CCCOP(=S)(OCCC)OP(=S)(OCCC)OCCC,3,0,0.7795510057690631,0.3793103448275862,false_positive,false_positive
+236,Chlorbenside (Ref: ENT 20696),7639,103-17-3,Clc1ccc(CSc2ccc(Cl)cc2)cc1,SCAFFOLD:c1ccc(CSc2ccccc2)cc1,3,0,0.4754537170578502,0.4,correct,false_positive
+237,"N,N'-1,2-Ethanediylbiscarbamodithioic acid, Sodium salt (1:2)",3032297,142-59-6,S=C([S-])NCCNC(=S)[S-].[Na+].[Na+],ACYCLIC:S=C([S-])NCCNC(=S)[S-],3,0,0.3534315023665291,0.3846153846153846,correct,false_positive
+242,Myristyl acetate,12531,638-59-5,CCCCCCCCCCCCCCOC(C)=O,ACYCLIC:CCCCCCCCCCCCCCOC(C)=O,3,0,0.1862302619686364,0.6666666666666666,correct,correct
+246,"O,O-Dimethyl S-[(4-oxo-1,2,3-benzotriazin-3(4H)-yl)methyl] ester, Phosphorodithioic acid",2268,86-50-0,COP(=S)(OC)SCn1nnc2ccccc2c1=O,SCAFFOLD:O=c1[nH]nnc2ccccc12,3,1,0.8600363630617288,0.4893617021276595,correct,correct
+251,Delnav,6531,78-34-2,CCOP(=S)(OCC)SC1OCCOC1SP(=S)(OCC)OCC,SCAFFOLD:C1COCCO1,3,0,0.8794765822445192,0.4333333333333333,false_positive,false_positive
+257,Metam-sodium (Ref: N 869),5366415,137-42-8,CNC(=S)[S-].[Na+],ACYCLIC:CNC(=S)[S-],3,0,0.4615802265996327,0.3333333333333333,correct,false_positive
+260,Naptalam (Ref: ACP 322),8594,132-66-1,O=C(O)c1ccccc1C(=O)Nc1cccc2ccccc12,SCAFFOLD:O=C(Nc1cccc2ccccc12)c1ccccc1,3,0,0.2217004033402143,0.3846153846153846,correct,correct
+262,"S-[2-(Ethylthio)ethyl]O,O-dimethyl ester phosphorothioic acid",13526,919-86-8,CCSCCSP(=O)(OC)OC,ACYCLIC:CCSCCSP(=O)(OC)OC,3,1,0.8118086044656835,0.5714285714285714,correct,correct
+268,2-[4-[(6-Chloro-2-quinoxalinyl)oxy]phenoxy]propanoic acid,178795,76578-12-6,CC(Oc1ccc(Oc2cnc3cc(Cl)ccc3n2)cc1)C(=O)O,SCAFFOLD:c1ccc(Oc2cnc3ccccc3n2)cc1,3,0,0.1236491131749535,0.6190476190476191,correct,correct
+269,"2-[(3,5,6-Trichloro-2-pyridinyl)oxy]acetic acid",41428,55335-06-3,O=C(O)COc1nc(Cl)c(Cl)cc1Cl,SCAFFOLD:c1ccncc1,3,0,0.1172828731610435,0.4473684210526316,correct,correct
+279,"Phosphoric acid, 2-Chloro-3-(diethylamino)-1-methyl-3-oxo-1-propen-1-yl dimethyl ester",3032604,13171-21-6,CCN(CC)C(=O)C(Cl)=C(C)OP(=O)(OC)OC,ACYCLIC:CCN(CC)C(=O)C(Cl)=C(C)OP(=O)(OC)OC,3,1,0.7314152518447792,0.3658536585365853,correct,correct
+282,Daminozide,15331,1596-84-5,CN(C)NC(=O)CCC(=O)O,ACYCLIC:CN(C)NC(=O)CCC(=O)O,3,0,0.1513564589900365,0.3214285714285714,correct,correct
+283,"1,1'-Dimethyl-4,4'-bipyridinium",15939,4685-14-7,C[n+]1ccc(-c2cc[n+](C)cc2)cc1,SCAFFOLD:c1cc(-c2cc[nH+]cc2)cc[nH+]1,3,1,0.2705366341863942,0.2,false_negative,false_negative
+285,Dikegulac,65420,18467-77-1,CC1(C)OCC2OC3(C(=O)O)OC(C)(C)OC3C2O1,SCAFFOLD:C1OCC2OC3OCOC3C2O1,3,0,0.2943692422275802,0.2040816326530612,correct,false_positive
+287,Dimetilan,12572,644-64-4,Cc1cc(OC(=O)N(C)C)nn1C(=O)N(C)C,SCAFFOLD:c1cn[nH]c1,3,1,0.3765636731540822,0.3090909090909091,false_negative,correct
+294,6-Chloro-3-pyridinecarboxylic acid,79222,5326-23-8,O=C(O)c1ccc(Cl)nc1,SCAFFOLD:c1ccncc1,3,0,0.3027489241756731,0.3846153846153846,correct,false_positive
+301,Vamidothion (Ref: ENT 26613),560193,2275-23-2,CNC(=O)C(C)SCCSP(=O)(OC)OC,ACYCLIC:CNC(=O)C(C)SCCSP(=O)(OC)OC,3,1,0.7460496069059537,0.4864864864864865,correct,correct
+302,Dalapon-sodium,517058,127-20-8,CC(Cl)(Cl)C(=O)[O-].[Na+],ACYCLIC:CC(Cl)(Cl)C(=O)[O-],3,0,0.2187827564942057,0.625,correct,correct
+304,"1,1a,3,3a,4,5,5,5a,5b,6-Decachlorooctahydro-1,3,4-metheno-2H-cyclobuta[cd]pentalen-2-one",299,143-50-0,O=C1C2(Cl)C3(Cl)C4(Cl)C(Cl)(Cl)C5(Cl)C3(Cl)C1(Cl)C5(Cl)C24Cl,SCAFFOLD:O=C1C2C3C4CC5C3C1C5C42,3,1,0.4171338267463138,0.4375,false_negative,correct
+308,"Phosphorothioic acid, O,O-Diethyl O-2-pyrazinyl ester  ",9272,297-97-2,CCOP(=S)(OCC)Oc1cnccn1,SCAFFOLD:c1cnccn1,3,1,0.909606946727648,0.5121951219512195,correct,correct
+311,Bupirimate (Ref: PP 588),38884,41483-43-6,CCCCc1c(C)nc(NCC)nc1OS(=O)(=O)N(C)C,SCAFFOLD:c1cncnc1,3,0,0.2556999165820522,0.3461538461538461,correct,correct
+315,1-methylcyclopropene,151080,3100-04-7,CC1=CC1,SCAFFOLD:C1=CC1,3,1,0.2365377457418531,0.3043478260869565,false_negative,false_negative
+319,"N,N-dimethylcarbamic acid 3-methyl-1-(1-methylethyl)-1H-pyrazol-5-yl ester",8393,119-38-0,Cc1cc(OC(=O)N(C)C)n(C(C)C)n1,SCAFFOLD:c1cn[nH]c1,3,1,0.3424065331271433,0.2553191489361702,false_negative,correct
+325,"1,3-Dithiolo[4,5-b]quinoxaline-2-thione",7159,93-75-4,S=c1sc2nc3ccccc3nc2s1,SCAFFOLD:S=c1sc2nc3ccccc3nc2s1,3,0,0.4576187690815992,0.3529411764705882,correct,false_positive
+326,"[[2-[(Dithiocarboxy)amino]ethyl]carbamodithioato(2-)-kappaS,kappaS']manganese",3032581,12427-38-2,S=C([S-])NCCNC(=S)[S-].[Mn+2],ACYCLIC:S=C([S-])NCCNC(=S)[S-],3,0,0.3565795622566541,0.3846153846153846,correct,false_positive
+330,Gibberellins,622971,8030-53-3,C=C1CC23CC1CCC2C12CCC(O)C(C)(C(=O)O1)C2C3C(=O)O,SCAFFOLD:C=C1CC23CC1CCC2C12CCCC(C(=O)O1)C2C3,3,0,0.3992007546435345,0.4084507042253521,correct,false_positive
+335,"4-Amino-3,5,6-trichloro-2-pyridinecarboxylic acid",15965,1918-02-1,Nc1c(Cl)c(Cl)nc(C(=O)O)c1Cl,SCAFFOLD:c1ccncc1,3,0,0.1562085635753399,0.3142857142857143,correct,correct
+343,2-Chloro-6-(trichloromethyl)pyridine,16004,1929-82-4,Clc1cccc(C(Cl)(Cl)Cl)n1,SCAFFOLD:c1ccncc1,3,0,0.295940639051,0.2758620689655172,correct,false_positive
+350,"3-[(Dimethoxyphosphinyl)oxy]-2-pentenedioic acid, Dimethyl ester",31199,122-10-1,COC(=O)C=C(CC(=O)OC)OP(=O)(OC)OC,ACYCLIC:COC(=O)C=C(CC(=O)OC)OP(=O)(OC)OC,3,1,0.7406566627701548,0.3846153846153846,correct,correct
+354,Mancozeb,13307026,8018-01-7,S=C([S-])NCCNC(=S)[S-].S=C([S-])NCCNC(=S)[S-].[Mn+2].[Zn+2],ACYCLIC:S=C([S-])NCCNC(=S)[S-],3,0,0.3515032278774339,0.4230769230769231,correct,false_positive
+358,2-(Dimethylamino)-N-[[(methylamino)carbonyl]oxy]-2-oxo-ethanimidothioic acid methyl ester,9595287,23135-22-0,CNC(=O)ON=C(SC)C(=O)N(C)C,ACYCLIC:CNC(=O)ON=C(SC)C(=O)N(C)C,3,1,0.7759720694173449,0.5454545454545454,correct,correct
+360,Monocrotophos (Ref: ENT 27129),5371562,6923-22-4,CNC(=O)/C=C(\C)OP(=O)(OC)OC,ACYCLIC:CNC(=O)/C=C(\C)OP(=O)(OC)OC,3,1,0.7964029831146089,0.5757575757575758,correct,correct
+361,"Phosphorothioic acid, O,O-Diethyl O-(3,5,6-trichloro-2-pyridinyl) ester",2730,2921-88-2,CCOP(=S)(OCC)Oc1nc(Cl)c(Cl)cc1Cl,SCAFFOLD:c1ccncc1,3,1,0.8788786921329063,0.4761904761904761,correct,correct
+387,"5,6-Dihydro-2-methyl-N-phenyl-1,4-oxathiin-3-carboxamide",21307,5234-68-4,CC1=C(C(=O)Nc2ccccc2)SCCO1,SCAFFOLD:O=C(Nc1ccccc1)C1=COCCS1,3,0,0.1996777307930514,0.5333333333333333,correct,correct
+388,N-1H-Benzimidazol-2-yl carbamic acid methyl ester,25429,10605-21-7,COC(=O)Nc1nc2ccccc2[nH]1,SCAFFOLD:c1ccc2[nH]cnc2c1,3,0,0.3570202720518772,0.3571428571428571,correct,false_positive
+391,Benazolin (Ref: RD 7693),19662,3813-05-6,O=C(O)Cn1c(=O)sc2cccc(Cl)c21,SCAFFOLD:O=c1[nH]c2ccccc2s1,3,0,0.1947628013478987,0.2765957446808511,correct,correct
+393,"Benzo[b]thiophene-4-ol, 4-(N-methylcarbamate)",14119,1079-33-0,CNC(=O)Oc1cccc2sccc12,SCAFFOLD:c1ccc2sccc2c1,3,1,0.8536524542589338,0.5789473684210527,correct,correct
+395,Fenclorim (Ref: CGA 123407),77338,3740-92-9,Clc1cc(Cl)nc(-c2ccccc2)n1,SCAFFOLD:c1ccc(-c2ncccn2)cc1,3,0,0.337769866223781,0.3243243243243243,correct,false_positive
+399,Looplure (Ref: ENT 33266),5363527,14959-86-5,CCCCC=CCCCCCCOC(C)=O,ACYCLIC:CCCCC=CCCCCCCOC(C)=O,3,0,0.2364857470191868,0.9615384615384616,correct,correct
+403,Picloram-methyl,84224,14143-55-6,COC(=O)c1nc(Cl)c(Cl)c(N)c1Cl,SCAFFOLD:c1ccncc1,3,0,0.1607663359725405,0.4333333333333333,correct,correct
+404,Anilazine (Ref: ENT 26 058),7541,101-05-3,Clc1nc(Cl)nc(Nc2ccccc2Cl)n1,SCAFFOLD:c1ccc(Nc2ncncn2)cc1,3,0,0.230461965049454,0.3125,correct,correct
+424,"4-Amino-3,5,6-trichloro-2-pyridinecarboxylic acid, Potassium salt (1:1)",23664718,2545-60-0,Nc1c(Cl)c(Cl)nc(C(=O)[O-])c1Cl.[K+],SCAFFOLD:c1ccncc1,3,0,0.1810579510330801,0.2307692307692307,correct,correct
+425,"O,O-Dimethyl O-[2-(methylthio)ethyl]ester phosphorothioic acid mixt. with O,O-dimethyl S-[2-(methylthio)ethyl]phosphorothioate",115122,8065-62-1,COP(=O)(OC)SCCSC.COP(=S)(OC)OCCSC,ACYCLIC:COP(=S)(OC)OCCSC,3,1,0.8760124267330103,0.3846153846153846,correct,correct
+429,"N-[3-[[(Phenylamino)carbonyl]oxy]phenyl]carbamic acid, Ethyl ester",24743,13684-56-5,CCOC(=O)Nc1cccc(OC(=O)Nc2ccccc2)c1,SCAFFOLD:O=C(Nc1ccccc1)Oc1ccccc1,3,0,0.4371603076171152,0.4583333333333333,correct,false_positive
+432,Glufosinate-ammonium (Ref: HOE 039866),53597,77182-82-2,CP(=O)(O)CCC(N)C(=O)[O-].[NH4+],ACYCLIC:CP(=O)(O)CCC(N)C(=O)[O-],3,0,0.3612103796919281,0.6551724137931034,correct,false_positive
+434,"2-[(Diethoxyphosphinothionyl)oxy]-5-methylpyrazolo[1,5-a]pyrimidine-6-carboxylic acid ethyl ester",26033,13457-18-6,CCOC(=O)c1cn2nc(OP(=S)(OCC)OCC)cc2nc1C,SCAFFOLD:c1cnc2ccnn2c1,3,1,0.7712604903623338,0.3666666666666666,correct,correct
+437,Pirimicarb (Ref: OMS 1330),31645,23103-98-2,Cc1nc(N(C)C)nc(OC(=O)N(C)C)c1C,SCAFFOLD:c1cncnc1,3,1,0.3397527246466977,0.2444444444444444,false_negative,correct
+441,"O-[2-(Diethylamino)-6-methyl-4-pyrimidinyl]O,O-dimethyl ester, Phosphorothioic acid",34526,29232-93-7,CCN(CC)c1nc(C)cc(OP(=S)(OC)OC)n1,SCAFFOLD:c1cncnc1,3,1,0.7640655297496314,0.3409090909090909,correct,correct
+442,"Phosphoramidothioic acid, O,S-Dimethyl ester",4096,10265-92-6,COP(N)(=O)SC,ACYCLIC:COP(N)(=O)SC,3,1,0.7039658639981853,0.3571428571428571,correct,correct
+443,"3-[2,4-Dichloro-5-(1-methylethoxy)phenyl]-5-(1,1-dimethylethyl)-1,3,4-oxadiazol-2(3H)-one",29732,19666-30-9,CC(C)Oc1cc(-n2nc(C(C)(C)C)oc2=O)c(Cl)cc1Cl,SCAFFOLD:O=c1ocnn1-c1ccccc1,3,0,0.2608065205189062,0.3137254901960784,correct,correct
+444,Camphechlor (Ref: Hercules 3956),58167,8001-35-2,ClCC1(C(Cl)Cl)C2CC(Cl)(Cl)C1(CCl)C(Cl)C2Cl,SCAFFOLD:C1CC2CCC1C2,3,1,0.5014766666280819,0.1777777777777777,correct,correct
+446,Triazophos (Ref: HOE 002960 ),32184,24017-47-8,CCOP(=S)(OCC)Oc1ncn(-c2ccccc2)n1,SCAFFOLD:c1ccc(-n2cncn2)cc1,3,0,0.8979623608264171,0.5102040816326531,false_positive,false_positive
+448,"2,2-Dimethyl-1,3-benzodioxol-4-ol 4-(N-methylcarbamate)",2314,22781-23-3,CNC(=O)Oc1cccc2c1OC(C)(C)O2,SCAFFOLD:c1ccc2c(c1)OCO2,3,1,0.8468278502036765,0.5909090909090909,correct,correct
+449,"Phosphorothioic acid O-[2-(diethylamino)-6-methyl-4-pyrimidinyl] O,O-diethyl ester",31957,23505-41-1,CCOP(=S)(OCC)Oc1cc(C)nc(N(CC)CC)n1,SCAFFOLD:c1cncnc1,3,1,0.8506506991160769,0.42,correct,correct
+455,Diflubenzuron (Ref: OMS 1804),37123,35367-38-5,O=C(NC(=O)c1c(F)cccc1F)Nc1ccc(Cl)cc1,SCAFFOLD:O=C(NC(=O)c1ccccc1)Nc1ccccc1,3,1,0.1646730211201365,0.5818181818181818,false_negative,false_negative
+459,"O,O-Dimethyl O-(3,5,6-trichloro-2-pyridinyl) ester phosphorothioic acid",21803,5598-13-0,COP(=S)(OC)Oc1nc(Cl)c(Cl)cc1Cl,SCAFFOLD:c1ccncc1,3,1,0.7975566952328423,0.5294117647058824,correct,correct
+460,Dodemorph,61899,1593-77-7,CC1CN(C2CCCCCCCCCCC2)CC(C)O1,SCAFFOLD:C1CCCCCC(N2CCOCC2)CCCCC1,3,0,0.2324529128803098,0.3235294117647059,correct,correct
+463,2-[(1-Naphthalenylamino)carbonyl]benzoic acid sodium salt (1:1),23690427,132-67-2,O=C([O-])c1ccccc1C(=O)Nc1cccc2ccccc12.[Na+],SCAFFOLD:O=C(Nc1cccc2ccccc12)c1ccccc1,3,0,0.2355406707318391,0.4146341463414634,correct,correct
+465,Codlemone (Ref: BAS 2851),1787910,33956-49-9,CC=CC=CCCCCCCCO,ACYCLIC:CC=CC=CCCCCCCCO,3,0,0.3000975290493582,0.5384615384615384,correct,false_positive
+468,Hydroprene (Ref: OMS 1696),5372477,41096-46-2,CCOC(=O)C=C(C)C=CCC(C)CCCC(C)C,ACYCLIC:CCOC(=O)C=C(C)C=CCC(C)CCCC(C)C,3,1,0.3725657075388645,0.7272727272727273,false_negative,correct
+470,"1-[2-(2,4-Dichlorophenyl)-2-(2-propenyloxy)ethyl]-1H-imidazole",37175,35554-44-0,C=CCOC(Cn1ccnc1)c1ccc(Cl)cc1Cl,SCAFFOLD:c1ccc(CCn2ccnc2)cc1,3,0,0.3359513339591508,0.35,correct,false_positive
+496,1-Methyl-3-phenyl-5-[3-(trifluoromethyl)phenyl]-4(1H)pyridinone,43079,59756-60-4,Cn1cc(-c2ccccc2)c(=O)c(-c2cccc(C(F)(F)F)c2)c1,SCAFFOLD:O=c1c(-c2ccccc2)c[nH]cc1-c1ccccc1,3,0,0.2117445512521486,0.4074074074074074,correct,correct
+500,Lufenuron (Ref: CGA 184699),71777,103055-07-8,O=C(NC(=O)c1c(F)cccc1F)Nc1cc(Cl)c(OC(F)(F)C(F)C(F)(F)F)cc1Cl,SCAFFOLD:O=C(NC(=O)c1ccccc1)Nc1ccccc1,3,0,0.1895260081868214,0.5230769230769231,correct,correct
+508,N-[2-[3-Chloro-5-(trifluoromethyl)-2-pyridinyl]ethyl]-2-(trifluoromethyl)benzamide,11158353,658066-35-4,O=C(NCCc1ncc(C(F)(F)F)cc1Cl)c1ccccc1C(F)(F)F,SCAFFOLD:O=C(NCCc1ccccn1)c1ccccc1,3,0,0.2090068905303171,0.5740740740740741,correct,correct
+513,"2,3:4,6-bis-O-(1-Methylethylidene)-alpha-L-xylo-2-hexulofuranosonic acid, Sodium salt",23667639,52508-35-7,CC1(C)OCC2OC3(C(=O)[O-])OC(C)(C)OC3C2O1.[Na+],SCAFFOLD:C1OCC2OC3OCOC3C2O1,3,0,0.3103175713728986,0.196078431372549,correct,false_positive
+515,"3,6-Dichloro-2-pyridinecarboxylic acid",15553,1702-17-6,O=C(O)c1nc(Cl)ccc1Cl,SCAFFOLD:c1ccncc1,3,0,0.2108274301907031,0.4285714285714285,correct,correct
+517,Procymidone (Ref: S 7131),36242,32809-16-8,CC12CC1(C)C(=O)N(c1cc(Cl)cc(Cl)c1)C2=O,SCAFFOLD:O=C1C2CC2C(=O)N1c1ccccc1,3,0,0.2716462771204241,0.4615384615384615,correct,false_positive
+522,Flutriafol (Ref: PP 450),91727,76674-21-0,OC(Cn1cncn1)(c1ccc(F)cc1)c1ccccc1F,SCAFFOLD:c1ccc(C(Cn2cncn2)c2ccccc2)cc1,3,1,0.2587985486568253,0.4081632653061224,false_negative,false_negative
+525,Furalaxyl (Ref: IPE 134),42504,57646-30-7,COC(=O)C(C)N(C(=O)c1ccco1)c1c(C)cccc1C,SCAFFOLD:O=C(Nc1ccccc1)c1ccco1,3,1,0.1933606884646902,0.5957446808510638,false_negative,false_negative
+532,"2,6-Difluoro-N-[[[4-(trifluoromethyl)phenyl]amino]carbonyl]benzamide",107651,35367-31-8,O=C(NC(=O)c1c(F)cccc1F)Nc1ccc(C(F)(F)F)cc1,SCAFFOLD:O=C(NC(=O)c1ccccc1)Nc1ccccc1,3,1,0.1706721356190045,0.5178571428571429,false_negative,false_negative
+536,Triflumuron (Ref: OMS 2015),47445,64628-44-0,O=C(NC(=O)c1ccccc1Cl)Nc1ccc(OC(F)(F)F)cc1,SCAFFOLD:O=C(NC(=O)c1ccccc1)Nc1ccccc1,3,0,0.237172811989178,0.352112676056338,correct,correct
+545,Copper II acetate,8895,142-71-2,CC(=O)[O-].CC(=O)[O-].[Cu+2],ACYCLIC:CC(=O)[O-],3,0,0.1988781600438505,0.6,correct,correct
+549,Etrimfos,37995,38260-54-7,CCOc1cc(OP(=S)(OC)OC)nc(CC)n1,SCAFFOLD:c1cncnc1,3,1,0.7985524187684512,0.3541666666666667,correct,correct
+551,"N,N'-[Thiobis[(methylimino)carbonyloxy]]bisethanimidothioic acid dimethyl ester",62155,59669-26-0,CSC(C)=NOC(=O)N(C)SN(C)C(=O)ON=C(C)SC,ACYCLIC:CSC(C)=NOC(=O)N(C)SN(C)C(=O)ON=C(C)SC,3,1,0.467552777799586,0.5161290322580645,false_negative,correct
+556,Climbazole (Ref: 106162),37907,38083-17-9,CC(C)(C)C(=O)C(Oc1ccc(Cl)cc1)n1ccnc1,SCAFFOLD:c1ccc(OCn2ccnc2)cc1,3,1,0.207128307566915,0.625,false_negative,false_negative
+563,Triclopyr-triethylammonium,42163,57213-69-1,CCN(CC)CC.O=C(O)COc1nc(Cl)c(Cl)cc1Cl,SCAFFOLD:c1ccncc1,3,0,0.1217870029996519,0.3777777777777777,correct,correct
+565,Cartap hydrochloride,30913,15263-52-2,CN(C)C(CSC(N)=O)CSC(N)=O.Cl,ACYCLIC:CN(C)C(CSC(N)=O)CSC(N)=O,3,1,0.3289964081738699,0.2571428571428571,false_negative,correct
+568,Thiocyclam oxalate (Ref: SAN 1551),35969,31895-22-4,CN(C)C1CSSSC1.O=C(O)C(=O)O,SCAFFOLD:C1CSSSC1,3,0,0.2349770469380456,0.2727272727272727,correct,correct
+573,Dimefuron (Ref: RP 23465),91612,34205-21-5,CN(C)C(=O)Nc1ccc(-n2nc(C(C)(C)C)oc2=O)c(Cl)c1,SCAFFOLD:O=c1ocnn1-c1ccccc1,3,0,0.1785523528318669,0.4897959183673469,correct,correct
+574,Pencycuron (Ref: NTN 19701),91692,66063-05-6,O=C(Nc1ccccc1)N(Cc1ccc(Cl)cc1)C1CCCC1,SCAFFOLD:O=C(Nc1ccccc1)N(Cc1ccccc1)C1CCCC1,3,0,0.2743320690850562,0.4,correct,false_positive
+577,Azamethiphos (Ref: GCA 18809),71482,35575-96-3,COP(=O)(OC)SCn1c(=O)oc2cc(Cl)cnc21,SCAFFOLD:O=c1[nH]c2ncccc2o1,3,1,0.6585380073889431,0.4166666666666667,correct,correct
+584,Teflubenzuron (Ref: CME 13406),91734,83121-18-0,O=C(NC(=O)c1c(F)cccc1F)Nc1cc(Cl)c(F)c(Cl)c1F,SCAFFOLD:O=C(NC(=O)c1ccccc1)Nc1ccccc1,3,0,0.1696794417901271,0.4915254237288136,correct,correct
+593,"Tetrahydro-5,5-dimethyl-2(1H)-pyrimidio[3-[4-trifluoromethyl)phenyl]-1-[2-[4-(trifluoromethyl)phenyl]ethenyl]-2-propenylidene]hydrazone",5281875,67485-29-4,CC1(C)CN=C(NN=C(C=Cc2ccc(C(F)(F)F)cc2)C=Cc2ccc(C(F)(F)F)cc2)NC1,SCAFFOLD:C(=Cc1ccccc1)C(C=Cc1ccccc1)=NNC1=NCCCN1,3,0,0.3508713565295278,0.2063492063492063,correct,false_positive
+598,Piperophos (Ref: C 19 490),32230,24151-93-7,CCCOP(=S)(OCCC)SCC(=O)N1CCCCC1C,SCAFFOLD:C1CCNCC1,3,0,0.7416552310745359,0.2686567164179104,false_positive,false_positive
+599,Quizalofop-ethyl (Ref: DPX Y6202),53518,76578-14-8,CCOC(=O)C(C)Oc1ccc(Oc2cnc3cc(Cl)ccc3n2)cc1,SCAFFOLD:c1ccc(Oc2cnc3ccccc3n2)cc1,3,1,0.1503834912753485,0.6825396825396826,false_negative,false_negative
+606,Fluroxypyr (Ref: DOW 43304-H),50465,69377-81-7,Nc1c(Cl)c(F)nc(OCC(=O)O)c1Cl,SCAFFOLD:c1ccncc1,3,0,0.1128133025269365,0.35,correct,correct
+608,Thiocyclam,35970,31895-21-3,CN(C)C1CSSSC1,SCAFFOLD:C1CSSSC1,3,0,0.3173644265821346,0.1351351351351351,correct,false_positive
+609,Siglure,164964,2425-20-9,CCC(C)OC(=O)C1CC=CCC1C,SCAFFOLD:C1=CCCCC1,3,0,0.2590214093459916,0.5641025641025641,correct,correct
+613,Diniconazole (Ref: XE-779),6436605,83657-24-3,CC(C)(C)C(O)C(=Cc1ccc(Cl)cc1Cl)n1cncn1,SCAFFOLD:C(=Cn1cncn1)c1ccccc1,3,0,0.3405191851597714,0.4482758620689655,correct,false_positive
+615,Chlorfluazuron (Ref: CGA 112913),91708,71422-67-8,O=C(NC(=O)c1c(F)cccc1F)Nc1cc(Cl)c(Oc2ncc(C(F)(F)F)cc2Cl)c(Cl)c1,SCAFFOLD:O=C(NC(=O)c1ccccc1)Nc1ccc(Oc2ccccn2)cc1,3,0,0.1502072606243371,0.5147058823529411,correct,correct
+620,Dodemorph acetate (Ref: BAS 238F),61898,31717-87-0,CC(=O)O.CC1CN(C2CCCCCCCCCCC2)CC(C)O1,SCAFFOLD:C1CCCCCC(N2CCOCC2)CCCCC1,3,0,0.2065944511054426,0.275,correct,correct
+621,Triflumizole (Ref: NF 114 ),91699,99387-89-0,CCCOCC(=Nc1ccc(Cl)cc1C(F)(F)F)n1ccnc1,SCAFFOLD:C(=Nc1ccccc1)n1ccnc1,3,0,0.1793341958623703,0.3571428571428571,correct,correct
+622,Hexaflumuron (Ref: XRD 473),91741,86479-06-3,O=C(NC(=O)c1c(F)cccc1F)Nc1cc(Cl)c(OC(F)(F)C(F)F)c(Cl)c1,SCAFFOLD:O=C(NC(=O)c1ccccc1)Nc1ccccc1,3,0,0.1760680674860699,0.4615384615384615,correct,correct
+623,Bensultap (Ref: OMS 3011),87176,17606-31-4,CN(C)C(CSS(=O)(=O)c1ccccc1)CSS(=O)(=O)c1ccccc1,SCAFFOLD:O=S(=O)(SCCCSS(=O)(=O)c1ccccc1)c1ccccc1,3,0,0.2944874774972111,0.2941176470588235,correct,false_positive
+625,Pyroquilon (Ref: CGA 49104),91665,57369-32-1,O=C1CCc2cccc3c2N1CC3,SCAFFOLD:O=C1CCc2cccc3c2N1CC3,3,0,0.247577820065944,0.2758620689655172,correct,correct
+627,"[(3,5,6-Trichloro-2-pyridinyl)oxy]acetic acid, 2-Butoxyethyl ester",47455,64700-56-7,CCCCOCCOC(=O)COc1nc(Cl)c(Cl)cc1Cl,SCAFFOLD:c1ccncc1,3,0,0.127155629624116,0.5416666666666666,correct,correct
+628,Metsulfuron (Ref: IN F5438),91730,79510-48-8,COc1nc(C)nc(NC(=O)NS(=O)(=O)c2ccccc2C(=O)O)n1,SCAFFOLD:O=C(Nc1ncncn1)NS(=O)(=O)c1ccccc1,3,0,0.1278712792082091,0.68,correct,correct
+632,Fosetyl-aluminium (Ref: RP 32545),6328269,39148-24-8,CCOP(=O)=O.CCOP(=O)=O.CCOP(=O)=O.[Al+3],ACYCLIC:CCOP(=O)=O,3,0,0.4160210056281249,0.28,correct,false_positive
+637,Uniconazole (Ref: XE 1019),6436604,83657-22-1,CC(C)(C)C(O)C(=Cc1ccc(Cl)cc1)n1cncn1,SCAFFOLD:C(=Cn1cncn1)c1ccccc1,3,0,0.3370983062989973,0.4339622641509434,correct,false_positive
+639,Isoxaben (Ref: EAF 496),73672,82558-50-7,CCC(C)(CC)c1cc(NC(=O)c2c(OC)cccc2OC)on1,SCAFFOLD:O=C(Nc1ccno1)c1ccccc1,3,0,0.2453498275209758,0.2833333333333333,correct,correct
+645,"2-(2-Chloroethoxy)-N-[[(4-methoxy-6-methyl-1,3,5-triazin-2-yl)amino]carbonyl]benzenesulfonamide",73282,82097-50-5,COc1nc(C)nc(NC(=O)NS(=O)(=O)c2ccccc2OCCCl)n1,SCAFFOLD:O=C(Nc1ncncn1)NS(=O)(=O)c1ccccc1,3,0,0.1458825697606022,0.4603174603174603,correct,correct
+650,"2-[(2-Chlorophenyl)methyl]-4,4-dimethyl-3-isoxazolidinone",54778,81777-89-1,CC1(C)CON(Cc2ccccc2Cl)C1=O,SCAFFOLD:O=C1CCON1Cc1ccccc1,3,0,0.3359156771959944,0.3529411764705882,correct,false_positive
+658,"2-(Difluoromethyl)-4-(2-methylpropyl)-6-(trifluoromethyl)-3,5-pyridinedicarbothioic acid, S3,S5-Dimethyl ester",91757,97886-45-8,CSC(=O)c1c(C(F)F)nc(C(F)(F)F)c(C(=O)SC)c1CC(C)C,SCAFFOLD:c1ccncc1,3,0,0.3179969116390352,0.4590163934426229,correct,false_positive
+663,Pefurazoate (Ref: UR-0003),93532,101903-30-4,C=CCCCOC(=O)C(CC)N(Cc1ccco1)C(=O)n1ccnc1,SCAFFOLD:O=C(NCc1ccco1)n1ccnc1,3,0,0.3113182957433791,0.3037974683544304,correct,false_positive
+664,Thifensulfuron-methyl (Ref: DPX M6316),73674,79277-27-3,COC(=O)c1sccc1S(=O)(=O)NC(=O)Nc1nc(C)nc(OC)n1,SCAFFOLD:O=C(Nc1ncncn1)NS(=O)(=O)c1ccsc1,3,1,0.1760530058243552,0.4666666666666667,false_negative,false_negative
+668,"2-Chloro-N-[2,6-dinitro-4-(trifluoromethyl)phenyl]-N-ethyl-6-fluorobenzenemethanamine",62210,62924-70-3,CCN(Cc1c(F)cccc1Cl)c1c([N+](=O)[O-])cc(C(F)(F)F)cc1[N+](=O)[O-],SCAFFOLD:c1ccc(CNc2ccccc2)cc1,3,0,0.1800298573888612,0.5471698113207547,correct,correct
+675,Methoxyfenozide (Ref: RH 2485),105010,161050-58-4,COc1cccc(C(=O)NN(C(=O)c2cc(C)cc(C)c2)C(C)(C)C)c1C,SCAFFOLD:O=C(NNC(=O)c1ccccc1)c1ccccc1,3,0,0.2654231993690507,0.5333333333333333,correct,correct
+678,Propoxycarbazone-sodium (Ref: MKH 6561),12056759,181274-15-7,CCCOc1nn(C([O-])=NS(=O)(=O)c2ccccc2C(=O)OC)c(=O)n1C.[Na+],SCAFFOLD:O=c1[nH]cnn1C=NS(=O)(=O)c1ccccc1,3,0,0.1854983689595762,0.7096774193548387,correct,correct
+679,Halofenozide (Ref: RH 0345),114994,112226-61-6,CC(C)(C)N(NC(=O)c1ccc(Cl)cc1)C(=O)c1ccccc1,SCAFFOLD:O=C(NNC(=O)c1ccccc1)c1ccccc1,3,0,0.3112973271530865,0.3387096774193548,correct,false_positive
+685,Aminopyralid (Ref: XDE 750),213012,150114-71-9,Nc1cc(Cl)nc(C(=O)O)c1Cl,SCAFFOLD:c1ccncc1,3,1,0.2440749027206454,0.4545454545454545,false_negative,false_negative
+691,Amisulbrom,10238657,348635-87-0,Cc1c(Br)c2ccc(F)cc2n1S(=O)(=O)c1ncn(S(=O)(=O)N(C)C)n1,SCAFFOLD:O=S(=O)(c1nc[nH]n1)n1ccc2ccccc21,3,0,0.2392630505348287,0.2285714285714285,correct,correct
+694,Clethodim (Ref: RE 45601),135491728,99129-21-2,CCSC(C)CC1CC(=O)C(=C(CC)NOCC=CCl)C(=O)C1,SCAFFOLD:C=C1C(=O)CCCC1=O,3,0,0.356768782803088,0.5689655172413793,correct,false_positive
+695,"[3-(4,5-Dihydro-3-isoxazolyl)-2-methyl-4-(methylsulfonyl)phenyl](5-hydroxy-1-methyl-1H-pyrazol-4-yl)methanone",11302979,210631-68-8,Cc1c(C(=O)c2c[nH]n(C)c2=O)ccc(S(C)(=O)=O)c1C1=NOCC1,SCAFFOLD:O=C(c1cccc(C2=NOCC2)c1)c1c[nH][nH]c1=O,3,0,0.1673379007134184,0.3333333333333333,correct,correct
+702,Propaquizafop (Ref: CGA 233380),16213016,111479-05-1,CC(C)=NOCCOC(=O)C(C)Oc1ccc(Oc2cnc3cc(Cl)ccc3n2)cc1,SCAFFOLD:c1ccc(Oc2cnc3ccccc3n2)cc1,3,0,0.1518050573913481,0.6056338028169014,correct,correct
+706,Cinosulfuron (Ref: CGA 142464),92420,94593-91-6,COCCOc1ccccc1S(=O)(=O)NC(=O)Nc1nc(OC)nc(OC)n1,SCAFFOLD:O=C(Nc1ncncn1)NS(=O)(=O)c1ccccc1,3,0,0.1360171916771098,0.4745762711864407,correct,correct
+711,"1-(1,1-Dimethylethyl)-2-(4-ethylbenzoyl)hydrazide-3,5-dimethylbenzoic acid",91773,112410-23-8,CCc1ccc(C(=O)NN(C(=O)c2cc(C)cc(C)c2)C(C)(C)C)cc1,SCAFFOLD:O=C(NNC(=O)c1ccccc1)c1ccccc1,3,0,0.3932176046361078,0.4745762711864407,correct,false_positive
+712,Fluazinam (Ref: IKF 1216),91731,79622-59-6,O=[N+]([O-])c1cc(C(F)(F)F)c(Cl)c([N+](=O)[O-])c1Nc1ncc(C(F)(F)F)cc1Cl,SCAFFOLD:c1ccc(Nc2ccccn2)cc1,3,0,0.2415221013679468,0.328125,correct,correct
+714,"alpha-[2-(4-Chlorophenyl)ethyl]-alpha-phenyl-1H-1,2,4-triazole-1-propanenitrile",86138,114369-43-6,N#CC(CCc1ccc(Cl)cc1)(Cn1cncn1)c1ccccc1,SCAFFOLD:c1ccc(CCC(Cn2cncn2)c2ccccc2)cc1,3,1,0.4922170085798559,0.6538461538461539,false_negative,correct
+715,"2-[(4-Amino-3,5-dichloro-6-fluoro-2-pyridinyl)oxy]acetic acid 1-methylheptyl ester",54745,81406-37-3,CCCCCCC(C)OC(=O)COc1nc(F)c(Cl)c(N)c1Cl,SCAFFOLD:c1ccncc1,3,0,0.1819497630907611,0.4461538461538462,correct,correct
+719,Thifensulfuron (Ref: IN L9225),91729,79277-67-1,COc1nc(C)nc(NC(=O)NS(=O)(=O)c2ccsc2C(=O)O)n1,SCAFFOLD:O=C(Nc1ncncn1)NS(=O)(=O)c1ccsc1,3,1,0.1796761790983016,0.4333333333333333,false_negative,false_negative
+722,Fenchlorazole-ethyl (Ref: HOE 070542),3033865,103112-35-2,O=C(Oc1ccccc1)n1c(C(F)(F)F)nc2cc(Cl)c(Cl)cc21,SCAFFOLD:O=C(Oc1ccccc1)n1cnc2ccccc21,3,0,0.3804676504461422,0.2727272727272727,correct,false_positive
+731,(alphaE)-alpha-(Methoxyimino)-2-[(2-methylphenoxy)methyl]benzeneacetic acid methyl ester,86438,143390-89-0,CON=C(C(=O)OC)c1ccccc1COc1ccccc1C,SCAFFOLD:c1ccc(COc2ccccc2)cc1,3,0,0.2547670271321124,0.4918032786885246,correct,correct
+738,Fenchlorazole (Ref: HOE 072829),93536,103112-36-3,O=C(O)c1nc(C(Cl)(Cl)Cl)n(-c2ccc(Cl)cc2Cl)n1,SCAFFOLD:c1ccc(-n2cncn2)cc1,3,0,0.2399088644454158,0.3061224489795918,correct,correct
+741,Fenpyroximate (Ref: NNI 850),9576412,134098-61-6,Cc1nn(C)c(Oc2ccccc2)c1C=NOCc1ccc(C(=O)OC(C)(C)C)cc1,SCAFFOLD:C(=NOCc1ccccc1)c1cn[nH]c1Oc1ccccc1,3,0,0.4231070746252076,0.2873563218390804,correct,false_positive
+742,Ethametsulfuron-methyl (Ref: DPX-A7881),91756,97780-06-8,CCOc1nc(NC)nc(NC(=O)NS(=O)(=O)c2ccccc2C(=O)OC)n1,SCAFFOLD:O=C(Nc1ncncn1)NS(=O)(=O)c1ccccc1,3,1,0.1908611322772657,0.6363636363636364,false_negative,false_negative
+745,Aminocyclopyrachlor (Ref: DPX-MAT28),17747875,858956-08-8,Nc1nc(C2CC2)nc(C(=O)O)c1Cl,SCAFFOLD:c1cnc(C2CC2)nc1,3,0,0.1735387998420125,0.2682926829268293,correct,correct
+746,Clofencet (Ref: MON 21250 ),123627,129025-54-3,CCc1c(C(=O)O)c(=O)cnn1-c1ccc(Cl)cc1,SCAFFOLD:O=c1ccn(-c2ccccc2)nc1,3,0,0.1916102541036411,0.32,correct,correct
+751,"2-[2-(1-Chlorocyclopropyl)-3-(2-chlorophenyl)-2-hydroxypropyl]-1,2-dihydro-3H-1,2,4-triazole-3-thione",6451142,178928-70-6,OC(Cc1ccccc1Cl)(Cn1[nH]cnc1=S)C1(Cl)CC1,SCAFFOLD:S=c1nc[nH]n1CC(Cc1ccccc1)C1CC1,3,0,0.4358428548292677,0.25,correct,false_positive
+754,Cadusafos (Ref: FMC 67825),91752,95465-99-9,CCOP(=O)(SC(C)CC)SC(C)CC,ACYCLIC:CCOP(=O)(SC(C)CC)SC(C)CC,3,1,0.766529637002105,0.475,correct,correct
+757,Fluquinconazole (Ref: AE C597265),86417,136426-54-5,O=c1c2cc(F)ccc2nc(-n2cncn2)n1-c1ccc(Cl)cc1Cl,SCAFFOLD:O=c1c2ccccc2nc(-n2cncn2)n1-c1ccccc1,3,0,0.3022696212153726,0.2816901408450704,correct,false_positive
+758,Tribenuron (Ref: IN R9803),91772,106040-48-6,COc1nc(C)nc(N(C)C(=O)NS(=O)(=O)c2ccccc2C(=O)O)n1,SCAFFOLD:O=C(Nc1ncncn1)NS(=O)(=O)c1ccccc1,3,1,0.1795009953939949,0.4655172413793103,false_negative,false_negative
+759,Amidosulfuron,91777,120923-37-7,COc1cc(OC)nc(NC(=O)NS(=O)(=O)N(C)S(C)(=O)=O)n1,SCAFFOLD:c1cncnc1,3,0,0.1538220061435527,0.5454545454545454,correct,correct
+760,Triflusulfuron-methyl (Ref: DPX 66037),92434,126535-15-7,COC(=O)c1cccc(C)c1S(=O)(=O)NC(=O)Nc1nc(OCC(F)(F)F)nc(N(C)C)n1,SCAFFOLD:O=C(Nc1ncncn1)NS(=O)(=O)c1ccccc1,3,0,0.1320600136802141,0.4473684210526316,correct,correct
+762,Triflusulfuron,86416,135990-29-3,Cc1cccc(C(=O)O)c1S(=O)(=O)NC(=O)Nc1nc(OCC(F)(F)F)nc(N(C)C)n1,SCAFFOLD:O=C(Nc1ncncn1)NS(=O)(=O)c1ccccc1,3,0,0.1391210485783889,0.4342105263157895,correct,correct
+764,(alphaE)-2-[[6-(2-Cyanophenoxy)-4-pyrimidinyl]oxy]-alpha-(methoxymethylene)benzeneacetic acid methyl ester,3034285,131860-33-8,COC=C(C(=O)OC)c1ccccc1Oc1cc(Oc2ccccc2C#N)ncn1,SCAFFOLD:c1ccc(Oc2cc(Oc3ccccc3)ncn2)cc1,3,0,0.4633872228274323,0.3684210526315789,correct,false_positive
+766,Furilazole (Ref: MON 13900),86187,121776-33-8,CC1(C)OC(c2ccco2)CN1C(=O)C(Cl)Cl,SCAFFOLD:c1coc(C2CNCO2)c1,3,0,0.3176201283233799,0.3214285714285714,correct,false_positive
+767,"2-[[[[[4-Ethoxy-6-(methylamino)-1,3,5-triazin-2-yl]amino]carbonyl]amino]sulfonyl]benzoic acid",86304,111353-84-5,CCOc1nc(NC)nc(NC(=O)NS(=O)(=O)c2ccccc2C(=O)O)n1,SCAFFOLD:O=C(Nc1ncncn1)NS(=O)(=O)c1ccccc1,3,0,0.2266612991358749,0.6111111111111112,correct,correct
+772,6-chloro-3-pyridinemethanol,177161,21543-49-7,OCc1ccc(Cl)nc1,SCAFFOLD:c1ccncc1,3,0,0.5085790125520679,0.4210526315789473,false_positive,false_positive
+776,Oryctalure,92058,56196-53-3,CCCCC(C)CCC(=O)OCC,ACYCLIC:CCCCC(C)CCC(=O)OCC,3,0,0.2488660789659248,0.4594594594594595,correct,correct
+780,Diofenolan (Ref: CGA 059205),4578030,63837-33-2,CCC1OCC(COc2ccc(Oc3ccccc3)cc2)O1,SCAFFOLD:c1ccc(Oc2ccc(OCC3COCO3)cc2)cc1,3,0,0.4783592430611976,0.3396226415094339,correct,false_positive
+782,"N-[[[3-Chloro-4-[1,1,2-trifluoro-2-(trifluoromethoxy)ethoxy]phenyl]amino]carbonyl]-2,6-difluorobenzamide",93541,116714-46-6,O=C(NC(=O)c1c(F)cccc1F)Nc1ccc(OC(F)(F)C(F)OC(F)(F)F)c(Cl)c1,SCAFFOLD:O=C(NC(=O)c1ccccc1)Nc1ccccc1,3,0,0.2447943797507337,0.4782608695652174,correct,correct
+783,Oxadiargyl (Ref: RP 020630 ),94498,39807-15-3,C#CCOc1cc(-n2nc(C(C)(C)C)oc2=O)c(Cl)cc1Cl,SCAFFOLD:O=c1ocnn1-c1ccccc1,3,0,0.3042474583552319,0.5081967213114754,correct,false_positive
+784,Pyrimidifen,6451139,105779-78-0,CCOCCc1ccc(OCCNc2ncnc(CC)c2Cl)c(C)c1C,SCAFFOLD:c1ccc(OCCNc2ccncn2)cc1,3,1,0.2999484996086269,0.217391304347826,false_negative,correct
+785,Epoxiconazole (Ref: BAS 480F),3317081,135319-73-2,Fc1ccc(C2(Cn3cncn3)OC2c2ccccc2Cl)cc1,SCAFFOLD:c1ccc(C2OC2(Cn2cncn2)c2ccccc2)cc1,3,0,0.2677006679350343,0.3962264150943396,correct,correct
+786,Cyprodinil (Ref: CGA 219417),86367,121552-61-2,Cc1cc(C2CC2)nc(Nc2ccccc2)n1,SCAFFOLD:c1ccc(Nc2nccc(C3CC3)n2)cc1,3,0,0.1980850294489375,0.6666666666666666,correct,correct
+788,"N-[[(4-Methoxy-6-methyl-1,3,5-triazin-2-yl)amino]carbonyl]-2-(3,3,3-trifluoropropyl)benzenesulfonamide",91751,94125-34-5,COc1nc(C)nc(NC(=O)NS(=O)(=O)c2ccccc2CCC(F)(F)F)n1,SCAFFOLD:O=C(Nc1ncncn1)NS(=O)(=O)c1ccccc1,3,0,0.1454992586679475,0.453125,correct,correct
+789,Butathiofos (Ref: Dowco 429),185020,90338-20-8,CCOP(=S)(OCC)Oc1cnc(C(C)(C)C)nc1,SCAFFOLD:c1cncnc1,3,1,0.9075150057434922,0.4318181818181818,correct,correct
+790,Acetamiprid,213021,135410-20-7,CC(=NC#N)N(C)Cc1ccc(Cl)nc1,SCAFFOLD:c1ccncc1,3,1,0.5916502449791754,0.3269230769230769,correct,correct
+792,"(1E)-N-[(6-Chloro-3-pyridinyl)methyl]-N-ethyl-N'-methyl-2-nitro-1,1-ethenediamine",3034287,150824-47-8,CCN(Cc1ccc(Cl)nc1)C(=C[N+](=O)[O-])NC,SCAFFOLD:c1ccncc1,3,1,0.6089509109507546,0.4067796610169492,correct,correct
+794,"2-(2,6-Difluorophenyl)-4-[4-(1,1-dimethylethyl)-2-ethoxyphenyl]-4,5-dihydrooxazole",153974,153233-91-1,CCOc1cc(C(C)(C)C)ccc1C1COC(c2c(F)cccc2F)=N1,SCAFFOLD:c1ccc(C2=NC(c3ccccc3)CO2)cc1,3,0,0.3782768586776437,0.2602739726027397,correct,false_positive
+795,Isoxaflutole (Ref: RPA 201772),84098,141112-29-0,CS(=O)(=O)c1cc(C(F)(F)F)ccc1C(=O)c1cnoc1C1CC1,SCAFFOLD:O=C(c1ccccc1)c1cnoc1C1CC1,3,0,0.2126459905377932,0.4827586206896552,correct,correct
+798,Flupoxam (Ref: MON 18500),86353,119126-15-7,NC(=O)c1nc(-c2ccccc2)n(-c2ccc(Cl)c(COCC(F)(F)C(F)(F)F)c2)n1,SCAFFOLD:c1ccc(-c2ncnn2-c2ccccc2)cc1,3,0,0.3239116659439437,0.2619047619047619,correct,false_positive
+804,4-Chloro-N-[2-[3-methoxy-4-(2-propynyloxy)phenyl]ethyl]-alpha-(2-propynyloxy)benzeneacetamide,11292824,374726-62-2,C#CCOc1ccc(CCNC(=O)C(OCC#C)c2ccc(Cl)cc2)cc1OC,SCAFFOLD:O=C(Cc1ccccc1)NCCc1ccccc1,3,0,0.4693132763104649,0.3076923076923077,correct,false_positive
+805,2-[2-Chloro-5-[4-chloro-5-(difluoromethoxy)-1-methyl-1H-pyrazol-3-yl]-4-fluorophenoxy]acetic acid ethyl ester,182951,129630-19-9,CCOC(=O)COc1cc(-c2nn(C)c(OC(F)F)c2Cl)c(F)cc1Cl,SCAFFOLD:c1ccc(-c2cc[nH]n2)cc1,3,0,0.1412961641736462,0.4324324324324324,correct,correct
+812,Prohexadione-calcium (Ref: BAS 125W),12001831,127277-53-6,CCC([O-])=C1C(=O)CC(C(=O)[O-])CC1=O.[Ca+2],SCAFFOLD:C=C1C(=O)CCCC1=O,3,0,0.2146463236352866,0.4146341463414634,correct,correct
+816,Flucarbazone-sodium (Ref: BAY MKH 6562),12056760,181274-17-9,COc1nn(C([O-])=NS(=O)(=O)c2ccccc2OC(F)(F)F)c(=O)n1C.[Na+],SCAFFOLD:O=c1[nH]cnn1C=NS(=O)(=O)c1ccccc1,3,0,0.1944975438712539,0.6666666666666666,correct,correct
+828,"2-[(4-Chlorophenyl)methyl]-5-(1-methylethyl)-1-(1H-1,2,4-triazol-1-ylmethyl)cyclopentanol",86211,125225-28-7,CC(C)C1CCC(Cc2ccc(Cl)cc2)C1(O)Cn1cncn1,SCAFFOLD:c1ccc(CC2CCCC2Cn2cncn2)cc1,3,0,0.3303541680414856,0.4354838709677419,correct,false_positive
+831,[N(Z)]-N-[3-[(6-Chloro-3-pyridinyl)methyl]-2-thiazolidinylidene]cyanamide,115224,111988-49-9,N#CN=C1SCCN1Cc1ccc(Cl)nc1,SCAFFOLD:N=C1SCCN1Cc1cccnc1,3,0,0.67496860265607,0.46,false_positive,false_positive
+833,"5-[(4-Chlorophenyl)methyl]-2,2-dimethyl-1-(1H-1,2,4-triazol-1-ylmethyl)cyclopentanol",86210,125116-23-6,CC1(C)CCC(Cc2ccc(Cl)cc2)C1(O)Cn1cncn1,SCAFFOLD:c1ccc(CC2CCCC2Cn2cncn2)cc1,3,0,0.35647485482601,0.5,correct,false_positive
+852,Fentrazamide (Ref: BAY YRC 2388),3081363,158237-07-1,CCN(C(=O)n1nnn(-c2ccccc2Cl)c1=O)C1CCCCC1,SCAFFOLD:O=C(NC1CCCCC1)n1nnn(-c2ccccc2)c1=O,3,0,0.2536673384839901,0.3773584905660377,correct,correct
+853,Pyriminobac-methyl (Ref: KIH-6127),9604652,136191-64-5,CON=C(C)c1cccc(Oc2nc(OC)cc(OC)n2)c1C(=O)OC,SCAFFOLD:c1ccc(Oc2ncccn2)cc1,3,0,0.1942774071354325,0.56,correct,correct
+855,Ethoxysulfuron (Ref: AE F095404),3623881,126801-58-9,CCOc1ccccc1OS(=O)(=O)NC(=O)Nc1nc(OC)cc(OC)n1,SCAFFOLD:O=C(Nc1ncccn1)NS(=O)(=O)Oc1ccccc1,3,0,0.2790967090265857,0.5344827586206896,correct,false_positive
+866,Azimsulfuron,86355,120162-55-2,COc1cc(OC)nc(NC(=O)NS(=O)(=O)c2c(-c3nnn(C)n3)cnn2C)n1,SCAFFOLD:O=C(Nc1ncccn1)NS(=O)(=O)c1[nH]ncc1-c1nn[nH]n1,3,0,0.108738658056845,0.6440677966101694,correct,correct
+874,"2-Chloro-N-(4'-chloro[1,1'-biphenyl]-2-yl)-3-pyridinecarboxamide",213013,188425-85-6,O=C(Nc1ccccc1-c1ccc(Cl)cc1)c1cccnc1Cl,SCAFFOLD:O=C(Nc1ccccc1-c1ccccc1)c1cccnc1,3,0,0.3010467501919168,0.3548387096774194,correct,false_positive
+875,Oxasulfuron (Ref: CGA 277476 ),86443,144651-06-9,Cc1cc(C)nc(NC(=O)NS(=O)(=O)c2ccccc2C(=O)OC2COC2)n1,SCAFFOLD:O=C(Nc1ncccn1)NS(=O)(=O)c1ccccc1C(=O)OC1COC1,3,0,0.143929577320888,0.7169811320754716,correct,correct
+877,Thifluzamide (Ref: MON 24000),86389,130000-40-7,Cc1nc(C(F)(F)F)c(C(=O)Nc2c(Br)cc(OC(F)(F)F)cc2Br)s1,SCAFFOLD:O=C(Nc1ccccc1)c1cncs1,3,0,0.3199023014786032,0.240506329113924,correct,false_positive
+879,Noviflumuron,9828359,121451-02-3,O=C(NC(=O)c1c(F)cccc1F)Nc1cc(Cl)c(OC(F)(F)C(F)C(F)(F)F)c(Cl)c1F,SCAFFOLD:O=C(NC(=O)c1ccccc1)Nc1ccccc1,3,0,0.2005186689913359,0.463768115942029,correct,correct
+882,Bistrifluron (Ref: DBI-3204),10275455,201593-84-2,O=C(NC(=O)c1c(F)cccc1F)Nc1cc(C(F)(F)F)cc(C(F)(F)F)c1Cl,SCAFFOLD:O=C(NC(=O)c1ccccc1)Nc1ccccc1,3,0,0.1612597064091953,0.55,correct,correct
+884,Di-1-p-menthene,61928,34363-01-4,CC1=CCC(CCC(C)(C)C2CC=C(C)CC2)CC1,SCAFFOLD:C1=CCC(CCCC2CC=CCC2)CC1,3,0,0.299759080983972,0.238095238095238,correct,false_positive
+886,Picloram-triethylammonium,61949,35832-11-2,CCN(CC)CC.Nc1c(Cl)c(Cl)nc(C(=O)O)c1Cl,SCAFFOLD:c1ccncc1,3,0,0.1601094404102328,0.2857142857142857,correct,correct
+888,"5-[[(2,6-Difluorophenyl)methoxy]methyl]-4,5-dihydro-5-methyl(3-methyl-2-thienyl)isoxazole",11500973,403640-27-7,Cc1ccsc1C1=NOC(C)(COCc2c(F)cccc2F)C1,SCAFFOLD:c1ccc(COCC2CC(c3cccs3)=NO2)cc1,3,0,0.2846332187051694,0.1958762886597938,correct,false_positive
+889,Alloxydim,3034433,55634-91-8,C=CCONC(CCC)=C1C(=O)CC(C)(C)C(C(=O)OC)C1=O,SCAFFOLD:C=C1C(=O)CCCC1=O,3,0,0.3298934481404507,0.5238095238095238,correct,false_positive
+892,Picloram-tripromine,62620,6753-47-5,CC(O)CN(CC(C)O)CC(C)O.Nc1c(Cl)c(Cl)nc(C(=O)O)c1Cl,SCAFFOLD:c1ccncc1,3,0,0.1573316699394485,0.2340425531914893,correct,correct
+900,Sethoxydim (Ref: BAS 9052H),52923,74051-80-2,CCCC(NOCC)=C1C(=O)CC(CC(C)SCC)CC1=O,SCAFFOLD:C=C1C(=O)CCCC1=O,3,1,0.3634293943537788,0.5,false_negative,correct
+918,Dimoxystrobin (Ref: BAS 505F),10936292,149961-52-4,CNC(=O)C(=NOC)c1ccccc1COc1cc(C)ccc1C,SCAFFOLD:c1ccc(COc2ccccc2)cc1,3,0,0.4263983766114494,0.5614035087719298,correct,false_positive
+919,N-(Cyanomethyl)-4-(trifluoromethyl)-3-pyridinecarboxamide,9834513,158062-67-0,N#CCNC(=O)c1cnccc1C(F)(F)F,SCAFFOLD:c1ccncc1,3,0,0.3912750456142886,0.3174603174603174,correct,false_positive
+924,Tritosulfuron,11657899,142469-14-5,COc1nc(NC(=O)NS(=O)(=O)c2ccccc2C(F)(F)F)nc(C(F)(F)F)n1,SCAFFOLD:O=C(Nc1ncncn1)NS(=O)(=O)c1ccccc1,3,0,0.1190647283192759,0.5161290322580645,correct,correct
+925,Copper oxychloride,18629822,1332-40-7,ClOCl.[Cu+2],ACYCLIC:ClOCl,3,0,0.2924453691181659,0.125,correct,false_positive
+928,"4-Amino-3,5,6-trichloro-2-pyridinecarboxylic acid, Isooctyl ester",18772488,26952-20-5,CC(C)CCCCCOC(=O)c1nc(Cl)c(Cl)c(N)c1Cl,SCAFFOLD:c1ccncc1,3,0,0.1514769633644184,0.238095238095238,correct,correct
+930,"C6-12 Fatty acids, Me esters",16204500,67762-39-4,CCCCCCCC(=O)OC.CCCCCCCCCC(=O)OC,ACYCLIC:CCCCCCCCCC(=O)OC,3,0,0.2547604111117415,0.5416666666666666,correct,correct
+936,(alphaE)-alpha-(Methoxymethylene)-2-[[[6-(trifluoromethyl)-2-pyridinyl]oxy]methyl]benzeneacetic acid methyl ester,11285653,117428-22-5,COC=C(C(=O)OC)c1ccccc1COc1cccc(C(F)(F)F)n1,SCAFFOLD:c1ccc(COc2ccccn2)cc1,3,0,0.3901995585000233,0.6774193548387096,correct,false_positive
+937,Sordidin,85099697,162490-88-2,CCC12OC(C)CC(C)(CC1C)O2,SCAFFOLD:C1CC2CCC(O1)O2,3,0,0.3824223795462966,0.3421052631578947,correct,false_positive
+940,"N-[2-(1,3-Dimethylbutyl)-3-thienyl]-1-methyl-3-(trifluoromethyl)-1H-pyrazole-4-carboxamide",11388558,183675-82-3,CC(C)CC(C)c1sccc1NC(=O)c1cn(C)nc1C(F)(F)F,SCAFFOLD:O=C(Nc1ccsc1)c1cn[nH]c1,3,0,0.2713563157473859,0.3676470588235294,correct,correct
+942,"2-(4-Chlorophenyl)-3-ethyl-2,5-dihydro-5-oxo-4-pyridazinecarboxylic acid potassium salt",23681559,82697-71-0,CCc1c(C(=O)[O-])c(=O)cnn1-c1ccc(Cl)cc1.[K+],SCAFFOLD:O=c1ccn(-c2ccccc2)nc1,3,0,0.2189596546428031,0.4181818181818181,correct,correct
+946,"Carbonic acid, cis-3-(2,5-Dimethylphenyl)-8-methoxy-2-oxo-1-azaspiro[4.5]dec-3-en-4-yl ethyl ester",9969573,203313-25-1,CCOC(=O)OC1=C(c2cc(C)ccc2C)C(=O)NC12CCC(OC)CC2,SCAFFOLD:O=C1NC2(C=C1c1ccccc1)CCCCC2,3,0,0.3117557784774613,0.25,correct,false_positive
+948,Sodium tetrathiocarbonate (Ref: GY-81),3034198,7345-69-9,S=C([S-])S[S-].[Na+].[Na+],ACYCLIC:S=C([S-])S[S-],3,0,0.4092548640785319,0.2777777777777778,correct,false_positive
+957,N-[Methyloxido[1-[6-(trifluoromethyl)-3-pyridinyl]ethyl]-lambda4-sulfanylidene]cyanamide,16723172,946578-00-3,CC(c1ccc(C(F)(F)F)nc1)S(C)(=O)=NC#N,SCAFFOLD:c1ccncc1,3,1,0.4653309760945204,0.2205882352941176,false_negative,correct
+961,Emamectin benzoate (Ref: MK 244),53394847,155569-91-8,CCC(C)C1OC2(C=CC1C)CC1CC(CC=C(C)C(OC3CC(OC)C(OC4CC(OC)C(NC)C(C)O4)C(C)O3)C(C)C=CC=C3COC4C(O)C(C)=CC(C(=O)O1)C34O)O2.O=C(O)c1ccccc1,SCAFFOLD:O=C1OC2CC(CC=CC(OC3CCC(OC4CCCCO4)CO3)CC=CC=C3COC4CC=CC1C34)OC1(C=CCCO1)C2,3,1,0.5216572420390754,0.3939393939393939,correct,correct
+962,"3-[[[5-(Difluoromethoxy)-1-methyl-3-(trifluoromethyl)-1H-pyrazol-4-yl]methyl]sulfonyl]-4,5-dihydro-5,5-dimethyl-isoxazole",11556910,447399-55-5,Cn1nc(C(F)(F)F)c(CS(=O)(=O)C2=NOC(C)(C)C2)c1OC(F)F,SCAFFOLD:O=S(=O)(Cc1cn[nH]c1)C1=NOCC1,3,0,0.4387648807925986,0.2073170731707317,correct,false_positive
+965,Trifludimoxazin,49831143,1258836-72-4,C#CCN1C(=O)C(F)(F)Oc2cc(F)c(-n3c(=O)n(C)c(=S)n(C)c3=O)cc21,SCAFFOLD:O=C1COc2ccc(-n3c(=O)[nH]c(=S)[nH]c3=O)cc2N1,3,0,0.429601346302233,0.3787878787878788,correct,false_positive
+969,Guadipyr,76325977,1376342-13-0,CCCCC=NN(Cc1ccc(Cl)nc1)C(N)=N[N+](=O)[O-],SCAFFOLD:c1ccncc1,3,0,0.4980018688436753,0.3432835820895522,correct,false_positive
+973,"N-(2-[1,1'-Bicyclopropyl]-2-ylphenyl)-3-(difluoromethyl)-1-methyl-1H-pyrazole-4-carboxamide",11688533,874967-67-6,Cn1cc(C(=O)Nc2ccccc2C2CC2C2CC2)c(C(F)F)n1,SCAFFOLD:O=C(Nc1ccccc1C1CC1C1CC1)c1cn[nH]c1,3,1,0.2405140608974175,0.6190476190476191,false_negative,false_negative
+976,"3,6-Dichloro-2-pyridinecarboxylic acid compd. with 2-aminoethanol (1:1)",162839,57754-85-5,NCCO.O=C(O)c1nc(Cl)ccc1Cl,SCAFFOLD:c1ccncc1,3,0,0.1917196918184678,0.3428571428571428,correct,correct
+980,Furalaxyl-M,12767955,57764-08-6,COC(=O)C(C)N(C(=O)c1ccc(C(=O)c2ccccc2)cc1)c1c(C)cccc1C,SCAFFOLD:O=C(Nc1ccccc1)c1ccc(C(=O)c2ccccc2)cc1,3,1,0.1386638453213864,0.6086956521739131,false_negative,false_negative
+984,Copper acetoarsenite (Ref: ENT 884),72720419,12002-03-8,CC(=O)[O-].CC(=O)[O-].[Cu+2].[Cu+2].[Cu+2].[Cu+2].[O-][As]1O[As]([O-])O[As]([O-])O1.[O-][As]1O[As]([O-])O[As]([O-])O1,SCAFFOLD:O1[AsH]O[AsH]O[AsH]1,3,1,0.2465624136346275,0.3529411764705882,false_negative,false_negative
+986,"4-[[(6-Chloro-3-pyridinyl)methyl](2,2-difluoroethyl)amino]-2(5H)-furanone",16752772,951659-40-8,O=C1C=C(N(Cc2ccc(Cl)nc2)CC(F)F)CO1,SCAFFOLD:O=C1C=C(NCc2cccnc2)CO1,3,1,0.5170887803880663,0.3103448275862069,correct,correct
+988,Iodosulfuron,11027582,185119-76-0,COc1nc(C)nc(NC(=O)NS(=O)(=O)c2cc(I)ccc2C(=O)O)n1,SCAFFOLD:O=C(Nc1ncncn1)NS(=O)(=O)c1ccccc1,3,0,0.1601078093464998,0.6129032258064516,correct,correct
+990,Picloram-dimethylammonium,87148380,55870-98-9,CNC.Nc1c(Cl)c(Cl)nc(C(=O)O)c1Cl,SCAFFOLD:c1ccncc1,3,0,0.2076919655995247,0.282051282051282,correct,correct
+996,Ametoctradin (Ref: BAS 650F),15604010,865318-97-4,CCCCCCCCc1c(CC)nc2ncnn2c1N,SCAFFOLD:c1cnc2ncnn2c1,3,0,0.2569115142410899,0.2181818181818181,correct,correct
+997,"2-{2-[(2,5-Dimethylphenoxy)methyl]phenyl}-2-methoxy-N-methylacetamide",10935908,173662-97-0,CNC(=O)C(OC)c1ccccc1COc1cc(C)ccc1C,SCAFFOLD:c1ccc(COc2ccccc2)cc1,3,0,0.4034146347596707,0.3090909090909091,correct,false_positive
+998,1-(3-Chloropyridin-2-yl)-N-[4-cyano-2-methyl-6-(methylcarbamoyl)phenyl]-3-{[5-(trifluoromethyl)-2H-tetrazol-2-yl]methyl}-1H-pyrazole-5-carboxamide,56602311,1229654-66-3,CNC(=O)c1cc(C#N)cc(C)c1NC(=O)c1cc(Cn2nnc(C(F)(F)F)n2)nn1-c1ncccc1Cl,SCAFFOLD:O=C(Nc1ccccc1)c1cc(Cn2ncnn2)nn1-c1ccccn1,3,1,0.6778897954404932,0.6582278481012658,correct,correct
+999,Triflumezopyrim (Ref: DPX-RAB55),57414497,1263133-33-0,O=c1c(-c2cccc(C(F)(F)F)c2)c([O-])n(Cc2cncnc2)c2cccc[n+]12,SCAFFOLD:O=c1c(-c2ccccc2)cn(Cc2cncnc2)c2cccc[n+]12,3,1,0.306702007515454,0.2702702702702703,false_negative,correct
+1001,Broflanilide (Ref: MCI-8007),53341374,1207727-04-5,CN(C(=O)c1ccccc1)c1cccc(C(=O)Nc2c(Br)cc(C(F)(C(F)(F)F)C(F)(F)F)cc2C(F)(F)F)c1F,SCAFFOLD:O=C(Nc1cccc(C(=O)Nc2ccccc2)c1)c1ccccc1,3,1,0.2640677953227106,0.3194444444444444,false_negative,false_negative
+1002,4-Amino-3-chloro-6-(4-chloro-2-fluoro-3-methoxyphenyl)-2-pyridinecarboxylic acid methyl ester,16656802,943831-98-9,COC(=O)c1nc(-c2ccc(Cl)c(OC)c2F)cc(N)c1Cl,SCAFFOLD:c1ccc(-c2ccccn2)cc1,3,0,0.2008881078158502,0.34,correct,correct
+1008,Thiencarbazone-methyl (Ref: BYH 18636 ),11205153,317815-83-1,COC(=O)c1csc(C)c1S(=O)(=O)NC(=O)n1nc(OC)n(C)c1=O,SCAFFOLD:O=C(NS(=O)(=O)c1ccsc1)n1nc[nH]c1=O,3,0,0.153619459343012,0.5,correct,correct
+1010,1-({1-Ethyl-4-[4-(methanesulfonyl)-3-(2-methoxyethoxy)-2-methylbenzoyl]-1H-pyrazol-5-yl}oxy)ethyl methyl carbonate,44473182,1101132-67-5,CCn1ncc(C(=O)c2ccc(S(C)(=O)=O)c(OCCOC)c2C)c1OC(C)OC(=O)OC,SCAFFOLD:O=C(c1ccccc1)c1cn[nH]c1,3,0,0.2175269434173781,0.25,correct,correct
+1014,Thiencarbazone,20056440,936331-72-5,COc1nn(C(=O)NS(=O)(=O)c2c(C(=O)O)csc2C)c(=O)n1C,SCAFFOLD:O=C(NS(=O)(=O)c1ccsc1)n1nc[nH]c1=O,3,0,0.1859977692564056,0.4923076923076923,correct,correct
+1027,Halauxifen (Ref: X11393729),25181547,943832-60-8,COc1c(Cl)ccc(-c2cc(N)c(Cl)c(C(=O)O)n2)c1F,SCAFFOLD:c1ccc(-c2ccccn2)cc1,3,0,0.1862947846776854,0.4042553191489361,correct,correct
+1030,Benzyl 4-amino-3-chloro-6-(4-chloro-2-fluoro-3-methoxyphenyl)-5-fluoropyridine-2-carboxylate,70495450,1390661-72-9,COc1c(Cl)ccc(-c2nc(C(=O)OCc3ccccc3)c(Cl)c(N)c2F)c1F,SCAFFOLD:O=C(OCc1ccccc1)c1cccc(-c2ccccc2)n1,3,0,0.2258574190638863,0.3157894736842105,correct,correct
+1033,Bixlozone (Ref: F9600),15056663,81777-95-9,CC1(C)CON(Cc2ccc(Cl)cc2Cl)C1=O,SCAFFOLD:O=C1CCON1Cc1ccccc1,3,0,0.3353358675516344,0.3015873015873015,correct,false_positive
+2,Kieselguhr,24261,61790-53-2,O=[Si]=O,ACYCLIC:O=[Si]=O,4,0,0.0522447566566405,0.1111111111111111,correct,correct
+5,"S-[(1,3-Dihydro-1,3-dioxo-2H-isoindol-2-yl)methyl]O,O-dimethyl ester, Phosphorodithioic acid",12901,732-11-6,COP(=S)(OC)SCN1C(=O)c2ccccc2C1=O,SCAFFOLD:O=C1NC(=O)c2ccccc21,4,1,0.96725,0.4893617021276595,correct,correct
+6,"(2E)-3,7-Dimethyl-2,6-octadien-1-ol",637566,106-24-1,CC(C)=CCCC(C)=CCO,ACYCLIC:CC(C)=CCCC(C)=CCO,4,0,0.049839054411874,0.95,correct,correct
+7,Calcium carbonate,10112,471-34-1,O=C([O-])[O-].[Ca+2],ACYCLIC:O=C([O-])[O-],4,0,0.0539243387369859,0.5,correct,correct
+9,Potassium iodide,4875,7681-11-0,[I-].[K+],ACYCLIC:[K+],4,1,0.0222254516373354,0.125,false_negative,false_negative
+13,"Sulfuric acid, Iron(3+) salt (3:2)",24826,10028-22-5,O=S(=O)([O-])[O-].O=S(=O)([O-])[O-].O=S(=O)([O-])[O-].[Fe+3].[Fe+3],ACYCLIC:O=S(=O)([O-])[O-],4,0,0.090718143689729,0.3,correct,correct
+15,"(1alpha,2alpha,3beta,4alpha,5alpha,6beta)-1,2,3,4,5,6-Hexachlorocyclohexane",727,58-89-9,ClC1C(Cl)C(Cl)C(Cl)C(Cl)C1Cl,SCAFFOLD:C1CCCCC1,4,1,0.0451048024601148,0.1333333333333333,false_negative,false_negative
+17,Copper sulphate,24462,12527-76-3,O=S(=O)([O-])[O-].[Cu+2],ACYCLIC:O=S(=O)([O-])[O-],4,0,0.090718143689729,0.3,correct,correct
+21,"Sulfuric acid, Zinc salt (1:1)",24424,7733-02-0,O=S(=O)([O-])[O-].[Zn+2],ACYCLIC:O=S(=O)([O-])[O-],4,0,0.090718143689729,0.3,correct,correct
+26,"Sulfuric acid, Manganese(2+) salt (1:1)",24580,7785-87-7,O=S(=O)([O-])[O-].[Mn+2],ACYCLIC:O=S(=O)([O-])[O-],4,0,0.090718143689729,0.3,correct,correct
+44,Chloroethylmercury,7862,107-27-7,CC[Hg]Cl,ACYCLIC:C[CH2][Hg][Cl],4,0,0.0294246090680731,0.1578947368421052,correct,correct
+50,"2-[(Trichloromethyl)thio]-1H-isoindole-1,3(2H)dione",8607,133-07-3,O=C1c2ccccc2C(=O)N1SC(Cl)(Cl)Cl,SCAFFOLD:O=C1NC(=O)c2ccccc21,4,0,0.1529291076160874,0.4117647058823529,correct,correct
+59,"Sulfuric acid, Chromium(3+)salt(3:2)",24930,10101-53-8,O=S(=O)([O-])[O-].O=S(=O)([O-])[O-].O=S(=O)([O-])[O-].[Cr+3].[Cr+3],ACYCLIC:O=S(=O)([O-])[O-],4,0,0.090718143689729,0.3,correct,correct
+60,"Nitrous acid, Sodium salt",23668193,7632-00-0,O=N[O-].[Na+],ACYCLIC:O=N[O-],4,0,0.0534245362966156,0.2727272727272727,correct,correct
+61,Dimethyl disulfide,12232,624-92-0,CSSC,ACYCLIC:CSSC,4,0,0.2110879747957177,0.1666666666666666,correct,false_positive
+67,"N-Acetylphosphoramidothioic acid O,S-dimethyl ester",1982,30560-19-1,COP(=O)(NC(C)=O)SC,ACYCLIC:COP(=O)(NC(C)=O)SC,4,1,0.99,0.3571428571428571,correct,correct
+69,TCA-sodium,23681045,650-51-1,O=C([O-])C(Cl)(Cl)Cl.[Na+],ACYCLIC:O=C([O-])C(Cl)(Cl)Cl,4,0,0.0476743387369859,0.625,correct,correct
+74,Chlorobenzilate (Ref: ENT 18596),10522,510-15-6,CCOC(=O)C(O)(c1ccc(Cl)cc1)c1ccc(Cl)cc1,SCAFFOLD:c1ccc(Cc2ccccc2)cc1,4,1,0.0577221714842292,0.4,false_negative,false_negative
+75,2-Furancarboxaldehyde,7362,98-01-1,O=Cc1ccco1,SCAFFOLD:c1ccoc1,4,0,0.2352377385886147,0.2432432432432432,correct,false_positive
+78,Bromomethane,6323,74-83-9,CBr,ACYCLIC:CBr,4,0,0.01727090618279,0.1,correct,correct
+84,Myristyl alcohol,8209,112-72-1,CCCCCCCCCCCCCCO,ACYCLIC:CCCCCCCCCCCCCCO,4,0,0.1372117449114916,1.0,correct,correct
+86,"1,2-Dihydro-3,6-pyridazinedione",21954,123-33-1,O=c1ccc(=O)[nH][nH]1,SCAFFOLD:O=c1ccc(=O)[nH][nH]1,4,0,0.0267311955246233,0.2608695652173913,correct,correct
+87,"3-(2-Chloro-3,3,3-trifluoro-1-propenyl)-2,2-dimethylcyclopropanecarboxylic acid cyano(3-phenoxyphenyl)methyl ester",5281873,68085-85-8,CC1(C)C(C=C(Cl)C(F)(F)F)C1C(=O)OC(C#N)c1cccc(Oc2ccccc2)c1,SCAFFOLD:O=C(OCc1cccc(Oc2ccccc2)c1)C1CC1,4,1,0.9531431236673774,0.4782608695652174,correct,correct
+91,Vernolate (Ref: R-106),16003,1929-77-7,CCCSC(=O)N(CCC)CCC,ACYCLIC:CCCSC(=O)N(CCC)CCC,4,1,0.4636341603144089,0.6428571428571429,false_negative,correct
+101,"N,N-Bis(2-methylpropyl)carbamothioic acid S-ethyl ester",16181,2008-41-5,CCSC(=O)N(CC(C)C)CC(C)C,ACYCLIC:CCSC(=O)N(CC(C)C)CC(C)C,4,0,0.5060338273520842,0.3428571428571428,false_positive,false_positive
+102,4-Chloro-alpha-(4-chlorophenyl)-alpha-methylbenzenemethanol,6624,80-06-8,CC(O)(c1ccc(Cl)cc1)c1ccc(Cl)cc1,SCAFFOLD:c1ccc(Cc2ccccc2)cc1,4,0,0.0651907471859242,0.3513513513513513,correct,correct
+104,Pentacosane,12406,629-99-2,CCCCCCCCCCCCCCCCCCCCCCCCC,ACYCLIC:CCCCCCCCCCCCCCCCCCCCCCCCC,4,0,0.0187248068920098,0.6153846153846154,correct,correct
+105,"Methylarsonic acid, Monosodium salt",23664719,2163-80-6,C[As](=O)([O-])O.[Na+],ACYCLIC:C[As](=O)([O-])O,4,0,0.4503343913767834,0.6666666666666666,correct,false_positive
+107,Methoxychlor (Ref: OMS 466),4115,72-43-5,COc1ccc(C(c2ccc(OC)cc2)C(Cl)(Cl)Cl)cc1,SCAFFOLD:c1ccc(Cc2ccccc2)cc1,4,1,0.2537420605052848,0.3548387096774194,false_negative,correct
+108,Jasmone,1549018,488-10-8,CCC=CCC1=C(C)CCC1=O,SCAFFOLD:O=C1C=CCC1,4,0,0.1644938529652674,0.3333333333333333,correct,correct
+113,DDT (Ref: OMS 16),3036,50-29-3,Clc1ccc(C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl)cc1,SCAFFOLD:c1ccc(Cc2ccccc2)cc1,4,1,0.3012366884407961,0.282051282051282,false_negative,correct
+120,Chlormephos (Ref: MC 2188),32739,24934-91-6,CCOP(=S)(OCC)SCCl,ACYCLIC:CCOP(=S)(OCC)SCCl,4,1,0.995,0.6521739130434783,correct,correct
+121,4-Chloro-alpha-(4-chlorophenyl)-alpha-(trichloromethyl)benzenemethanol,8268,115-32-2,OC(c1ccc(Cl)cc1)(c1ccc(Cl)cc1)C(Cl)(Cl)Cl,SCAFFOLD:c1ccc(Cc2ccccc2)cc1,4,1,0.2498124336346855,0.3513513513513513,false_negative,correct
+126,Dichlone (Ref: USR 604),8342,117-80-6,O=C1C(Cl)=C(Cl)C(=O)c2ccccc21,SCAFFOLD:O=C1C=CC(=O)c2ccccc21,4,0,0.0332640313667282,0.36,correct,correct
+128,5-Amino-4-chloro-2-phenyl-3(2H)-pyridazinone,15546,1698-60-8,Nc1cnn(-c2ccccc2)c(=O)c1Cl,SCAFFOLD:O=c1cccnn1-c1ccccc1,4,0,0.1388209537177246,0.32,correct,correct
+132,Tributyltin oxide (Ref: ENT 24979),16682746,56-35-9,CCCC[Sn](CCCC)(CCCC)O[Sn](CCCC)(CCCC)CCCC,ACYCLIC:CCC[CH2][Sn]([CH2]CCC)([CH2]CCC)[O][Sn]([CH2]CCC)([CH2]CCC)[CH2]CCC,4,1,0.1162311750665825,0.2727272727272727,false_negative,false_negative
+134,Carbosulfan (Ref: OMS 3022),41384,55285-14-8,CCCCN(CCCC)SN(C)C(=O)Oc1cccc2c1OC(C)(C)C2,SCAFFOLD:c1ccc2c(c1)CCO2,4,1,0.8445327857669976,0.3174603174603174,correct,correct
+135,"1-(4-Chlorophenoxy)-3,3-dimethyl-1-(1H-1,2,4-triazol-1-yl)-2-butanone",39385,43121-43-3,CC(C)(C)C(=O)C(Oc1ccc(Cl)cc1)n1cncn1,SCAFFOLD:c1ccc(OCn2cncn2)cc1,4,0,0.5336025972073429,0.625,false_positive,false_positive
+138,"Nitric acid, Chromium(3+) salt",24598,13548-38-4,O=[N+]([O-])[O-].O=[N+]([O-])[O-].O=[N+]([O-])[O-].[Cr+3],ACYCLIC:O=[N+]([O-])[O-],4,0,0.0466892011010849,0.3846153846153846,correct,correct
+144,"1,1'-(2,2-Dichloroethylidene)bis[4-chlorobenzene]",6294,72-54-8,Clc1ccc(C(c2ccc(Cl)cc2)C(Cl)Cl)cc1,SCAFFOLD:c1ccc(Cc2ccccc2)cc1,4,0,0.2014771275299869,0.2894736842105263,correct,false_positive
+147,2-aminobutane,24874,13952-84-6,CCC(C)N,ACYCLIC:CCC(C)N,4,0,0.0587951857832534,0.2307692307692307,correct,correct
+152,Lenacil (Ref: DPX B634),16559,2164-08-1,O=c1[nH]c2c(c(=O)n1C1CCCCC1)CCC2,SCAFFOLD:O=c1[nH]c2c(c(=O)n1C1CCCCC1)CCC2,4,0,0.12947036837933,0.2916666666666667,correct,correct
+153,"S-[2-(Ethylthio)ethyl]O,O-dimethyl ester phosphorodithioc acid",12541,640-15-3,CCSCCSP(=S)(OC)OC,ACYCLIC:CCSCCSP(=S)(OC)OC,4,1,1.0,0.6666666666666666,correct,correct
+155,Carene,26049,13466-78-9,CC1=CCC2C(C1)C2(C)C,SCAFFOLD:C1=CCC2CC2C1,4,0,0.1192567234370755,0.34375,correct,correct
+157,Calcium chloride,5284359,10043-52-4,[Ca+2].[Cl-].[Cl-],ACYCLIC:[Cl-],4,0,0.0362096325429831,0.125,correct,correct
+173,[2-[[[1-(4-Chlorophenyl)-1H-pyrazol-3-yl]oxy]methyl]phenyl]methoxycarbamic acid methyl ester,6422843,175013-18-0,COC(=O)N(OC)c1ccccc1COc1ccn(-c2ccc(Cl)cc2)n1,SCAFFOLD:c1ccc(COc2ccn(-c3ccccc3)n2)cc1,4,0,0.6010260982542875,0.2786885245901639,false_positive,false_positive
+175,Kaolin,56841936,1332-58-7,O.O.O=[Al]O[Si](=O)O[Si](=O)O[Al]=O,ACYCLIC:[O]=[Al][O][Si](=O)O[Si](=O)[O][Al]=[O],4,0,0.2929010981881926,0.1481481481481481,correct,false_positive
+176,"(OC-6-11)-tris(N,N-Dimethylcarbamodithioato-kappaS,kappaS')iron",26710,14484-64-1,CN(C)C(=S)[S-].CN(C)C(=S)[S-].CN(C)C(=S)[S-].[Fe+3],ACYCLIC:CN(C)C(=S)[S-],4,0,0.0563280730091785,0.3888888888888889,correct,correct
+181,"O,P'-DDT",13089,789-02-6,Clc1ccc(C(c2ccccc2Cl)C(Cl)(Cl)Cl)cc1,SCAFFOLD:c1ccc(Cc2ccccc2)cc1,4,1,0.3553364985616679,0.3181818181818182,false_negative,correct
+182,Arsenic,5359596,7440-38-2,[As],ACYCLIC:[As],4,0,0.0222254516373354,0.0,correct,correct
+188,Gentamicin,3467,1403-66-3,CNC(C)C1CCC(N)C(OC2C(N)CC(N)C(OC3OCC(C)(O)C(NC)C3O)C2O)O1,SCAFFOLD:C1CCC(OC2CCCC(OC3CCCCO3)C2)OC1,4,0,0.4780002844431166,0.1979166666666666,correct,false_positive
+192,Chlordane (Technical Grade),5993,12789-03-6,ClC1=C(Cl)C2(Cl)C3C(Cl)C(Cl)CC3C1(Cl)C2(Cl)Cl,SCAFFOLD:C1=CC2CC1C1CCCC21,4,1,0.9155165214647576,0.4838709677419355,correct,correct
+193,"4-[(2R)-2-[(1S,3S,5S)-3,5-Dimethyl-2-oxocyclohexyl]-2-hydroxyethyl]-2,6-piperidinedione",6197,66-81-9,CC1CC(C)C(=O)C(C(O)CC2CC(=O)NC(=O)C2)C1,SCAFFOLD:O=C1CC(CCC2CCCCC2=O)CC(=O)N1,4,0,0.6479310980303248,0.2063492063492063,false_positive,false_positive
+197,Ryanodine,5114,15662-33-6,CC1CCC2(O)C3(C)CC4(O)OC2(C1O)C1(O)C3(O)C(OC(=O)c2ccc[nH]2)C(O)(C(C)C)C41C,SCAFFOLD:O=C(OC1CC2C3CC4C1C2C1(CCCCC41)O3)c1ccc[nH]1,4,0,0.3238125141099803,0.1894736842105263,correct,false_positive
+200,"1,3-dichloropropene (Ref: D D92)",24726,542-75-6,C=CC(Cl)Cl,ACYCLIC:C=CC(Cl)Cl,4,1,0.0344782077981655,0.1764705882352941,false_negative,false_negative
+212,Oxytetracycline,54675779,79-57-2,CN(C)C1C(=O)C(C(N)=O)=C(O)C2(O)C(=O)C3=C(O)c4c(O)cccc4C(C)(O)C3C(O)C12,SCAFFOLD:O=C1C=CC2C(=O)C3=Cc4ccccc4CC3CC2C1,4,0,0.2917290223416894,0.1555555555555555,correct,false_positive
+214,"(1aR,2R,2aS,3S,6R,6aR,7S,7aS)-rel-3,4,5,6,9,9-Hexachloro-1a,2,2a,3,6,6a,7,7a-octahydro-2,7:3,6-dimethanonaphth[2,3-b]oxirene ",969491,60-57-1,ClC1=C(Cl)C2(Cl)C3C4CC(C5OC45)C3C1(Cl)C2(Cl)Cl,SCAFFOLD:C1=CC2CC1C1C3CC(C4OC34)C21,4,1,0.9154058630999942,0.4838709677419355,correct,correct
+219,"3-(2,2-Dichloroethenyl)-2,2-dimethylcyclopropanecarboxylic acid, (3-Phenoxyphenyl)methyl ester",40326,52645-53-1,CC1(C)C(C=C(Cl)Cl)C1C(=O)OCc1cccc(Oc2ccccc2)c1,SCAFFOLD:O=C(OCc1cccc(Oc2ccccc2)c1)C1CC1,4,1,0.9278289056519314,0.5272727272727272,correct,correct
+220,Ziram,8722,137-30-4,CN(C)C(=S)[S-].CN(C)C(=S)[S-].[Zn+2],ACYCLIC:CN(C)C(=S)[S-],4,0,0.0563280730091785,0.3888888888888889,correct,correct
+233,"1,1'-(2,2-Dichloroethylidene)bis[4-ethylbenzene",6295,72-56-0,CCc1ccc(C(c2ccc(CC)cc2)C(Cl)Cl)cc1,SCAFFOLD:c1ccc(Cc2ccccc2)cc1,4,1,0.4837820874016878,0.2424242424242424,false_negative,correct
+240,"Phosphorodithioic acid O-ethyl S,S-dipropyl ester",3289,13194-48-4,CCCSP(=O)(OCC)SCCC,ACYCLIC:CCCSP(=O)(OCC)SCCC,4,1,0.954846553898829,0.4482758620689655,correct,correct
+243,"1H-1,2,4-Triazol-3-amine",1639,61-82-5,Nc1ncn[nH]1,SCAFFOLD:c1nc[nH]n1,4,0,0.055330356632053,0.1612903225806451,correct,correct
+249,"2,2-Dichloropropanoic acid",6418,75-99-0,CC(Cl)(Cl)C(=O)O,ACYCLIC:CC(Cl)(Cl)C(=O)O,4,0,0.0247139089627386,0.5294117647058824,correct,correct
+250,Beta-cypermethrin (Ref: OMS 3068),93357,65731-84-2,CC1(C)C(C=C(Cl)Cl)C1C(=O)OC(C#N)c1cccc(Oc2ccccc2)c1,SCAFFOLD:O=C(OCc1cccc(Oc2ccccc2)c1)C1CC1,4,1,0.9658931236673776,0.515625,correct,correct
+256,Maple lactone,6660,80-71-7,CC1=C(O)C(=O)CC1,SCAFFOLD:O=C1C=CCC1,4,0,0.2186809489680198,0.25,correct,false_positive
+261,"6-Chloro-N,N'-diethyl-1,3,5-triazine-2,4-diamine",5216,122-34-9,CCNc1nc(Cl)nc(NCC)n1,SCAFFOLD:c1ncncn1,4,0,0.0769122270867437,0.303030303030303,correct,correct
+265,"6-Chloro-N2,N4-bis(1-methylethyl)-1,3,5-triazine-2,4-diamine",4937,139-40-2,CC(C)Nc1nc(Cl)nc(NC(C)C)n1,SCAFFOLD:c1ncncn1,4,0,0.1064242285625963,0.303030303030303,correct,correct
+270,"Phosphorothioic acid O-(3-chloro-4-methyl-2-oxo-2H-1-benzopyran-7-yl) O,O-diethyl ester",2871,56-72-4,CCOP(=S)(OCC)Oc1ccc2c(C)c(Cl)c(=O)oc2c1,SCAFFOLD:O=c1ccc2ccccc2o1,4,1,0.98,0.4117647058823529,correct,correct
+273,"N,N-dipropylcarbamothioic acid S-ethyl ester",12968,759-94-4,CCCN(CCC)C(=O)SCC,ACYCLIC:CCCN(CCC)C(=O)SCC,4,1,0.3114537868322844,0.53125,false_negative,correct
+274,Copper II carbonate,14452,1184-64-1,O=C([O-])[O-].[Cu+2],ACYCLIC:O=C([O-])[O-],4,0,0.0426743387369859,0.6,correct,correct
+278,Dialifos (Ref: AC 14503),25146,10311-84-9,CCOP(=S)(OCC)SC(CCl)N1C(=O)c2ccccc2C1=O,SCAFFOLD:O=C1NC(=O)c2ccccc21,4,1,0.98725,0.3620689655172414,correct,correct
+281,"6-Methoxy-N2,N4-bis(1-methylethyl)-1,3,5-triazine-2,4-diamine",4928,1610-18-0,COc1nc(NC(C)C)nc(NC(C)C)n1,SCAFFOLD:c1ncncn1,4,0,0.0856240288904015,0.25,correct,correct
+288,"N2-Ethyl-N4-(1-methylethyl)-6-(methylthio)-1,3,5-triazine-2,4-diamine",13263,834-12-8,CCNc1nc(NC(C)C)nc(SC)n1,SCAFFOLD:c1ncncn1,4,0,0.2507663059434737,0.2407407407407407,correct,false_positive
+289,"6-Chloro-N-ethyl-N'-(1-methylethyl)-1,3,5-triazine-2,4-diamine",2256,1912-24-9,CCNc1nc(Cl)nc(NC(C)C)n1,SCAFFOLD:c1ncncn1,4,0,0.1112114626051495,0.25,correct,correct
+291,"N2,N4-Bis(1-methylethyl)-6-(methylthio)-1,3,5-triazine-2,4-diamine",4929,7287-19-6,CSc1nc(NC(C)C)nc(NC(C)C)n1,SCAFFOLD:c1ncncn1,4,0,0.2363636872855359,0.1764705882352941,correct,false_positive
+296,2-(4-Thiazolyl)-1H-benzimidazole,5430,148-79-8,c1ccc2[nH]c(-c3cscn3)nc2c1,SCAFFOLD:c1ccc2[nH]c(-c3cscn3)nc2c1,4,1,0.2211642223610215,0.45,false_negative,correct
+299,P-Phenylphosphonothioic acid O-ethyl O-(4-nitrophenyl) ester ,16421,2104-64-5,CCOP(=S)(Oc1ccc([N+](=O)[O-])cc1)c1ccccc1,SCAFFOLD:S=[PH](Oc1ccccc1)c1ccccc1,4,1,0.838156746031746,0.6585365853658537,correct,correct
+300,Trietazine (Ref: G 27901),15951,1912-26-1,CCNc1nc(Cl)nc(N(CC)CC)n1,SCAFFOLD:c1ncncn1,4,0,0.0866244956373515,0.2708333333333333,correct,correct
+307,"S-[(4,6-Diamino-1,3,5-triazin-2-yl)methyl]O,O-dimethyl ester phosphorodithioic acid",6543,78-57-9,COP(=S)(OC)SCc1nc(N)nc(N)n1,SCAFFOLD:c1ncncn1,4,1,0.945,0.3333333333333333,correct,correct
+309,"p-Phenylphosphonothioic acid, O-(4-Bromo-2,5-dichlorophenyl) O-methyl ester",30709,21609-90-5,COP(=S)(Oc1cc(Cl)c(Br)cc1Cl)c1ccccc1,SCAFFOLD:S=[PH](Oc1ccccc1)c1ccccc1,4,1,0.9925892857142856,0.6153846153846154,correct,correct
+310,"1,1,1,3,3,3-Hexakis(2-methyl-2-phenylpropyl)distannoxane",16683004,13356-08-6,CC(C)(C[Sn](CC(C)(C)c1ccccc1)(CC(C)(C)c1ccccc1)O[Sn](CC(C)(C)c1ccccc1)(CC(C)(C)c1ccccc1)CC(C)(C)c1ccccc1)c1ccccc1,SCAFFOLD:c1ccc(C[CH2][Sn]([CH2]Cc2ccccc2)([CH2]Cc2ccccc2)[O][Sn]([CH2]Cc2ccccc2)([CH2]Cc2ccccc2)[CH2]Cc2ccccc2)cc1,4,0,0.0571403331501392,0.275,correct,correct
+316,Medlure,20056429,13929-18-5,CCC(C)OC(=O)C1CCC(Cl)CC1C,SCAFFOLD:C1CCCCC1,4,0,0.3778014013904734,0.5641025641025641,correct,false_positive
+321,Nepetalactone,161367,490-10-8,CC1=COC(=O)C2C(C)CCC12,SCAFFOLD:O=C1OC=CC2CCCC12,4,0,0.0838774058041357,0.2195121951219512,correct,correct
+334,Kasugamycin hydrochloride hydrate,88045,19408-46-9,CC1OC(OC2C(O)C(O)C(O)C(O)C2O)C(N)CC1N=C(N)C(=O)O.Cl,SCAFFOLD:C1CCC(OC2CCCCO2)CC1,4,0,0.4606286331961828,0.238095238095238,correct,false_positive
+336,Desmetryn (Ref: G 34360),13904,1014-69-3,CNc1nc(NC(C)C)nc(SC)n1,SCAFFOLD:c1ncncn1,4,0,0.3978875934926147,0.1774193548387097,correct,false_positive
+338,Diphenamid (Ref: L 34314),13728,957-51-7,CN(C)C(=O)C(c1ccccc1)c1ccccc1,SCAFFOLD:c1ccc(Cc2ccccc2)cc1,4,0,0.2839992665274307,0.3846153846153846,correct,false_positive
+347,"1,3-Dithiolan-2-ylidenephosphoramidic acid diethyl ester",13689,947-02-4,CCOP(=O)(N=C1SCCS1)OCC,SCAFFOLD:N=C1SCCS1,4,1,0.9224551647085112,0.3333333333333333,correct,correct
+349,Bromopropylate (Ref: GS 19851),28936,18181-80-1,CC(C)OC(=O)C(O)(c1ccc(Br)cc1)c1ccc(Br)cc1,SCAFFOLD:c1ccc(Cc2ccccc2)cc1,4,0,0.0841795045444493,0.325,correct,correct
+353,Terbuthylazine,22206,5915-41-3,CCNc1nc(Cl)nc(NC(C)(C)C)n1,SCAFFOLD:c1ncncn1,4,0,0.1442392461341769,0.25,correct,correct
+355,"2,3-Dihydro-2,2-dimethyl-7-benzofuranol 7-(N-methylcarbamate)",2566,1563-66-2,CNC(=O)Oc1cccc2c1OC(C)(C)C2,SCAFFOLD:c1ccc2c(c1)CCO2,4,1,0.964968253968254,0.5909090909090909,correct,correct
+356,Quinoclamine,17748,2797-51-5,NC1=C(Cl)C(=O)c2ccccc2C1=O,SCAFFOLD:O=C1C=CC(=O)c2ccccc21,4,0,0.0579703723230692,0.3,correct,correct
+357,Methoprotryne (Ref: G 36393),13290,841-06-5,COCCCNc1nc(NC(C)C)nc(SC)n1,SCAFFOLD:c1ncncn1,4,0,0.281272545945667,0.1935483870967742,correct,false_positive
+376,Molinate (Ref: OMS 1373),16653,2212-67-1,CCSC(=O)N1CCCCCC1,SCAFFOLD:C1CCCNCC1,4,1,0.2843962096246117,0.24,false_negative,correct
+377,Oxolinic acid,4628,14698-29-4,CCn1cc(C(=O)O)c(=O)c2cc3c(cc21)OCO3,SCAFFOLD:O=c1cc[nH]c2cc3c(cc12)OCO3,4,0,0.356458473752924,0.2456140350877192,correct,false_positive
+381,Tricyclohexylhydroxystannane,6327054,13121-70-5,C1CCC([Sn](C2CCCCC2)C2CCCCC2)CC1.O,SCAFFOLD:C1CC[CH]([Sn]([CH]2CCCCC2)[CH]2CCCCC2)CC1,4,0,0.1296338322676478,0.2142857142857142,correct,correct
+392,"Sulfuric acid, Iron(2+) salt(1:1), Monohydrate",62712,17375-41-6,O.O=S(=O)([O-])[O-].[Fe+2],ACYCLIC:O=S(=O)([O-])[O-],4,0,0.1684825029520605,0.2727272727272727,correct,correct
+394,Terbutryn (Ref: GS 14260),13450,886-50-0,CCNc1nc(NC(C)(C)C)nc(SC)n1,SCAFFOLD:c1ncncn1,4,1,0.2697820276078649,0.2407407407407407,false_negative,correct
+397,"2-(1,3-Dioxolan-2-yl)phenol 1-(N-methylcarbamate)",23421,6988-21-2,CNC(=O)Oc1ccccc1C1OCCO1,SCAFFOLD:c1ccc(C2OCCO2)cc1,4,1,0.8143333333333334,0.4878048780487805,correct,correct
+409,Oxycarboxin (Ref: F 461),21330,5259-88-1,CC1=C(C(=O)Nc2ccccc2)S(=O)(=O)CCO1,SCAFFOLD:O=C(Nc1ccccc1)C1=COCCS1(=O)=O,4,0,0.2597869183278849,0.5333333333333333,correct,false_positive
+410,"S-[2-(Ethylsulfonyl)ethyl]O,O-dimethyl ester phosphorothioic acid",28213,17040-19-6,CCS(=O)(=O)CCSP(=O)(OC)OC,ACYCLIC:CCS(=O)(=O)CCSP(=O)(OC)OC,4,1,0.99,0.5333333333333333,correct,correct
+415,"alpha, alpha-bis(4-Chlorophenyl)-3-pyridinemethanol",28768,17781-31-6,OC(c1ccc(Cl)cc1)(c1ccc(Cl)cc1)c1cccnc1,SCAFFOLD:c1ccc(C(c2ccccc2)c2cccnc2)cc1,4,1,0.1917292424598282,0.5128205128205128,false_negative,correct
+421,Cyclohexylethylcarbamothioic acid S-ethyl ester,14337,1134-23-2,CCSC(=O)N(CC)C1CCCCC1,SCAFFOLD:C1CCCCC1,4,1,0.2452443042143577,0.3773584905660377,false_negative,correct
+426,Cyanazine,30773,21725-46-2,CCNc1nc(Cl)nc(NC(C)(C)C#N)n1,SCAFFOLD:c1ncncn1,4,0,0.5335920181078431,0.2280701754385964,false_positive,false_positive
+438,"2aR,3S,4S,4aR,5S,7aS,8S,10R,10aS,10bR)-10-(Acetyloxy)octahydro-3,5-dihydroxy-4-methyl-8-[[(2E)-2-methyl-1-oxo-2-buten-1-yl]oxy]-4-[(1aR,2S,3aS,6aS,7S,7aS)-3a,6a,7,7a-tetrahydro-6a-hydroxy-7a-methyl-2,7-methanofuro[2,3-b]oxireno[e]oxepin-1a(2H)-yl]-1H,7H-naptho[1,8-bc:4,4a-c']difuran-5,10a(8H)-dicarboxylic acid 5-10a-dimethyl ester",5281303,11141-17-6,CC=C(C)C(=O)OC1CC(OC(C)=O)C2(C(=O)OC)COC3C2C12COC(O)(C(=O)OC)C2C(C)(C12OC1(C)C1CC2OC2OC=CC21O)C3O,SCAFFOLD:C1=CC2C(O1)OC1CC2C2OC12C1CC2OCC3CCCC4(COCC14)C32,4,1,0.5667969372409096,0.2196969696969697,correct,correct
+440,N-(Phosphonomethyl)glycine,3496,1071-83-6,O=C(O)CNCP(=O)(O)O,ACYCLIC:O=C(O)CNCP(=O)(O)O,4,0,0.1400679015325381,0.64,correct,correct
+469,Methoprene (Ref: OMS 1697),5366546,40596-69-8,COC(C)(C)CCCC(C)CC=CC(C)=CC(=O)OC(C)C,ACYCLIC:COC(C)(C)CCCC(C)CC=CC(C)=CC(=O)OC(C)C,4,1,0.5866014872219152,0.52,correct,correct
+472,Dipropetryn (Ref: GC 16068),20105,4147-51-7,CCSc1nc(NC(C)C)nc(NC(C)C)n1,SCAFFOLD:c1ncncn1,4,0,0.1394344702831414,0.1836734693877551,correct,correct
+473,Norflurazon (Ref: H 52143),33775,27314-13-2,CNc1cnn(-c2cccc(C(F)(F)F)c2)c(=O)c1Cl,SCAFFOLD:O=c1cccnn1-c1ccccc1,4,0,0.1921489857589047,0.3559322033898305,correct,false_positive
+474,Isoxathion (Ref: SL 6711),29307,18854-01-8,CCOP(=S)(OCC)Oc1cc(-c2ccccc2)on1,SCAFFOLD:c1ccc(-c2ccno2)cc1,4,1,0.9715892857142856,0.4680851063829787,correct,correct
+476,Jasmonic acid,5281166,6894-38-8,CCC=CCC1C(=O)CCC1CC(=O)O,SCAFFOLD:O=C1CCCC1,4,0,0.2518452770858377,0.2307692307692307,correct,false_positive
+477,N-(2-Chloro-4-pyridinyl)-N'-phenylurea  ,93379,68157-60-8,O=C(Nc1ccccc1)Nc1ccnc(Cl)c1,SCAFFOLD:O=C(Nc1ccccc1)Nc1ccncc1,4,0,0.0855719138589205,0.4285714285714285,correct,correct
+480,N-(Phosphonomethyl)glycine compd. with 2-propanamine (1:1),38078,38641-94-0,CC(C)N.O=C(O)CNCP(=O)(O)O,ACYCLIC:O=C(O)CNCP(=O)(O)O,4,0,0.4503387595711454,0.5161290322580645,correct,false_positive
+481,Aviglycine-HCl (Ref: ABG 3097),16211101,55720-26-8,Cl.NCCOC=CC(N)C(=O)O,ACYCLIC:NCCOC=CC(N)C(=O)O,4,0,0.1006367072370358,0.225,correct,correct
+482,Frontalin,10888022,28401-39-0,CC12CCCC(C)(OC1)O2,SCAFFOLD:C1CC2COC(C1)O2,4,0,0.02489108247619,0.2666666666666666,correct,correct
+484,Terbumeton (Ref: GS 14259),36584,33693-04-8,CCNc1nc(NC(C)(C)C)nc(OC)n1,SCAFFOLD:c1ncncn1,4,0,0.121970053754328,0.2641509433962264,correct,correct
+485,Piproctanyl bromide (Ref: ACR-1222),3034411,56717-11-4,C=CC[N+]1(CCC(C)CCCC(C)C)CCCCC1.[Br-],SCAFFOLD:C1CC[NH2+]CC1,4,0,0.2106671234331353,0.2321428571428571,correct,false_positive
+487,Multistriatin,13199930,54815-06-4,CCC12OCC(O1)C(C)CC2C,SCAFFOLD:C1CC2COC(C1)O2,4,0,0.4061763285713513,0.3421052631578947,correct,false_positive
+489,Tembotrione (Ref: AE 0172747),11556911,335104-84-2,CS(=O)(=O)c1ccc(C(=O)C2C(=O)CCCC2=O)c(Cl)c1COCC(F)(F)F,SCAFFOLD:O=C1CCCC(=O)C1C(=O)c1ccccc1,4,0,0.1213351866267228,0.2916666666666667,correct,correct
+493,Fenpropathrin (Ref: OMS 1999),47326,39515-41-8,CC1(C)C(C(=O)OC(C#N)c2cccc(Oc3ccccc3)c2)C1(C)C,SCAFFOLD:O=C(OCc1cccc(Oc2ccccc2)c1)C1CC1,4,1,0.7707805766091995,0.5614035087719298,correct,correct
+495,"5-Amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-[(trifluoromethyl)sulfinyl]-1H-pyrazole-3-carbonitrile",3352,120068-37-3,N#Cc1nn(-c2c(Cl)cc(C(F)(F)F)cc2Cl)c(N)c1S(=O)C(F)(F)F,SCAFFOLD:c1ccc(-n2cccn2)cc1,4,1,0.7594831725573143,0.2205882352941176,correct,correct
+498,Metamitron (Ref: BAY DRW 1139),38854,41394-05-2,Cc1nnc(-c2ccccc2)c(=O)n1N,SCAFFOLD:O=c1[nH]cnnc1-c1ccccc1,4,0,0.0612480921210702,0.2586206896551724,correct,correct
+501,"2,2-Dimethyl-3-(1,1,2,2-tetrabromoethyl)cyclopropanecarboxylic acid cyano(3-phenoxyphenyl)methyl ester",9809914,66841-25-6,CC1(C)C(C(=O)OC(C#N)c2cccc(Oc3ccccc3)c2)C1C(Br)C(Br)(Br)Br,SCAFFOLD:O=C(OCc1cccc(Oc2ccccc2)c1)C1CC1,4,1,0.7991137354499623,0.4848484848484848,correct,correct
+516,"3-(3,5-Dichlorophenyl)-N-(1-methylethyl)-2,4-dioxo-1-imidazolidinecarboxamide",37517,36734-19-7,CC(C)NC(=O)N1CC(=O)N(c2cc(Cl)cc(Cl)c2)C1=O,SCAFFOLD:O=C1CNC(=O)N1c1ccccc1,4,0,0.1522180720888925,0.3555555555555555,correct,correct
+520,"(1R,3R)-3-(2,2-Dibromoethenyl)-2,2-dimethylcyclopropanecarboxylic acid (S)cyano(3-phenoxyphenyl)methyl ester",40585,52918-63-5,CC1(C)C(C=C(Br)Br)C1C(=O)OC(C#N)c1cccc(Oc2ccccc2)c1,SCAFFOLD:O=C(OCc1cccc(Oc2ccccc2)c1)C1CC1,4,1,0.9677681236673774,0.4848484848484848,correct,correct
+534,"beta-(4-Chlorophenoxy)-alpha-(1,1-dimethylethyl)-1H-1,2,4-triazole-1-ethanol",41368,55219-65-3,CC(C)(C)C(O)C(Oc1ccc(Cl)cc1)n1cncn1,SCAFFOLD:c1ccc(OCn2cncn2)cc1,4,0,0.4238801977814374,0.6170212765957447,correct,false_positive
+537,Bitertanol (Ref: KWG 0599),91656,55179-31-2,CC(C)(C)C(O)C(Oc1ccc(-c2ccccc2)cc1)n1cncn1,SCAFFOLD:c1ccc(-c2ccc(OCn3cncn3)cc2)cc1,4,0,0.4996771218915123,0.4444444444444444,correct,false_positive
+541,Fosamine (Ref: DPX 1108),33257,59682-52-9,CCOP(=O)(O)C(N)=O,ACYCLIC:CCOP(=O)(O)C(N)=O,4,0,0.6256498086597696,0.5555555555555556,false_positive,false_positive
+544,Mepiquat chloride (Ref: BAS 083W),62781,24307-26-4,C[N+]1(C)CCCCC1.[Cl-],SCAFFOLD:C1CC[NH2+]CC1,4,0,0.0574623378134898,0.1379310344827586,correct,correct
+550,Ipsenol,93186,35628-05-8,C=CC(=C)CC(O)CC(C)C,ACYCLIC:C=CC(=C)CC(O)CC(C)C,4,0,0.046963124436608,0.1578947368421052,correct,correct
+554,"N-(4-Methyl-1,3-dithiolan-2-ylidene)phosphoramidic acid diethyl ester",13707,950-10-7,CCOP(=O)(N=C1SCC(C)S1)OCC,SCAFFOLD:N=C1SCCS1,4,1,0.8208884373026385,0.2777777777777778,correct,correct
+557,24-epibrassinolide,443055,78821-43-9,CC(C)C(C)C(O)C(O)C(C)C1CCC2C3COC(=O)C4CC(O)C(O)CC4(C)C3CCC12C,SCAFFOLD:O=C1OCC2C3CCCC3CCC2C2CCCCC12,4,1,0.528733923287805,0.160919540229885,correct,correct
+560,Propamocarb (Ref: SN 39744),32490,24579-73-5,CCCOC(=O)NCCCN(C)C,ACYCLIC:CCCOC(=O)NCCCN(C)C,4,0,0.1775872762430975,0.3125,correct,false_positive
+562,N-[3-(Dimethylamino)propyl]carbamic acid propyl ester hydrochloride (1:1),15575641,25606-41-1,CCCOC(=O)NCCCN(C)C.Cl,ACYCLIC:CCCOC(=O)NCCCN(C)C,4,0,0.1874736398794612,0.3061224489795918,correct,false_positive
+566,Ofurace (Ref: AE F057623),42850,58810-48-3,Cc1cccc(C)c1N(C(=O)CCl)C1CCOC1=O,SCAFFOLD:O=C1OCCC1Nc1ccccc1,4,0,0.2187899466205828,0.4117647058823529,correct,false_positive
+567,"2,3-Dihydro-5,6-dimethyl-1,4-dithiin 1,1,4,4-tetraoxide",41385,55290-64-7,CC1=C(C)S(=O)(=O)CCS1(=O)=O,SCAFFOLD:O=S1(=O)C=CS(=O)(=O)CC1,4,0,0.4879782114956589,0.2222222222222222,correct,false_positive
+569,Cyphenothrin (Ref: S 2703),38283,39515-40-7,CC(C)=CC1C(C(=O)OC(C#N)c2cccc(Oc3ccccc3)c2)C1(C)C,SCAFFOLD:O=C(OCc1cccc(Oc2ccccc2)c1)C1CC1,4,1,0.9677681236673774,0.4923076923076923,correct,correct
+571,Fluazifop-butyl (Ref: SL 236),50897,69806-50-4,CCCCOC(=O)C(C)Oc1ccc(Oc2ccc(C(F)(F)F)cn2)cc1,SCAFFOLD:c1ccc(Oc2ccccn2)cc1,4,0,0.3478569882989559,0.4761904761904761,correct,false_positive
+575,Pyridafenthion (Ref: ENT 23968)),8381,119-12-0,CCOP(=S)(OCC)Oc1ccc(=O)n(-c2ccccc2)n1,SCAFFOLD:O=c1cccnn1-c1ccccc1,4,1,0.8165892857142858,0.5102040816326531,correct,correct
+576,Polyoxorim,72476,22976-86-9,NC(=O)OCC(O)C(O)C(N)C(=O)NC(C(=O)O)C1OC(n2cc(C(=O)O)c(=O)[nH]c2=O)C(O)C1O,SCAFFOLD:O=c1ccn(C2CCCO2)c(=O)[nH]1,4,0,0.3601655769735475,0.2,correct,false_positive
+583,Butocarboxim (Ref: Co 755),5360962,34681-10-2,CNC(=O)ON=C(C)C(C)SC,ACYCLIC:CNC(=O)ON=C(C)C(C)SC,4,1,0.9745694028194029,0.5625,correct,correct
+588,Clodinafop propargyl (Ref: CGA 184927),92431,105512-06-9,C#CCOC(=O)C(C)Oc1ccc(Oc2ncc(Cl)cc2F)cc1,SCAFFOLD:c1ccc(Oc2ccccn2)cc1,4,0,0.3667307339906134,0.4461538461538462,correct,false_positive
+589,Bifenthrin (Ref: FMC 54800),6442842,82657-04-3,Cc1c(COC(=O)C2C(C=C(Cl)C(F)(F)F)C2(C)C)cccc1-c1ccccc1,SCAFFOLD:O=C(OCc1cccc(-c2ccccc2)c1)C1CC1,4,1,0.9089261887369444,0.5932203389830508,correct,correct
+590,"3-[2-Chloro-2-(4-chlorophenyl)ethenyl]-2,2-dimethylcyclopropanecarboxylic acid cyano(4-fluoro-3-phenoxyphenyl)methyl ester",6033664,69770-45-2,CC1(C)C(C=C(Cl)c2ccc(Cl)cc2)C1C(=O)OC(C#N)c1ccc(F)c(Oc2ccccc2)c1,SCAFFOLD:O=C(OCc1cccc(Oc2ccccc2)c1)C1CC1C=Cc1ccccc1,4,1,0.8658931236673775,0.4342105263157895,correct,correct
+592,"3,3-Dimethylbutanoic acid 2-oxo-3-(2,4,6-trimethylphenyl)-1-oaxspiro[4.4]non-3-en-4-yl ester",9907412,283594-90-1,Cc1cc(C)c(C2=C(OC(=O)CC(C)(C)C)C3(CCCC3)OC2=O)c(C)c1,SCAFFOLD:O=C1OC2(C=C1c1ccccc1)CCCC2,4,0,0.3787928790249685,0.4328358208955223,correct,false_positive
+594,Benalaxyl (Ref: M 9834),51369,71626-11-4,COC(=O)C(C)N(C(=O)Cc1ccccc1)c1c(C)cccc1C,SCAFFOLD:O=C(Cc1ccccc1)Nc1ccccc1,4,0,0.3990069503555319,0.6904761904761905,correct,false_positive
+595,Aviglycine,6436272,49669-74-1,NCCOC=CC(N)C(=O)O,ACYCLIC:NCCOC=CC(N)C(=O)O,4,0,0.0907503436006721,0.2307692307692307,correct,correct
+596,Dimethametryn (Ref: C 18898),31573,22936-75-0,CCNc1nc(NC(C)C(C)C)nc(SC)n1,SCAFFOLD:c1ncncn1,4,0,0.2249173617617141,0.2321428571428571,correct,false_positive
+602,Haloxyfop (Ref: DOWCO 453),50895,69806-34-4,CC(Oc1ccc(Oc2ncc(C(F)(F)F)cc2Cl)cc1)C(=O)O,SCAFFOLD:c1ccc(Oc2ccccn2)cc1,4,0,0.0916436202283317,0.5,correct,correct
+604,Triazoxide (Ref: SAS 9244),93422,72459-58-6,[O-][n+]1nc(-n2ccnc2)nc2ccc(Cl)cc21,SCAFFOLD:c1ccc2[nH+]nc(-n3ccnc3)nc2c1,4,0,0.3199775620787298,0.2741935483870967,correct,false_positive
+607,Metazachlor (Ref: BAS 47900H),49384,67129-08-2,Cc1cccc(C)c1N(Cn1cccn1)C(=O)CCl,SCAFFOLD:c1ccc(NCn2cccn2)cc1,4,0,0.0478711964196293,0.5106382978723404,correct,correct
+610,"2-Ethoxy-2,3-dihydro-3,3-dimethyl-5-benzofuranol 5-methanesulfonate",33360,26225-79-6,CCOC1Oc2ccc(OS(C)(=O)=O)cc2C1(C)C,SCAFFOLD:c1ccc2c(c1)CCO2,4,0,0.2739051610894322,0.2068965517241379,correct,false_positive
+611,Beta-cyfluthrin (Ref: OMS 3051),56608859,1820573-27-0,CC1(C)C(C=C(Cl)Cl)C1C(=O)OC(C#N)c1ccc(F)c(Oc2ccccc2)c1,SCAFFOLD:O=C(OCc1cccc(Oc2ccccc2)c1)C1CC1,4,1,0.8658931236673775,0.4166666666666667,correct,correct
+612,Mepiquat,18743,15302-91-7,C[N+]1(C)CCCCC1,SCAFFOLD:C1CC[NH2+]CC1,4,0,0.0497281569078422,0.1428571428571428,correct,correct
+614,2-[1-Methyl-2-(4-phenoxyphenoxy)ethoxy]pyridine,91753,95737-68-1,CC(COc1ccc(Oc2ccccc2)cc1)Oc1ccccn1,SCAFFOLD:c1ccc(Oc2ccc(OCCOc3ccccn3)cc2)cc1,4,0,0.1662522546585365,0.3269230769230769,correct,correct
+616,Oxabetrinil (Ref: CGA 92194),9576081,94593-79-0,N#CC(=NOCC1OCCO1)c1ccccc1,SCAFFOLD:C(=NOCC1OCCO1)c1ccccc1,4,0,0.7799467037356672,0.4375,false_positive,false_positive
+624,Haloxyfop-sodium,23681922,69806-86-6,CC(Oc1ccc(Oc2ncc(C(F)(F)F)cc2Cl)cc1)C(=O)[O-].[Na+],SCAFFOLD:c1ccc(Oc2ccccn2)cc1,4,0,0.1011562651176889,0.4057971014492754,correct,correct
+626,1-[[2-(4-Ethoxyphenyl)-2-methylpropoxy]methyl]-3-phenoxybenzene,71245,80844-07-1,CCOc1ccc(C(C)(C)COCc2cccc(Oc3ccccc3)c2)cc1,SCAFFOLD:c1ccc(CCOCc2cccc(Oc3ccccc3)c2)cc1,4,1,0.5614079448221322,0.34375,correct,correct
+634,Mepronil (Ref: B1 2459),41632,55814-41-0,Cc1ccccc1C(=O)Nc1cccc(OC(C)C)c1,SCAFFOLD:O=C(Nc1ccccc1)c1ccccc1,4,0,0.0609677602909697,0.4583333333333333,correct,correct
+642,Flufenoxuron (Ref: BAS 3071),91766,101463-69-8,O=C(NC(=O)c1c(F)cccc1F)Nc1ccc(Oc2ccc(C(F)(F)F)cc2Cl)cc1F,SCAFFOLD:O=C(NC(=O)c1ccccc1)Nc1ccc(Oc2ccccc2)cc1,4,0,0.172442787381011,0.55,correct,correct
+643,Benfuracarb,54886,82560-54-1,CCOC(=O)CCN(SN(C)C(=O)Oc1cccc2c1OC(C)(C)C2)C(C)C,SCAFFOLD:c1ccc2c(c1)CCO2,4,1,0.8404324127233466,0.3417721518987341,correct,correct
+657,Diflufenican (Ref: AE 088657),91735,83164-33-4,O=C(Nc1ccc(F)cc1F)c1cccnc1Oc1cccc(C(F)(F)F)c1,SCAFFOLD:O=C(Nc1ccccc1)c1cccnc1Oc1ccccc1,4,0,0.2788571552419597,0.3246753246753247,correct,false_positive
+662,Pyraclofos (Ref: OMS 3040),93460,89784-60-1,CCCSP(=O)(OCC)Oc1cnn(-c2ccc(Cl)cc2)c1,SCAFFOLD:c1ccc(-n2cccn2)cc1,4,1,0.8591774450824903,0.4482758620689655,correct,correct
+665,Bensulfuron-methyl (Ref: DPX F5384),54960,83055-99-6,COC(=O)c1ccccc1CS(=O)(=O)NC(=O)Nc1nc(OC)cc(OC)n1,SCAFFOLD:O=C(Nc1ncccn1)NS(=O)(=O)Cc1ccccc1,4,0,0.0587799688217581,0.5423728813559322,correct,correct
+666,Flutolanil (Ref: NNF 136),47898,66332-96-5,CC(C)Oc1cccc(NC(=O)c2ccccc2C(F)(F)F)c1,SCAFFOLD:O=C(Nc1ccccc1)c1ccccc1,4,0,0.0663542431208947,0.3962264150943396,correct,correct
+669,Bensulfuron (Ref: IN R9419),107828,99283-01-9,COc1cc(OC)nc(NC(=O)NS(=O)(=O)Cc2ccccc2C(=O)O)n1,SCAFFOLD:O=C(Nc1ncccn1)NS(=O)(=O)Cc1ccccc1,4,0,0.0587799688217581,0.5964912280701754,correct,correct
+677,Rhyncolure,6506618,83212-30-0,CC=CC(O)CC(C)C,ACYCLIC:CC=CC(O)CC(C)C,4,0,0.0928826317372298,0.1818181818181818,correct,correct
+682,Halfenprox (Ref: MTI 732),10140464,111872-58-3,CC(C)(COCc1cccc(Oc2ccccc2)c1)c1ccc(OC(F)(F)Br)cc1,SCAFFOLD:c1ccc(CCOCc2cccc(Oc3ccccc3)c2)cc1,4,1,0.5053521299838915,0.2658227848101265,correct,correct
+683,"5,7-Dichloro-4-(4-fluorophenoxy)quinoline",3391107,124495-18-7,Fc1ccc(Oc2ccnc3cc(Cl)cc(Cl)c23)cc1,SCAFFOLD:c1ccc(Oc2ccnc3ccccc23)cc1,4,0,0.3048351119937888,0.32,correct,false_positive
+684,"[[2-Chloro-4-fluoro-5-[(tetrahydro-3-oxo-1H,3H-[1,3,4]thiadiazolo [3,4-a]pyridazin-1-ylidine)amino]phenyl]thioacetic acid methyl ester",93542,117337-19-6,COC(=O)CSc1cc(N=c2sc(=O)n3n2CCCC3)c(F)cc1Cl,SCAFFOLD:O=c1sc(=Nc2ccccc2)n2n1CCCC2,4,0,0.3895430090872482,0.2954545454545454,correct,false_positive
+688,Tebufenpyrad (Ref: AC 801757),86354,119168-77-3,CCc1nn(C)c(C(=O)NCc2ccc(C(C)(C)C)cc2)c1Cl,SCAFFOLD:O=C(NCc1ccccc1)c1ccn[nH]1,4,1,0.5912624232440824,0.3174603174603174,correct,correct
+696,Prohexadione,184900,88805-35-0,CCC(=O)C1C(=O)CC(C(=O)O)CC1=O,SCAFFOLD:O=C1CCCC(=O)C1,4,0,0.0655802401477515,0.3783783783783784,correct,correct
+703,"2-[2-Chloro-4-fluoro-5-(1,3,4,5,6,7-hexahydro-1,3-dioxo-2H-isoindol-2-yl)phenoxy]acetic acid pentyl ester",443048,87546-18-7,CCCCCOC(=O)COc1cc(N2C(=O)C3=C(CCCC3)C2=O)c(F)cc1Cl,SCAFFOLD:O=C1C2=C(CCCC2)C(=O)N1c1ccccc1,4,0,0.1894006280083416,0.5272727272727272,correct,false_positive
+705,Flamprop-M-isopropyl (Ref: WL 43425),92366,63782-90-1,CC(C)OC(=O)C(C)N(C(=O)c1ccccc1)c1ccc(F)c(Cl)c1,SCAFFOLD:O=C(Nc1ccccc1)c1ccccc1,4,0,0.1625809365498678,0.3928571428571428,correct,correct
+707,"N-(2,6-Difluorophenyl)-5-methyl-[1,2,4]triazolo[1,5-a]pyrimidine-2-sulfonamide",91759,98967-40-9,Cc1ccn2nc(S(=O)(=O)Nc3c(F)cccc3F)nc2n1,SCAFFOLD:O=S(=O)(Nc1ccccc1)c1nc2ncccn2n1,4,0,0.2788569420268029,0.2307692307692307,correct,false_positive
+708,Aluminium ammonium sulphate,3032540,7784-26-1,O=S(=O)([O-])[O-].O=S(=O)([O-])[O-].[Al+3].[NH4+],ACYCLIC:O=S(=O)([O-])[O-],4,0,0.090718143689729,0.2727272727272727,correct,correct
+717,"N-[[(4,6-Dimethoxy-2-pyrimidinyl)amino]carbonyl]-2-(ethylsulfonyl)imidazo[1,2-a]pyridine-3-sulfonamide",86426,141776-32-1,CCS(=O)(=O)c1nc2ccccn2c1S(=O)(=O)NC(=O)Nc1nc(OC)cc(OC)n1,SCAFFOLD:O=C(Nc1ncccn1)NS(=O)(=O)c1cnc2ccccn12,4,0,0.1074379347856206,0.5714285714285714,correct,correct
+720,Florasulam (Ref: DE 570),11700495,145701-23-1,COc1ncc(F)c2nc(S(=O)(=O)Nc3c(F)cccc3F)nn12,SCAFFOLD:O=S(=O)(Nc1ccccc1)c1nc2ccncn2n1,4,0,0.1468122581161972,0.4084507042253521,correct,correct
+723,Haloxyfop-P-methyl (Ref: DE 535),13363033,72619-32-0,COC(=O)C(C)Oc1ccc(Oc2ncc(C(F)(F)F)cc2Cl)cc1,SCAFFOLD:c1ccc(Oc2ccccn2)cc1,4,0,0.1922814298455124,0.5185185185185185,correct,false_positive
+725,Triazamate (Ref: RH 7988),86306,110895-43-7,CCOC(=O)CSc1nc(C(C)(C)C)nn1C(=O)N(C)C,SCAFFOLD:c1nc[nH]n1,4,0,0.2601075290047783,0.3090909090909091,correct,false_positive
+730,"N-(4-Fluorophenyl)-N-(1-methylethyl)-2-[[5-(trifluoromethyl)-1,3,4-thiadiazol-2-yl]oxy]acetamide",86429,142459-58-3,CC(C)N(C(=O)COc1nnc(C(F)(F)F)s1)c1ccc(F)cc1,SCAFFOLD:O=C(COc1nncs1)Nc1ccccc1,4,0,0.2252262124155768,0.3333333333333333,correct,false_positive
+732,Sulcotrione (Ref: SC 0051),91760,99105-77-8,CS(=O)(=O)c1ccc(C(=O)C2C(=O)CCCC2=O)c(Cl)c1,SCAFFOLD:O=C1CCCC(=O)C1C(=O)c1ccccc1,4,0,0.112566718641387,0.25,correct,correct
+733,"4-(2,2-Difluoro-1,3-benzodioxol-4-yl)-1H-pyrrole-3-carbonitrile",86398,131341-86-1,N#Cc1c[nH]cc1-c1cccc2c1OC(F)(F)O2,SCAFFOLD:c1cc2c(c(-c3cc[nH]c3)c1)OCO2,4,0,0.791296783613626,0.4772727272727273,false_positive,false_positive
+736,"N2-[1,1-Dimethyl-2-(methylsulfonyl)ethyl]-3-iodo-N1-[2-methyl-4-[1,2,2,2-tetrafluoro-1-(trifluoromethyl)ethyl]phenyl]-1,2-benzenedicarboxamide",11193251,272451-65-7,Cc1cc(C(F)(C(F)(F)F)C(F)(F)F)ccc1NC(=O)c1cccc(I)c1C(=O)NC(C)(C)CS(C)(=O)=O,SCAFFOLD:O=C(Nc1ccccc1)c1ccccc1,4,0,0.5059582707747282,0.2790697674418604,false_positive,false_positive
+737,"2-(Acetyloxy)-3-dodecyl-1,4-naphthalenedione",93315,57960-19-7,CCCCCCCCCCCCC1=C(OC(C)=O)C(=O)c2ccccc2C1=O,SCAFFOLD:O=C1C=CC(=O)c2ccccc21,4,0,0.4638077045666692,0.375,correct,false_positive
+743,Sulfentrazone (Ref: FMC 97285),86369,122836-35-5,Cc1nn(-c2cc(NS(C)(=O)=O)c(Cl)cc2Cl)c(=O)n1C(F)F,SCAFFOLD:O=c1[nH]cnn1-c1ccccc1,4,0,0.1470461787462907,0.2727272727272727,correct,correct
+748,"alpha,2-Dichloro-5-[4-(difluoromethyl)-4,5-dihydro-3-methyl-5-oxo-1H-1,2,4-triazol-1-yl]-4-fluorobenzenepropanoic acid, Ethyl ester",86222,128639-02-1,CCOC(=O)C(Cl)Cc1cc(-n2nc(C)n(C(F)F)c2=O)c(F)cc1Cl,SCAFFOLD:O=c1[nH]cnn1-c1ccccc1,4,0,0.5878577156732786,0.3205128205128205,false_positive,false_positive
+749,Benoxacor (Ref: CGA 154281),62306,98730-04-2,CC1COc2ccccc2N1C(=O)C(Cl)Cl,SCAFFOLD:c1ccc2c(c1)NCCO2,4,0,0.1141568526076076,0.3214285714285714,correct,correct
+752,"4,5-Dihydro-6-methyl-4-[(E)-(3-pyridinylmethylene)amino]-1,2,4-triazin-3(2H)-one",9576037,123312-89-0,CC1=NNC(=O)N(N=Cc2cccnc2)C1,SCAFFOLD:O=C1NN=CCN1N=Cc1cccnc1,4,0,0.1469825479373375,0.2545454545454545,correct,correct
+761,"2-Chloro-N-[[(4,6-dimethoxy-2-pyrimidinyl)amino]carbonyl]imidazo[1,2-a]pyridine-3-sulfonamide",92433,122548-33-8,COc1cc(OC)nc(NC(=O)NS(=O)(=O)c2c(Cl)nc3ccccn23)n1,SCAFFOLD:O=C(Nc1ncccn1)NS(=O)(=O)c1cnc2ccccn12,4,0,0.0448744257228748,0.6101694915254238,correct,correct
+763,Metosulam (Ref: XDE 511),86422,139528-85-1,COc1cc(OC)n2nc(S(=O)(=O)Nc3c(Cl)ccc(C)c3Cl)nc2n1,SCAFFOLD:O=S(=O)(Nc1ccccc1)c1nc2ncccn2n1,4,0,0.1315675222072694,0.2876712328767123,correct,correct
+769,Clodinafop (Ref: CGA 193469),5483847,114420-56-3,CC(Oc1ccc(Oc2ncc(Cl)cc2F)cc1)C(=O)O,SCAFFOLD:c1ccc(Oc2ccccn2)cc1,4,0,0.3537434245141813,0.5370370370370371,correct,false_positive
+770,"2,2-Dimethyl-3-(2-methyl-1-propenyl)cyclopropanecarboxylic acid, [2,5-dioxo-3-(2-propynyl)-1-imidazolidinyl]methyl ester",123622,72963-72-5,C#CCN1CC(=O)N(COC(=O)C2C(C=C(C)C)C2(C)C)C1=O,SCAFFOLD:O=C(OCN1C(=O)CNC1=O)C1CC1,4,1,0.8081705806139544,0.5614035087719298,correct,correct
+781,"3-Chloro-2-[[(5-ethoxy-7-fluoro[1,2,4]triazolo[1,5-c]pyrimidin-2-yl)sulfonyl]amino]benzoic acid, Methyl ester",86453,147150-35-4,CCOc1nc(F)cc2nc(S(=O)(=O)Nc3c(Cl)cccc3C(=O)OC)nn12,SCAFFOLD:O=S(=O)(Nc1ccccc1)c1nc2ccncn2n1,4,0,0.2880717926117039,0.325,correct,false_positive
+787,"8-(1,1-Dimethylethyl)-N-ethyl-N-propyl-1,4-dioxaspiro[4.5]decane-2-methanamine",86160,118134-30-8,CCCN(CC)CC1COC2(CCC(C(C)(C)C)CC2)O1,SCAFFOLD:C1CCC2(CC1)OCCO2,4,1,0.339381933896438,0.1917808219178082,false_negative,correct
+791,"5-Methyl-5-(4-phenoxyphenyl)-3-(phenylamino)-2,4-oxazolidinedione",213032,131807-57-3,CC1(c2ccc(Oc3ccccc3)cc2)OC(=O)N(Nc2ccccc2)C1=O,SCAFFOLD:O=C1OC(c2ccc(Oc3ccccc3)cc2)C(=O)N1Nc1ccccc1,4,1,0.1798381430048306,0.2982456140350877,false_negative,correct
+796,Flumiclorac,92414,87547-04-4,O=C(O)COc1cc(N2C(=O)C3=C(CCCC3)C2=O)c(F)cc1Cl,SCAFFOLD:O=C1C2=C(CCCC2)C(=O)N1c1ccccc1,4,0,0.2144006280083416,0.4081632653061224,correct,false_positive
+801,"(5-Hydroxy-1,3-dimethyl-1H-pyrazol-4-yl)[2-(methylsulfonyl)-4-(trifluoromethyl)phenyl]methanone",11693711,365400-11-9,Cc1[nH]n(C)c(=O)c1C(=O)c1ccc(C(F)(F)F)cc1S(C)(=O)=O,SCAFFOLD:O=C(c1ccccc1)c1c[nH][nH]c1=O,4,0,0.1014963841515044,0.4827586206896552,correct,correct
+807,Fluthiacet,18772468,149253-65-6,O=C(O)CSc1cc(N=c2sc(=O)n3n2CCCC3)c(F)cc1Cl,SCAFFOLD:O=c1sc(=Nc2ccccc2)n2n1CCCC2,4,0,0.3381589920363512,0.2424242424242424,correct,false_positive
+809,Fenhexamid (Ref: KBR 2738),213031,126833-17-8,CC1(C(=O)Nc2ccc(O)c(Cl)c2Cl)CCCCC1,SCAFFOLD:O=C(Nc1ccccc1)C1CCCCC1,4,0,0.2520308540972932,0.2340425531914893,correct,false_positive
+811,Cinidon-ethyl (Ref: BAS 615H),5851439,142891-20-1,CCOC(=O)C(Cl)=Cc1cc(N2C(=O)C3=C(CCCC3)C2=O)ccc1Cl,SCAFFOLD:O=C1C2=C(CCCC2)C(=O)N1c1ccccc1,4,0,0.582438462851518,0.2878787878787879,false_positive,false_positive
+814,Acrinathrin (Ref: RU 38702),6436606,101007-06-1,CC1(C)C(C=CC(=O)OC(C(F)(F)F)C(F)(F)F)C1C(=O)OC(C#N)c1cccc(Oc2ccccc2)c1,SCAFFOLD:O=C(OCc1cccc(Oc2ccccc2)c1)C1CC1,4,1,0.9249376564127711,0.44,correct,correct
+818,"alpha,2-Dichloro-5-[4-(difluoromethyl)-4,5-dihydro-3-methyl-5-oxo-1H-1,2,4-triazol-1-yl]-4-fluorobenzenepropanoic acid",443229,128621-72-7,Cc1nn(-c2cc(CC(Cl)C(=O)O)c(Cl)cc2F)c(=O)n1C(F)F,SCAFFOLD:O=c1[nH]cnn1-c1ccccc1,4,0,0.5441817715747377,0.2784810126582278,false_positive,false_positive
+821,"1-[[(2,4-Dichlorophenyl)amino]carbonyl]cyclopropane carboxylic acid",11097730,113136-77-9,O=C(O)C1(C(=O)Nc2ccc(Cl)cc2Cl)CC1,SCAFFOLD:O=C(Nc1ccccc1)C1CC1,4,0,0.201765472607843,0.3409090909090909,correct,false_positive
+823,Mesotrione (Ref: ZA 1296),175967,104206-82-8,CS(=O)(=O)c1ccc(C(=O)C2C(=O)CCCC2=O)c([N+](=O)[O-])c1,SCAFFOLD:O=C1CCCC(=O)C1C(=O)c1ccccc1,4,1,0.186526142864912,0.2857142857142857,false_negative,correct
+826,"N-(2,6-Dichlorophenyl)-5-ethoxy-7-fluoro-[1,2,4-triazolo[1,5-c]pyrimidine-2-sulfonamide",3081304,145701-21-9,CCOc1nc(F)cc2nc(S(=O)(=O)Nc3c(Cl)cccc3Cl)nn12,SCAFFOLD:O=S(=O)(Nc1ccccc1)c1nc2ccncn2n1,4,0,0.1964276595798305,0.2650602409638554,correct,false_positive
+827,Dinotefuran (Ref: MTI 446),197701,165252-70-0,CN=C(NCC1CCOC1)N[N+](=O)[O-],SCAFFOLD:C1CCOC1,4,1,0.591217091178847,0.3962264150943396,correct,correct
+830,"3-[(2-Chloro-5-thiazolyl)methyl]tetrahydro-5-methyl-N-nitro-4H-1,3,5-oxadiazin-4-imine",107646,153719-23-4,CN1COCN(Cc2cnc(Cl)s2)C1=N[N+](=O)[O-],SCAFFOLD:N=C1NCOCN1Cc1cncs1,4,1,0.285499167676159,0.3793103448275862,false_negative,correct
+838,"(5S)-3,5-Dihydro-5-methyl-2-(methylthio)-5-phenyl-3-(phenylamino)-4H-imidazol-4-one",10403199,161326-34-7,CSC1=NC(C)(c2ccccc2)C(=O)N1Nc1ccccc1,SCAFFOLD:O=C1C(c2ccccc2)N=CN1Nc1ccccc1,4,0,0.4736603859693928,0.2291666666666666,correct,false_positive
+841,Picolinafen (Ref: BAS 700H),3294375,137641-05-5,O=C(Nc1ccc(F)cc1)c1cccc(Oc2cccc(C(F)(F)F)c2)n1,SCAFFOLD:O=C(Nc1ccccc1)c1cccc(Oc2ccccc2)n1,4,0,0.399115362194838,0.3859649122807017,correct,false_positive
+842,Cafenstrole (Ref: CH 900),195429,125306-83-4,CCN(CC)C(=O)n1cnc(S(=O)(=O)c2c(C)cc(C)cc2C)n1,SCAFFOLD:O=S(=O)(c1ccccc1)c1nc[nH]n1,4,0,0.3089807253207973,0.2428571428571428,correct,false_positive
+843,Pyriftalid (Ref: CGA 279233),9948894,135186-78-6,COc1cc(OC)nc(Sc2cccc3c2C(=O)OC3C)n1,SCAFFOLD:O=C1OCc2cccc(Sc3ncccn3)c21,4,0,0.3549139489286759,0.4629629629629629,correct,false_positive
+857,3-[2-Chloro-4-(methanesulfonyl)benzoyl]-4-(phenylsulfanyl)bicyclo[3.2.1]oct-3-en-2-one,11236201,156963-66-5,CS(=O)(=O)c1ccc(C(=O)C2=C(Sc3ccccc3)C3CCC(C3)C2=O)c(Cl)c1,SCAFFOLD:O=C(C1=C(Sc2ccccc2)C2CCC(C2)C1=O)c1ccccc1,4,0,0.4108272908993716,0.2666666666666666,correct,false_positive
+862,Indanofan (Ref: MK 243),11046097,133220-30-1,CCC1(CC2(c3cccc(Cl)c3)CO2)C(=O)c2ccccc2C1=O,SCAFFOLD:O=C1c2ccccc2C(=O)C1CC1(c2ccccc2)CO1,4,0,0.5310828602292362,0.2666666666666666,false_positive,false_positive
+863,"2-[2-Chloro-4-fluoro-5-[5-methyl-6-oxo-4-(trifluoromethyl)-1(6H)-pyridazinyl]phenoxy]acetic acid, Ethyl ester",3083546,188489-07-8,CCOC(=O)COc1cc(-n2ncc(C(F)(F)F)c(C)c2=O)c(F)cc1Cl,SCAFFOLD:O=c1cccnn1-c1ccccc1,4,0,0.0451854662853503,0.4324324324324324,correct,correct
+864,Iodosulfuron-methyl-sodium (Ref: AE F115008),16760189,144550-36-7,COC(=O)c1ccc(I)cc1S(=O)(=O)[N-]C(=O)Nc1nc(C)nc(OC)n1.[Na+],SCAFFOLD:O=C([N-]S(=O)(=O)c1ccccc1)Nc1ncncn1,4,0,0.2219776119757108,0.6129032258064516,correct,false_positive
+865,Beflubutamid (Ref: UBH 820),6451159,113614-08-7,CCC(Oc1ccc(F)c(C(F)(F)F)c1)C(=O)NCc1ccccc1,SCAFFOLD:O=C(COc1ccccc1)NCc1ccccc1,4,0,0.3948478185696922,0.2816901408450704,correct,false_positive
+867,Thenylchlor (Ref: NSK 850),443036,96491-05-3,COc1ccsc1CN(C(=O)CCl)c1c(C)cccc1C,SCAFFOLD:c1ccc(NCc2cccs2)cc1,4,0,0.2878247091483314,0.5416666666666666,correct,false_positive
+881,Cycloxydim (Ref: BAS 517H),91765,101205-02-1,CCCC(NOCC)=C1C(=O)CC(C2CCCSC2)CC1=O,SCAFFOLD:C=C1C(=O)CC(C2CCCSC2)CC1=O,4,0,0.2301710396065843,0.6451612903225806,correct,false_positive
+885,Dimethirimol (Ref: PP675),21290,5221-53-4,CCCCc1c(C)[nH]c(N(C)C)nc1=O,SCAFFOLD:O=c1cc[nH]cn1,4,0,0.0389124391159449,0.3018867924528302,correct,correct
+887,Sumithrin ,187827,51186-88-0,CC(C)=CC1C(C(=O)OCc2cccc(Oc3ccccc3)c2)C1(C)C,SCAFFOLD:O=C(OCc1cccc(Oc2ccccc2)c1)C1CC1,4,1,0.8904834421470773,0.631578947368421,correct,correct
+894,Piproctanyl,92514,69309-47-3,C=CC[N+]1(CCC(C)CCCC(C)C)CCCCC1,SCAFFOLD:C1CC[NH2+]CC1,4,0,0.2106671234331353,0.2363636363636363,correct,false_positive
+896,Ethirimol (Ref: PP149),32152,23947-60-6,CCCCc1c(C)[nH]c(NCC)nc1=O,SCAFFOLD:O=c1cc[nH]cn1,4,1,0.1402105256158984,0.3461538461538461,false_negative,false_negative
+897,Pyrifenox (Ref: CGA 179945),6023583,88283-41-4,CON=C(Cc1cccnc1)c1ccc(Cl)cc1Cl,SCAFFOLD:N=C(Cc1cccnc1)c1ccccc1,4,0,0.4147366438849704,0.3275862068965517,correct,false_positive
+906,"Cyclopropanecarboxylic acid, 3-(2,2-Dichloroethenyl)-2,2-dimethylcyano(4-fluoro-3-phenoxyphenyl)methyl ester mixt. with 1-[(6-chloro-3-pyridinyl)methyl]-N-nitro-2-imidizolidinimide",153881,116475-12-8,CC1(C)C(C=C(Cl)Cl)C1C(=O)OC(C#N)c1ccc(F)c(Oc2ccccc2)c1.O=[N+]([O-])NC1=NCCN1Cc1ccc(Cl)nc1,SCAFFOLD:O=C(OCc1cccc(Oc2ccccc2)c1)C1CC1,4,1,0.8582480158730158,0.449438202247191,correct,correct
+907,"1,1'-(2-Nitrobutylidene)bis(4-chlorobenzene), Mixt. with 1,1'-(2-Nitropropylidene)bis(4-chlorobenzene)",24694,8027-00-7,CC(C(c1ccc(Cl)cc1)c1ccc(Cl)cc1)[N+](=O)[O-].CCC(C(c1ccc(Cl)cc1)c1ccc(Cl)cc1)[N+](=O)[O-],SCAFFOLD:c1ccc(Cc2ccccc2)cc1,4,0,0.1502973860865417,0.2745098039215686,correct,correct
+909,Polyoxin B,418922,19396-06-6,NC(=O)OCC(O)C(O)C(N)C(=O)NC(C(=O)O)C1OC(n2cc(CO)c(=O)[nH]c2=O)C(O)C1O,SCAFFOLD:O=c1ccn(C2CCCO2)c(=O)[nH]1,4,0,0.3504215118334428,0.2523364485981308,correct,false_positive
+911,Metyltetraprole (Ref: S-2367),8988183,1472649-01-6,Cc1cccc(-n2nnn(C)c2=O)c1COc1ccn(-c2ccc(Cl)cc2)n1,SCAFFOLD:O=c1[nH]nnn1-c1ccccc1COc1ccn(-c2ccccc2)n1,4,0,0.2253627139945006,0.2535211267605634,correct,false_positive
+913,Imibenconazole (Ref: HF 6305),93483,86598-92-7,Clc1ccc(CSC(Cn2cncn2)=Nc2ccc(Cl)cc2Cl)cc1,SCAFFOLD:c1ccc(CSC(Cn2cncn2)=Nc2ccccc2)cc1,4,0,0.3031649868286874,0.3968253968253968,correct,false_positive
+914,Cyflufenamid (Ref: NF 149),9844539,180409-60-3,O=C(Cc1ccccc1)N=C(NOCC1CC1)c1c(C(F)(F)F)ccc(F)c1F,SCAFFOLD:O=C(Cc1ccccc1)N=C(NOCC1CC1)c1ccccc1,4,0,0.5210319454795014,0.2298850574712643,false_positive,false_positive
+916,4-Chloro-3-ethyl-1-methyl-N-[[4-(4-methylphenoxy)phenyl]methyl]-1H-pyrazole-5-carboxamide,10110536,129558-76-5,CCc1nn(C)c(C(=O)NCc2ccc(Oc3ccc(C)cc3)cc2)c1Cl,SCAFFOLD:O=C(NCc1ccc(Oc2ccccc2)cc1)c1ccn[nH]1,4,1,0.4613231678608961,0.293103448275862,false_negative,correct
+922,Haloxyfop-etotyl (Ref: DOWCO 453EE),91743,87237-48-7,CCOCCOC(=O)C(C)Oc1ccc(Oc2ncc(C(F)(F)F)cc2Cl)cc1,SCAFFOLD:c1ccc(Oc2ccccn2)cc1,4,0,0.1140833364445966,0.4347826086956521,correct,correct
+923,"N-(5,7-Dimethoxy[1,2,4]triazolo[1,5-a]pyrimidin-2-yl)-2-methoxy-4-(trifluoromethyl)-3-pyridinesulfonamide",11571555,422556-08-9,COc1cc(OC)n2nc(NS(=O)(=O)c3c(C(F)(F)F)ccnc3OC)nc2n1,SCAFFOLD:O=S(=O)(Nc1nc2ncccn2n1)c1cccnc1,4,0,0.1798454599631853,0.4102564102564102,correct,false_positive
+926,Cyenopyrafen (Ref: NC-512 ),18772482,560121-52-0,Cc1nn(C)c(C(OC(=O)C(C)(C)C)=C(C#N)c2ccc(C(C)(C)C)cc2)c1C,SCAFFOLD:C(=Cc1ccn[nH]1)c1ccccc1,4,0,0.6154391167597375,0.2702702702702703,false_positive,false_positive
+933,Spinosad (Ref: XDE 105),21871655,168316-95-8,CCC1CCCC(OC2CCC(N(C)C)C(C)O2)C(C)C(=O)C2=CC3C(C=C(C)C4CC(OC5OC(C)C(OC)C(OC)C5OC)CC43)C2CC(=O)O1.CCC1CCCC(OC2CCC(N(C)C)C(C)O2)C(C)C(=O)C2=CC3C(C=CC4CC(OC5OC(C)C(OC)C(OC)C5OC)CC43)C2CC(=O)O1,SCAFFOLD:O=C1CC2C(=CC3C2C=CC2CC(OC4CCCCO4)CC23)C(=O)CC(OC2CCCCO2)CCCCO1,4,1,0.8115128405529063,0.6862745098039216,correct,correct
+935,Proquinazid (Ref: DPX KQ926),11057771,189278-12-4,CCCOc1nc2ccc(I)cc2c(=O)n1CCC,SCAFFOLD:O=c1[nH]cnc2ccccc12,4,0,0.0656080272323375,0.2666666666666666,correct,correct
+955,Dihydroazadirachtin,44631173,108189-58-8,CC=C(C)C(=O)OC1CC(OC(C)=O)C2(C(=O)OC)COC3C2C12COC(O)(C(=O)OC)C2C(C)(C12OC1(C)C1CC2OC2OCCC21O)C3O,SCAFFOLD:C1CC2COC3CC(C45OC4C4CC5OC5OCCC54)C4COCC4(C1)C23,4,0,0.5213867264125664,0.2248062015503876,false_positive,false_positive
+956,Kasugamycin,265071,6980-18-3,CC1OC(OC2C(O)C(O)C(O)C(O)C2O)C(N)CC1N=C(N)C(=O)O,SCAFFOLD:C1CCC(OC2CCCCO2)CC1,4,0,0.4557422695598191,0.2409638554216867,correct,false_positive
+963,Hexylthiofos,6451756,41495-67-4,CCOP(=O)(OC1CCCCC1)SCC,SCAFFOLD:C1CCCCC1,4,0,0.8866800102940173,0.4054054054054054,false_positive,false_positive
+964,Oxytetracycline hydrochloride,54687415,2-58-46-0,CN(C)C1C(=O)C(C(N)=O)=C(O)C2(O)C(=O)C3=C(O)c4c(O)cccc4C(C)(O)C3C(O)C12.Cl,SCAFFOLD:O=C1C=CC2C(=O)C3=Cc4ccccc4CC3CC2C1,4,0,0.2967290223416894,0.1538461538461538,correct,false_positive
+966,"2-[1-[2-[[(3,5-Difluorophenyl)amino]carbonyl]hydrazinylidene]ethyl]-3-pyridinecarboxylic acid",123626,109293-97-2,CC(=NNC(=O)Nc1cc(F)cc(F)c1)c1ncccc1C(=O)O,SCAFFOLD:O=C(NN=Cc1ccccn1)Nc1ccccc1,4,0,0.1070795031469741,0.2769230769230769,correct,correct
+967,Flufenprox (Ref: ICIA5682),86103,107713-58-6,CCOc1ccc(C(COCc2cccc(Oc3ccc(Cl)cc3)c2)C(F)(F)F)cc1,SCAFFOLD:c1ccc(CCOCc2cccc(Oc3ccccc3)c2)cc1,4,1,0.5746484400849555,0.3285714285714285,correct,correct
+968,"N-(3',4'-Dichloro-5-fluoro[1,1'-biphenyl]-2-yl)-3-(difluoromethyl)-1-methyl-1H-pyrazole-4-carboxamide",11434448,581809-46-3,Cn1cc(C(=O)Nc2ccc(F)cc2-c2ccc(Cl)c(Cl)c2)c(C(F)F)n1,SCAFFOLD:O=C(Nc1ccccc1-c1ccccc1)c1cn[nH]c1,4,0,0.1474830287406883,0.4492753623188406,correct,correct
+971,Fluxapyroxad (Ref: BAS 700F),16095400,907204-31-3,Cn1cc(C(=O)Nc2ccccc2-c2cc(F)c(F)c(F)c2)c(C(F)F)n1,SCAFFOLD:O=C(Nc1ccccc1-c1ccccc1)c1cn[nH]c1,4,0,0.1100742509565412,0.5483870967741935,correct,correct
+979,"N-[[(4,6-Dimethoxy-2-pyrimidinyl)amino]carbonyl]-(2,2,2-trifluoroethoxy)-2-pyridinesulfonamide sodium salt (1:1)",23676736,199119-58-9,COc1cc(OC)nc(NC(=O)[N-]S(=O)(=O)c2ncccc2OCC(F)(F)F)n1.[Na+],SCAFFOLD:O=C([N-]S(=O)(=O)c1ccccn1)Nc1ncccn1,4,0,0.0724111366210209,0.7049180327868853,correct,correct
+991,"N-[9-(Dichloromethylene)-1,2,3,4-tetrahydro-1,4-1H-pyrazole-4-carboxamide",53491464,1072957-71-1,Cn1cc(C(=O)Nc2cccc3c2C2CCC3C2=C(Cl)Cl)c(C(F)F)n1,SCAFFOLD:C=C1C2CCC1c1c(NC(=O)c3cn[nH]c3)cccc12,4,0,0.6100063561098683,0.640625,false_positive,false_positive
+1000,N-[(2-Chlorophenyl)methyl]-N'-(1-methyl-1-phenylethyl)urea,11709249,99485-76-4,CC(C)(NC(=O)NCc1ccccc1Cl)c1ccccc1,SCAFFOLD:O=C(NCc1ccccc1)NCc1ccccc1,4,0,0.0961758466643346,0.3529411764705882,correct,correct
+1004,Cyclaniliprole (Ref: IKI-3106),24822142,1031756-98-5,CC(NC(=O)c1cc(Cl)cc(Br)c1NC(=O)c1cc(Br)nn1-c1ncccc1Cl)C1CC1,SCAFFOLD:O=C(NCC1CC1)c1ccccc1NC(=O)c1ccnn1-c1ccccn1,4,1,0.4564248293853518,0.6338028169014085,false_negative,correct
+1007,Fluazaindolizine (Ref: DPX-Q8U80),46944253,1254304-22-7,COc1ccc(Cl)c(S(=O)(=O)NC(=O)c2cn3cc(C(F)(F)F)cc(Cl)c3n2)c1,SCAFFOLD:O=C(NS(=O)(=O)c1ccccc1)c1cn2ccccc2n1,4,0,0.3120802457437575,0.325,correct,false_positive
+1019,"2-[4-(4-Chlorophenoxy)-2-(trifluoromethyl)phenyl]-1-(1H-1,2,4-triazol-1-yl)propan-2-ol",71230671,1417782-03-6,CC(O)(Cn1cncn1)c1ccc(Oc2ccc(Cl)cc2)cc1C(F)(F)F,SCAFFOLD:c1ccc(Oc2ccc(CCn3cncn3)cc2)cc1,4,0,0.215684808072554,0.4655172413793103,correct,false_positive
+1024,Isoflucypram (Ref: BCS-CN88460),66553206,1255734-28-1,CC(C)c1ccc(Cl)cc1CN(C(=O)c1c(C(F)F)nn(C)c1F)C1CC1,SCAFFOLD:O=C(c1cn[nH]c1)N(Cc1ccccc1)C1CC1,4,0,0.3108739855177114,0.3076923076923077,correct,false_positive
+1025,Fluindapyr (Ref: IR9792),57343740,1383809-87-7,CC1CC(C)(C)c2c(F)ccc(N=C(O)c3cn(C)nc3C(F)F)c21,SCAFFOLD:C(=Nc1cccc2c1CCC2)c1cn[nH]c1,4,0,0.1757712963666643,0.36,correct,false_positive
+1026,Maltodextrin,162179169,9050-36-6,O=CC(O)C(O)C(O)C(O)CO,ACYCLIC:O=CC(O)C(O)C(O)C(O)CO,4,0,0.1150499838234983,0.1891891891891892,correct,correct
+1028,"(1R,3R)-rel-3-[(1Z)-2-Chloro-3,3,3-trifluoro-1-propen-1-yl]-2,2-dimethylcyclopropanecarboxylic acid (2-methyl[1,1'-biphenyl]-3-yl)methyl ester mixt. with cyano(3-phenoxyphenyl)methyl 3-(2,2-dichloroethenyl)-2,2-dimethylcyclopropanecarboxylate",163360625,943012-36-0,CC1(C)C(C=C(Cl)Cl)C1C(=O)OC(C#N)c1cccc(Oc2ccccc2)c1.Cc1c(COC(=O)C2C(C=C(Cl)C(F)(F)F)C2(C)C)cccc1-c1ccccc1,SCAFFOLD:O=C(OCc1cccc(-c2ccccc2)c1)C1CC1,4,1,0.95425,0.4268292682926829,correct,correct
+1029,"(1S,3S)-rel-3-[(1Z)-2-Chloro-3,3,3-trifluoro-1-propen-1-yl]-2,2-dimethyl-(R)-cyano(3-phenoxyphenyl)methyl ester cyclopropanecarboxylic acid mixt. with 3-bromo-N-[4-chloro-2-methyl-6-[(methylamino)carbonyl]phenyl]-1-(3-chloro-2-pyridinyl)-1H-pyrazole-5-carboxamide",163360624,873330-19-9,CC1(C)C(C=C(Cl)C(F)(F)F)C1C(=O)OC(C#N)c1cccc(Oc2ccccc2)c1.CNC(=O)c1cc(Cl)cc(C)c1NC(=O)c1cc(Br)nn1-c1ncccc1Cl,SCAFFOLD:O=C(OCc1cccc(Oc2ccccc2)c1)C1CC1,4,1,0.9453869047619048,0.5454545454545454,correct,correct
+1031,Glyphosate-dimethylammonium,13208144,34494-04-7,CNC.O=C(O)CNCP(=O)(O)O,ACYCLIC:O=C(O)CNCP(=O)(O)O,4,0,0.2179137883121842,0.5714285714285714,correct,false_positive
+1032,Glyphosate-monoammonium,11615303,114370-14-8,N.O=C(O)CNCP(=O)(O)O,ACYCLIC:O=C(O)CNCP(=O)(O)O,4,0,0.159643779614669,0.6153846153846154,correct,correct

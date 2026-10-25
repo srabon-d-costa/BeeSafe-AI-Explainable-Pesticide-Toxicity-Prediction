@@ -1,0 +1,177 @@
+{
+  "project": "BeeSafe AI",
+  "phase": "07 \u2014 Robustness, Applicability Domain & Uncertainty Validation",
+  "created_utc": "2026-10-25T17:48:04.108765+00:00",
+  "n_records": 1025,
+  "n_structure_groups": 566,
+  "outer_folds": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "grouped_fold_integrity_passed": true,
+  "nested_oof_metrics": {
+    "n_records": 1025,
+    "positive_prevalence": 0.2868292682926829,
+    "average_precision": 0.7391062021228673,
+    "roc_auc": 0.8173595019403109,
+    "brier_score": 0.1358199669291375,
+    "log_loss": 0.4362379692599425
+  },
+  "threshold_metrics": [
+    {
+      "threshold_rule": "threshold_0.50",
+      "precision_toxic": 0.7777777777777778,
+      "recall_toxic": 0.5952380952380952,
+      "f1_toxic": 0.674373795761079,
+      "f2_toxic": 0.6245538900785154,
+      "balanced_accuracy": 0.7634193212168588,
+      "mcc": 0.5756701664126278,
+      "specificity_non_toxic": 0.9316005471956225
+    },
+    {
+      "threshold_rule": "outer_training_oof_selected_threshold",
+      "precision_toxic": 0.4354243542435424,
+      "recall_toxic": 0.8027210884353742,
+      "f1_toxic": 0.5645933014354066,
+      "f2_toxic": 0.6868451688009313,
+      "balanced_accuracy": 0.6920582186362918,
+      "mcc": 0.3480342918391239,
+      "specificity_non_toxic": 0.5813953488372093
+    }
+  ],
+  "group_bootstrap_confidence_intervals": [
+    {
+      "metric": "average_precision",
+      "oof_point_estimate": 0.7391062021228673,
+      "bootstrap_2.5_percentile": 0.6443863971267527,
+      "bootstrap_97.5_percentile": 0.8067792004462659,
+      "valid_replicates": 500,
+      "structure_groups": 566
+    },
+    {
+      "metric": "roc_auc",
+      "oof_point_estimate": 0.8173595019403109,
+      "bootstrap_2.5_percentile": 0.75515111958325,
+      "bootstrap_97.5_percentile": 0.8636001086590261,
+      "valid_replicates": 500,
+      "structure_groups": 566
+    },
+    {
+      "metric": "brier_score",
+      "oof_point_estimate": 0.1358199669291375,
+      "bootstrap_2.5_percentile": 0.1218174458378402,
+      "bootstrap_97.5_percentile": 0.1552134998867139,
+      "valid_replicates": 500,
+      "structure_groups": 566
+    }
+  ],
+  "similarity_quartile_results": [
+    {
+      "similarity_quartile": "Q2",
+      "records": 256,
+      "mean_max_similarity": 0.32633781932179845,
+      "toxic_prevalence": 0.26953125,
+      "average_precision": 0.7633835080722616,
+      "roc_auc": 0.8452297915213517,
+      "brier_score": 0.12857232036273752,
+      "toxic_recall_at_fold_threshold": 0.8695652173913043,
+      "toxic_precision_at_fold_threshold": 0.425531914893617,
+      "misclassification_rate_at_fold_threshold": 0.3515625
+    },
+    {
+      "similarity_quartile": "Q3",
+      "records": 256,
+      "mean_max_similarity": 0.4339243124445557,
+      "toxic_prevalence": 0.34765625,
+      "average_precision": 0.8447273483034983,
+      "roc_auc": 0.8729058736459664,
+      "brier_score": 0.1231445341033645,
+      "toxic_recall_at_fold_threshold": 0.8539325842696629,
+      "toxic_precision_at_fold_threshold": 0.5390070921985816,
+      "misclassification_rate_at_fold_threshold": 0.3046875
+    },
+    {
+      "similarity_quartile": "Q1 lowest similarity",
+      "records": 257,
+      "mean_max_similarity": 0.22075208256742251,
+      "toxic_prevalence": 0.1828793774319066,
+      "average_precision": 0.2533813603782153,
+      "roc_auc": 0.569756838905775,
+      "brier_score": 0.16521245341568358,
+      "toxic_recall_at_fold_threshold": 0.574468085106383,
+      "toxic_precision_at_fold_threshold": 0.1956521739130435,
+      "misclassification_rate_at_fold_threshold": 0.5097276264591439
+    },
+    {
+      "similarity_quartile": "Q4 highest similarity",
+      "records": 256,
+      "mean_max_similarity": 0.6035227638991172,
+      "toxic_prevalence": 0.34765625,
+      "average_precision": 0.8115371344274658,
+      "roc_auc": 0.8648321334858373,
+      "brier_score": 0.12623574543442634,
+      "toxic_recall_at_fold_threshold": 0.8202247191011236,
+      "toxic_precision_at_fold_threshold": 0.5983606557377049,
+      "misclassification_rate_at_fold_threshold": 0.25390625
+    }
+  ],
+  "selective_prediction_results": [
+    {
+      "minimum_similarity_quantile": 0.0,
+      "similarity_cutoff": 0.0,
+      "records_retained": 1025,
+      "coverage": 1.0,
+      "average_precision": 0.7391062021228673,
+      "roc_auc": 0.8173595019403109,
+      "brier_score": 0.1358199669291375,
+      "toxic_recall_at_fold_threshold": 0.8027210884353742,
+      "misclassification_rate_at_fold_threshold": 0.3551219512195122
+    },
+    {
+      "minimum_similarity_quantile": 0.25,
+      "similarity_cutoff": 0.2777777777777778,
+      "records_retained": 769,
+      "coverage": 0.7502439024390244,
+      "average_precision": 0.8046999698088182,
+      "roc_auc": 0.860972230821621,
+      "brier_score": 0.126514642931763,
+      "toxic_recall_at_fold_threshold": 0.842741935483871,
+      "misclassification_rate_at_fold_threshold": 0.30429128738621586
+    },
+    {
+      "minimum_similarity_quantile": 0.5,
+      "similarity_cutoff": 0.3787878787878788,
+      "records_retained": 515,
+      "coverage": 0.5024390243902439,
+      "average_precision": 0.8219611604502371,
+      "roc_auc": 0.8666438835728336,
+      "brier_score": 0.12495356588995125,
+      "toxic_recall_at_fold_threshold": 0.8370786516853933,
+      "misclassification_rate_at_fold_threshold": 0.2815533980582524
+    },
+    {
+      "minimum_similarity_quantile": 0.75,
+      "similarity_cutoff": 0.5,
+      "records_retained": 269,
+      "coverage": 0.2624390243902439,
+      "average_precision": 0.8259522196508051,
+      "roc_auc": 0.8691261088467993,
+      "brier_score": 0.12519440154866673,
+      "toxic_recall_at_fold_threshold": 0.8247422680412371,
+      "misclassification_rate_at_fold_threshold": 0.25650557620817843
+    }
+  ],
+  "quantile_bin_ece": 0.055525186355009026,
+  "bootstrap_replicates_requested": 500,
+  "bootstrap_replicates_valid": 500,
+  "limitations": [
+    "Performance derives from saved nested grouped OOF predictions and the existing dataset, not an external prospective test.",
+    "Cluster-bootstrap intervals are descriptive and depend on the grouping and bootstrap design.",
+    "Applicability-domain quartiles are relative to this dataset; no universal similarity cutoff is asserted.",
+    "Probability calibration is dataset-specific and should not be interpreted as a guarantee for new chemicals.",
+    "Tree disagreement from Phase 06 is not a calibrated predictive interval and is not used here as validated uncertainty.",
+    "Predictions concern ApisTox dataset-defined honeybee toxicity labels, not field-level ecological harm or regulatory safety."
+  ]
+}

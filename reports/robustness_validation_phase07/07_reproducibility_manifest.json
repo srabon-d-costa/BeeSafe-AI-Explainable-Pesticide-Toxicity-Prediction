@@ -1,0 +1,32 @@
+{
+  "project": "BeeSafe AI",
+  "phase": "07",
+  "created_utc": "2026-10-25T17:48:04.116649+00:00",
+  "inputs": {
+    "data\\processed\\phase03\\03_baseline_features.npz": "4158884bd73d7e3f744b0cffc62d86bdf162b942858d3bec96780b8dc4fb930a",
+    "data\\processed\\phase03\\03_baseline_metadata.csv": "e84ebaea6fe518ec850f038c29c9365de3673ee9f02b709d42da571ad66616b6",
+    "reports\\model_optimization_advanced\\05_nested_cv_oof_predictions.csv": "9e644feec1cab4d01c32ed08816284e5a935fbe7856d432459e72ff91cb70def",
+    "reports\\model_optimization_advanced\\05_nested_cv_outer_fold_metrics.csv": "c3b7dc4825a6475d77aaf27a258ec77e164ca4e24b16de3816ef3a357f978ff0",
+    "reports\\explainability_reliability\\tables\\06_oof_applicability_domain.csv": "23952ae2cbc98b3fae7a19d80465ff5ee1dfc267fe6428df97ec46fc9b5c9653"
+  },
+  "outputs": [
+    "reports\\robustness_validation_phase07\\07_robustness_validation_summary.json",
+    "reports\\robustness_validation_phase07\\figures\\07_applicability_similarity_distribution.png",
+    "reports\\robustness_validation_phase07\\figures\\07_fold_performance_stability.png",
+    "reports\\robustness_validation_phase07\\figures\\07_oof_calibration_curve.png",
+    "reports\\robustness_validation_phase07\\figures\\07_performance_by_similarity_quartile.png",
+    "reports\\robustness_validation_phase07\\figures\\07_selective_prediction_coverage_risk.png",
+    "reports\\robustness_validation_phase07\\tables\\07_applicability_similarity_summary.csv",
+    "reports\\robustness_validation_phase07\\tables\\07_error_slices_by_fold.csv",
+    "reports\\robustness_validation_phase07\\tables\\07_fold_stability.csv",
+    "reports\\robustness_validation_phase07\\tables\\07_group_bootstrap_confidence_intervals.csv",
+    "reports\\robustness_validation_phase07\\tables\\07_group_bootstrap_replicates.csv",
+    "reports\\robustness_validation_phase07\\tables\\07_oof_error_review.csv",
+    "reports\\robustness_validation_phase07\\tables\\07_outer_fold_integrity.csv",
+    "reports\\robustness_validation_phase07\\tables\\07_overall_oof_probability_metrics.csv",
+    "reports\\robustness_validation_phase07\\tables\\07_performance_by_similarity_quartile.csv",
+    "reports\\robustness_validation_phase07\\tables\\07_probability_calibration_bins.csv",
+    "reports\\robustness_validation_phase07\\tables\\07_selective_prediction_coverage_risk.csv",
+    "reports\\robustness_validation_phase07\\tables\\07_threshold_comparison.csv"
+  ]
+}
