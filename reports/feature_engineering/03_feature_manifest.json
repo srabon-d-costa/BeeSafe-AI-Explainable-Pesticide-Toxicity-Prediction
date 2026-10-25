@@ -1,0 +1,63 @@
+{
+  "project": "BeeSafe AI",
+  "phase": "03_data_preprocessing_and_feature_engineering",
+  "generated_utc": "2026-10-25T16:17:40.800900+00:00",
+  "raw_data_sha256": "de4b160a23601a44ac5ec5b23aae95973acba060135630a6df8f73d128baea9e",
+  "phase02_source_csv_sha256": "de4b160a23601a44ac5ec5b23aae95973acba060135630a6df8f73d128baea9e",
+  "raw_rows": 1035,
+  "phase02_flagged_rows": 10,
+  "conservative_baseline_rows": 1025,
+  "withheld_rows": 10,
+  "baseline_policy": "WITHHOLD_ALL_PHASE02_REVIEW_PRIORITY_NON_NONE",
+  "no_cid_cas_smiles_or_label_corrected": true,
+  "morgan": {
+    "algorithm": "RDKit Morgan bit vector (ECFP-like)",
+    "radius": 2,
+    "n_bits": 2048,
+    "include_chirality": false,
+    "molecule_representation": "original full SMILES including counterions"
+  },
+  "descriptor_names_in_column_order": [
+    "MolWt",
+    "MolLogP",
+    "TPSA",
+    "NumHDonors",
+    "NumHAcceptors",
+    "RingCount",
+    "HeavyAtomCount",
+    "NumRotatableBonds",
+    "NumAromaticRings",
+    "FractionCSP3",
+    "FormalCharge",
+    "NumHeteroatoms"
+  ],
+  "model_inputs_excluded": [
+    "name",
+    "CID",
+    "CAS",
+    "source",
+    "year",
+    "toxicity_type",
+    "label",
+    "ppdb_level",
+    "pubchem_verification_status",
+    "review_priority"
+  ],
+  "target_column": "label",
+  "positive_class": 1,
+  "structure_group": "Bemis-Murcko scaffold of largest fragment; acyclic fallback to largest fragment canonical SMILES",
+  "splitting_done": false,
+  "model_training_done": false,
+  "rdkit_version": "2026.09.1",
+  "numpy_version": "2.5.2",
+  "pandas_version": "3.0.5",
+  "output_files": [
+    "03_all_descriptor_features.csv",
+    "03_all_record_metadata.csv",
+    "03_all_records_features.npz",
+    "03_baseline_descriptor_features.csv",
+    "03_baseline_features.npz",
+    "03_baseline_metadata.csv",
+    "03_withheld_review_records.csv"
+  ]
+}
