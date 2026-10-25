@@ -1,0 +1,5 @@
+﻿outer_fold,train_records,validation_records,train_groups,validation_groups,group_overlap,train_toxic,validation_toxic
+1,769,256,483,83,0,221,73
+2,769,256,403,163,0,220,74
+3,768,257,401,165,0,220,74
+4,769,256,411,155,0,221,73

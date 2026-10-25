@@ -1,0 +1,40 @@
+{
+  "project": "BeeSafe AI",
+  "phase": "05 — Advanced Optimization and Nested Grouped CV",
+  "created_utc": "2026-10-25T17:20:59.904745+00:00",
+  "n_baseline_records": 1025,
+  "n_structure_groups": 566,
+  "class_counts": {
+    "0": 731,
+    "1": 294
+  },
+  "primary_evaluation": "mean and standard deviation across nested outer structure-grouped CV folds",
+  "outer_splits": 4,
+  "inner_splits": 3,
+  "outer_tpe_trials_per_family": 8,
+  "final_tpe_trials_per_family": 20,
+  "optuna_sampler": "TPESampler",
+  "selection_metric": "Average Precision",
+  "nested_cv_mean_ap": 0.75482672672048,
+  "nested_cv_std_ap": 0.08796754447900969,
+  "nested_cv_mean_roc_auc": 0.8176421219454006,
+  "selected_deployable_model_family": "Extra Trees — Morgan",
+  "final_grouped_cv_ap_for_selection_only": 0.7549731467089931,
+  "selected_oof_f2_threshold_for_deployment": 0.2556186777264476,
+  "selected_oof_precision": 0.5010845986984815,
+  "selected_oof_recall": 0.7857142857142857,
+  "selected_oof_f2": 0.7055589492974954,
+  "model_path": "E:\\CODE\\Python\\ALL Project\\Machine Learning\\BeeSafe AI\\models\\05_advanced_tuned_candidate.joblib",
+  "nested_cv_metrics_path": "E:\\CODE\\Python\\ALL Project\\Machine Learning\\BeeSafe AI\\reports\\model_optimization_advanced\\05_nested_cv_outer_fold_metrics.csv",
+  "final_search_results_path": "E:\\CODE\\Python\\ALL Project\\Machine Learning\\BeeSafe AI\\reports\\model_optimization_advanced\\05_final_model_family_comparison.csv",
+  "raw_dataset_sha256": "de4b160a23601a44ac5ec5b23aae95973acba060135630a6df8f73d128baea9e",
+  "phase03_manifest_raw_hash": "de4b160a23601a44ac5ec5b23aae95973acba060135630a6df8f73d128baea9e",
+  "raw_hash_matches_phase03_manifest": true,
+  "phase04_holdout_note": "Earlier Phase 04 holdout results were inspected. This notebook does not reuse that holdout as a fresh final test; nested grouped CV is the primary estimate.",
+  "limitations": [
+    "Performance reflects curated ApisTox dataset labels, not direct field-level ecological impact.",
+    "Nested grouped CV reduces model-selection optimism but does not replace external/prospective validation.",
+    "The baseline excludes 10 Phase 02 identity-flagged records under the Phase 03 conservative policy.",
+    "Decision threshold is an operational screening choice and does not establish probability calibration."
+  ]
+}

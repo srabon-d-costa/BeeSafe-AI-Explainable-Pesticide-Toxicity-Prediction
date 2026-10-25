@@ -1,0 +1,1026 @@
+﻿source_row_index,outer_fold,name,CID,y_true,oof_probability,selected_family_in_fold,threshold_selected_from_outer_train_oof,predicted_at_050,predicted_at_oof_threshold
+1,1,Para-cymene,7463,0,0.6571076692396361,Extra Trees — Morgan,0.22150342439140824,1,1
+3,1,Benzoic acid,243,0,0.17849088905811378,Extra Trees — Morgan,0.22150342439140824,0,0
+4,1,Tetradifon (Ref: ENT 23737),8305,1,0.05601769328066073,Extra Trees — Morgan,0.22150342439140824,0,0
+10,1,Bromophos,16422,1,0.9889979590278514,Extra Trees — Morgan,0.22150342439140824,1,1
+18,1,Copper (I) oxide,14830,0,0.32816665986854693,Extra Trees — Morgan,0.22150342439140824,0,1
+19,1,"Phosphoric acid 2,2-dichloroethenyl dimethyl ester",3039,1,0.9031287985835967,Extra Trees — Morgan,0.22150342439140824,1,1
+20,1,2-[[Ethoxy[(1-methylethyl)amino]phosphinothioyl]oxy]benzoic acid 1-methylethyl ester,32872,1,0.9348532417008791,Extra Trees — Morgan,0.22150342439140824,1,1
+25,1,Neburon,11145,0,0.04652229154611707,Extra Trees — Morgan,0.22150342439140824,0,0
+27,1,"2,3,4,5,6-Pentachlorophenol",992,0,0.3108941779848194,Extra Trees — Morgan,0.22150342439140824,0,1
+31,1,Hydroquinone,785,0,0.2581362415344668,Extra Trees — Morgan,0.22150342439140824,0,1
+35,1,"3,6-Dichloro-2-methyoxybenzoic acid",3030,0,0.027580158748098573,Extra Trees — Morgan,0.22150342439140824,0,0
+40,1,"N'-(3,4-Dichlorophenyl)-N-methoxy-N-methylurea",9502,0,0.026820185971426363,Extra Trees — Morgan,0.22150342439140824,0,0
+41,1,Eugenol,3314,0,0.5322555825472431,Extra Trees — Morgan,0.22150342439140824,1,1
+43,1,5-Methyl-2-(1-methylethyl)phenol,6989,0,0.33812438905746445,Extra Trees — Morgan,0.22150342439140824,0,1
+45,1,"Chloric acid, Sodium salt (1:1)",516902,0,0.2692026957688263,Extra Trees — Morgan,0.22150342439140824,0,1
+46,1,Strychnine,441071,0,0.19029435601208633,Extra Trees — Morgan,0.22150342439140824,0,0
+47,1,"N-Butyl-N-ethyl-2,6-dinitro-4-(trifluoromethyl)benzenamine",2319,0,0.1255865730802046,Extra Trees — Morgan,0.22150342439140824,0,0
+49,1,"Benzoic acid, Methyl ester",7150,0,0.06404731688697064,Extra Trees — Morgan,0.22150342439140824,0,0
+52,1,Trichloronitromethane,6423,0,0.15867381497168453,Extra Trees — Morgan,0.22150342439140824,0,0
+53,1,1-decanol,8174,0,0.265190283061121,Extra Trees — Morgan,0.22150342439140824,0,1
+56,1,"N-(3,4-Dichlorophenyl)propanamide",4933,0,0.0857822243343813,Extra Trees — Morgan,0.22150342439140824,0,0
+57,1,Cinnamaldehyde,637511,0,0.10417150845361672,Extra Trees — Morgan,0.22150342439140824,0,0
+64,1,"N'-(3,4-Dichlorophenyl)-N,N-dimethylurea",3120,0,0.04748302234713687,Extra Trees — Morgan,0.22150342439140824,0,0
+65,1,2-Chloro-N-(1-methylethyl)-N-phenylacetamide,4931,0,0.201643295110678,Extra Trees — Morgan,0.22150342439140824,0,0
+66,1,Anethole,637563,0,0.16401712468634752,Extra Trees — Morgan,0.22150342439140824,0,0
+68,1,Parathion-methyl (Ref: OMS 213),4130,0,0.9760434722961306,Extra Trees — Morgan,0.22150342439140824,1,1
+80,1,(Acetato-kappaO)phenylmercury,16682730,1,0.05856738775759858,Extra Trees — Morgan,0.22150342439140824,0,0
+81,1,Linalool,6549,0,0.14599996232815543,Extra Trees — Morgan,0.22150342439140824,0,0
+83,1,"N,N'-[1,4-Piperazinediylbis(2,2,2-trichloroethylidene)]bis-formamide",33565,0,0.3362699387209701,Extra Trees — Morgan,0.22150342439140824,0,1
+85,1,Dibromochloropropane (Ref: OS1897),7280,0,0.31910435260416176,Extra Trees — Morgan,0.22150342439140824,0,1
+88,1,"2,4-D (Ref: L 208)",1486,0,0.025187305571919505,Extra Trees — Morgan,0.22150342439140824,0,0
+89,1,Methyleugenol (Ref: Ent 21040),7127,0,0.6137385257047356,Extra Trees — Morgan,0.22150342439140824,1,1
+90,1,"N-(1-Ethylpropyl)-3,4-dimethyl-2,6-dinitro-benzenamine",38479,0,0.13365329703451356,Extra Trees — Morgan,0.22150342439140824,0,0
+93,1,Metaldehyde,61021,0,0.1325705787508546,Extra Trees — Morgan,0.22150342439140824,0,0
+94,1,Capsaicin (Ref: NCI-C56564),1548943,1,0.5889319673683203,Extra Trees — Morgan,0.22150342439140824,1,1
+95,1,1-Methyl-2-pyrrolidinone,13387,0,0.2440848932702587,Extra Trees — Morgan,0.22150342439140824,0,1
+98,1,"As,As-Dimethylarsinic acid",2513,0,0.5927991523961879,Extra Trees — Morgan,0.22150342439140824,1,1
+99,1,Sodium o-nitrophenolate,69985,0,0.11878127427427244,Extra Trees — Morgan,0.22150342439140824,0,0
+100,1,"2-(1-Methylethoxy)phenol, 1-(N-Methylcarbamate)",4944,1,0.9859242370215224,Extra Trees — Morgan,0.22150342439140824,1,1
+103,1,"2-Aminobenzoic acid, Methyl ester",8635,0,0.41161023754395937,Extra Trees — Morgan,0.22150342439140824,0,1
+110,1,Tridemorph (Ref: BAS 2205-F),32518,0,0.21229788501312502,Extra Trees — Morgan,0.22150342439140824,0,0
+112,1,Dithianon (Ref: BAS 216F),18771,0,0.3457602955442799,Extra Trees — Morgan,0.22150342439140824,0,1
+117,1,As-(4-Aminophenyl)arsonic acid,7389,0,0.7176004946284428,Extra Trees — Morgan,0.22150342439140824,1,1
+119,1,2-Chloro-N-(ethoxymethyl)-N-(2-ethyl-6-methylphenyl)acetamide,1988,0,0.29005749690407534,Extra Trees — Morgan,0.22150342439140824,0,1
+127,1,Sodium p-nitrophenolate,13214,0,0.16837691756325862,Extra Trees — Morgan,0.22150342439140824,0,0
+129,1,"Phosphorothioic acid, O,O-Dimethyl O-(2,4,5-trichlorophenyl)ester",9298,1,0.9889979590278514,Extra Trees — Morgan,0.22150342439140824,1,1
+130,1,"3,5-Dimethyl-4-(methylthio)phenol, Methylcarbamate",16248,1,0.8680962511009485,Extra Trees — Morgan,0.22150342439140824,1,1
+143,1,"Phosphorothioic acid, O,O-Diethyl-O-(4-nitrophenyl)ester",991,1,0.978778270319379,Extra Trees — Morgan,0.22150342439140824,1,1
+145,1,Hydroxytriphenylstannane,6327657,0,0.2428734985773069,Extra Trees — Morgan,0.22150342439140824,0,1
+150,1,DNOC (Ref: ENT 154),10800,0,0.11442092036131332,Extra Trees — Morgan,0.22150342439140824,0,0
+151,1,"1,2,3,4,5-Pentachloro-6-nitrobenzene",6720,0,0.12301861293965882,Extra Trees — Morgan,0.22150342439140824,0,0
+160,1,Streptomycin sulphate,44134949,0,0.4003767262711188,Extra Trees — Morgan,0.22150342439140824,0,1
+166,1,(4-chlorophenoxy)acetic acid,26229,0,0.08055813361707549,Extra Trees — Morgan,0.22150342439140824,0,0
+170,1,Calcium sulfide (Ca(Sx)),121494065,0,0.20608862425529378,Extra Trees — Morgan,0.22150342439140824,0,0
+171,1,"Phosphorodithioic acid S-[[(1,1-dimethylethyl)thio]O,O-diethylmethyl]ester",25670,1,0.9577068692299884,Extra Trees — Morgan,0.22150342439140824,1,1
+177,1,Phenylmercury chloride,7511,0,0.46310788714371437,Extra Trees — Morgan,0.22150342439140824,0,1
+183,1,"Phosphorothioic acid O,O-dimethyl O-(3-methyl-4-nitrophenyl)ester",31200,1,0.9574560641785211,Extra Trees — Morgan,0.22150342439140824,1,1
+184,1,"Phosphoric acid 1,2-dibromo-2,2-dichloroethyl dimethyl ester",4420,1,0.9301389094264481,Extra Trees — Morgan,0.22150342439140824,1,1
+185,1,"N-Phenylcarbamic acid, 1-Methylethyl ester",24685,0,0.17597918329714052,Extra Trees — Morgan,0.22150342439140824,0,0
+190,1,2-(4-Chloro-2-methylphenoxy)acetic acid,7204,0,0.07387874336314591,Extra Trees — Morgan,0.22150342439140824,0,0
+191,1,Flurochloridone (Ref: R 40244),91677,0,0.1439065340058888,Extra Trees — Morgan,0.22150342439140824,0,0
+198,1,"2,6-Dichloro-4-nitrobenzenamine",7430,0,0.054506925503162725,Extra Trees — Morgan,0.22150342439140824,0,0
+201,1,Cyclosulfamuron (Ref: BAS 710H),6451137,0,0.08806359151234541,Extra Trees — Morgan,0.22150342439140824,0,0
+202,1,2-(4-Chloro-2-methylphenoxy)acetic acid sodium salt (1:1),2724048,0,0.08388385540095382,Extra Trees — Morgan,0.22150342439140824,0,0
+206,1,"2-(2,4,5-Trichlorophenoxy)acetic acid, Butyl ester",7161,0,0.024773090142166186,Extra Trees — Morgan,0.22150342439140824,0,0
+208,1,Tecnazene,8330,0,0.31001799335031716,Extra Trees — Morgan,0.22150342439140824,0,1
+209,1,Laminarin (Ref: H11),439306,0,0.3695633018999144,Extra Trees — Morgan,0.22150342439140824,0,1
+210,1,"Phosphoric acid, Dimethyl 4-nitrophenyl ester",13708,1,0.9232025282669163,Extra Trees — Morgan,0.22150342439140824,1,1
+213,1,Dinobuton (Ref: OMS 1056),13783,0,0.40787397047940693,Extra Trees — Morgan,0.22150342439140824,0,1
+215,1,"2-(1-Methylpropyl)-4,6-dinitrophenol",6950,0,0.1856900187348431,Extra Trees — Morgan,0.22150342439140824,0,0
+218,1,"alpha-(4-(1,1,3,3-Tetramethylbutyl)phenyl)-omega-hydroxypoly(oxy-1,2-ethanediyl)",5590,0,0.1991784515324291,Extra Trees — Morgan,0.22150342439140824,0,0
+222,1,"N-Phenyl-N'-1,2,3-thiadiazol-5-yl-urea",40087,0,0.1744017854343177,Extra Trees — Morgan,0.22150342439140824,0,0
+228,1,Chlorthion (Ref: BAY 22/190 ),10372,1,0.9715118088921063,Extra Trees — Morgan,0.22150342439140824,1,1
+230,1,"2,4,5,6-Tetrachloro-1,3-benzenedicarbonitrile",15910,0,0.5336269661812747,Extra Trees — Morgan,0.22150342439140824,1,1
+234,1,Dinocap (Ref: ENT 24727),5284389,1,0.2168653533875074,Extra Trees — Morgan,0.22150342439140824,0,0
+239,1,"N'-(4-chlorophenyl)-N,N-dimethylurea",8800,0,0.18579463345545585,Extra Trees — Morgan,0.22150342439140824,0,0
+241,1,"N-(3-Chlorophenyl)carbamic acid, 1-Methylethyl ester",2728,0,0.17594717101940083,Extra Trees — Morgan,0.22150342439140824,0,0
+245,1,Demeton (Ref: ENT 17295),24722,1,0.9432788739581556,Extra Trees — Morgan,0.22150342439140824,1,1
+252,1,ACC,535,0,0.07597043151356696,Extra Trees — Morgan,0.22150342439140824,0,0
+253,1,"O,O-Dimethyl O-[3-methyl-4-(methylthio)phenyl]ester phosphorothioic acid",3346,1,0.9744689170660042,Extra Trees — Morgan,0.22150342439140824,1,1
+254,1,"Phosphorodithioic acid, O,O-Diethyl-S-[2-(ethylthio)ethyl] ester",3118,1,0.9646129781266725,Extra Trees — Morgan,0.22150342439140824,1,1
+255,1,"2-(2,4,5-Trichlorophenoxy)propanoic acid",7158,0,0.025466259486107486,Extra Trees — Morgan,0.22150342439140824,0,0
+263,1,"2,4-D-dimethylammonium",16180,0,0.0702379177562294,Extra Trees — Morgan,0.22150342439140824,0,0
+266,1,"alpha-[(Dimethoxyphosphinothioyl)thio] benzeneacetic acid, Ethyl ester",17435,1,0.9100635018368273,Extra Trees — Morgan,0.22150342439140824,1,1
+267,1,"2,3,6-TBA (Ref: HC 1281)",5759,0,0.030270823356208693,Extra Trees — Morgan,0.22150342439140824,0,0
+271,1,"O,O-Diethyl S-[(ethylthio)methyl])ester, Phosphorodithioic acid",4790,1,0.9646129781266725,Extra Trees — Morgan,0.22150342439140824,1,1
+275,1,Binapacryl (Ref: FMC 9044),10234,0,0.35602926135887675,Extra Trees — Morgan,0.22150342439140824,0,1
+276,1,Dichlobenil (Ref: H 133),3031,1,0.3400147427476777,Extra Trees — Morgan,0.22150342439140824,0,1
+277,1,Mecoprop (Ref: RD 4593),7153,0,0.08396937186096289,Extra Trees — Morgan,0.22150342439140824,0,0
+284,1,MCPB (Ref: MB 3046),7207,0,0.07550799860322321,Extra Trees — Morgan,0.22150342439140824,0,0
+292,1,Carbofenthion,13081,1,0.9955251834978488,Extra Trees — Morgan,0.22150342439140824,1,1
+293,1,"2,4-DB (Ref: ENT 8538)",1489,0,0.0702379177562294,Extra Trees — Morgan,0.22150342439140824,0,0
+297,1,Dichlorprop (Ref: RD 406),8427,0,0.023828458050749138,Extra Trees — Morgan,0.22150342439140824,0,0
+298,1,N-(Phenylmethyl)-1H-purin-6-amine,62389,0,0.47868042974521546,Extra Trees — Morgan,0.22150342439140824,0,1
+303,1,"4-(Dimethylamino)-3,5-dimethylphenol, Methylcarbamate(ester)",9414,1,0.932905190916722,Extra Trees — Morgan,0.22150342439140824,1,1
+306,1,"2-Chloro-N-(2,6-diethylphenyl)-N-(methoxymethyl)acetamide",2078,0,0.062289210136300815,Extra Trees — Morgan,0.22150342439140824,0,0
+313,1,Fenaminosulf (Ref: BAY 5027),23668198,0,0.3044986948406938,Extra Trees — Morgan,0.22150342439140824,0,1
+314,1,"4-(Dimethylamino)-3-methylphenol, Methylcarbamate (ester)",16247,1,0.9292149552264862,Extra Trees — Morgan,0.22150342439140824,1,1
+320,1,"2,6-Dinitro-N,N-dipropyl-4-(trifluoromethyl)benzenamine",5569,0,0.2283822461950984,Extra Trees — Morgan,0.22150342439140824,0,1
+322,1,Methyl trithion,13721,1,0.9971748162352189,Extra Trees — Morgan,0.22150342439140824,1,1
+327,1,"Phosphoric acid, (1E)-3-(Dimethylamino)-1-methyl-3-oxo-1-propen-1-yl dimethyl ester",5371560,1,0.9683427367726068,Extra Trees — Morgan,0.22150342439140824,1,1
+331,1,Methylarsonic acid,8948,0,0.5927991523961879,Extra Trees — Morgan,0.22150342439140824,1,1
+332,1,XMC (Ref: H 69),17563,1,0.7754364869246503,Extra Trees — Morgan,0.22150342439140824,1,1
+333,1,Monolinuron (Ref: HOE 002747),15629,0,0.1700588942017197,Extra Trees — Morgan,0.22150342439140824,0,0
+337,1,Alpha-endosulfan,12309460,1,0.9168038187184515,Extra Trees — Morgan,0.22150342439140824,1,1
+339,1,"O-[4[(Dimethylamino)sulfonyl]phenyl]O,O-dimethylester phosphorothioic acid",5859,1,0.9760434722961306,Extra Trees — Morgan,0.22150342439140824,1,1
+340,1,"1,1a,2,2,3,3a,4,5,5,5a,5b,6-Dodecachlorooctahydro-1,3,4-metheno-1H-cyclobuta[cd]pentalene",16945,1,0.872908667645666,Extra Trees — Morgan,0.22150342439140824,1,1
+342,1,Chloramben (Ref: ACP M-629),8630,0,0.42669116705055465,Extra Trees — Morgan,0.22150342439140824,0,1
+344,1,Ioxynil (Ref: ACP 63-303),15530,1,0.3265549622135387,Extra Trees — Morgan,0.22150342439140824,0,1
+345,1,2-Methyl-2-(methylthio)propanol O-[(methylamino)carbonyl]oxime,2086,1,0.9822946297304276,Extra Trees — Morgan,0.22150342439140824,1,1
+346,1,"Phosphoric acid, 2-Chloro-1-(2,4-dichlorophenyl)ethenyl diethyl ester",10107,1,0.7990191604769734,Extra Trees — Morgan,0.22150342439140824,1,1
+348,1,Chlorthal-dimethyl (Ref: DAC 893),2943,0,0.07123354624133715,Extra Trees — Morgan,0.22150342439140824,0,0
+351,1,"Phosphorothioic acid, O,O-Diethyl O(4-methylsulfinyl)phenyl)ester",8292,1,0.9905490676694868,Extra Trees — Morgan,0.22150342439140824,1,1
+352,1,Chlorthiamid (Ref: WL 5792.),2734819,0,0.141849332394411,Extra Trees — Morgan,0.22150342439140824,0,0
+359,1,"O-Ethyl O-(2,4,5-trichlorophenyl)ester ethylphosphonothioic acid",9477,1,0.9819568802368092,Extra Trees — Morgan,0.22150342439140824,1,1
+362,1,Pebulate (Ref: R 2061),14215,1,0.7255588034948577,Extra Trees — Morgan,0.22150342439140824,1,1
+364,1,Chlorbromuron (Ref: C6313),25912,0,0.13509793181192264,Extra Trees — Morgan,0.22150342439140824,0,0
+365,1,Tetramethrin (Ref: ENT 27339),83975,1,1.0,Extra Trees — Morgan,0.22150342439140824,1,1
+367,1,3-methyl-5-(1-methylethyl)phenol 1-(N-methylcarbamate)  ,17516,1,0.7671898381310847,Extra Trees — Morgan,0.22150342439140824,1,1
+368,1,Bensulide (Ref: R 4461),12932,1,0.7823365349361928,Extra Trees — Morgan,0.22150342439140824,1,1
+369,1,(2E)-3-[(Dimethoxyphosphinyl)oxy]-2-butenoic acid 1-phenylethyl ester,5371578,1,0.9381989074010708,Extra Trees — Morgan,0.22150342439140824,1,1
+370,1,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl ester phosphorothioic acid",14210,1,0.9702829921222845,Extra Trees — Morgan,0.22150342439140824,1,1
+371,1,"N,N-Dimethyl-N'-[3-(trifluoromethyl)phenyl]urea",16562,0,0.10307926680607712,Extra Trees — Morgan,0.22150342439140824,0,0
+372,1,Metobromuron (Ref: C 3216),18290,0,0.17090542011568494,Extra Trees — Morgan,0.22150342439140824,0,0
+374,1,"1,1-Dichloro-N-[(dimethylamino)sulfonyl]-1-fluoro-N-phenylmethanesulfenamide",14145,0,0.22061914037856084,Extra Trees — Morgan,0.22150342439140824,0,0
+375,1,Chlordimeform (Ref: ENT 27335),22544,0,0.13460527082829987,Extra Trees — Morgan,0.22150342439140824,0,0
+378,1,Butachlor (Ref: CP 53619),31677,0,0.06163786435845964,Extra Trees — Morgan,0.22150342439140824,0,0
+379,1,(1-Methylethyl)phosphoramidic acid ethyl-3-methyl-4-(methylthio)phenyl ester,31070,1,0.916766754291127,Extra Trees — Morgan,0.22150342439140824,1,1
+380,1,"Phosphoric acid (1Z)-2-chloro-1-(2,4,5-trichlorophenyl)ethenyl dimethyl ester",5284462,1,0.8567787173833771,Extra Trees — Morgan,0.22150342439140824,1,1
+383,1,Formetanate (Ref: SN 36056),31099,1,0.8635068153576266,Extra Trees — Morgan,0.22150342439140824,1,1
+389,1,"Phosphorothioic acid, O-(2,5-Dichloro-4-iodophenyl) O,O-dimethyl ester",28935,1,0.9889979590278514,Extra Trees — Morgan,0.22150342439140824,1,1
+390,1,"Ethylphosphonodithioic acid, O-Ethyl S-phenyl ester",13676,1,0.9255430922176647,Extra Trees — Morgan,0.22150342439140824,1,1
+396,1,"3,5-Dibromo-4-hydroxybenzonitrile",15531,1,0.4609436952958898,Extra Trees — Morgan,0.22150342439140824,0,1
+398,1,"N,N-Dimethyl-N'-[3[[(methylamino)carbonyl]oxy]phenyl]methanimidamide hydrochloride (1:1)",31899,1,0.8635068153576266,Extra Trees — Morgan,0.22150342439140824,1,1
+402,1,Kelevan (Ref: GC-9160),20226,0,0.7997877148356067,Extra Trees — Morgan,0.22150342439140824,1,1
+405,1,"N,N'-[1,2-Phenylenebis(iminocarbonothioyl)]bis-C,C'- dimethyl ester carbamic acid",3032791,0,0.12166809188788076,Extra Trees — Morgan,0.22150342439140824,0,0
+406,1,Aldoxycarb,9570093,0,0.8905058578894439,Extra Trees — Morgan,0.22150342439140824,1,1
+407,1,"Octanoic acid, 2,6-Dibromo-4-cyanophenyl ester",15533,0,0.2220074955284473,Extra Trees — Morgan,0.22150342439140824,0,1
+411,1,Asulam (Ref: M&B 9057),18752,0,0.24343403880466008,Extra Trees — Morgan,0.22150342439140824,0,1
+412,1,Thiophanate,3032792,0,0.11849379703734648,Extra Trees — Morgan,0.22150342439140824,0,0
+414,1,Metoxuron (Ref: SAN 6915H),29863,0,0.040373215371643935,Extra Trees — Morgan,0.22150342439140824,0,0
+417,1,"2-(2,4-Dichlorophenoxy)acetic acid, 2-Ethylhexyl ester",61286,0,0.038519063945718246,Extra Trees — Morgan,0.22150342439140824,0,0
+418,1,"4-Ethoxy-7-phenyl-3,5-dioxa-6-aza-4-phosphaoct-6-ene-8-nitrile 4-sulfide",26927,1,0.9095352194733816,Extra Trees — Morgan,0.22150342439140824,1,1
+419,1,Monalide (Ref: SN 35830),23715,0,0.2550743483771144,Extra Trees — Morgan,0.22150342439140824,0,1
+422,1,Bromophos-ethyl (Ref: SHG-2225),20965,1,0.9908609551545514,Extra Trees — Morgan,0.22150342439140824,1,1
+427,1,Oryzalin (Ref: EL 119),29393,0,0.23442852519272003,Extra Trees — Morgan,0.22150342439140824,0,1
+428,1,Glufosinate (Ref: HOE 00661),4794,0,0.08348665693277592,Extra Trees — Morgan,0.22150342439140824,0,0
+430,1,Bentazone,2328,0,0.3318889650915328,Extra Trees — Morgan,0.22150342439140824,0,1
+431,1,Dimethyl 4-(methylsulfanyl)phenyl phosphate,18621,1,0.9631417465988265,Extra Trees — Morgan,0.22150342439140824,1,1
+433,1,Carbetamide (Ref: RP 11561),27689,0,0.10159413404857306,Extra Trees — Morgan,0.22150342439140824,0,0
+439,1,4-[4-(Acetyloxy)phenyl]-2-butanone,19137,0,0.6881905683573197,Extra Trees — Morgan,0.22150342439140824,1,1
+445,1,Isopropalin (Ref: EL-179),36606,1,0.31656095069377205,Extra Trees — Morgan,0.22150342439140824,0,1
+447,1,Propyzamide (Ref: RH 315),32154,0,0.06700861728788678,Extra Trees — Morgan,0.22150342439140824,0,0
+450,1,Chlorotoluron (Ref: C 2242),27375,0,0.050499812878378264,Extra Trees — Morgan,0.22150342439140824,0,0
+454,1,"N,N-Diethylcarbamothioic acid S-[(4-chlorophenyl)methyl] ester",34192,0,0.6196945046291362,Extra Trees — Morgan,0.22150342439140824,1,1
+457,1,Proximpham,17808,0,0.10805595886912013,Extra Trees — Morgan,0.22150342439140824,0,0
+461,1,Fluchloralin (Ref: BAS 392H),36392,0,0.22683756894244406,Extra Trees — Morgan,0.22150342439140824,0,1
+462,1,"4-(1,1-Dimethylethyl)-N-(1-methylpropyl)-2,6-dinitrobenzenamine",36565,0,0.1636285322775356,Extra Trees — Morgan,0.22150342439140824,0,0
+475,1,"5-Chloro-2-(3,4,4-trifluorobut-3-ene-1-sulfonyl)-1,3-thiazole",11534927,0,0.20573106924585954,Extra Trees — Morgan,0.22150342439140824,0,0
+483,1,"N-Ethyl-N-(2-methyl-2-propenyl)-2,6-dinitro-4-(trifluoromethyl)benzenamine",41381,0,0.1896050871754808,Extra Trees — Morgan,0.22150342439140824,0,0
+488,1,2-[(Ethylthio)methyl]phenol 1-(N-methylcarbamate),34766,1,0.9587383166757198,Extra Trees — Morgan,0.22150342439140824,1,1
+491,1,Grandlure (Ref: SHA 112401),6449788,0,0.09436729147697787,Extra Trees — Morgan,0.22150342439140824,0,0
+494,1,Lineatin,155682,0,0.12533133378857242,Extra Trees — Morgan,0.22150342439140824,0,0
+499,1,Kinoprene,6434236,0,0.8605458584725812,Extra Trees — Morgan,0.22150342439140824,1,1
+504,1,alpha-(2-Chlorophenyl)-alpha-(4-chlorophenyl)-5-pyrimidinemethanol,43226,1,0.4839607899226549,Extra Trees — Morgan,0.22150342439140824,0,1
+505,1,4-(4-Chloro-2-methylphenoxy)butanoic acid sodium salt (1:1),23675729,0,0.08551311064103112,Extra Trees — Morgan,0.22150342439140824,0,0
+506,1,2-(Octylsulfanyl)ethan-1-ol,19079,0,0.28566103245999114,Extra Trees — Morgan,0.22150342439140824,0,1
+507,1,Sulprofos (Ref: NTN 9306),37125,1,0.7849999446796017,Extra Trees — Morgan,0.22150342439140824,1,1
+518,1,Nuarimol (Ref: EL 228),91683,0,0.43059895155814976,Extra Trees — Morgan,0.22150342439140824,0,1
+519,1,Akton,15649,1,0.9480184954387754,Extra Trees — Morgan,0.22150342439140824,1,1
+523,1,Dimethachlor (Ref: CGA 17020),39722,0,0.055478390290170446,Extra Trees — Morgan,0.22150342439140824,0,0
+524,1,Isoproturon (Ref: HOE 16410),36679,0,0.6034825605959455,Extra Trees — Morgan,0.22150342439140824,1,1
+527,1,Isoprocarb (Ref: OMS 32),17517,1,0.9870429411470603,Extra Trees — Morgan,0.22150342439140824,1,1
+528,1,Mefluidide (Ref: MBR 12325),40896,0,0.30195185105052186,Extra Trees — Morgan,0.22150342439140824,0,1
+530,1,2-Chloro-N-(2-ethyl-6-methylphenyl)-N-(2-methoxy-1-methylethyl)acetamide,4169,0,0.13328575713605006,Extra Trees — Morgan,0.22150342439140824,0,0
+531,1,O-(4-bromo-2-chlorophenyl) O-ethyl S-propyl ester phosphorothioic acid,38779,1,0.8919961182293646,Extra Trees — Morgan,0.22150342439140824,1,1
+535,1,P-(Aminocarbonyl)phosphonic acid monoethyl ester ammonium salt (1:1),33256,0,0.46951609561251206,Extra Trees — Morgan,0.22150342439140824,0,1
+538,1,"2,6-Dinitro-N1,N1-dipropyl-4-(trifluoromethyl)-1,3-benzenediamine",34469,0,0.23340088619452762,Extra Trees — Morgan,0.22150342439140824,0,1
+540,1,"N-(2,6-Dimethylphenyl)-N-(methoxyacetyl)alanine methyl ester",42586,0,0.16420786281359082,Extra Trees — Morgan,0.22150342439140824,0,0
+552,1,"1,1-Dichloro-N-[(dimethylamino)sulfonyl]-1-fluoro-N-(4-methylphenyl)methanesulfenamide",12898,0,0.2816040196116302,Extra Trees — Morgan,0.22150342439140824,0,1
+553,1,2-Cyano-N-[(ethylamino)carbonyl]-2-(methoxyimino)acetamide,42614,0,0.17204291206111957,Extra Trees — Morgan,0.22150342439140824,0,0
+572,1,Ioxynil octanoate,19730,1,0.19032590090464357,Extra Trees — Morgan,0.22150342439140824,0,0
+578,1,2-[(Aminomethoxyphosphinothioyl)oxy]benzoic acid 1-methylethyl ester,90479,1,0.9691502130094257,Extra Trees — Morgan,0.22150342439140824,1,1
+579,1,Nitrothal-isopropyl (Ref: BAS 300 OOF),43704,0,0.1739498764584612,Extra Trees — Morgan,0.22150342439140824,0,0
+582,1,"Phosphorothioic acid O-(2,6-dichloro-4-methylphenyl) O,O-dimethyl ester",91664,0,0.8327324184516486,Extra Trees — Morgan,0.22150342439140824,1,1
+600,1,5-decenol (Ref: BAS 287 1),5283292,0,0.33574035218012227,Extra Trees — Morgan,0.22150342439140824,0,1
+631,1,alpha-(1-Methylethyl)-alpha-[4-(trifluoromethoxy)phenyl]-5-pyrimidinemethanol,73668,0,0.2803088889028106,Extra Trees — Morgan,0.22150342439140824,0,1
+633,1,Diethofencarb (Ref: S 1605),91742,0,0.2261459639553116,Extra Trees — Morgan,0.22150342439140824,0,1
+640,1,Dipotassium phosphonate,21889738,0,0.3672371026044799,Extra Trees — Morgan,0.22150342439140824,0,1
+641,1,Isofenphos-methyl,127394,1,0.9711368972133018,Extra Trees — Morgan,0.22150342439140824,1,1
+647,1,Tebuconazole (Ref: HWG 1608),86102,0,0.7066473514374837,Extra Trees — Morgan,0.22150342439140824,1,1
+651,1,Fenothiocarb (Ref: KCO 3001),44178,0,0.3192692231040536,Extra Trees — Morgan,0.22150342439140824,0,1
+655,1,Flurtamone (Ref: RPA 590515),91755,0,0.22170846155546528,Extra Trees — Morgan,0.22150342439140824,0,1
+667,1,Silafluofen (Ref: HOE 084498),92430,1,0.48106031076481864,Extra Trees — Morgan,0.22150342439140824,0,1
+673,1,Pretilachlor (Ref: CGA 26423),91644,0,0.051350880618433424,Extra Trees — Morgan,0.22150342439140824,0,0
+689,1,Triticonazole (Ref: RPA 400727),6537961,0,0.4232322182136303,Extra Trees — Morgan,0.22150342439140824,0,1
+692,1,Tiocarbazil (Ref: M 3432),37523,0,0.23995512854366505,Extra Trees — Morgan,0.22150342439140824,0,1
+693,1,"3,5-Dichloro-N-(3-chloro-1-ethyl-1-methyl-2-oxopropyl)-4-methylbenzamide",122087,0,0.03932422736181909,Extra Trees — Morgan,0.22150342439140824,0,0
+697,1,Diethatyl ethyl (Ref: BAY NNT 6867),38090,0,0.062289210136300815,Extra Trees — Morgan,0.22150342439140824,0,0
+704,1,Flucycloxuron (Ref: OMS 3041),6537963,0,0.27572064390980694,Extra Trees — Morgan,0.22150342439140824,0,1
+709,1,Ecolyst (Ref: HSDB 7282),213029,0,0.7458698996543552,Extra Trees — Morgan,0.22150342439140824,1,1
+724,1,"2-(Difluoromethyl)-5-(4,5-dihydro-2-thiazolyl)-4-(2-methylpropyl)-6-(trifluoromethyl)-3-pyridinecarboxylic acid methyl ester",91776,0,0.40470837534254384,Extra Trees — Morgan,0.22150342439140824,0,1
+726,1,(alphaE)-alpha-(Methoxyimino)-2-[[[(E)-[1-[3-(trifluoromethyl)phenyl]ethylidene]amino]oxy]methyl]benzeneacteic acid methyl ester,213016,0,0.16585977689033313,Extra Trees — Morgan,0.22150342439140824,0,0
+728,1,Fenpiclonil (Ref: CGA 142705),91724,1,0.18918235404656944,Extra Trees — Morgan,0.22150342439140824,0,0
+735,1,Anilofos (Ref: HOE 30374),91687,1,0.9874197598580904,Extra Trees — Morgan,0.22150342439140824,1,1
+744,1,Prosulfocarb (Ref: SC 0574),62020,0,0.3031484450271085,Extra Trees — Morgan,0.22150342439140824,0,1
+747,1,"1,2,3-Benzothiadiazole-7-carbothioic acid S-methyl ester",86412,0,0.33822034775581833,Extra Trees — Morgan,0.22150342439140824,0,1
+750,1,Tebutam (Ref: GPC-5544),92299,0,0.18792115147841496,Extra Trees — Morgan,0.22150342439140824,0,0
+753,1,Cymiazol (Ref: CGA 50439),43714,0,0.47749138496116,Extra Trees — Morgan,0.22150342439140824,0,1
+768,1,"2-Chloro-6-[(4,6-dimethoxy-2-pyrimidinyl)thio]benzoic acid sodium salt (1:1)",23682187,0,0.08565742584302988,Extra Trees — Morgan,0.22150342439140824,0,0
+775,1,Orbencarb (Ref: B-3356),36867,0,0.25586981255065905,Extra Trees — Morgan,0.22150342439140824,0,1
+777,1,Alanycarb,9576091,1,0.35587605861350474,Extra Trees — Morgan,0.22150342439140824,0,1
+799,1,"4-Amino-N-(1,1-dimethylethyl)-4,5-dihydro-3-(1-methylethyl)-5-oxo-1H-1,2,4-triazole-1-carboxamide",153920,0,0.15953794716405514,Extra Trees — Morgan,0.22150342439140824,0,0
+815,1,Pentoxazone (Ref: KPP-314),11714234,0,0.10639740707638186,Extra Trees — Morgan,0.22150342439140824,0,0
+834,1,Verbutin (Ref: MB-599),11458968,0,0.7015322455651917,Extra Trees — Morgan,0.22150342439140824,1,1
+836,1,Chromafenozide (Ref: ANS 118),10157484,0,0.19662382756029564,Extra Trees — Morgan,0.22150342439140824,0,0
+837,1,Propisochlor,167454,0,0.10427828830776513,Extra Trees — Morgan,0.22150342439140824,0,0
+840,1,Dimethenamid-P,13633097,0,0.14821855540133488,Extra Trees — Morgan,0.22150342439140824,0,0
+845,1,Clothianidin (Ref: CGA 322704),213027,1,0.22866520187289224,Extra Trees — Morgan,0.22150342439140824,0,1
+849,1,2-Chloro-N-(2-ethoxyethyl)-N-(2-methyl-1-phenyl-1-propen-1-yl)acetamide,6450826,0,0.28795993067312936,Extra Trees — Morgan,0.22150342439140824,0,1
+858,1,Bromoxynil-potassium,23691011,0,0.49729992024833486,Extra Trees — Morgan,0.22150342439140824,0,1
+861,1,1-[(6-Chloro-3-pyridinyl)methyl]-N-nitro-1H-imidazol-2-amine,14626249,1,0.6941050363216278,Extra Trees — Morgan,0.22150342439140824,1,1
+868,1,Bromoxynil-butanoate,62526,0,0.2234352384128377,Extra Trees — Morgan,0.22150342439140824,0,1
+878,1,Iprovalicarb (Ref: SZX 0722),10958189,0,0.6976579022761107,Extra Trees — Morgan,0.22150342439140824,1,1
+880,1,Zarilamid (Ref: ICIA001),158659,1,0.16897582870531896,Extra Trees — Morgan,0.22150342439140824,0,0
+883,1,"N-[2,4-Dimethyl-5-[[(trifluoromethyl)sulfonyl]amino]phenyl]acetamide compd. with 2,2'-Iminobis[ethanol](1:1)",62067,0,0.29178839425020847,Extra Trees — Morgan,0.22150342439140824,0,1
+891,1,Kaolin calcined (Ref: SIK6463.5),64742,0,0.21479507758169536,Extra Trees — Morgan,0.22150342439140824,0,0
+893,1,Asulam sodium (Ref: AE F102789),61292,0,0.38062787171690116,Extra Trees — Morgan,0.22150342439140824,0,1
+898,1,"N-[[(Methylamino)carbonyl]oxy]ethanimidothioic acid, 2-Cyanoethylester",34476,0,0.9735217995266261,Extra Trees — Morgan,0.22150342439140824,1,1
+899,1,Mecoprop etexyl,598095,0,0.10976638653616462,Extra Trees — Morgan,0.22150342439140824,0,0
+910,1,"3-(1-Ethylpropyl)phenol, 1-(N-Methylcarbamate) mixt. with 3-(1-Methylbutyl)phenyl N-methylcarbamate",24721,1,0.7582565704366089,Extra Trees — Morgan,0.22150342439140824,1,1
+912,1,"(3-Bromo-6-methoxy-2-methylphenyl)(2,3,4-trimethoxy-6-methylphenyl)methanone",6451057,0,0.11635208903274705,Extra Trees — Morgan,0.22150342439140824,0,0
+917,1,MCPA-thioethyl,32876,0,0.577261476893822,Extra Trees — Morgan,0.22150342439140824,1,1
+921,1,Sintofen (Ref: SC 2053),10915750,0,0.5026307377127863,Extra Trees — Morgan,0.22150342439140824,1,1
+929,1,Metamifop (Ref: DBH-129),59558935,0,0.21046348154262573,Extra Trees — Morgan,0.22150342439140824,0,0
+931,1,"2,6-Dichloro-N-[[3-chloro-5-(trifluoromethyl)-2-pyridinyl]methyl]benzamide",11159021,0,0.05270141586167706,Extra Trees — Morgan,0.22150342439140824,0,0
+938,1,Ioxynil-sodium,23666695,1,0.44310455953046823,Extra Trees — Morgan,0.22150342439140824,0,1
+939,1,Ioxynil-lithium,23691010,1,0.44310455953046823,Extra Trees — Morgan,0.22150342439140824,0,1
+941,1,Potassium hydrogen phosphonate,23701737,0,0.3672371026044799,Extra Trees — Morgan,0.22150342439140824,0,1
+943,1,"2-(4-Chlorophenyl)-1-ethyl-1,4-dihydro-6-methyl-4-oxo-3-pyridinecarboxylic acid, Potassium salt",23674747,0,0.25715567692089036,Extra Trees — Morgan,0.22150342439140824,0,1
+944,1,"(2R)-2-(2,4-Dichlorophenoxy)propanoic acid 2-ethylhexyl ester",24843409,0,0.04131538235280326,Extra Trees — Morgan,0.22150342439140824,0,0
+945,1,Orysastrobin,11486133,0,0.3327001161985649,Extra Trees — Morgan,0.22150342439140824,0,1
+947,1,"2,4,5-trichlorophenol",44147467,0,0.2167648366105998,Extra Trees — Morgan,0.22150342439140824,0,0
+954,1,Iprobenfos,18772466,0,0.6996944781975007,Extra Trees — Morgan,0.22150342439140824,1,1
+959,1,"2-(4-Chloro-2-methylphenoxy)acetic acid, 2-Ethylhexyl ester",93128,0,0.09409686148601819,Extra Trees — Morgan,0.22150342439140824,0,0
+970,1,"N,N'-[1,2-Phenylenebis(iminocarbonothioyl)]bis-C,C'-dimethyl ester carbamic acid mixt. with 2,4,5,6-tetrachloro-1,3-benzenedicarbonitrile",56842817,1,0.27196111085710606,Extra Trees — Morgan,0.22150342439140824,0,1
+972,1,Cyflumetofen (Ref: OK-5101),11496052,0,0.1589874419203103,Extra Trees — Morgan,0.22150342439140824,0,0
+978,1,Sodium tetraborate pentahydrate,71306767,0,0.3238188430873982,Extra Trees — Morgan,0.22150342439140824,0,1
+983,1,"N-{2-[(4,6-Dimethoxypyrimidin-2-yl)(hydroxy)methyl]-6-(methoxymethyl)phenyl}-1,1-difluoromethanesulfonamide",11407474,0,0.13484065089227745,Extra Trees — Morgan,0.22150342439140824,0,0
+1005,1,Sodium 5-nitroguaiacolate,3017748,0,0.13441030488651567,Extra Trees — Morgan,0.22150342439140824,0,0
+1009,1,"N-[1,1-Dimethyl-2-[2-methyl-4-(1-methylethoxy)phenyl]-2-oxoethyl]-3-methyl-2-thiophenecarboxamide",71657865,0,0.40756739807159387,Extra Trees — Morgan,0.22150342439140824,0,1
+1013,1,(2Z)-2-[[2-Fluoro-5-(trifluoromethyl)phenyl]thio]-2-[3-(2-methoxyphenyl)-2-thiazolidinylidene]acetonitrile,44151818,0,0.35693028548533984,Extra Trees — Morgan,0.22150342439140824,0,1
+1016,1,Methyl 3-(4-chlorophenyl)-3-[(N-{[(propan-2-yl)oxy]carbonyl}valyl)amino]propanoate,11338509,0,0.5689409781501894,Extra Trees — Morgan,0.22150342439140824,1,1
+1017,1,Zinc borate,167155,0,0.28261220103068124,Extra Trees — Morgan,0.22150342439140824,0,1
+1020,1,Fenpicoxamid (Ref: XDE 777),121494114,0,0.3475541085374891,Extra Trees — Morgan,0.22150342439140824,0,1
+1034,1,2-(4-Chloro-2-methylphenoxy)acetic acid compd. with N-methylmethanamine (1:1),62420,0,0.10660207915965446,Extra Trees — Morgan,0.22150342439140824,0,0
+0,2,Ethanedioic acid,971,0,0.09747172671692454,Extra Trees — Morgan,0.2430233813407033,0,0
+11,2,Nicotine,89594,0,0.1460463703209601,Extra Trees — Morgan,0.2430233813407033,0,0
+12,2,Potassium thiocyanate,516872,1,0.26993914550770676,Extra Trees — Morgan,0.2430233813407033,0,1
+23,2,(2-Chloroethyl)phosphonic acid,27982,0,0.33979275196851005,Extra Trees — Morgan,0.2430233813407033,0,1
+28,2,Hexadecanoic acid,985,0,0.0718025519486781,Extra Trees — Morgan,0.2430233813407033,0,0
+29,2,Copper II chloride,24014,0,0.161317037238051,Extra Trees — Morgan,0.2430233813407033,0,0
+30,2,"Cyanamide (Ref: LH 21,810A)",9864,1,0.2597741265264995,Extra Trees — Morgan,0.2430233813407033,0,1
+33,2,1-Naphthalenol methylcarbamate,6129,1,0.7899894577938711,Extra Trees — Morgan,0.2430233813407033,1,1
+34,2,N-Dodecylguanidine acetate (1:1),17110,0,0.11586896035986202,Extra Trees — Morgan,0.2430233813407033,0,0
+39,2,Potassium bicarbonate,516893,0,0.08975976484461287,Extra Trees — Morgan,0.2430233813407033,0,0
+51,2,Carvone,7439,0,0.13383141268620558,Extra Trees — Morgan,0.2430233813407033,0,0
+54,2,"Tetrahydro-3,5-dimethyl-2H-1,3,5-thiadiazine-2-thione",10788,1,0.21560651131647907,Extra Trees — Morgan,0.2430233813407033,0,0
+62,2,Diquat dibromide,6794,0,0.19703443114922964,Extra Trees — Morgan,0.2430233813407033,0,0
+63,2,8-hydroxyquinoline,1923,0,0.0960237836757447,Extra Trees — Morgan,0.2430233813407033,0,0
+70,2,Amitraz (Ref: ENT 27967),36324,0,0.10741174811738936,Extra Trees — Morgan,0.2430233813407033,0,0
+72,2,Caprylic acid,379,0,0.0718025519486781,Extra Trees — Morgan,0.2430233813407033,0,0
+73,2,Tetraethyl ester diphosphoric acid,7873,1,0.5548279173184754,Extra Trees — Morgan,0.2430233813407033,1,1
+77,2,"2,4-Dichloro-1-(4-nitrophenoxy)benzene",15787,0,0.1541173224542735,Extra Trees — Morgan,0.2430233813407033,0,0
+82,2,Nonanoic acid,8158,0,0.0718025519486781,Extra Trees — Morgan,0.2430233813407033,0,0
+96,2,"1,2,3,4-Tetrahydronaphthalene",8404,1,0.12149567472203794,Extra Trees — Morgan,0.2430233813407033,0,0
+97,2,2-phenylphenol,7017,0,0.08043747048725698,Extra Trees — Morgan,0.2430233813407033,0,0
+106,2,Trichlorfon (Ref: OMS 800),5853,1,0.5201553497001409,Extra Trees — Morgan,0.2430233813407033,1,1
+114,2,Ethion (Ref: ENT 24105),3286,1,0.80457630471979,Extra Trees — Morgan,0.2430233813407033,1,1
+115,2,"Phosphorothioic acid O,O-diethyl O-2-quinoxalinyl ester  ",26124,1,0.8183220950919795,Extra Trees — Morgan,0.2430233813407033,1,1
+118,2,1-Naphthaleneacetic acid,6862,0,0.08964451416595984,Extra Trees — Morgan,0.2430233813407033,0,0
+122,2,Penconazole (Ref: CGA 71818),91693,1,0.13611073331692447,Extra Trees — Morgan,0.2430233813407033,0,0
+124,2,L-ascorbic acid,54670067,1,0.11347789211122489,Extra Trees — Morgan,0.2430233813407033,0,0
+131,2,Verbenone,29025,0,0.18617077083988876,Extra Trees — Morgan,0.2430233813407033,0,0
+137,2,Pyrethrins (pyrethrin I),5281045,1,0.5772068461359056,Extra Trees — Morgan,0.2430233813407033,1,1
+139,2,Rotenone (Ref: ENT 133),6758,1,0.15279554908556853,Extra Trees — Morgan,0.2430233813407033,0,0
+148,2,Disodium phosphonate (Ref: IKF-916 25 SC),6336603,0,0.10478183857127682,Extra Trees — Morgan,0.2430233813407033,0,0
+149,2,Captan (Ref: SR 406),8606,0,0.14656561899644183,Extra Trees — Morgan,0.2430233813407033,0,0
+156,2,1-naphthylacetamide,6861,0,0.08428133786632698,Extra Trees — Morgan,0.2430233813407033,0,0
+158,2,Cryolite (Na3(AlF6)),16693908,0,0.23516486654010843,Extra Trees — Morgan,0.2430233813407033,0,0
+163,2,Lead arsenate,24572,1,0.16994721868591248,Extra Trees — Morgan,0.2430233813407033,0,0
+164,2,2-naphthyloxyacetic acid,8422,0,0.07272736255101626,Extra Trees — Morgan,0.2430233813407033,0,0
+167,2,Pyrethrins and Pyrethroids,71310221,1,0.5800811207974143,Extra Trees — Morgan,0.2430233813407033,1,1
+168,2,Pyrethrins (pyrethrin II) (Ref: ENT 7543 ),583586,1,0.5692244589407526,Extra Trees — Morgan,0.2430233813407033,1,1
+172,2,Acifluorfen (Ref: RH 5781),44073,0,0.13045906420285105,Extra Trees — Morgan,0.2430233813407033,0,0
+178,2,"5-[2-Chloro-4-(trifluoromethyl)phenoxy]-2-nitrobenzoic acid, Sodium salt (1:1)",44072,0,0.12387436007223243,Extra Trees — Morgan,0.2430233813407033,0,0
+180,2,"1-[2-(2,4-Dichlorophenyl)-3-(1,1,2,2-tetrafluoroethoxy)propyl]-1H-1,2,4-triazole",80277,0,0.12768964651747378,Extra Trees — Morgan,0.2430233813407033,0,0
+186,2,"Arsenic acid (H3AsO4), Sodium salt (1:?)",23677060,1,0.14717747991205812,Extra Trees — Morgan,0.2430233813407033,0,0
+189,2,"1-[[2-(2,4-Dichlorophenyl)-4-propyl-1,3-dioxolan-2-yl]methyl]-1H-1,2,4-triazole",43234,0,0.20784508299230167,Extra Trees — Morgan,0.2430233813407033,0,0
+194,2,"2,2-Dimethyl-3-(2-methyl-1-propen-1-yl)cyclopropanecarboxylic acid [5-(phenylmethyl)-3-furanyl]methyl ester",5053,1,0.6330894600351052,Extra Trees — Morgan,0.2430233813407033,1,1
+195,2,Tribufos,5125,0,0.5616885026448576,Extra Trees — Morgan,0.2430233813407033,1,1
+196,2,Karanjin,100633,0,0.22920194506172847,Extra Trees — Morgan,0.2430233813407033,0,0
+199,2,"1-Naphthaleneacetic acid, Sodium salt",23694671,0,0.0691534944408383,Extra Trees — Morgan,0.2430233813407033,0,0
+207,2,"(1R,4S,4aS,5S,8R,8aR)-rel-1,2,3,4,10,10-Hexachloro-1,4,4a,5,8,8a-hexahydro-1,4:5,8-dimethanonaphthalene",2087,1,0.7039571367242416,Extra Trees — Morgan,0.2430233813407033,1,1
+211,2,Bioallethrin,11442,1,0.5333480647856421,Extra Trees — Morgan,0.2430233813407033,1,1
+223,2,Chitosan hydrochloride,21896651,0,0.24726133457966568,Extra Trees — Morgan,0.2430233813407033,0,1
+224,2,"O,O'-(Thiodi-4,1-phenylene) O,O,O',O'-tetramethyl ester phosphorothioic acid",5392,1,0.749332976742544,Extra Trees — Morgan,0.2430233813407033,1,1
+225,2,Chlorotriphenylstannane,12540,0,0.16212458499417018,Extra Trees — Morgan,0.2430233813407033,0,0
+229,2,"2-Chloro-9-hydroxy-9H-fluorene-9-carboxylic acid, Methyl ester",17334,0,0.11240860263275977,Extra Trees — Morgan,0.2430233813407033,0,0
+232,2,Imazapyr,54738,0,0.09828186013862383,Extra Trees — Morgan,0.2430233813407033,0,0
+238,2,"Phosphorothioic acid, S-[2-(Ethylsulfinyl)ethyl] O,O-dimethyl ester",4618,1,0.7681659742313706,Extra Trees — Morgan,0.2430233813407033,1,1
+244,2,Lithium perfluorooctane sulfonate,23677927,1,0.11427109147715946,Extra Trees — Morgan,0.2430233813407033,0,0
+247,2,"N,N,N',N'-Tetramethylphosphorodiamidic fluoride",8264,1,0.25791377251626446,Extra Trees — Morgan,0.2430233813407033,0,1
+248,2,Gibberellic acid,6466,0,0.2202416714363719,Extra Trees — Morgan,0.2430233813407033,0,0
+258,2,Fentin acetate (Ref: OMS 1020),16682804,0,0.19356473398369192,Extra Trees — Morgan,0.2430233813407033,0,0
+259,2,Barium polysulphide,6857597,0,0.13925998642651555,Extra Trees — Morgan,0.2430233813407033,0,0
+264,2,"Phosphorodithioic acid S-[(5-methoxy-2-oxo-1,3,4-thiadiazol-3(2H)yl)methyl] O,O-dimethyl ester",13709,1,0.7949121015881107,Extra Trees — Morgan,0.2430233813407033,1,1
+272,2,Methazole (Ref: VCS-438),4690,0,0.07408147200775779,Extra Trees — Morgan,0.2430233813407033,0,0
+280,2,"S-[(6-Chloro-2-oxo-3(2H)-benzoxazolyl)methyl]O,O-diethyl ester phosphorodithioic acid",4793,1,0.7794397177668662,Extra Trees — Morgan,0.2430233813407033,1,1
+286,2,Farnesol,445070,0,0.12397608852374027,Extra Trees — Morgan,0.2430233813407033,0,0
+305,2,Diquat,6795,0,0.1936979825510988,Extra Trees — Morgan,0.2430233813407033,0,0
+312,2,"5-Bromo-6-methyl-3-(1-methylpropyl)-2,4(1H,3H)-pyrimidinedione",9411,0,0.19453898160608277,Extra Trees — Morgan,0.2430233813407033,0,0
+317,2,"N-Cyclopropyl-1,3,5-triazine-2,4,6-triamine",47866,0,0.1441618277814718,Extra Trees — Morgan,0.2430233813407033,0,0
+318,2,Chloroxuron (Ref: C 1983),16115,0,0.21217427220263402,Extra Trees — Morgan,0.2430233813407033,0,0
+324,2,"6-Methyl-1,3-dithiolo[4,5-b]quinoxalin-2-one",17109,0,0.1405609219136113,Extra Trees — Morgan,0.2430233813407033,0,0
+329,2,"Methylarsonic acid, Disodium salt",8947,0,0.2516590847511553,Extra Trees — Morgan,0.2430233813407033,0,1
+341,2,Captafol (Ref: Ortho-5865),17038,0,0.1785817912155033,Extra Trees — Morgan,0.2430233813407033,0,0
+363,2,"3-Cyclohexyl-6-(dimethylamino)-1-methyl-1,3,5-triazine-2,4-(1H,3H)dione",39965,0,0.16126588147012602,Extra Trees — Morgan,0.2430233813407033,0,0
+366,2,N-[[(Methylamino)carbonyl]oxy]ethanimidothioic acid methyl ester,4109,1,0.6432773710063087,Extra Trees — Morgan,0.2430233813407033,1,1
+373,2,S-abscisic acid,5280896,0,0.2137452137313123,Extra Trees — Morgan,0.2430233813407033,0,0
+382,2,Pyrethrins (jasmolin I),12304687,1,0.5349774852681581,Extra Trees — Morgan,0.2430233813407033,1,1
+384,2,Fuberidazole,19756,0,0.2581379093009616,Extra Trees — Morgan,0.2430233813407033,0,1
+385,2,Pyrethrins (jasmolin II),12304690,1,0.5203889410962808,Extra Trees — Morgan,0.2430233813407033,1,1
+386,2,Diclofop-methyl (Ref: HOE 023408),39985,0,0.15620014972039073,Extra Trees — Morgan,0.2430233813407033,0,0
+400,2,"5-Chloro-3-(1,1-dimethylethyl)-6-methyl-2,4(1H,3H)-pyrimidinedione",22188,0,0.09029494393179732,Extra Trees — Morgan,0.2430233813407033,0,0
+401,2,Chlorophacinone (Ref: LM 91),19402,1,0.24994035110217794,Extra Trees — Morgan,0.2430233813407033,0,1
+408,2,Validamycin A,443629,1,0.23181943943268782,Extra Trees — Morgan,0.2430233813407033,0,0
+420,2,Metribuzin (Ref: DPX G2504),30479,0,0.21852534967554202,Extra Trees — Morgan,0.2430233813407033,0,0
+423,2,Methabenzthiazuron (Ref: BAY 74283 ),29216,1,0.31814969343812155,Extra Trees — Morgan,0.2430233813407033,0,1
+435,2,Muscalure,5365075,0,0.10962949574316454,Extra Trees — Morgan,0.2430233813407033,0,0
+436,2,"2-Fluoroethyl ([1,1'-biphenyl]-4-yl)acetate",20288,0,0.14526961340822894,Extra Trees — Morgan,0.2430233813407033,0,0
+451,2,8-dodecenol,5283295,1,0.07594142109327194,Extra Trees — Morgan,0.2430233813407033,0,0
+452,2,Napropamide (Ref: R 7465),27189,0,0.13688303374067304,Extra Trees — Morgan,0.2430233813407033,0,0
+453,2,2-Methyl-2-(methylsulfinyl)propanal O-[(methylamino)carbonyl]oxime,9568700,1,0.5198967558076933,Extra Trees — Morgan,0.2430233813407033,1,1
+456,2,"Benzoyl chloride, (2,4,6-Trichlorophenyl)hydrazone",33246,1,0.14926602532222147,Extra Trees — Morgan,0.2430233813407033,0,0
+458,2,Piperalin (Ref: HSDB 7058),18996,0,0.12127982153818008,Extra Trees — Morgan,0.2430233813407033,0,0
+464,2,(E)-dodec-8-enyl acetate,5363237,0,0.10355327204228167,Extra Trees — Morgan,0.2430233813407033,0,0
+466,2,"3,3-Dimethyl-1-(methylthio)-2-butanone O-[(methylamino)carbonyl]oxime",38235,1,0.6248723692569946,Extra Trees — Morgan,0.2430233813407033,1,1
+467,2,Methyl cyclohexenone,14511,0,0.1574560558071339,Extra Trees — Morgan,0.2430233813407033,0,0
+471,2,Bifenox,39230,0,0.14456230083304078,Extra Trees — Morgan,0.2430233813407033,0,0
+478,2,Pyrethrins (cinerin II),5281548,1,0.5075026515696155,Extra Trees — Morgan,0.2430233813407033,1,1
+479,2,Pyrethrins (cinerin I),5281547,1,0.5199007572765446,Extra Trees — Morgan,0.2430233813407033,1,1
+486,2,"N-[5-(1,1-Dimethylethyl)-1,3,4-thiadiazol-2-yl]-N,N'-dimethylurea",5383,0,0.31751857806847344,Extra Trees — Morgan,0.2430233813407033,0,1
+490,2,Propineb (Ref: BAY 46131),6100711,0,0.11911844958986431,Extra Trees — Morgan,0.2430233813407033,0,0
+492,2,Guazatine (Ref: EM 379),3526,0,0.11610555753640829,Extra Trees — Morgan,0.2430233813407033,0,0
+497,2,alpha-Cyclopropyl-alpha-(4-methoxyphenyl)-5-pyrimidinemethanol,25572,0,0.3622202225732582,Extra Trees — Morgan,0.2430233813407033,0,1
+502,2,"2-[[[[(4-Chloro-6-methoxy-2-pyrimidinyl)amino]carbonyl]amino]sulfonyl]benzoic acid, Ethyl ester",56160,0,0.1669730276577506,Extra Trees — Morgan,0.2430233813407033,0,0
+503,2,"alpha-(4-Chlorophenyl)-alpha-(1-cyclopropylethyl)-1H-1,2,4-triazole-1-ethanol",86132,0,0.26846399420637596,Extra Trees — Morgan,0.2430233813407033,0,1
+509,2,2-Chloro-1-(3-ethoxy-4-nitrophenoxy)-4-(trifluoromethyl)benzene,39327,0,0.23826548757655297,Extra Trees — Morgan,0.2430233813407033,0,0
+510,2,4-Chloro-alpha-(1-methylethyl)benzeneacetic acid cyano(3-phenoxyphenyl)methyl ester,3347,1,0.6349123051427765,Extra Trees — Morgan,0.2430233813407033,1,1
+511,2,4-Bromo-2-(4-chlorophenyl)-1-(ethoxymethyl)-5-(trifluoromethyl)-1H-pyrrole-3-carbonitrile,91778,1,0.3786844677086816,Extra Trees — Morgan,0.2430233813407033,0,1
+512,2,5-Methyl-3(2H)-isoxazolone,24781,0,0.08294725047813127,Extra Trees — Morgan,0.2430233813407033,0,0
+514,2,Vinclozolin (Ref: BAS 352F),39676,0,0.15696870417591774,Extra Trees — Morgan,0.2430233813407033,0,0
+521,2,Azocyclotin (Ref: BAY BUE 1452),91634,0,0.11736781121834869,Extra Trees — Morgan,0.2430233813407033,0,0
+526,2,Difenoxuron (Ref: C3470),26576,0,0.23287408733662668,Extra Trees — Morgan,0.2430233813407033,0,0
+529,2,(E)-dec-5-enyl acetate,5363095,0,0.11204090320593985,Extra Trees — Morgan,0.2430233813407033,0,0
+533,2,Tricyclazole (Ref: EL 291),39040,0,0.2056071820712419,Extra Trees — Morgan,0.2430233813407033,0,0
+539,2,Dienochlor (Ref: SAN 804),16686,0,0.43264940369240007,Extra Trees — Morgan,0.2430233813407033,0,1
+542,2,Pyridate (Ref: CL 11344),41463,0,0.4073081397325928,Extra Trees — Morgan,0.2430233813407033,0,1
+543,2,Flucythrinate (Ref: OMS 2007),50980,1,0.6294913844753132,Extra Trees — Morgan,0.2430233813407033,1,1
+546,2,Prochloraz (Ref: BTS 40542),73665,0,0.14859331280246968,Extra Trees — Morgan,0.2430233813407033,0,0
+547,2,Milbemectin (Ref: SL 8601),57369723,1,0.34914364917301993,Extra Trees — Morgan,0.2430233813407033,0,1
+548,2,Milbemycin A4,9959038,1,0.3891794996012267,Extra Trees — Morgan,0.2430233813407033,0,1
+555,2,"1,7-dioxaspiro(5.5)undecane",67437,0,0.19458541780467786,Extra Trees — Morgan,0.2430233813407033,0,0
+558,2,Difenzoquat metilsulfate (Ref: AC 84777),39424,0,0.2453440383788427,Extra Trees — Morgan,0.2430233813407033,0,1
+559,2,Fenpropidin (Ref: CGA 114900),91694,1,0.2391626884636839,Extra Trees — Morgan,0.2430233813407033,0,0
+561,2,Diclobutrazol (Ref: PP296),53309,1,0.07382502776156981,Extra Trees — Morgan,0.2430233813407033,0,0
+564,2,"1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Heptadecafluoro-1-octanesulfonic acid potassium salt",23669238,1,0.11370976391583189,Extra Trees — Morgan,0.2430233813407033,0,0
+570,2,Diclofop (Ref: AE F021079),38687,0,0.09568275734202811,Extra Trees — Morgan,0.2430233813407033,0,0
+580,2,Chlozolinate (Ref: M 8164),51574,0,0.19915778508091678,Extra Trees — Morgan,0.2430233813407033,0,0
+581,2,"2,2-Dimethyl-3-(2-methyl-1-propenyl)cyclopropanecarboxylic acid 2-methyl-4-oxo-3-(2-propynyl)-2-cyclopenten-1-yl ester",9839306,1,0.5544147593024031,Extra Trees — Morgan,0.2430233813407033,1,1
+585,2,"(4aS)-7-Chloro-2,5-dihydro-2-[[(methoxycarbonyl)[4-(trifluoromethoxy)phenyl]amino]carbonyl]indeno[1,2-e][1,3,4]oxadiazine-4a(3H)-carboxylic acid methyl ester",107720,1,0.2568279643387182,Extra Trees — Morgan,0.2430233813407033,0,1
+586,2,"(1R,3R)-rel-3-[(1Z)-2-Chloro-3,3,3-trifluoro-1-propen-1-yl]-2,2-dimethylcyclopropanecarboxylic acid (2,3,5,6-tetrafluoro-4-methylphenyl)methyl ester",54382,1,0.6226847634896642,Extra Trees — Morgan,0.2430233813407033,1,1
+587,2,Fenoxycarb (Ref: OMS 3010),51605,0,0.33782003760696355,Extra Trees — Morgan,0.2430233813407033,0,1
+591,2,"2-[[[[(4,6-Dimethyl-2-pyrimidinyl)amino]carbonyl]amino]sulfonyl]benzoic acid, Methyl ester",52997,0,0.12861247940403503,Extra Trees — Morgan,0.2430233813407033,0,0
+597,2,Sulfometuron,52998,0,0.10256134445271317,Extra Trees — Morgan,0.2430233813407033,0,0
+601,2,Mildiomycin (Ref: AR-1F1870),12850205,0,0.29491285106978715,Extra Trees — Morgan,0.2430233813407033,0,1
+603,2,Fomesafen (Ref: PP 021),51556,0,0.14837472065960697,Extra Trees — Morgan,0.2430233813407033,0,0
+605,2,Oxadixyl (Ref: SAN 371F),53735,0,0.10354184614446939,Extra Trees — Morgan,0.2430233813407033,0,0
+617,2,"(2R,6S)-rel-4-[3-[4-(1,1-Dimethylethyl)phenyl]-2-methylpropyl]-2,6-dimethylmorpholine  ",93365,0,0.21633542133721395,Extra Trees — Morgan,0.2430233813407033,0,0
+618,2,Imazaquin (Ref: BAS 725H),54739,1,0.13439524404000097,Extra Trees — Morgan,0.2430233813407033,0,0
+619,2,"3,6-Bis(2-chlorophenyl)-1,2,4,5-tetrazine",73670,0,0.264347255002835,Extra Trees — Morgan,0.2430233813407033,0,1
+629,2,Paclobutrazol (Ref: PP 333),73671,1,0.13682152770747966,Extra Trees — Morgan,0.2430233813407033,0,0
+630,2,"alpha-Butyl-alpha-(4-chlorophenyl)-1H-1,2,4-triazole-1-propanenitrile",6336,0,0.36474063795814504,Extra Trees — Morgan,0.2430233813407033,0,1
+635,2,Cinmethylin (Ref: BAS 684 H),91745,0,0.12773005103459983,Extra Trees — Morgan,0.2430233813407033,0,0
+636,2,"5-[2-Chloro-4-(trifluoromethyl)phenoxy]-2-nitrobenzoic acid, 2-Ethoxy-1-methyl-2-oxoethyl ester",62276,0,0.23480907661974315,Extra Trees — Morgan,0.2430233813407033,0,0
+638,2,"(4R,5R)-rel-5-(4-Chlorophenyl)-N-cyclohexyl-4-methyl-2-oxo-3-thiazolidinecarboxamide",13218777,0,0.14062357894663655,Extra Trees — Morgan,0.2430233813407033,0,0
+644,2,Diafenthiuron (Ref: CGA 106630),3034380,1,0.43096972444783005,Extra Trees — Morgan,0.2430233813407033,0,1
+646,2,Imazethapyr (Ref: AC 252925),54740,0,0.18981632242008709,Extra Trees — Morgan,0.2430233813407033,0,0
+648,2,Aclonifen (Ref: AE F068300),92389,0,0.2600535255266062,Extra Trees — Morgan,0.2430233813407033,0,1
+649,2,Fenoxaprop-ethyl,47938,0,0.26293722733766356,Extra Trees — Morgan,0.2430233813407033,0,1
+652,2,Flusilazole (Ref: DPX H6573),73675,0,0.14429530887849049,Extra Trees — Morgan,0.2430233813407033,0,0
+653,2,Sulfluramid (Ref: GX 071),77797,1,0.1308248462111087,Extra Trees — Morgan,0.2430233813407033,0,0
+654,2,"3-(N-butyl-N-acetyl)-aminopropionic acid, ethyl ester (Ref: OMS 3065)",104150,0,0.19599071394165404,Extra Trees — Morgan,0.2430233813407033,0,0
+656,2,Pyrazosulfuron-ethyl (Ref: NC 311),91750,0,0.08421903162482573,Extra Trees — Morgan,0.2430233813407033,0,0
+659,2,Quinmerac (Ref: BAS 518H),91749,0,0.09492476988340388,Extra Trees — Morgan,0.2430233813407033,0,0
+660,2,"3,7-Dichloro-8-quinolinecarboxylic acidZ",91739,0,0.09237754107174566,Extra Trees — Morgan,0.2430233813407033,0,0
+661,2,Imazamethabenz (Ref: AC 263840),3034382,0,0.08021683620088049,Extra Trees — Morgan,0.2430233813407033,0,0
+671,2,"2-[[[[[4,6-Bis(difluoromethoxy)-2-pyrimidinyl]amino]carbonyl]amino]sulfonyl]benzoic acid, Methyl ester",101525,0,0.09326141070163917,Extra Trees — Morgan,0.2430233813407033,0,0
+674,2,Imazamethabenz-methyl (Ref: AC 222293),54744,0,0.13736897742263798,Extra Trees — Morgan,0.2430233813407033,0,0
+676,2,Imazamox (Ref: BAS 720H),86137,0,0.208377091283154,Extra Trees — Morgan,0.2430233813407033,0,0
+680,2,Hexaconazole (Ref: PP 523),66461,0,0.2618733111235055,Extra Trees — Morgan,0.2430233813407033,0,1
+681,2,"4-Chloro-2-(1,1-dimethylethyl)-5-[[[4-(1,1-dimethylethyl)phenyl]methyl]thio]-3(2H)pyridazinene",91754,1,0.25366637548060317,Extra Trees — Morgan,0.2430233813407033,0,1
+686,2,"N-[[4,6-Dimethoxy-2-pyrimidinyl)amino]carbonyl]-3-(trifluoromethyl)-2-pyridinesulfonamide",93539,0,0.03833826044569193,Extra Trees — Morgan,0.2430233813407033,0,0
+687,2,Chlorantraniliprole (Ref: DPX E2Y45),11271640,1,0.3986145611176219,Extra Trees — Morgan,0.2430233813407033,0,1
+690,2,"4,6-Dimethyl-N-phenyl-2-pyrimidinamine",91650,0,0.06993255701828104,Extra Trees — Morgan,0.2430233813407033,0,0
+698,2,Chlorimuron,91762,0,0.1399279383832795,Extra Trees — Morgan,0.2430233813407033,0,0
+699,2,"3-(4-Chlorophenyl)-3-(3,4-dimethoxyphenyl)-1-(4-morpholinyl)-2-propen-1-one",86298,0,0.180901742081861,Extra Trees — Morgan,0.2430233813407033,0,0
+700,2,"Phosphorothioic acid O,O-diethyl-O-(1,2,2,2-tetrachloroethyl) ester",91655,1,0.7224509437173645,Extra Trees — Morgan,0.2430233813407033,1,1
+701,2,"2-[7-Fluoro-3,4-dihydro-3-oxo-4-(2-propynyl)-2H-1,4-benzoxazin-6-yl]-4,5,6,7-tetrahydro-1H-isoindole-1,3(2H)-dione",92425,0,0.22638340920677516,Extra Trees — Morgan,0.2430233813407033,0,0
+710,2,"1-[[2-[2-Chloro-4-(4-chlorophenoxyl)phenyl]-4-methyl-1,3-dioxolan-2-yl]methyl]-1H-1,2,4-triazole",86173,0,0.2601510466614106,Extra Trees — Morgan,0.2430233813407033,0,1
+713,2,Imidacloprid (Ref: BAY NTN 33893),86418,1,0.46152147994619014,Extra Trees — Morgan,0.2430233813407033,0,1
+716,2,Quizalofop-P-tefuryl (Ref: UBI C4874 ),86175,0,0.27088555433108286,Extra Trees — Morgan,0.2430233813407033,0,1
+718,2,Fluoroglycofen,92395,0,0.16731520510580083,Extra Trees — Morgan,0.2430233813407033,0,0
+721,2,Nicosulfuron (Ref: DPX V9360),73281,1,0.0682598585755862,Extra Trees — Morgan,0.2430233813407033,0,0
+727,2,Imazapic (Ref: AC 263222),91770,0,0.12241799602123007,Extra Trees — Morgan,0.2430233813407033,0,0
+729,2,"4-[2-[4-(1,1-Dimethylethyl)phenyl]ethoxy]quinazoline",86356,1,0.19897455358255758,Extra Trees — Morgan,0.2430233813407033,0,0
+734,2,"(2R)-2-[4-(4-Cyano-2-fluorophenoxy)phenoxy]propanoic acid, Butyl ester",180089,0,0.3435379214570127,Extra Trees — Morgan,0.2430233813407033,0,1
+739,2,(2-Oxo-3-thiazolidinyl)phosphonothioic acid O-ethyl S-(1-methylpropyl)ester,91758,1,0.6084252015076567,Extra Trees — Morgan,0.2430233813407033,1,1
+740,2,Iminoctadine triacetate (Ref: DF 125),162366,0,0.10824214366497316,Extra Trees — Morgan,0.2430233813407033,0,0
+755,2,"N-[[(4,6-Dimethoxy-2-pyrimidinyl)amino]carbonyl]-3-(ethylsulfonyl)-2-pyridine sulfonamide",91779,0,0.08293126638629907,Extra Trees — Morgan,0.2430233813407033,0,0
+756,2,"2-[[[[[(4,6-Dimethoxy-2-pyrimidinyl)amino]carbonyl]amino]sulfonyl]amino]-N,N-dimethylbenzamide",11091168,0,0.056075932433520846,Extra Trees — Morgan,0.2430233813407033,0,0
+765,2,Cloquintocet-mexyl (Ref: CGA 185072),93528,0,0.08742654183786394,Extra Trees — Morgan,0.2430233813407033,0,0
+771,2,Flusulfamide (Ref: MTF 651),86268,0,0.09402584761184095,Extra Trees — Morgan,0.2430233813407033,0,0
+773,2,Bromuconazole (Ref: LS 860263),3444,0,0.21316898245580293,Extra Trees — Morgan,0.2430233813407033,0,0
+774,2,Mepanipyrim (Ref: KUF 6201),86296,0,0.15154166903071317,Extra Trees — Morgan,0.2430233813407033,0,0
+778,2,Flumorph (Ref: SYP L190),11057755,0,0.1740534049895023,Extra Trees — Morgan,0.2430233813407033,0,0
+779,2,Fenoxaprop-P (Ref: AE-F088406),11949285,0,0.14358590473972008,Extra Trees — Morgan,0.2430233813407033,0,0
+793,2,"4-(Cyclopropylhydroxymethylene)-3,5-dioxocyclohexanecarboxylic acid ethyl ester",92421,0,0.2239939389193391,Extra Trees — Morgan,0.2430233813407033,0,0
+797,2,"(1E)-[2-[[6-(2-Chlorophenoxy)-5-fluoro-4-pyrimidinyl]oxy]phenyl](5,6-dihydro-1,4,2-dioxazin-3-yl)-methanone, O-Methyloxime",53395436,0,0.10917324234740636,Extra Trees — Morgan,0.2430233813407033,0,0
+800,2,"1-[(6-Chloro-3-pyridinyl)methyl]-4,5-dihydro-1H-imidazol-2-amine",10130527,1,0.34411765886952866,Extra Trees — Morgan,0.2430233813407033,0,1
+802,2,Mesosulfuron-methyl (Ref: AE F130060),11409499,0,0.12422820208079469,Extra Trees — Morgan,0.2430233813407033,0,0
+803,2,Flupyrsulfuron,132910,0,0.06251235529365012,Extra Trees — Morgan,0.2430233813407033,0,0
+806,2,Benthiavalicarb-isopropyl (Ref: KIF-230),53297381,0,0.17947556899886385,Extra Trees — Morgan,0.2430233813407033,0,0
+808,2,Azafenidin,443029,0,0.19552123920181133,Extra Trees — Morgan,0.2430233813407033,0,0
+810,2,Glyphosate-trimesium,105048,0,0.2591241985911361,Extra Trees — Morgan,0.2430233813407033,0,1
+813,2,"2,2-Dimethylpropanoic acid  8-(2,6-diethyl-4-methylphenyl)-1,2,4,5- tetrahydro-7-oxo-7H-pyrazolo[1,2-d][1,4,5]oxadiazepin-9-yl ester",210326,0,0.24424704782129078,Extra Trees — Morgan,0.2430233813407033,0,1
+817,2,"4-Chloro-2-cyano-N,N-dimethyl-5-(4-methylphenyl)-1H-imidazole-1-sulfonamide",9862076,0,0.35720343143600647,Extra Trees — Morgan,0.2430233813407033,0,1
+819,2,"2-(2,2-Difluoroethoxy)-N-(5,8-dimethoxy[1,2,4]triazolo[1,5-c]pyrimidin-2-yl)-6-(trifluoromethyl)benzenesulfonamide",11784975,0,0.13126130945103692,Extra Trees — Morgan,0.2430233813407033,0,0
+820,2,Foramsulfuron (Ref: AE F130360),11419598,0,0.1318337145948721,Extra Trees — Morgan,0.2430233813407033,0,0
+822,2,Diflovidazin (Ref: SZ1 121),153985,0,0.2577678271448821,Extra Trees — Morgan,0.2430233813407033,0,1
+825,2,Primisulfuron,91774,0,0.09710606528548361,Extra Trees — Morgan,0.2430233813407033,0,0
+829,2,Pyridalyl (Ref: S-1812),11488729,0,0.1802244350492907,Extra Trees — Morgan,0.2430233813407033,0,0
+835,2,Tau-fluvalinate (Ref: SAN 527l),91768,0,0.6153018904381167,Extra Trees — Morgan,0.2430233813407033,1,1
+839,2,"(1R,3S)-3-(2,2-Dichloroethenyl)-2,2-dimethyl-(2,3,5,6-tetrafluorophenyl)methyl ester cyclopropanecarboxylic acid",656612,1,0.6028971478304936,Extra Trees — Morgan,0.2430233813407033,1,1
+844,2,Pyribenzoxim (Ref: LGC 40863 ),178117,0,0.16240352096613914,Extra Trees — Morgan,0.2430233813407033,0,0
+846,2,Propoxycarbazone,177355,0,0.1407309430453665,Extra Trees — Morgan,0.2430233813407033,0,0
+847,2,"2-(4-Methoxy[1,1'-biphenyl]-3-yl)hydrazinecarboxylic acid, 1-Methylethyl ester",176879,1,0.13895777802468007,Extra Trees — Morgan,0.2430233813407033,0,0
+848,2,Glyphosate-sodium,23677848,0,0.14281827874833555,Extra Trees — Morgan,0.2430233813407033,0,0
+850,2,Cyhalofop,15118048,0,0.3345196402253461,Extra Trees — Morgan,0.2430233813407033,0,1
+851,2,"3-Chloro-5-[[[[(4,6-dimethoxy-2-pyrimidinyl)amino]carbonyl]amino]sulfonyl]-1-methyl-1H-pyrazole-4-carboxylic acid, Methyl ester",91763,0,0.04613101052759242,Extra Trees — Morgan,0.2430233813407033,0,0
+854,2,Pyrazosulfuron,93525,0,0.05614120176480062,Extra Trees — Morgan,0.2430233813407033,0,0
+856,2,N-(Cyano-2-thienylmethyl)-4-ethyl-2-(ethylamino)-5-thiazolecarboxamide,11174640,0,0.3611615165246903,Extra Trees — Morgan,0.2430233813407033,0,1
+859,2,Flucarbazone,3081367,0,0.10734012754075581,Extra Trees — Morgan,0.2430233813407033,0,0
+860,2,Benthiavalicarb,20593234,0,0.1238651047330548,Extra Trees — Morgan,0.2430233813407033,0,0
+869,2,Mesosulfuron (Ref: AE F154851),11520759,1,0.11944394481759005,Extra Trees — Morgan,0.2430233813407033,0,0
+870,2,"2-Chloro-5-[3,6-dihydro-3-methyl-2,6-dioxo-4-(trifluoromethyl)-1(2H)-pyrimidinyl]benzoic acid 1,1-dimethyl-2-oxo-2-(2-propenyloxy)ethyl ester",11826859,0,0.07566944561681896,Extra Trees — Morgan,0.2430233813407033,0,0
+871,2,"2,2-Dimethylbutanoic acid, 3-(2,4-Dichlorophenyl)-2-oxo-1-oxaspiro[4.5]dec-3-en-4-yl ester",177863,0,0.2902530649310531,Extra Trees — Morgan,0.2430233813407033,0,1
+872,2,Tepraloxydim (Ref: BAS 620H),135585373,0,0.14661674674314795,Extra Trees — Morgan,0.2430233813407033,0,0
+873,2,Mefenpyr diethyl (Ref: HOE 107892),10937610,0,0.21668725544692571,Extra Trees — Morgan,0.2430233813407033,0,0
+876,2,Sucrose octanoate,5484222,0,0.16768403391770062,Extra Trees — Morgan,0.2430233813407033,0,0
+890,2,Profoxydim (Ref: BAS 625H),197395,0,0.18722122252497558,Extra Trees — Morgan,0.2430233813407033,0,0
+895,2,Prochloraz manganese complex (Ref: BTS 46828),155203,0,0.144956949166106,Extra Trees — Morgan,0.2430233813407033,0,0
+901,2,"S-[(5-Ethoxy-2-oxo-1,3,4-thiadiazol-3(2H)-yl)methyl] O,O-dimethyl phosphorodithioate",17580,1,0.7884483407521273,Extra Trees — Morgan,0.2430233813407033,1,1
+902,2,"alpha-Methyl-omega-[3-[1,3,3,3-tetramethyl-1-[(trimethylsilyl)oxy]-1-disiloxanyl]propoxy]poly(oxy-1,2-ethanediyl)",197160,0,0.13377641545507685,Extra Trees — Morgan,0.2430233813407033,0,0
+903,2,"N'-[4-[(3,4-Dihydro-2-methoxy-2,4,4-trimethyl-2H-1-benzopyran-7-yl)oxy]phenyl]-N-methoxy-N-methylurea",14152665,0,0.26452172082756076,Extra Trees — Morgan,0.2430233813407033,0,1
+904,2,Calcium acid methanearsonate,22193,0,0.2692552006403613,Extra Trees — Morgan,0.2430233813407033,0,1
+905,2,Trifloxysulfuron (Ref: CGA 292230),9955886,0,0.04993112373831138,Extra Trees — Morgan,0.2430233813407033,0,0
+908,2,Tralkoxydim (Ref: PP 604),91746,0,0.1749666324822886,Extra Trees — Morgan,0.2430233813407033,0,0
+915,2,Fluacrypyrim,9954185,1,0.13441473300637544,Extra Trees — Morgan,0.2430233813407033,0,0
+920,2,Ethidimuron (Ref: MET 1486 ),91596,0,0.31043968763943247,Extra Trees — Morgan,0.2430233813407033,0,1
+927,2,2-[2-(4-Cyanophenyl)-1-[3-(trifluoromethyl)phenyl]ethylidene]-N-[4-(trifluoromethoxy)phenyl]hydrazinecarboxamide,20056430,1,0.3385260906545462,Extra Trees — Morgan,0.2430233813407033,0,1
+932,2,Flupyrsulfuron-methyl-sodium,15764724,0,0.07943265938417338,Extra Trees — Morgan,0.2430233813407033,0,0
+934,2,"2-[4,5-Dihydro-4-methyl-4-(1-methylethyl)-5-oxo-1H-imidazol-2-yl]-5-methyl-3-pyridinecarboxylic acid ammonium salt (1:1)",18772439,0,0.14384911701488687,Extra Trees — Morgan,0.2430233813407033,0,0
+949,2,Glyphosate-monopotassium,23716553,0,0.1482504172604463,Extra Trees — Morgan,0.2430233813407033,0,0
+950,2,"2,6-Bis[(4,6-dimethoxy-2-pyrimidinyl)oxy]benzoic acid sodium salt",23682789,0,0.06733308407605058,Extra Trees — Morgan,0.2430233813407033,0,0
+951,2,"3-Phenyl-5-(2-thienyl)-1,2,4-oxadiazole",695679,1,0.13949011411071835,Extra Trees — Morgan,0.2430233813407033,0,0
+952,2,"2-Chloro-5-[3,6-dihydro-3-methyl-2,6-dioxo-4-(trifluoromethyl-1(2H)-pyrimidinyl]-4-fluoro-N-[[methyl(1-methylethyl)amino]sulfonyl]benzamide",11571392,0,0.15481789020063302,Extra Trees — Morgan,0.2430233813407033,0,0
+953,2,3-Bromo-1-(3-chloro-2-pyridinyl)-N-[4-cyano-2-methyl-6-[(methylamino)carbonyl]phenyl]-1H-pyrazole-5-carboxamide,11578610,1,0.5248655152473602,Extra Trees — Morgan,0.2430233813407033,1,1
+958,2,Isopyrazam (Ref: SYN 520453),25271089,0,0.19394760045538456,Extra Trees — Morgan,0.2430233813407033,0,0
+960,2,"N2-[(1R,2S)-2,3-Dihydro-2,6-dimethyl-1H-inden-1-yl]-6-(1-fluoroethyl)-1,3,5-triazine-2,4-diamine",44146693,0,0.1839371063883063,Extra Trees — Morgan,0.2430233813407033,0,0
+974,2,Glyphosate-sesquisodium (Ref: Mon 8000),71463591,0,0.14198494541500226,Extra Trees — Morgan,0.2430233813407033,0,0
+975,2,Prochloraz manganese chloride complex,71306902,0,0.144956949166106,Extra Trees — Morgan,0.2430233813407033,0,0
+977,2,"1-Acetyl-3,4-dihydro-3-[(3-pyridinylmethyl)amino]-6-[1,2,2,2-tetrafluoro-1-(trifluoromethyl)ethyl]-2(1H)-quinazolinone",11842644,1,0.25145477287156437,Extra Trees — Morgan,0.2430233813407033,0,1
+981,2,Sabadilla (Ref: ENT 123 ),76419455,0,0.27144321154390577,Extra Trees — Morgan,0.2430233813407033,0,1
+982,2,Alloxydim sodium,74087703,0,0.17974624597802055,Extra Trees — Morgan,0.2430233813407033,0,0
+985,2,"S-Prop-2-en-1-yl 5-amino-4-(2-methylphenyl)-3-oxo-2-(propan-2-yl)-2,3-dihydro-1H-pyrazole-1-carbothioate",11493665,0,0.31519583576267385,Extra Trees — Morgan,0.2430233813407033,0,1
+987,2,"1-[4-[4-[5-(2,6-Difluorophenyl)-4,5-dihydro-3-isoxazolyl]-2-thiazolyl]-1-piperidinyl]-2-[5-methyl-3-(trifluoromethyl)-1H-pyrazol-1-yl]ethanone",56945145,0,0.2636912288004608,Extra Trees — Morgan,0.2430233813407033,0,1
+989,2,Spinetoram,73462741,1,0.4977091410184596,Extra Trees — Morgan,0.2430233813407033,0,1
+992,2,4-Hydroxy-3-[[2-[(2-methoxyethoxy)methyl]-6-(trifluoromethyl)-3-pyridinyl]carbonyl]bicyclo[3.2.1]oct-3-en-2-one,22600466,0,0.15522567339543994,Extra Trees — Morgan,0.2430233813407033,0,0
+993,2,Butroxydim (Ref: ICIA0500),135993077,0,0.18849988631401066,Extra Trees — Morgan,0.2430233813407033,0,0
+994,2,Brofluthrinate (Ref: ZXI 8901),16722122,1,0.632953535871675,Extra Trees — Morgan,0.2430233813407033,1,1
+995,2,"(5-Chloro-2-methoxy-4-methylpyridin-3-yl)(2,3,4-trimethoxy-6-methylphenyl)methanone",23082663,0,0.07922642054868029,Extra Trees — Morgan,0.2430233813407033,0,0
+1003,2,Penflufen (Ref: BYF-14182),11674113,0,0.12630891872248998,Extra Trees — Morgan,0.2430233813407033,0,0
+1006,2,"N-[6-[[[(Z)-[(1-Methyl-1H-tetrazol-5-yl)phenylmethylene]amino]oxy]methyl]-2-pyridinyl]-1,1-dimethylethyl ester carbamic acid",56945144,0,0.10212137286053492,Extra Trees — Morgan,0.2430233813407033,0,0
+1011,2,Triafamone (Ref: AE 1887198),16004663,0,0.13404565609631738,Extra Trees — Morgan,0.2430233813407033,0,0
+1012,2,Momfluorothrin (Ref: S-1563),25193220,1,0.6059236732269614,Extra Trees — Morgan,0.2430233813407033,1,1
+1015,2,"Cyclopropanecarboxylic acid, [(3S,4R,4aR,6S,6aS,12R,12aS,12bS)-3-[(Cyclopropylcarbonyl)oxy]-1,3,4,4a,5,6,6a,12,12a,12b-decahydro-6,12-dihydroxy-4,6a,12b-trimethyl-11-oxo-9-(3-pyridinyl)-2H,11H-naphtho[2,1-b]pyrano[3,4-e]pyran-4-yl]methyl ester",54589430,0,0.2791978394961648,Extra Trees — Morgan,0.2430233813407033,0,1
+1018,2,"3-(Difluoromethyl)-N-methoxy-1-methyl-N-[1-(2,4,6-trichlorophenyl)propan-2-yl]-1H-pyrazole-4-carboxamide",56933411,0,0.14030334024041363,Extra Trees — Morgan,0.2430233813407033,0,0
+1021,2,Flupyrimin,14127920,0,0.341529753631012,Extra Trees — Morgan,0.2430233813407033,0,1
+1022,2,"Methyl N-[2-({2-chloro-4-fluoro-5-[3-methyl-2,6-dioxo-4-(trifluoromethyl)-3,6-dihydropyrimidin-1(2H)-yl]phenyl}sulfanyl)propanoyl]-beta-alaninate",67295585,1,0.14277091173168638,Extra Trees — Morgan,0.2430233813407033,0,0
+1023,2,Glyphosate-diammonium,44146828,0,0.1563244448558222,Extra Trees — Morgan,0.2430233813407033,0,0
+8,3,Orange oil,22311,0,0.2241993518873339,Random Forest — Morgan,0.27155606616091316,0,0
+14,3,Arsenic acid,234,1,0.27902362373124734,Random Forest — Morgan,0.27155606616091316,0,1
+16,3,Formothion (Ref: SAN 6913I),17345,1,0.8532735383520609,Random Forest — Morgan,0.27155606616091316,1,1
+22,3,"3-[(Dimethoxyphosphinyl)oxy]-2-butenoic acid, Methyl ester",5355863,1,0.7640081253648227,Random Forest — Morgan,0.27155606616091316,1,1
+24,3,Aluminium phosphide,30332,1,0.24858590625717877,Random Forest — Morgan,0.27155606616091316,0,0
+32,3,Warfarin,54678486,0,0.34074933530323337,Random Forest — Morgan,0.27155606616091316,0,1
+36,3,Copper (II) hydroxide,30154,0,0.2870233100705056,Random Forest — Morgan,0.27155606616091316,0,1
+37,3,Cartap (Ref: TL 1258),27159,1,0.32899640817386994,Random Forest — Morgan,0.27155606616091316,0,1
+38,3,"1,8-cineole",2758,0,0.2849947768984004,Random Forest — Morgan,0.27155606616091316,0,1
+42,3,Calcium phosphate,24456,0,0.43775663118027824,Random Forest — Morgan,0.27155606616091316,0,1
+48,3,Cadmium chloride (CdCl2),24947,1,0.2674612205796463,Random Forest — Morgan,0.27155606616091316,0,0
+55,3,Ferric phosphate,24861,0,0.43852786075752664,Random Forest — Morgan,0.27155606616091316,0,1
+58,3,Ferric pyrophosphate,24877,0,0.46591518974293583,Random Forest — Morgan,0.27155606616091316,0,1
+71,3,Calcium arsenate,24501,1,0.31603755815441287,Random Forest — Morgan,0.27155606616091316,0,1
+76,3,Alpha-terpinoline,11463,0,0.28613013489053407,Random Forest — Morgan,0.27155606616091316,0,1
+79,3,Alpha-terpineol,17100,0,0.25828363165921414,Random Forest — Morgan,0.27155606616091316,0,0
+92,3,"2-[(Dimethoxyphosphinothioyl)thio]butanedioic acid 1,4-diethyl ester",4004,1,0.7880562817123401,Random Forest — Morgan,0.27155606616091316,1,1
+109,3,Nerolidol,5284507,0,0.25944534247094436,Random Forest — Morgan,0.27155606616091316,0,0
+111,3,"N-[1-[(Butylamino)carbonyl]-1H-benzimidazol-2-yl]carbamic acid, Methyl ester",28780,1,0.2693189204649673,Random Forest — Morgan,0.27155606616091316,0,0
+116,3,"Phosphorodithioic acid O,O-diethyl S-[(4-oxo-1,2,3-benzotriazin-3(4H)-yl)methyl] ester",17531,1,0.8852948783872382,Random Forest — Morgan,0.27155606616091316,1,1
+123,3,Paraffin oils,68245,0,0.2835231163734067,Random Forest — Morgan,0.27155606616091316,0,1
+125,3,Sulfuryl fluoride,17607,1,0.2320368627388189,Random Forest — Morgan,0.27155606616091316,0,0
+133,3,"O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester",3082,1,0.8807148949078113,Random Forest — Morgan,0.27155606616091316,1,1
+136,3,(3-Methylphenyl)carbamic acid 3-[(methoxycarbonyl)amino]phenyl ester,24744,0,0.44807890902180075,Random Forest — Morgan,0.27155606616091316,0,1
+140,3,Garlic extract,16315,0,0.36161340065593717,Random Forest — Morgan,0.27155606616091316,0,1
+141,3,Dicyclopentadiene,6492,0,0.39207061959726397,Random Forest — Morgan,0.27155606616091316,0,1
+142,3,"N,N,N',N'-Tetramethylthioperoxydicarbonic diamide ([(H2N)C(S)]2S2)",5455,0,0.39530043860209485,Random Forest — Morgan,0.27155606616091316,0,1
+146,3,Alpha-pinene,6654,0,0.377654191103978,Random Forest — Morgan,0.27155606616091316,0,1
+154,3,"1,1'-Dimethyl-4,4'-bipyridinium chloride (1:2)",15938,0,0.26033304856110534,Random Forest — Morgan,0.27155606616091316,0,0
+159,3,Tribenuron-methyl (Ref: DPX L5300),153909,1,0.15695906129455867,Random Forest — Morgan,0.27155606616091316,0,0
+161,3,Piperonyl butoxide (Ref: ENT 14250),5794,0,0.3461173811071022,Random Forest — Morgan,0.27155606616091316,0,1
+162,3,Sulfur,5362487,0,0.2720714412772457,Random Forest — Morgan,0.27155606616091316,0,1
+165,3,Metsulfuron-methyl (Ref: DPX T6376),52999,0,0.09834741196217159,Random Forest — Morgan,0.27155606616091316,0,0
+169,3,Cadmium,23973,0,0.2720714412772457,Random Forest — Morgan,0.27155606616091316,0,1
+174,3,Borax,16211214,0,0.3121517431199065,Random Forest — Morgan,0.27155606616091316,0,1
+179,3,Abamectin (Ref: MK 936),6435890,1,0.5770609652962712,Random Forest — Morgan,0.27155606616091316,1,1
+187,3,"2-[4-(1,1-Dimethylethyl)phenoxy]cyclohexyl 2-propynyl ester sulfurous acid",4936,0,0.4601636648956579,Random Forest — Morgan,0.27155606616091316,0,1
+203,3,"2-Cyclohexyl-4,6-dinitrophenol",8540,0,0.27912977326410626,Random Forest — Morgan,0.27155606616091316,0,1
+204,3,"2-[(1,1-Dimethylethyl)imino]tetrahydro-3-(1-methylethyl)-5-phenyl-4H-1,3,5-thiadiazin-4-one",50367,0,0.31135682645226653,Random Forest — Morgan,0.27155606616091316,0,1
+205,3,"1,4,5,6,7,8,8-Heptachloro-3a,4,7,7a-tetrahydro-4,7-methano-1H-indene",3589,1,0.5981290470409425,Random Forest — Morgan,0.27155606616091316,1,1
+216,3,"O,O-Diethyl S-[2-(ethylsulfanyl)ethyl] phosphorothioate",24723,1,0.8495202206503304,Random Forest — Morgan,0.27155606616091316,1,1
+217,3,"2-Chloro-N-[[(4-methoxy-6-methyl-1,3,5-triazin-2-yl)amino]carbonyl]benzenesulfonamide",47491,0,0.10813382701394605,Random Forest — Morgan,0.27155606616091316,0,0
+221,3,"N,N-Bis(1-methylethyl)carbamothioic acid, S-(2,3,3-trichloro-2-propen-1-yl) ester",5543,0,0.39852826376157446,Random Forest — Morgan,0.27155606616091316,0,1
+226,3,"O,O-Diethyl O-[6-methyl-2-(1-methylethyl)-4-pyrimidinyl] ester phosphorothioic acid",3017,1,0.8477490711845557,Random Forest — Morgan,0.27155606616091316,1,1
+227,3,Fosetyl,6328134,0,0.4160210056281249,Random Forest — Morgan,0.27155606616091316,0,1
+231,3,Demeton-O-methyl (Ref: ENT 18862),13346,1,0.8679743384398982,Random Forest — Morgan,0.27155606616091316,1,1
+235,3,"Thiodiphosphoric acid, Tetrapropyl ester",18609,0,0.7795510057690631,Random Forest — Morgan,0.27155606616091316,1,1
+236,3,Chlorbenside (Ref: ENT 20696),7639,0,0.4754537170578502,Random Forest — Morgan,0.27155606616091316,0,1
+237,3,"N,N'-1,2-Ethanediylbiscarbamodithioic acid, Sodium salt (1:2)",3032297,0,0.35343150236652915,Random Forest — Morgan,0.27155606616091316,0,1
+242,3,Myristyl acetate,12531,0,0.18623026196863643,Random Forest — Morgan,0.27155606616091316,0,0
+246,3,"O,O-Dimethyl S-[(4-oxo-1,2,3-benzotriazin-3(4H)-yl)methyl] ester, Phosphorodithioic acid",2268,1,0.8600363630617288,Random Forest — Morgan,0.27155606616091316,1,1
+251,3,Delnav,6531,0,0.8794765822445192,Random Forest — Morgan,0.27155606616091316,1,1
+257,3,Metam-sodium (Ref: N 869),5366415,0,0.46158022659963277,Random Forest — Morgan,0.27155606616091316,0,1
+260,3,Naptalam (Ref: ACP 322),8594,0,0.22170040334021435,Random Forest — Morgan,0.27155606616091316,0,0
+262,3,"S-[2-(Ethylthio)ethyl]O,O-dimethyl ester phosphorothioic acid",13526,1,0.8118086044656835,Random Forest — Morgan,0.27155606616091316,1,1
+268,3,2-[4-[(6-Chloro-2-quinoxalinyl)oxy]phenoxy]propanoic acid,178795,0,0.12364911317495351,Random Forest — Morgan,0.27155606616091316,0,0
+269,3,"2-[(3,5,6-Trichloro-2-pyridinyl)oxy]acetic acid",41428,0,0.11728287316104359,Random Forest — Morgan,0.27155606616091316,0,0
+279,3,"Phosphoric acid, 2-Chloro-3-(diethylamino)-1-methyl-3-oxo-1-propen-1-yl dimethyl ester",3032604,1,0.7314152518447792,Random Forest — Morgan,0.27155606616091316,1,1
+282,3,Daminozide,15331,0,0.15135645899003655,Random Forest — Morgan,0.27155606616091316,0,0
+283,3,"1,1'-Dimethyl-4,4'-bipyridinium",15939,1,0.2705366341863942,Random Forest — Morgan,0.27155606616091316,0,0
+285,3,Dikegulac,65420,0,0.29436924222758026,Random Forest — Morgan,0.27155606616091316,0,1
+287,3,Dimetilan,12572,1,0.3765636731540822,Random Forest — Morgan,0.27155606616091316,0,1
+294,3,6-Chloro-3-pyridinecarboxylic acid,79222,0,0.3027489241756731,Random Forest — Morgan,0.27155606616091316,0,1
+301,3,Vamidothion (Ref: ENT 26613),560193,1,0.7460496069059537,Random Forest — Morgan,0.27155606616091316,1,1
+302,3,Dalapon-sodium,517058,0,0.21878275649420578,Random Forest — Morgan,0.27155606616091316,0,0
+304,3,"1,1a,3,3a,4,5,5,5a,5b,6-Decachlorooctahydro-1,3,4-metheno-2H-cyclobuta[cd]pentalen-2-one",299,1,0.4171338267463138,Random Forest — Morgan,0.27155606616091316,0,1
+308,3,"Phosphorothioic acid, O,O-Diethyl O-2-pyrazinyl ester  ",9272,1,0.9096069467276479,Random Forest — Morgan,0.27155606616091316,1,1
+311,3,Bupirimate (Ref: PP 588),38884,0,0.2556999165820522,Random Forest — Morgan,0.27155606616091316,0,0
+315,3,1-methylcyclopropene,151080,1,0.23653774574185313,Random Forest — Morgan,0.27155606616091316,0,0
+319,3,"N,N-dimethylcarbamic acid 3-methyl-1-(1-methylethyl)-1H-pyrazol-5-yl ester",8393,1,0.3424065331271433,Random Forest — Morgan,0.27155606616091316,0,1
+325,3,"1,3-Dithiolo[4,5-b]quinoxaline-2-thione",7159,0,0.45761876908159926,Random Forest — Morgan,0.27155606616091316,0,1
+326,3,"[[2-[(Dithiocarboxy)amino]ethyl]carbamodithioato(2-)-kappaS,kappaS']manganese",3032581,0,0.3565795622566541,Random Forest — Morgan,0.27155606616091316,0,1
+330,3,Gibberellins,622971,0,0.3992007546435345,Random Forest — Morgan,0.27155606616091316,0,1
+335,3,"4-Amino-3,5,6-trichloro-2-pyridinecarboxylic acid",15965,0,0.1562085635753399,Random Forest — Morgan,0.27155606616091316,0,0
+343,3,2-Chloro-6-(trichloromethyl)pyridine,16004,0,0.295940639051,Random Forest — Morgan,0.27155606616091316,0,1
+350,3,"3-[(Dimethoxyphosphinyl)oxy]-2-pentenedioic acid, Dimethyl ester",31199,1,0.7406566627701548,Random Forest — Morgan,0.27155606616091316,1,1
+354,3,Mancozeb,13307026,0,0.3515032278774339,Random Forest — Morgan,0.27155606616091316,0,1
+358,3,2-(Dimethylamino)-N-[[(methylamino)carbonyl]oxy]-2-oxo-ethanimidothioic acid methyl ester,9595287,1,0.7759720694173449,Random Forest — Morgan,0.27155606616091316,1,1
+360,3,Monocrotophos (Ref: ENT 27129),5371562,1,0.7964029831146089,Random Forest — Morgan,0.27155606616091316,1,1
+361,3,"Phosphorothioic acid, O,O-Diethyl O-(3,5,6-trichloro-2-pyridinyl) ester",2730,1,0.8788786921329063,Random Forest — Morgan,0.27155606616091316,1,1
+387,3,"5,6-Dihydro-2-methyl-N-phenyl-1,4-oxathiin-3-carboxamide",21307,0,0.19967773079305146,Random Forest — Morgan,0.27155606616091316,0,0
+388,3,N-1H-Benzimidazol-2-yl carbamic acid methyl ester,25429,0,0.35702027205187725,Random Forest — Morgan,0.27155606616091316,0,1
+391,3,Benazolin (Ref: RD 7693),19662,0,0.1947628013478987,Random Forest — Morgan,0.27155606616091316,0,0
+393,3,"Benzo[b]thiophene-4-ol, 4-(N-methylcarbamate)",14119,1,0.8536524542589338,Random Forest — Morgan,0.27155606616091316,1,1
+395,3,Fenclorim (Ref: CGA 123407),77338,0,0.337769866223781,Random Forest — Morgan,0.27155606616091316,0,1
+399,3,Looplure (Ref: ENT 33266),5363527,0,0.23648574701918684,Random Forest — Morgan,0.27155606616091316,0,0
+403,3,Picloram-methyl,84224,0,0.16076633597254059,Random Forest — Morgan,0.27155606616091316,0,0
+404,3,Anilazine (Ref: ENT 26 058),7541,0,0.230461965049454,Random Forest — Morgan,0.27155606616091316,0,0
+424,3,"4-Amino-3,5,6-trichloro-2-pyridinecarboxylic acid, Potassium salt (1:1)",23664718,0,0.18105795103308014,Random Forest — Morgan,0.27155606616091316,0,0
+425,3,"O,O-Dimethyl O-[2-(methylthio)ethyl]ester phosphorothioic acid mixt. with O,O-dimethyl S-[2-(methylthio)ethyl]phosphorothioate",115122,1,0.8760124267330103,Random Forest — Morgan,0.27155606616091316,1,1
+429,3,"N-[3-[[(Phenylamino)carbonyl]oxy]phenyl]carbamic acid, Ethyl ester",24743,0,0.4371603076171152,Random Forest — Morgan,0.27155606616091316,0,1
+432,3,Glufosinate-ammonium (Ref: HOE 039866),53597,0,0.3612103796919281,Random Forest — Morgan,0.27155606616091316,0,1
+434,3,"2-[(Diethoxyphosphinothionyl)oxy]-5-methylpyrazolo[1,5-a]pyrimidine-6-carboxylic acid ethyl ester",26033,1,0.7712604903623338,Random Forest — Morgan,0.27155606616091316,1,1
+437,3,Pirimicarb (Ref: OMS 1330),31645,1,0.3397527246466977,Random Forest — Morgan,0.27155606616091316,0,1
+441,3,"O-[2-(Diethylamino)-6-methyl-4-pyrimidinyl]O,O-dimethyl ester, Phosphorothioic acid",34526,1,0.7640655297496314,Random Forest — Morgan,0.27155606616091316,1,1
+442,3,"Phosphoramidothioic acid, O,S-Dimethyl ester",4096,1,0.7039658639981853,Random Forest — Morgan,0.27155606616091316,1,1
+443,3,"3-[2,4-Dichloro-5-(1-methylethoxy)phenyl]-5-(1,1-dimethylethyl)-1,3,4-oxadiazol-2(3H)-one",29732,0,0.26080652051890624,Random Forest — Morgan,0.27155606616091316,0,0
+444,3,Camphechlor (Ref: Hercules 3956),58167,1,0.5014766666280819,Random Forest — Morgan,0.27155606616091316,1,1
+446,3,Triazophos (Ref: HOE 002960 ),32184,0,0.8979623608264171,Random Forest — Morgan,0.27155606616091316,1,1
+448,3,"2,2-Dimethyl-1,3-benzodioxol-4-ol 4-(N-methylcarbamate)",2314,1,0.8468278502036765,Random Forest — Morgan,0.27155606616091316,1,1
+449,3,"Phosphorothioic acid O-[2-(diethylamino)-6-methyl-4-pyrimidinyl] O,O-diethyl ester",31957,1,0.8506506991160769,Random Forest — Morgan,0.27155606616091316,1,1
+455,3,Diflubenzuron (Ref: OMS 1804),37123,1,0.1646730211201365,Random Forest — Morgan,0.27155606616091316,0,0
+459,3,"O,O-Dimethyl O-(3,5,6-trichloro-2-pyridinyl) ester phosphorothioic acid",21803,1,0.7975566952328423,Random Forest — Morgan,0.27155606616091316,1,1
+460,3,Dodemorph,61899,0,0.2324529128803098,Random Forest — Morgan,0.27155606616091316,0,0
+463,3,2-[(1-Naphthalenylamino)carbonyl]benzoic acid sodium salt (1:1),23690427,0,0.23554067073183915,Random Forest — Morgan,0.27155606616091316,0,0
+465,3,Codlemone (Ref: BAS 2851),1787910,0,0.3000975290493582,Random Forest — Morgan,0.27155606616091316,0,1
+468,3,Hydroprene (Ref: OMS 1696),5372477,1,0.37256570753886453,Random Forest — Morgan,0.27155606616091316,0,1
+470,3,"1-[2-(2,4-Dichlorophenyl)-2-(2-propenyloxy)ethyl]-1H-imidazole",37175,0,0.33595133395915083,Random Forest — Morgan,0.27155606616091316,0,1
+496,3,1-Methyl-3-phenyl-5-[3-(trifluoromethyl)phenyl]-4(1H)pyridinone,43079,0,0.21174455125214864,Random Forest — Morgan,0.27155606616091316,0,0
+500,3,Lufenuron (Ref: CGA 184699),71777,0,0.18952600818682144,Random Forest — Morgan,0.27155606616091316,0,0
+508,3,N-[2-[3-Chloro-5-(trifluoromethyl)-2-pyridinyl]ethyl]-2-(trifluoromethyl)benzamide,11158353,0,0.2090068905303171,Random Forest — Morgan,0.27155606616091316,0,0
+513,3,"2,3:4,6-bis-O-(1-Methylethylidene)-alpha-L-xylo-2-hexulofuranosonic acid, Sodium salt",23667639,0,0.31031757137289867,Random Forest — Morgan,0.27155606616091316,0,1
+515,3,"3,6-Dichloro-2-pyridinecarboxylic acid",15553,0,0.21082743019070319,Random Forest — Morgan,0.27155606616091316,0,0
+517,3,Procymidone (Ref: S 7131),36242,0,0.2716462771204241,Random Forest — Morgan,0.27155606616091316,0,1
+522,3,Flutriafol (Ref: PP 450),91727,1,0.25879854865682533,Random Forest — Morgan,0.27155606616091316,0,0
+525,3,Furalaxyl (Ref: IPE 134),42504,1,0.1933606884646902,Random Forest — Morgan,0.27155606616091316,0,0
+532,3,"2,6-Difluoro-N-[[[4-(trifluoromethyl)phenyl]amino]carbonyl]benzamide",107651,1,0.17067213561900454,Random Forest — Morgan,0.27155606616091316,0,0
+536,3,Triflumuron (Ref: OMS 2015),47445,0,0.23717281198917806,Random Forest — Morgan,0.27155606616091316,0,0
+545,3,Copper II acetate,8895,0,0.1988781600438505,Random Forest — Morgan,0.27155606616091316,0,0
+549,3,Etrimfos,37995,1,0.7985524187684512,Random Forest — Morgan,0.27155606616091316,1,1
+551,3,"N,N'-[Thiobis[(methylimino)carbonyloxy]]bisethanimidothioic acid dimethyl ester",62155,1,0.46755277779958604,Random Forest — Morgan,0.27155606616091316,0,1
+556,3,Climbazole (Ref: 106162),37907,1,0.20712830756691505,Random Forest — Morgan,0.27155606616091316,0,0
+563,3,Triclopyr-triethylammonium,42163,0,0.12178700299965192,Random Forest — Morgan,0.27155606616091316,0,0
+565,3,Cartap hydrochloride,30913,1,0.32899640817386994,Random Forest — Morgan,0.27155606616091316,0,1
+568,3,Thiocyclam oxalate (Ref: SAN 1551),35969,0,0.2349770469380456,Random Forest — Morgan,0.27155606616091316,0,0
+573,3,Dimefuron (Ref: RP 23465),91612,0,0.1785523528318669,Random Forest — Morgan,0.27155606616091316,0,0
+574,3,Pencycuron (Ref: NTN 19701),91692,0,0.2743320690850562,Random Forest — Morgan,0.27155606616091316,0,1
+577,3,Azamethiphos (Ref: GCA 18809),71482,1,0.6585380073889431,Random Forest — Morgan,0.27155606616091316,1,1
+584,3,Teflubenzuron (Ref: CME 13406),91734,0,0.16967944179012717,Random Forest — Morgan,0.27155606616091316,0,0
+593,3,"Tetrahydro-5,5-dimethyl-2(1H)-pyrimidio[3-[4-trifluoromethyl)phenyl]-1-[2-[4-(trifluoromethyl)phenyl]ethenyl]-2-propenylidene]hydrazone",5281875,0,0.3508713565295278,Random Forest — Morgan,0.27155606616091316,0,1
+598,3,Piperophos (Ref: C 19 490),32230,0,0.7416552310745359,Random Forest — Morgan,0.27155606616091316,1,1
+599,3,Quizalofop-ethyl (Ref: DPX Y6202),53518,1,0.15038349127534859,Random Forest — Morgan,0.27155606616091316,0,0
+606,3,Fluroxypyr (Ref: DOW 43304-H),50465,0,0.11281330252693655,Random Forest — Morgan,0.27155606616091316,0,0
+608,3,Thiocyclam,35970,0,0.3173644265821346,Random Forest — Morgan,0.27155606616091316,0,1
+609,3,Siglure,164964,0,0.2590214093459916,Random Forest — Morgan,0.27155606616091316,0,0
+613,3,Diniconazole (Ref: XE-779),6436605,0,0.3405191851597714,Random Forest — Morgan,0.27155606616091316,0,1
+615,3,Chlorfluazuron (Ref: CGA 112913),91708,0,0.15020726062433715,Random Forest — Morgan,0.27155606616091316,0,0
+620,3,Dodemorph acetate (Ref: BAS 238F),61898,0,0.20659445110544267,Random Forest — Morgan,0.27155606616091316,0,0
+621,3,Triflumizole (Ref: NF 114 ),91699,0,0.1793341958623703,Random Forest — Morgan,0.27155606616091316,0,0
+622,3,Hexaflumuron (Ref: XRD 473),91741,0,0.17606806748606998,Random Forest — Morgan,0.27155606616091316,0,0
+623,3,Bensultap (Ref: OMS 3011),87176,0,0.2944874774972111,Random Forest — Morgan,0.27155606616091316,0,1
+625,3,Pyroquilon (Ref: CGA 49104),91665,0,0.24757782006594406,Random Forest — Morgan,0.27155606616091316,0,0
+627,3,"[(3,5,6-Trichloro-2-pyridinyl)oxy]acetic acid, 2-Butoxyethyl ester",47455,0,0.12715562962411603,Random Forest — Morgan,0.27155606616091316,0,0
+628,3,Metsulfuron (Ref: IN F5438),91730,0,0.12787127920820915,Random Forest — Morgan,0.27155606616091316,0,0
+632,3,Fosetyl-aluminium (Ref: RP 32545),6328269,0,0.4160210056281249,Random Forest — Morgan,0.27155606616091316,0,1
+637,3,Uniconazole (Ref: XE 1019),6436604,0,0.3370983062989973,Random Forest — Morgan,0.27155606616091316,0,1
+639,3,Isoxaben (Ref: EAF 496),73672,0,0.24534982752097584,Random Forest — Morgan,0.27155606616091316,0,0
+645,3,"2-(2-Chloroethoxy)-N-[[(4-methoxy-6-methyl-1,3,5-triazin-2-yl)amino]carbonyl]benzenesulfonamide",73282,0,0.1458825697606022,Random Forest — Morgan,0.27155606616091316,0,0
+650,3,"2-[(2-Chlorophenyl)methyl]-4,4-dimethyl-3-isoxazolidinone",54778,0,0.33591567719599447,Random Forest — Morgan,0.27155606616091316,0,1
+658,3,"2-(Difluoromethyl)-4-(2-methylpropyl)-6-(trifluoromethyl)-3,5-pyridinedicarbothioic acid, S3,S5-Dimethyl ester",91757,0,0.31799691163903526,Random Forest — Morgan,0.27155606616091316,0,1
+663,3,Pefurazoate (Ref: UR-0003),93532,0,0.31131829574337916,Random Forest — Morgan,0.27155606616091316,0,1
+664,3,Thifensulfuron-methyl (Ref: DPX M6316),73674,1,0.17605300582435524,Random Forest — Morgan,0.27155606616091316,0,0
+668,3,"2-Chloro-N-[2,6-dinitro-4-(trifluoromethyl)phenyl]-N-ethyl-6-fluorobenzenemethanamine",62210,0,0.18002985738886124,Random Forest — Morgan,0.27155606616091316,0,0
+675,3,Methoxyfenozide (Ref: RH 2485),105010,0,0.2654231993690507,Random Forest — Morgan,0.27155606616091316,0,0
+678,3,Propoxycarbazone-sodium (Ref: MKH 6561),12056759,0,0.18549836895957628,Random Forest — Morgan,0.27155606616091316,0,0
+679,3,Halofenozide (Ref: RH 0345),114994,0,0.31129732715308656,Random Forest — Morgan,0.27155606616091316,0,1
+685,3,Aminopyralid (Ref: XDE 750),213012,1,0.2440749027206454,Random Forest — Morgan,0.27155606616091316,0,0
+691,3,Amisulbrom,10238657,0,0.23926305053482874,Random Forest — Morgan,0.27155606616091316,0,0
+694,3,Clethodim (Ref: RE 45601),135491728,0,0.35676878280308805,Random Forest — Morgan,0.27155606616091316,0,1
+695,3,"[3-(4,5-Dihydro-3-isoxazolyl)-2-methyl-4-(methylsulfonyl)phenyl](5-hydroxy-1-methyl-1H-pyrazol-4-yl)methanone",11302979,0,0.16733790071341845,Random Forest — Morgan,0.27155606616091316,0,0
+702,3,Propaquizafop (Ref: CGA 233380),16213016,0,0.1518050573913481,Random Forest — Morgan,0.27155606616091316,0,0
+706,3,Cinosulfuron (Ref: CGA 142464),92420,0,0.13601719167710988,Random Forest — Morgan,0.27155606616091316,0,0
+711,3,"1-(1,1-Dimethylethyl)-2-(4-ethylbenzoyl)hydrazide-3,5-dimethylbenzoic acid",91773,0,0.39321760463610783,Random Forest — Morgan,0.27155606616091316,0,1
+712,3,Fluazinam (Ref: IKF 1216),91731,0,0.24152210136794686,Random Forest — Morgan,0.27155606616091316,0,0
+714,3,"alpha-[2-(4-Chlorophenyl)ethyl]-alpha-phenyl-1H-1,2,4-triazole-1-propanenitrile",86138,1,0.49221700857985595,Random Forest — Morgan,0.27155606616091316,0,1
+715,3,"2-[(4-Amino-3,5-dichloro-6-fluoro-2-pyridinyl)oxy]acetic acid 1-methylheptyl ester",54745,0,0.18194976309076116,Random Forest — Morgan,0.27155606616091316,0,0
+719,3,Thifensulfuron (Ref: IN L9225),91729,1,0.17967617909830166,Random Forest — Morgan,0.27155606616091316,0,0
+722,3,Fenchlorazole-ethyl (Ref: HOE 070542),3033865,0,0.3804676504461422,Random Forest — Morgan,0.27155606616091316,0,1
+731,3,(alphaE)-alpha-(Methoxyimino)-2-[(2-methylphenoxy)methyl]benzeneacetic acid methyl ester,86438,0,0.2547670271321124,Random Forest — Morgan,0.27155606616091316,0,0
+738,3,Fenchlorazole (Ref: HOE 072829),93536,0,0.2399088644454158,Random Forest — Morgan,0.27155606616091316,0,0
+741,3,Fenpyroximate (Ref: NNI 850),9576412,0,0.4231070746252076,Random Forest — Morgan,0.27155606616091316,0,1
+742,3,Ethametsulfuron-methyl (Ref: DPX-A7881),91756,1,0.19086113227726578,Random Forest — Morgan,0.27155606616091316,0,0
+745,3,Aminocyclopyrachlor (Ref: DPX-MAT28),17747875,0,0.1735387998420125,Random Forest — Morgan,0.27155606616091316,0,0
+746,3,Clofencet (Ref: MON 21250 ),123627,0,0.19161025410364113,Random Forest — Morgan,0.27155606616091316,0,0
+751,3,"2-[2-(1-Chlorocyclopropyl)-3-(2-chlorophenyl)-2-hydroxypropyl]-1,2-dihydro-3H-1,2,4-triazole-3-thione",6451142,0,0.43584285482926777,Random Forest — Morgan,0.27155606616091316,0,1
+754,3,Cadusafos (Ref: FMC 67825),91752,1,0.766529637002105,Random Forest — Morgan,0.27155606616091316,1,1
+757,3,Fluquinconazole (Ref: AE C597265),86417,0,0.30226962121537265,Random Forest — Morgan,0.27155606616091316,0,1
+758,3,Tribenuron (Ref: IN R9803),91772,1,0.17950099539399497,Random Forest — Morgan,0.27155606616091316,0,0
+759,3,Amidosulfuron,91777,0,0.1538220061435527,Random Forest — Morgan,0.27155606616091316,0,0
+760,3,Triflusulfuron-methyl (Ref: DPX 66037),92434,0,0.1320600136802141,Random Forest — Morgan,0.27155606616091316,0,0
+762,3,Triflusulfuron,86416,0,0.13912104857838895,Random Forest — Morgan,0.27155606616091316,0,0
+764,3,(alphaE)-2-[[6-(2-Cyanophenoxy)-4-pyrimidinyl]oxy]-alpha-(methoxymethylene)benzeneacetic acid methyl ester,3034285,0,0.4633872228274323,Random Forest — Morgan,0.27155606616091316,0,1
+766,3,Furilazole (Ref: MON 13900),86187,0,0.3176201283233799,Random Forest — Morgan,0.27155606616091316,0,1
+767,3,"2-[[[[[4-Ethoxy-6-(methylamino)-1,3,5-triazin-2-yl]amino]carbonyl]amino]sulfonyl]benzoic acid",86304,0,0.22666129913587493,Random Forest — Morgan,0.27155606616091316,0,0
+772,3,6-chloro-3-pyridinemethanol,177161,0,0.5085790125520679,Random Forest — Morgan,0.27155606616091316,1,1
+776,3,Oryctalure,92058,0,0.24886607896592483,Random Forest — Morgan,0.27155606616091316,0,0
+780,3,Diofenolan (Ref: CGA 059205),4578030,0,0.4783592430611976,Random Forest — Morgan,0.27155606616091316,0,1
+782,3,"N-[[[3-Chloro-4-[1,1,2-trifluoro-2-(trifluoromethoxy)ethoxy]phenyl]amino]carbonyl]-2,6-difluorobenzamide",93541,0,0.24479437975073376,Random Forest — Morgan,0.27155606616091316,0,0
+783,3,Oxadiargyl (Ref: RP 020630 ),94498,0,0.3042474583552319,Random Forest — Morgan,0.27155606616091316,0,1
+784,3,Pyrimidifen,6451139,1,0.29994849960862696,Random Forest — Morgan,0.27155606616091316,0,1
+785,3,Epoxiconazole (Ref: BAS 480F),3317081,0,0.2677006679350343,Random Forest — Morgan,0.27155606616091316,0,0
+786,3,Cyprodinil (Ref: CGA 219417),86367,0,0.1980850294489375,Random Forest — Morgan,0.27155606616091316,0,0
+788,3,"N-[[(4-Methoxy-6-methyl-1,3,5-triazin-2-yl)amino]carbonyl]-2-(3,3,3-trifluoropropyl)benzenesulfonamide",91751,0,0.14549925866794752,Random Forest — Morgan,0.27155606616091316,0,0
+789,3,Butathiofos (Ref: Dowco 429),185020,1,0.9075150057434922,Random Forest — Morgan,0.27155606616091316,1,1
+790,3,Acetamiprid,213021,1,0.5916502449791754,Random Forest — Morgan,0.27155606616091316,1,1
+792,3,"(1E)-N-[(6-Chloro-3-pyridinyl)methyl]-N-ethyl-N'-methyl-2-nitro-1,1-ethenediamine",3034287,1,0.6089509109507546,Random Forest — Morgan,0.27155606616091316,1,1
+794,3,"2-(2,6-Difluorophenyl)-4-[4-(1,1-dimethylethyl)-2-ethoxyphenyl]-4,5-dihydrooxazole",153974,0,0.3782768586776437,Random Forest — Morgan,0.27155606616091316,0,1
+795,3,Isoxaflutole (Ref: RPA 201772),84098,0,0.21264599053779323,Random Forest — Morgan,0.27155606616091316,0,0
+798,3,Flupoxam (Ref: MON 18500),86353,0,0.3239116659439437,Random Forest — Morgan,0.27155606616091316,0,1
+804,3,4-Chloro-N-[2-[3-methoxy-4-(2-propynyloxy)phenyl]ethyl]-alpha-(2-propynyloxy)benzeneacetamide,11292824,0,0.46931327631046493,Random Forest — Morgan,0.27155606616091316,0,1
+805,3,2-[2-Chloro-5-[4-chloro-5-(difluoromethoxy)-1-methyl-1H-pyrazol-3-yl]-4-fluorophenoxy]acetic acid ethyl ester,182951,0,0.14129616417364624,Random Forest — Morgan,0.27155606616091316,0,0
+812,3,Prohexadione-calcium (Ref: BAS 125W),12001831,0,0.21464632363528668,Random Forest — Morgan,0.27155606616091316,0,0
+816,3,Flucarbazone-sodium (Ref: BAY MKH 6562),12056760,0,0.1944975438712539,Random Forest — Morgan,0.27155606616091316,0,0
+828,3,"2-[(4-Chlorophenyl)methyl]-5-(1-methylethyl)-1-(1H-1,2,4-triazol-1-ylmethyl)cyclopentanol",86211,0,0.3303541680414856,Random Forest — Morgan,0.27155606616091316,0,1
+831,3,[N(Z)]-N-[3-[(6-Chloro-3-pyridinyl)methyl]-2-thiazolidinylidene]cyanamide,115224,0,0.67496860265607,Random Forest — Morgan,0.27155606616091316,1,1
+833,3,"5-[(4-Chlorophenyl)methyl]-2,2-dimethyl-1-(1H-1,2,4-triazol-1-ylmethyl)cyclopentanol",86210,0,0.35647485482601,Random Forest — Morgan,0.27155606616091316,0,1
+852,3,Fentrazamide (Ref: BAY YRC 2388),3081363,0,0.25366733848399015,Random Forest — Morgan,0.27155606616091316,0,0
+853,3,Pyriminobac-methyl (Ref: KIH-6127),9604652,0,0.19427740713543257,Random Forest — Morgan,0.27155606616091316,0,0
+855,3,Ethoxysulfuron (Ref: AE F095404),3623881,0,0.2790967090265857,Random Forest — Morgan,0.27155606616091316,0,1
+866,3,Azimsulfuron,86355,0,0.10873865805684509,Random Forest — Morgan,0.27155606616091316,0,0
+874,3,"2-Chloro-N-(4'-chloro[1,1'-biphenyl]-2-yl)-3-pyridinecarboxamide",213013,0,0.3010467501919168,Random Forest — Morgan,0.27155606616091316,0,1
+875,3,Oxasulfuron (Ref: CGA 277476 ),86443,0,0.14392957732088807,Random Forest — Morgan,0.27155606616091316,0,0
+877,3,Thifluzamide (Ref: MON 24000),86389,0,0.3199023014786032,Random Forest — Morgan,0.27155606616091316,0,1
+879,3,Noviflumuron,9828359,0,0.20051866899133594,Random Forest — Morgan,0.27155606616091316,0,0
+882,3,Bistrifluron (Ref: DBI-3204),10275455,0,0.1612597064091953,Random Forest — Morgan,0.27155606616091316,0,0
+884,3,Di-1-p-menthene,61928,0,0.299759080983972,Random Forest — Morgan,0.27155606616091316,0,1
+886,3,Picloram-triethylammonium,61949,0,0.1601094404102328,Random Forest — Morgan,0.27155606616091316,0,0
+888,3,"5-[[(2,6-Difluorophenyl)methoxy]methyl]-4,5-dihydro-5-methyl(3-methyl-2-thienyl)isoxazole",11500973,0,0.2846332187051694,Random Forest — Morgan,0.27155606616091316,0,1
+889,3,Alloxydim,3034433,0,0.32989344814045074,Random Forest — Morgan,0.27155606616091316,0,1
+892,3,Picloram-tripromine,62620,0,0.1573316699394485,Random Forest — Morgan,0.27155606616091316,0,0
+900,3,Sethoxydim (Ref: BAS 9052H),52923,1,0.3634293943537788,Random Forest — Morgan,0.27155606616091316,0,1
+918,3,Dimoxystrobin (Ref: BAS 505F),10936292,0,0.4263983766114494,Random Forest — Morgan,0.27155606616091316,0,1
+919,3,N-(Cyanomethyl)-4-(trifluoromethyl)-3-pyridinecarboxamide,9834513,0,0.39127504561428866,Random Forest — Morgan,0.27155606616091316,0,1
+924,3,Tritosulfuron,11657899,0,0.11906472831927598,Random Forest — Morgan,0.27155606616091316,0,0
+925,3,Copper oxychloride,18629822,0,0.29244536911816593,Random Forest — Morgan,0.27155606616091316,0,1
+928,3,"4-Amino-3,5,6-trichloro-2-pyridinecarboxylic acid, Isooctyl ester",18772488,0,0.15147696336441846,Random Forest — Morgan,0.27155606616091316,0,0
+930,3,"C6-12 Fatty acids, Me esters",16204500,0,0.2547604111117415,Random Forest — Morgan,0.27155606616091316,0,0
+936,3,(alphaE)-alpha-(Methoxymethylene)-2-[[[6-(trifluoromethyl)-2-pyridinyl]oxy]methyl]benzeneacetic acid methyl ester,11285653,0,0.3901995585000233,Random Forest — Morgan,0.27155606616091316,0,1
+937,3,Sordidin,85099697,0,0.38242237954629665,Random Forest — Morgan,0.27155606616091316,0,1
+940,3,"N-[2-(1,3-Dimethylbutyl)-3-thienyl]-1-methyl-3-(trifluoromethyl)-1H-pyrazole-4-carboxamide",11388558,0,0.27135631574738595,Random Forest — Morgan,0.27155606616091316,0,0
+942,3,"2-(4-Chlorophenyl)-3-ethyl-2,5-dihydro-5-oxo-4-pyridazinecarboxylic acid potassium salt",23681559,0,0.21895965464280318,Random Forest — Morgan,0.27155606616091316,0,0
+946,3,"Carbonic acid, cis-3-(2,5-Dimethylphenyl)-8-methoxy-2-oxo-1-azaspiro[4.5]dec-3-en-4-yl ethyl ester",9969573,0,0.3117557784774613,Random Forest — Morgan,0.27155606616091316,0,1
+948,3,Sodium tetrathiocarbonate (Ref: GY-81),3034198,0,0.4092548640785319,Random Forest — Morgan,0.27155606616091316,0,1
+957,3,N-[Methyloxido[1-[6-(trifluoromethyl)-3-pyridinyl]ethyl]-lambda4-sulfanylidene]cyanamide,16723172,1,0.4653309760945204,Random Forest — Morgan,0.27155606616091316,0,1
+961,3,Emamectin benzoate (Ref: MK 244),53394847,1,0.5216572420390754,Random Forest — Morgan,0.27155606616091316,1,1
+962,3,"3-[[[5-(Difluoromethoxy)-1-methyl-3-(trifluoromethyl)-1H-pyrazol-4-yl]methyl]sulfonyl]-4,5-dihydro-5,5-dimethyl-isoxazole",11556910,0,0.4387648807925986,Random Forest — Morgan,0.27155606616091316,0,1
+965,3,Trifludimoxazin,49831143,0,0.429601346302233,Random Forest — Morgan,0.27155606616091316,0,1
+969,3,Guadipyr,76325977,0,0.49800186884367537,Random Forest — Morgan,0.27155606616091316,0,1
+973,3,"N-(2-[1,1'-Bicyclopropyl]-2-ylphenyl)-3-(difluoromethyl)-1-methyl-1H-pyrazole-4-carboxamide",11688533,1,0.24051406089741753,Random Forest — Morgan,0.27155606616091316,0,0
+976,3,"3,6-Dichloro-2-pyridinecarboxylic acid compd. with 2-aminoethanol (1:1)",162839,0,0.19171969181846785,Random Forest — Morgan,0.27155606616091316,0,0
+980,3,Furalaxyl-M,12767955,1,0.13866384532138648,Random Forest — Morgan,0.27155606616091316,0,0
+984,3,Copper acetoarsenite (Ref: ENT 884),72720419,1,0.24656241363462758,Random Forest — Morgan,0.27155606616091316,0,0
+986,3,"4-[[(6-Chloro-3-pyridinyl)methyl](2,2-difluoroethyl)amino]-2(5H)-furanone",16752772,1,0.5170887803880663,Random Forest — Morgan,0.27155606616091316,1,1
+988,3,Iodosulfuron,11027582,0,0.16010780934649987,Random Forest — Morgan,0.27155606616091316,0,0
+990,3,Picloram-dimethylammonium,87148380,0,0.20769196559952474,Random Forest — Morgan,0.27155606616091316,0,0
+996,3,Ametoctradin (Ref: BAS 650F),15604010,0,0.2569115142410899,Random Forest — Morgan,0.27155606616091316,0,0
+997,3,"2-{2-[(2,5-Dimethylphenoxy)methyl]phenyl}-2-methoxy-N-methylacetamide",10935908,0,0.4034146347596707,Random Forest — Morgan,0.27155606616091316,0,1
+998,3,1-(3-Chloropyridin-2-yl)-N-[4-cyano-2-methyl-6-(methylcarbamoyl)phenyl]-3-{[5-(trifluoromethyl)-2H-tetrazol-2-yl]methyl}-1H-pyrazole-5-carboxamide,56602311,1,0.6778897954404932,Random Forest — Morgan,0.27155606616091316,1,1
+999,3,Triflumezopyrim (Ref: DPX-RAB55),57414497,1,0.306702007515454,Random Forest — Morgan,0.27155606616091316,0,1
+1001,3,Broflanilide (Ref: MCI-8007),53341374,1,0.2640677953227106,Random Forest — Morgan,0.27155606616091316,0,0
+1002,3,4-Amino-3-chloro-6-(4-chloro-2-fluoro-3-methoxyphenyl)-2-pyridinecarboxylic acid methyl ester,16656802,0,0.20088810781585026,Random Forest — Morgan,0.27155606616091316,0,0
+1008,3,Thiencarbazone-methyl (Ref: BYH 18636 ),11205153,0,0.15361945934301208,Random Forest — Morgan,0.27155606616091316,0,0
+1010,3,1-({1-Ethyl-4-[4-(methanesulfonyl)-3-(2-methoxyethoxy)-2-methylbenzoyl]-1H-pyrazol-5-yl}oxy)ethyl methyl carbonate,44473182,0,0.2175269434173781,Random Forest — Morgan,0.27155606616091316,0,0
+1014,3,Thiencarbazone,20056440,0,0.18599776925640563,Random Forest — Morgan,0.27155606616091316,0,0
+1027,3,Halauxifen (Ref: X11393729),25181547,0,0.18629478467768548,Random Forest — Morgan,0.27155606616091316,0,0
+1030,3,Benzyl 4-amino-3-chloro-6-(4-chloro-2-fluoro-3-methoxyphenyl)-5-fluoropyridine-2-carboxylate,70495450,0,0.22585741906388637,Random Forest — Morgan,0.27155606616091316,0,0
+1033,3,Bixlozone (Ref: F9600),15056663,0,0.33533586755163447,Random Forest — Morgan,0.27155606616091316,0,1
+2,4,Kieselguhr,24261,0,0.05224475665664051,Random Forest — Morgan,0.17548619979588287,0,0
+5,4,"S-[(1,3-Dihydro-1,3-dioxo-2H-isoindol-2-yl)methyl]O,O-dimethyl ester, Phosphorodithioic acid",12901,1,0.9672499999999999,Random Forest — Morgan,0.17548619979588287,1,1
+6,4,"(2E)-3,7-Dimethyl-2,6-octadien-1-ol",637566,0,0.04983905441187405,Random Forest — Morgan,0.17548619979588287,0,0
+7,4,Calcium carbonate,10112,0,0.05392433873698595,Random Forest — Morgan,0.17548619979588287,0,0
+9,4,Potassium iodide,4875,1,0.02222545163733549,Random Forest — Morgan,0.17548619979588287,0,0
+13,4,"Sulfuric acid, Iron(3+) salt (3:2)",24826,0,0.09071814368972907,Random Forest — Morgan,0.17548619979588287,0,0
+15,4,"(1alpha,2alpha,3beta,4alpha,5alpha,6beta)-1,2,3,4,5,6-Hexachlorocyclohexane",727,1,0.045104802460114855,Random Forest — Morgan,0.17548619979588287,0,0
+17,4,Copper sulphate,24462,0,0.09071814368972907,Random Forest — Morgan,0.17548619979588287,0,0
+21,4,"Sulfuric acid, Zinc salt (1:1)",24424,0,0.09071814368972907,Random Forest — Morgan,0.17548619979588287,0,0
+26,4,"Sulfuric acid, Manganese(2+) salt (1:1)",24580,0,0.09071814368972907,Random Forest — Morgan,0.17548619979588287,0,0
+44,4,Chloroethylmercury,7862,0,0.029424609068073187,Random Forest — Morgan,0.17548619979588287,0,0
+50,4,"2-[(Trichloromethyl)thio]-1H-isoindole-1,3(2H)dione",8607,0,0.15292910761608744,Random Forest — Morgan,0.17548619979588287,0,0
+59,4,"Sulfuric acid, Chromium(3+)salt(3:2)",24930,0,0.09071814368972907,Random Forest — Morgan,0.17548619979588287,0,0
+60,4,"Nitrous acid, Sodium salt",23668193,0,0.05342453629661569,Random Forest — Morgan,0.17548619979588287,0,0
+61,4,Dimethyl disulfide,12232,0,0.21108797479571778,Random Forest — Morgan,0.17548619979588287,0,1
+67,4,"N-Acetylphosphoramidothioic acid O,S-dimethyl ester",1982,1,0.99,Random Forest — Morgan,0.17548619979588287,1,1
+69,4,TCA-sodium,23681045,0,0.04767433873698594,Random Forest — Morgan,0.17548619979588287,0,0
+74,4,Chlorobenzilate (Ref: ENT 18596),10522,1,0.05772217148422929,Random Forest — Morgan,0.17548619979588287,0,0
+75,4,2-Furancarboxaldehyde,7362,0,0.23523773858861474,Random Forest — Morgan,0.17548619979588287,0,1
+78,4,Bromomethane,6323,0,0.017270906182790032,Random Forest — Morgan,0.17548619979588287,0,0
+84,4,Myristyl alcohol,8209,0,0.13721174491149168,Random Forest — Morgan,0.17548619979588287,0,0
+86,4,"1,2-Dihydro-3,6-pyridazinedione",21954,0,0.0267311955246233,Random Forest — Morgan,0.17548619979588287,0,0
+87,4,"3-(2-Chloro-3,3,3-trifluoro-1-propenyl)-2,2-dimethylcyclopropanecarboxylic acid cyano(3-phenoxyphenyl)methyl ester",5281873,1,0.9531431236673774,Random Forest — Morgan,0.17548619979588287,1,1
+91,4,Vernolate (Ref: R-106),16003,1,0.4636341603144089,Random Forest — Morgan,0.17548619979588287,0,1
+101,4,"N,N-Bis(2-methylpropyl)carbamothioic acid S-ethyl ester",16181,0,0.5060338273520842,Random Forest — Morgan,0.17548619979588287,1,1
+102,4,4-Chloro-alpha-(4-chlorophenyl)-alpha-methylbenzenemethanol,6624,0,0.06519074718592423,Random Forest — Morgan,0.17548619979588287,0,0
+104,4,Pentacosane,12406,0,0.01872480689200989,Random Forest — Morgan,0.17548619979588287,0,0
+105,4,"Methylarsonic acid, Monosodium salt",23664719,0,0.45033439137678344,Random Forest — Morgan,0.17548619979588287,0,1
+107,4,Methoxychlor (Ref: OMS 466),4115,1,0.2537420605052848,Random Forest — Morgan,0.17548619979588287,0,1
+108,4,Jasmone,1549018,0,0.16449385296526742,Random Forest — Morgan,0.17548619979588287,0,0
+113,4,DDT (Ref: OMS 16),3036,1,0.30123668844079615,Random Forest — Morgan,0.17548619979588287,0,1
+120,4,Chlormephos (Ref: MC 2188),32739,1,0.995,Random Forest — Morgan,0.17548619979588287,1,1
+121,4,4-Chloro-alpha-(4-chlorophenyl)-alpha-(trichloromethyl)benzenemethanol,8268,1,0.24981243363468553,Random Forest — Morgan,0.17548619979588287,0,1
+126,4,Dichlone (Ref: USR 604),8342,0,0.03326403136672829,Random Forest — Morgan,0.17548619979588287,0,0
+128,4,5-Amino-4-chloro-2-phenyl-3(2H)-pyridazinone,15546,0,0.13882095371772463,Random Forest — Morgan,0.17548619979588287,0,0
+132,4,Tributyltin oxide (Ref: ENT 24979),16682746,1,0.11623117506658258,Random Forest — Morgan,0.17548619979588287,0,0
+134,4,Carbosulfan (Ref: OMS 3022),41384,1,0.8445327857669976,Random Forest — Morgan,0.17548619979588287,1,1
+135,4,"1-(4-Chlorophenoxy)-3,3-dimethyl-1-(1H-1,2,4-triazol-1-yl)-2-butanone",39385,0,0.5336025972073429,Random Forest — Morgan,0.17548619979588287,1,1
+138,4,"Nitric acid, Chromium(3+) salt",24598,0,0.04668920110108496,Random Forest — Morgan,0.17548619979588287,0,0
+144,4,"1,1'-(2,2-Dichloroethylidene)bis[4-chlorobenzene]",6294,0,0.20147712752998698,Random Forest — Morgan,0.17548619979588287,0,1
+147,4,2-aminobutane,24874,0,0.058795185783253434,Random Forest — Morgan,0.17548619979588287,0,0
+152,4,Lenacil (Ref: DPX B634),16559,0,0.12947036837933001,Random Forest — Morgan,0.17548619979588287,0,0
+153,4,"S-[2-(Ethylthio)ethyl]O,O-dimethyl ester phosphorodithioc acid",12541,1,1.0,Random Forest — Morgan,0.17548619979588287,1,1
+155,4,Carene,26049,0,0.11925672343707552,Random Forest — Morgan,0.17548619979588287,0,0
+157,4,Calcium chloride,5284359,0,0.03620963254298313,Random Forest — Morgan,0.17548619979588287,0,0
+173,4,[2-[[[1-(4-Chlorophenyl)-1H-pyrazol-3-yl]oxy]methyl]phenyl]methoxycarbamic acid methyl ester,6422843,0,0.6010260982542875,Random Forest — Morgan,0.17548619979588287,1,1
+175,4,Kaolin,56841936,0,0.29290109818819265,Random Forest — Morgan,0.17548619979588287,0,1
+176,4,"(OC-6-11)-tris(N,N-Dimethylcarbamodithioato-kappaS,kappaS')iron",26710,0,0.05632807300917857,Random Forest — Morgan,0.17548619979588287,0,0
+181,4,"O,P'-DDT",13089,1,0.3553364985616679,Random Forest — Morgan,0.17548619979588287,0,1
+182,4,Arsenic,5359596,0,0.02222545163733549,Random Forest — Morgan,0.17548619979588287,0,0
+188,4,Gentamicin,3467,0,0.4780002844431166,Random Forest — Morgan,0.17548619979588287,0,1
+192,4,Chlordane (Technical Grade),5993,1,0.9155165214647576,Random Forest — Morgan,0.17548619979588287,1,1
+193,4,"4-[(2R)-2-[(1S,3S,5S)-3,5-Dimethyl-2-oxocyclohexyl]-2-hydroxyethyl]-2,6-piperidinedione",6197,0,0.6479310980303248,Random Forest — Morgan,0.17548619979588287,1,1
+197,4,Ryanodine,5114,0,0.32381251410998035,Random Forest — Morgan,0.17548619979588287,0,1
+200,4,"1,3-dichloropropene (Ref: D D92)",24726,1,0.03447820779816558,Random Forest — Morgan,0.17548619979588287,0,0
+212,4,Oxytetracycline,54675779,0,0.29172902234168946,Random Forest — Morgan,0.17548619979588287,0,1
+214,4,"(1aR,2R,2aS,3S,6R,6aR,7S,7aS)-rel-3,4,5,6,9,9-Hexachloro-1a,2,2a,3,6,6a,7,7a-octahydro-2,7:3,6-dimethanonaphth[2,3-b]oxirene ",969491,1,0.9154058630999942,Random Forest — Morgan,0.17548619979588287,1,1
+219,4,"3-(2,2-Dichloroethenyl)-2,2-dimethylcyclopropanecarboxylic acid, (3-Phenoxyphenyl)methyl ester",40326,1,0.9278289056519314,Random Forest — Morgan,0.17548619979588287,1,1
+220,4,Ziram,8722,0,0.05632807300917857,Random Forest — Morgan,0.17548619979588287,0,0
+233,4,"1,1'-(2,2-Dichloroethylidene)bis[4-ethylbenzene",6295,1,0.4837820874016878,Random Forest — Morgan,0.17548619979588287,0,1
+240,4,"Phosphorodithioic acid O-ethyl S,S-dipropyl ester",3289,1,0.954846553898829,Random Forest — Morgan,0.17548619979588287,1,1
+243,4,"1H-1,2,4-Triazol-3-amine",1639,0,0.05533035663205307,Random Forest — Morgan,0.17548619979588287,0,0
+249,4,"2,2-Dichloropropanoic acid",6418,0,0.02471390896273866,Random Forest — Morgan,0.17548619979588287,0,0
+250,4,Beta-cypermethrin (Ref: OMS 3068),93357,1,0.9658931236673775,Random Forest — Morgan,0.17548619979588287,1,1
+256,4,Maple lactone,6660,0,0.21868094896801987,Random Forest — Morgan,0.17548619979588287,0,1
+261,4,"6-Chloro-N,N'-diethyl-1,3,5-triazine-2,4-diamine",5216,0,0.07691222708674372,Random Forest — Morgan,0.17548619979588287,0,0
+265,4,"6-Chloro-N2,N4-bis(1-methylethyl)-1,3,5-triazine-2,4-diamine",4937,0,0.10642422856259637,Random Forest — Morgan,0.17548619979588287,0,0
+270,4,"Phosphorothioic acid O-(3-chloro-4-methyl-2-oxo-2H-1-benzopyran-7-yl) O,O-diethyl ester",2871,1,0.98,Random Forest — Morgan,0.17548619979588287,1,1
+273,4,"N,N-dipropylcarbamothioic acid S-ethyl ester",12968,1,0.3114537868322844,Random Forest — Morgan,0.17548619979588287,0,1
+274,4,Copper II carbonate,14452,0,0.04267433873698596,Random Forest — Morgan,0.17548619979588287,0,0
+278,4,Dialifos (Ref: AC 14503),25146,1,0.98725,Random Forest — Morgan,0.17548619979588287,1,1
+281,4,"6-Methoxy-N2,N4-bis(1-methylethyl)-1,3,5-triazine-2,4-diamine",4928,0,0.0856240288904015,Random Forest — Morgan,0.17548619979588287,0,0
+288,4,"N2-Ethyl-N4-(1-methylethyl)-6-(methylthio)-1,3,5-triazine-2,4-diamine",13263,0,0.25076630594347377,Random Forest — Morgan,0.17548619979588287,0,1
+289,4,"6-Chloro-N-ethyl-N'-(1-methylethyl)-1,3,5-triazine-2,4-diamine",2256,0,0.11121146260514957,Random Forest — Morgan,0.17548619979588287,0,0
+291,4,"N2,N4-Bis(1-methylethyl)-6-(methylthio)-1,3,5-triazine-2,4-diamine",4929,0,0.23636368728553592,Random Forest — Morgan,0.17548619979588287,0,1
+296,4,2-(4-Thiazolyl)-1H-benzimidazole,5430,1,0.22116422236102154,Random Forest — Morgan,0.17548619979588287,0,1
+299,4,P-Phenylphosphonothioic acid O-ethyl O-(4-nitrophenyl) ester ,16421,1,0.838156746031746,Random Forest — Morgan,0.17548619979588287,1,1
+300,4,Trietazine (Ref: G 27901),15951,0,0.08662449563735153,Random Forest — Morgan,0.17548619979588287,0,0
+307,4,"S-[(4,6-Diamino-1,3,5-triazin-2-yl)methyl]O,O-dimethyl ester phosphorodithioic acid",6543,1,0.945,Random Forest — Morgan,0.17548619979588287,1,1
+309,4,"p-Phenylphosphonothioic acid, O-(4-Bromo-2,5-dichlorophenyl) O-methyl ester",30709,1,0.9925892857142857,Random Forest — Morgan,0.17548619979588287,1,1
+310,4,"1,1,1,3,3,3-Hexakis(2-methyl-2-phenylpropyl)distannoxane",16683004,0,0.05714033315013926,Random Forest — Morgan,0.17548619979588287,0,0
+316,4,Medlure,20056429,0,0.37780140139047347,Random Forest — Morgan,0.17548619979588287,0,1
+321,4,Nepetalactone,161367,0,0.08387740580413579,Random Forest — Morgan,0.17548619979588287,0,0
+334,4,Kasugamycin hydrochloride hydrate,88045,0,0.4606286331961828,Random Forest — Morgan,0.17548619979588287,0,1
+336,4,Desmetryn (Ref: G 34360),13904,0,0.3978875934926147,Random Forest — Morgan,0.17548619979588287,0,1
+338,4,Diphenamid (Ref: L 34314),13728,0,0.2839992665274307,Random Forest — Morgan,0.17548619979588287,0,1
+347,4,"1,3-Dithiolan-2-ylidenephosphoramidic acid diethyl ester",13689,1,0.9224551647085112,Random Forest — Morgan,0.17548619979588287,1,1
+349,4,Bromopropylate (Ref: GS 19851),28936,0,0.08417950454444932,Random Forest — Morgan,0.17548619979588287,0,0
+353,4,Terbuthylazine,22206,0,0.1442392461341769,Random Forest — Morgan,0.17548619979588287,0,0
+355,4,"2,3-Dihydro-2,2-dimethyl-7-benzofuranol 7-(N-methylcarbamate)",2566,1,0.964968253968254,Random Forest — Morgan,0.17548619979588287,1,1
+356,4,Quinoclamine,17748,0,0.05797037232306926,Random Forest — Morgan,0.17548619979588287,0,0
+357,4,Methoprotryne (Ref: G 36393),13290,0,0.28127254594566703,Random Forest — Morgan,0.17548619979588287,0,1
+376,4,Molinate (Ref: OMS 1373),16653,1,0.28439620962461176,Random Forest — Morgan,0.17548619979588287,0,1
+377,4,Oxolinic acid,4628,0,0.356458473752924,Random Forest — Morgan,0.17548619979588287,0,1
+381,4,Tricyclohexylhydroxystannane,6327054,0,0.12963383226764788,Random Forest — Morgan,0.17548619979588287,0,0
+392,4,"Sulfuric acid, Iron(2+) salt(1:1), Monohydrate",62712,0,0.16848250295206058,Random Forest — Morgan,0.17548619979588287,0,0
+394,4,Terbutryn (Ref: GS 14260),13450,1,0.2697820276078649,Random Forest — Morgan,0.17548619979588287,0,1
+397,4,"2-(1,3-Dioxolan-2-yl)phenol 1-(N-methylcarbamate)",23421,1,0.8143333333333334,Random Forest — Morgan,0.17548619979588287,1,1
+409,4,Oxycarboxin (Ref: F 461),21330,0,0.2597869183278849,Random Forest — Morgan,0.17548619979588287,0,1
+410,4,"S-[2-(Ethylsulfonyl)ethyl]O,O-dimethyl ester phosphorothioic acid",28213,1,0.99,Random Forest — Morgan,0.17548619979588287,1,1
+415,4,"alpha, alpha-bis(4-Chlorophenyl)-3-pyridinemethanol",28768,1,0.19172924245982823,Random Forest — Morgan,0.17548619979588287,0,1
+421,4,Cyclohexylethylcarbamothioic acid S-ethyl ester,14337,1,0.2452443042143577,Random Forest — Morgan,0.17548619979588287,0,1
+426,4,Cyanazine,30773,0,0.5335920181078431,Random Forest — Morgan,0.17548619979588287,1,1
+438,4,"2aR,3S,4S,4aR,5S,7aS,8S,10R,10aS,10bR)-10-(Acetyloxy)octahydro-3,5-dihydroxy-4-methyl-8-[[(2E)-2-methyl-1-oxo-2-buten-1-yl]oxy]-4-[(1aR,2S,3aS,6aS,7S,7aS)-3a,6a,7,7a-tetrahydro-6a-hydroxy-7a-methyl-2,7-methanofuro[2,3-b]oxireno[e]oxepin-1a(2H)-yl]-1H,7H-naptho[1,8-bc:4,4a-c']difuran-5,10a(8H)-dicarboxylic acid 5-10a-dimethyl ester",5281303,1,0.5667969372409096,Random Forest — Morgan,0.17548619979588287,1,1
+440,4,N-(Phosphonomethyl)glycine,3496,0,0.1400679015325381,Random Forest — Morgan,0.17548619979588287,0,0
+469,4,Methoprene (Ref: OMS 1697),5366546,1,0.5866014872219152,Random Forest — Morgan,0.17548619979588287,1,1
+472,4,Dipropetryn (Ref: GC 16068),20105,0,0.1394344702831414,Random Forest — Morgan,0.17548619979588287,0,0
+473,4,Norflurazon (Ref: H 52143),33775,0,0.19214898575890477,Random Forest — Morgan,0.17548619979588287,0,1
+474,4,Isoxathion (Ref: SL 6711),29307,1,0.9715892857142857,Random Forest — Morgan,0.17548619979588287,1,1
+476,4,Jasmonic acid,5281166,0,0.2518452770858377,Random Forest — Morgan,0.17548619979588287,0,1
+477,4,N-(2-Chloro-4-pyridinyl)-N'-phenylurea  ,93379,0,0.08557191385892059,Random Forest — Morgan,0.17548619979588287,0,0
+480,4,N-(Phosphonomethyl)glycine compd. with 2-propanamine (1:1),38078,0,0.45033875957114544,Random Forest — Morgan,0.17548619979588287,0,1
+481,4,Aviglycine-HCl (Ref: ABG 3097),16211101,0,0.10063670723703581,Random Forest — Morgan,0.17548619979588287,0,0
+482,4,Frontalin,10888022,0,0.02489108247619002,Random Forest — Morgan,0.17548619979588287,0,0
+484,4,Terbumeton (Ref: GS 14259),36584,0,0.12197005375432807,Random Forest — Morgan,0.17548619979588287,0,0
+485,4,Piproctanyl bromide (Ref: ACR-1222),3034411,0,0.21066712343313537,Random Forest — Morgan,0.17548619979588287,0,1
+487,4,Multistriatin,13199930,0,0.40617632857135133,Random Forest — Morgan,0.17548619979588287,0,1
+489,4,Tembotrione (Ref: AE 0172747),11556911,0,0.1213351866267228,Random Forest — Morgan,0.17548619979588287,0,0
+493,4,Fenpropathrin (Ref: OMS 1999),47326,1,0.7707805766091995,Random Forest — Morgan,0.17548619979588287,1,1
+495,4,"5-Amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-[(trifluoromethyl)sulfinyl]-1H-pyrazole-3-carbonitrile",3352,1,0.7594831725573143,Random Forest — Morgan,0.17548619979588287,1,1
+498,4,Metamitron (Ref: BAY DRW 1139),38854,0,0.06124809212107023,Random Forest — Morgan,0.17548619979588287,0,0
+501,4,"2,2-Dimethyl-3-(1,1,2,2-tetrabromoethyl)cyclopropanecarboxylic acid cyano(3-phenoxyphenyl)methyl ester",9809914,1,0.7991137354499623,Random Forest — Morgan,0.17548619979588287,1,1
+516,4,"3-(3,5-Dichlorophenyl)-N-(1-methylethyl)-2,4-dioxo-1-imidazolidinecarboxamide",37517,0,0.15221807208889257,Random Forest — Morgan,0.17548619979588287,0,0
+520,4,"(1R,3R)-3-(2,2-Dibromoethenyl)-2,2-dimethylcyclopropanecarboxylic acid (S)cyano(3-phenoxyphenyl)methyl ester",40585,1,0.9677681236673774,Random Forest — Morgan,0.17548619979588287,1,1
+534,4,"beta-(4-Chlorophenoxy)-alpha-(1,1-dimethylethyl)-1H-1,2,4-triazole-1-ethanol",41368,0,0.4238801977814374,Random Forest — Morgan,0.17548619979588287,0,1
+537,4,Bitertanol (Ref: KWG 0599),91656,0,0.4996771218915123,Random Forest — Morgan,0.17548619979588287,0,1
+541,4,Fosamine (Ref: DPX 1108),33257,0,0.6256498086597696,Random Forest — Morgan,0.17548619979588287,1,1
+544,4,Mepiquat chloride (Ref: BAS 083W),62781,0,0.057462337813489854,Random Forest — Morgan,0.17548619979588287,0,0
+550,4,Ipsenol,93186,0,0.04696312443660805,Random Forest — Morgan,0.17548619979588287,0,0
+554,4,"N-(4-Methyl-1,3-dithiolan-2-ylidene)phosphoramidic acid diethyl ester",13707,1,0.8208884373026385,Random Forest — Morgan,0.17548619979588287,1,1
+557,4,24-epibrassinolide,443055,1,0.528733923287805,Random Forest — Morgan,0.17548619979588287,1,1
+560,4,Propamocarb (Ref: SN 39744),32490,0,0.17758727624309753,Random Forest — Morgan,0.17548619979588287,0,1
+562,4,N-[3-(Dimethylamino)propyl]carbamic acid propyl ester hydrochloride (1:1),15575641,0,0.18747363987946122,Random Forest — Morgan,0.17548619979588287,0,1
+566,4,Ofurace (Ref: AE F057623),42850,0,0.2187899466205828,Random Forest — Morgan,0.17548619979588287,0,1
+567,4,"2,3-Dihydro-5,6-dimethyl-1,4-dithiin 1,1,4,4-tetraoxide",41385,0,0.4879782114956589,Random Forest — Morgan,0.17548619979588287,0,1
+569,4,Cyphenothrin (Ref: S 2703),38283,1,0.9677681236673774,Random Forest — Morgan,0.17548619979588287,1,1
+571,4,Fluazifop-butyl (Ref: SL 236),50897,0,0.34785698829895595,Random Forest — Morgan,0.17548619979588287,0,1
+575,4,Pyridafenthion (Ref: ENT 23968)),8381,1,0.8165892857142858,Random Forest — Morgan,0.17548619979588287,1,1
+576,4,Polyoxorim,72476,0,0.36016557697354756,Random Forest — Morgan,0.17548619979588287,0,1
+583,4,Butocarboxim (Ref: Co 755),5360962,1,0.9745694028194027,Random Forest — Morgan,0.17548619979588287,1,1
+588,4,Clodinafop propargyl (Ref: CGA 184927),92431,0,0.3667307339906134,Random Forest — Morgan,0.17548619979588287,0,1
+589,4,Bifenthrin (Ref: FMC 54800),6442842,1,0.9089261887369444,Random Forest — Morgan,0.17548619979588287,1,1
+590,4,"3-[2-Chloro-2-(4-chlorophenyl)ethenyl]-2,2-dimethylcyclopropanecarboxylic acid cyano(4-fluoro-3-phenoxyphenyl)methyl ester",6033664,1,0.8658931236673775,Random Forest — Morgan,0.17548619979588287,1,1
+592,4,"3,3-Dimethylbutanoic acid 2-oxo-3-(2,4,6-trimethylphenyl)-1-oaxspiro[4.4]non-3-en-4-yl ester",9907412,0,0.3787928790249685,Random Forest — Morgan,0.17548619979588287,0,1
+594,4,Benalaxyl (Ref: M 9834),51369,0,0.3990069503555319,Random Forest — Morgan,0.17548619979588287,0,1
+595,4,Aviglycine,6436272,0,0.09075034360067219,Random Forest — Morgan,0.17548619979588287,0,0
+596,4,Dimethametryn (Ref: C 18898),31573,0,0.22491736176171412,Random Forest — Morgan,0.17548619979588287,0,1
+602,4,Haloxyfop (Ref: DOWCO 453),50895,0,0.09164362022833174,Random Forest — Morgan,0.17548619979588287,0,0
+604,4,Triazoxide (Ref: SAS 9244),93422,0,0.31997756207872985,Random Forest — Morgan,0.17548619979588287,0,1
+607,4,Metazachlor (Ref: BAS 47900H),49384,0,0.04787119641962935,Random Forest — Morgan,0.17548619979588287,0,0
+610,4,"2-Ethoxy-2,3-dihydro-3,3-dimethyl-5-benzofuranol 5-methanesulfonate",33360,0,0.27390516108943225,Random Forest — Morgan,0.17548619979588287,0,1
+611,4,Beta-cyfluthrin (Ref: OMS 3051),56608859,1,0.8658931236673775,Random Forest — Morgan,0.17548619979588287,1,1
+612,4,Mepiquat,18743,0,0.04972815690784221,Random Forest — Morgan,0.17548619979588287,0,0
+614,4,2-[1-Methyl-2-(4-phenoxyphenoxy)ethoxy]pyridine,91753,0,0.16625225465853657,Random Forest — Morgan,0.17548619979588287,0,0
+616,4,Oxabetrinil (Ref: CGA 92194),9576081,0,0.7799467037356672,Random Forest — Morgan,0.17548619979588287,1,1
+624,4,Haloxyfop-sodium,23681922,0,0.10115626511768896,Random Forest — Morgan,0.17548619979588287,0,0
+626,4,1-[[2-(4-Ethoxyphenyl)-2-methylpropoxy]methyl]-3-phenoxybenzene,71245,1,0.5614079448221322,Random Forest — Morgan,0.17548619979588287,1,1
+634,4,Mepronil (Ref: B1 2459),41632,0,0.06096776029096972,Random Forest — Morgan,0.17548619979588287,0,0
+642,4,Flufenoxuron (Ref: BAS 3071),91766,0,0.17244278738101101,Random Forest — Morgan,0.17548619979588287,0,0
+643,4,Benfuracarb,54886,1,0.8404324127233466,Random Forest — Morgan,0.17548619979588287,1,1
+657,4,Diflufenican (Ref: AE 088657),91735,0,0.27885715524195975,Random Forest — Morgan,0.17548619979588287,0,1
+662,4,Pyraclofos (Ref: OMS 3040),93460,1,0.8591774450824903,Random Forest — Morgan,0.17548619979588287,1,1
+665,4,Bensulfuron-methyl (Ref: DPX F5384),54960,0,0.05877996882175819,Random Forest — Morgan,0.17548619979588287,0,0
+666,4,Flutolanil (Ref: NNF 136),47898,0,0.06635424312089479,Random Forest — Morgan,0.17548619979588287,0,0
+669,4,Bensulfuron (Ref: IN R9419),107828,0,0.05877996882175819,Random Forest — Morgan,0.17548619979588287,0,0
+677,4,Rhyncolure,6506618,0,0.09288263173722985,Random Forest — Morgan,0.17548619979588287,0,0
+682,4,Halfenprox (Ref: MTI 732),10140464,1,0.5053521299838915,Random Forest — Morgan,0.17548619979588287,1,1
+683,4,"5,7-Dichloro-4-(4-fluorophenoxy)quinoline",3391107,0,0.3048351119937888,Random Forest — Morgan,0.17548619979588287,0,1
+684,4,"[[2-Chloro-4-fluoro-5-[(tetrahydro-3-oxo-1H,3H-[1,3,4]thiadiazolo [3,4-a]pyridazin-1-ylidine)amino]phenyl]thioacetic acid methyl ester",93542,0,0.3895430090872482,Random Forest — Morgan,0.17548619979588287,0,1
+688,4,Tebufenpyrad (Ref: AC 801757),86354,1,0.5912624232440824,Random Forest — Morgan,0.17548619979588287,1,1
+696,4,Prohexadione,184900,0,0.0655802401477515,Random Forest — Morgan,0.17548619979588287,0,0
+703,4,"2-[2-Chloro-4-fluoro-5-(1,3,4,5,6,7-hexahydro-1,3-dioxo-2H-isoindol-2-yl)phenoxy]acetic acid pentyl ester",443048,0,0.18940062800834162,Random Forest — Morgan,0.17548619979588287,0,1
+705,4,Flamprop-M-isopropyl (Ref: WL 43425),92366,0,0.16258093654986783,Random Forest — Morgan,0.17548619979588287,0,0
+707,4,"N-(2,6-Difluorophenyl)-5-methyl-[1,2,4]triazolo[1,5-a]pyrimidine-2-sulfonamide",91759,0,0.27885694202680295,Random Forest — Morgan,0.17548619979588287,0,1
+708,4,Aluminium ammonium sulphate,3032540,0,0.09071814368972907,Random Forest — Morgan,0.17548619979588287,0,0
+717,4,"N-[[(4,6-Dimethoxy-2-pyrimidinyl)amino]carbonyl]-2-(ethylsulfonyl)imidazo[1,2-a]pyridine-3-sulfonamide",86426,0,0.1074379347856206,Random Forest — Morgan,0.17548619979588287,0,0
+720,4,Florasulam (Ref: DE 570),11700495,0,0.14681225811619728,Random Forest — Morgan,0.17548619979588287,0,0
+723,4,Haloxyfop-P-methyl (Ref: DE 535),13363033,0,0.19228142984551247,Random Forest — Morgan,0.17548619979588287,0,1
+725,4,Triazamate (Ref: RH 7988),86306,0,0.26010752900477835,Random Forest — Morgan,0.17548619979588287,0,1
+730,4,"N-(4-Fluorophenyl)-N-(1-methylethyl)-2-[[5-(trifluoromethyl)-1,3,4-thiadiazol-2-yl]oxy]acetamide",86429,0,0.22522621241557686,Random Forest — Morgan,0.17548619979588287,0,1
+732,4,Sulcotrione (Ref: SC 0051),91760,0,0.11256671864138702,Random Forest — Morgan,0.17548619979588287,0,0
+733,4,"4-(2,2-Difluoro-1,3-benzodioxol-4-yl)-1H-pyrrole-3-carbonitrile",86398,0,0.791296783613626,Random Forest — Morgan,0.17548619979588287,1,1
+736,4,"N2-[1,1-Dimethyl-2-(methylsulfonyl)ethyl]-3-iodo-N1-[2-methyl-4-[1,2,2,2-tetrafluoro-1-(trifluoromethyl)ethyl]phenyl]-1,2-benzenedicarboxamide",11193251,0,0.5059582707747282,Random Forest — Morgan,0.17548619979588287,1,1
+737,4,"2-(Acetyloxy)-3-dodecyl-1,4-naphthalenedione",93315,0,0.46380770456666925,Random Forest — Morgan,0.17548619979588287,0,1
+743,4,Sulfentrazone (Ref: FMC 97285),86369,0,0.14704617874629078,Random Forest — Morgan,0.17548619979588287,0,0
+748,4,"alpha,2-Dichloro-5-[4-(difluoromethyl)-4,5-dihydro-3-methyl-5-oxo-1H-1,2,4-triazol-1-yl]-4-fluorobenzenepropanoic acid, Ethyl ester",86222,0,0.5878577156732786,Random Forest — Morgan,0.17548619979588287,1,1
+749,4,Benoxacor (Ref: CGA 154281),62306,0,0.11415685260760763,Random Forest — Morgan,0.17548619979588287,0,0
+752,4,"4,5-Dihydro-6-methyl-4-[(E)-(3-pyridinylmethylene)amino]-1,2,4-triazin-3(2H)-one",9576037,0,0.1469825479373375,Random Forest — Morgan,0.17548619979588287,0,0
+761,4,"2-Chloro-N-[[(4,6-dimethoxy-2-pyrimidinyl)amino]carbonyl]imidazo[1,2-a]pyridine-3-sulfonamide",92433,0,0.044874425722874894,Random Forest — Morgan,0.17548619979588287,0,0
+763,4,Metosulam (Ref: XDE 511),86422,0,0.13156752220726942,Random Forest — Morgan,0.17548619979588287,0,0
+769,4,Clodinafop (Ref: CGA 193469),5483847,0,0.3537434245141813,Random Forest — Morgan,0.17548619979588287,0,1
+770,4,"2,2-Dimethyl-3-(2-methyl-1-propenyl)cyclopropanecarboxylic acid, [2,5-dioxo-3-(2-propynyl)-1-imidazolidinyl]methyl ester",123622,1,0.8081705806139544,Random Forest — Morgan,0.17548619979588287,1,1
+781,4,"3-Chloro-2-[[(5-ethoxy-7-fluoro[1,2,4]triazolo[1,5-c]pyrimidin-2-yl)sulfonyl]amino]benzoic acid, Methyl ester",86453,0,0.28807179261170396,Random Forest — Morgan,0.17548619979588287,0,1
+787,4,"8-(1,1-Dimethylethyl)-N-ethyl-N-propyl-1,4-dioxaspiro[4.5]decane-2-methanamine",86160,1,0.339381933896438,Random Forest — Morgan,0.17548619979588287,0,1
+791,4,"5-Methyl-5-(4-phenoxyphenyl)-3-(phenylamino)-2,4-oxazolidinedione",213032,1,0.17983814300483061,Random Forest — Morgan,0.17548619979588287,0,1
+796,4,Flumiclorac,92414,0,0.21440062800834167,Random Forest — Morgan,0.17548619979588287,0,1
+801,4,"(5-Hydroxy-1,3-dimethyl-1H-pyrazol-4-yl)[2-(methylsulfonyl)-4-(trifluoromethyl)phenyl]methanone",11693711,0,0.10149638415150443,Random Forest — Morgan,0.17548619979588287,0,0
+807,4,Fluthiacet,18772468,0,0.33815899203635125,Random Forest — Morgan,0.17548619979588287,0,1
+809,4,Fenhexamid (Ref: KBR 2738),213031,0,0.2520308540972932,Random Forest — Morgan,0.17548619979588287,0,1
+811,4,Cinidon-ethyl (Ref: BAS 615H),5851439,0,0.582438462851518,Random Forest — Morgan,0.17548619979588287,1,1
+814,4,Acrinathrin (Ref: RU 38702),6436606,1,0.9249376564127713,Random Forest — Morgan,0.17548619979588287,1,1
+818,4,"alpha,2-Dichloro-5-[4-(difluoromethyl)-4,5-dihydro-3-methyl-5-oxo-1H-1,2,4-triazol-1-yl]-4-fluorobenzenepropanoic acid",443229,0,0.5441817715747377,Random Forest — Morgan,0.17548619979588287,1,1
+821,4,"1-[[(2,4-Dichlorophenyl)amino]carbonyl]cyclopropane carboxylic acid",11097730,0,0.201765472607843,Random Forest — Morgan,0.17548619979588287,0,1
+823,4,Mesotrione (Ref: ZA 1296),175967,1,0.186526142864912,Random Forest — Morgan,0.17548619979588287,0,1
+826,4,"N-(2,6-Dichlorophenyl)-5-ethoxy-7-fluoro-[1,2,4-triazolo[1,5-c]pyrimidine-2-sulfonamide",3081304,0,0.1964276595798305,Random Forest — Morgan,0.17548619979588287,0,1
+827,4,Dinotefuran (Ref: MTI 446),197701,1,0.591217091178847,Random Forest — Morgan,0.17548619979588287,1,1
+830,4,"3-[(2-Chloro-5-thiazolyl)methyl]tetrahydro-5-methyl-N-nitro-4H-1,3,5-oxadiazin-4-imine",107646,1,0.28549916767615907,Random Forest — Morgan,0.17548619979588287,0,1
+838,4,"(5S)-3,5-Dihydro-5-methyl-2-(methylthio)-5-phenyl-3-(phenylamino)-4H-imidazol-4-one",10403199,0,0.47366038596939286,Random Forest — Morgan,0.17548619979588287,0,1
+841,4,Picolinafen (Ref: BAS 700H),3294375,0,0.39911536219483806,Random Forest — Morgan,0.17548619979588287,0,1
+842,4,Cafenstrole (Ref: CH 900),195429,0,0.3089807253207973,Random Forest — Morgan,0.17548619979588287,0,1
+843,4,Pyriftalid (Ref: CGA 279233),9948894,0,0.3549139489286759,Random Forest — Morgan,0.17548619979588287,0,1
+857,4,3-[2-Chloro-4-(methanesulfonyl)benzoyl]-4-(phenylsulfanyl)bicyclo[3.2.1]oct-3-en-2-one,11236201,0,0.4108272908993716,Random Forest — Morgan,0.17548619979588287,0,1
+862,4,Indanofan (Ref: MK 243),11046097,0,0.5310828602292362,Random Forest — Morgan,0.17548619979588287,1,1
+863,4,"2-[2-Chloro-4-fluoro-5-[5-methyl-6-oxo-4-(trifluoromethyl)-1(6H)-pyridazinyl]phenoxy]acetic acid, Ethyl ester",3083546,0,0.045185466285350306,Random Forest — Morgan,0.17548619979588287,0,0
+864,4,Iodosulfuron-methyl-sodium (Ref: AE F115008),16760189,0,0.22197761197571086,Random Forest — Morgan,0.17548619979588287,0,1
+865,4,Beflubutamid (Ref: UBH 820),6451159,0,0.3948478185696922,Random Forest — Morgan,0.17548619979588287,0,1
+867,4,Thenylchlor (Ref: NSK 850),443036,0,0.28782470914833147,Random Forest — Morgan,0.17548619979588287,0,1
+881,4,Cycloxydim (Ref: BAS 517H),91765,0,0.2301710396065843,Random Forest — Morgan,0.17548619979588287,0,1
+885,4,Dimethirimol (Ref: PP675),21290,0,0.03891243911594493,Random Forest — Morgan,0.17548619979588287,0,0
+887,4,Sumithrin ,187827,1,0.8904834421470773,Random Forest — Morgan,0.17548619979588287,1,1
+894,4,Piproctanyl,92514,0,0.21066712343313537,Random Forest — Morgan,0.17548619979588287,0,1
+896,4,Ethirimol (Ref: PP149),32152,1,0.14021052561589845,Random Forest — Morgan,0.17548619979588287,0,0
+897,4,Pyrifenox (Ref: CGA 179945),6023583,0,0.41473664388497045,Random Forest — Morgan,0.17548619979588287,0,1
+906,4,"Cyclopropanecarboxylic acid, 3-(2,2-Dichloroethenyl)-2,2-dimethylcyano(4-fluoro-3-phenoxyphenyl)methyl ester mixt. with 1-[(6-chloro-3-pyridinyl)methyl]-N-nitro-2-imidizolidinimide",153881,1,0.8582480158730158,Random Forest — Morgan,0.17548619979588287,1,1
+907,4,"1,1'-(2-Nitrobutylidene)bis(4-chlorobenzene), Mixt. with 1,1'-(2-Nitropropylidene)bis(4-chlorobenzene)",24694,0,0.15029738608654178,Random Forest — Morgan,0.17548619979588287,0,0
+909,4,Polyoxin B,418922,0,0.35042151183344283,Random Forest — Morgan,0.17548619979588287,0,1
+911,4,Metyltetraprole (Ref: S-2367),8988183,0,0.22536271399450064,Random Forest — Morgan,0.17548619979588287,0,1
+913,4,Imibenconazole (Ref: HF 6305),93483,0,0.3031649868286874,Random Forest — Morgan,0.17548619979588287,0,1
+914,4,Cyflufenamid (Ref: NF 149),9844539,0,0.5210319454795014,Random Forest — Morgan,0.17548619979588287,1,1
+916,4,4-Chloro-3-ethyl-1-methyl-N-[[4-(4-methylphenoxy)phenyl]methyl]-1H-pyrazole-5-carboxamide,10110536,1,0.46132316786089617,Random Forest — Morgan,0.17548619979588287,0,1
+922,4,Haloxyfop-etotyl (Ref: DOWCO 453EE),91743,0,0.1140833364445966,Random Forest — Morgan,0.17548619979588287,0,0
+923,4,"N-(5,7-Dimethoxy[1,2,4]triazolo[1,5-a]pyrimidin-2-yl)-2-methoxy-4-(trifluoromethyl)-3-pyridinesulfonamide",11571555,0,0.17984545996318535,Random Forest — Morgan,0.17548619979588287,0,1
+926,4,Cyenopyrafen (Ref: NC-512 ),18772482,0,0.6154391167597375,Random Forest — Morgan,0.17548619979588287,1,1
+933,4,Spinosad (Ref: XDE 105),21871655,1,0.8115128405529063,Random Forest — Morgan,0.17548619979588287,1,1
+935,4,Proquinazid (Ref: DPX KQ926),11057771,0,0.06560802723233758,Random Forest — Morgan,0.17548619979588287,0,0
+955,4,Dihydroazadirachtin,44631173,0,0.5213867264125664,Random Forest — Morgan,0.17548619979588287,1,1
+956,4,Kasugamycin,265071,0,0.4557422695598191,Random Forest — Morgan,0.17548619979588287,0,1
+963,4,Hexylthiofos,6451756,0,0.8866800102940173,Random Forest — Morgan,0.17548619979588287,1,1
+964,4,Oxytetracycline hydrochloride,54687415,0,0.29672902234168946,Random Forest — Morgan,0.17548619979588287,0,1
+966,4,"2-[1-[2-[[(3,5-Difluorophenyl)amino]carbonyl]hydrazinylidene]ethyl]-3-pyridinecarboxylic acid",123626,0,0.10707950314697415,Random Forest — Morgan,0.17548619979588287,0,0
+967,4,Flufenprox (Ref: ICIA5682),86103,1,0.5746484400849555,Random Forest — Morgan,0.17548619979588287,1,1
+968,4,"N-(3',4'-Dichloro-5-fluoro[1,1'-biphenyl]-2-yl)-3-(difluoromethyl)-1-methyl-1H-pyrazole-4-carboxamide",11434448,0,0.14748302874068833,Random Forest — Morgan,0.17548619979588287,0,0
+971,4,Fluxapyroxad (Ref: BAS 700F),16095400,0,0.11007425095654125,Random Forest — Morgan,0.17548619979588287,0,0
+979,4,"N-[[(4,6-Dimethoxy-2-pyrimidinyl)amino]carbonyl]-(2,2,2-trifluoroethoxy)-2-pyridinesulfonamide sodium salt (1:1)",23676736,0,0.07241113662102094,Random Forest — Morgan,0.17548619979588287,0,0
+991,4,"N-[9-(Dichloromethylene)-1,2,3,4-tetrahydro-1,4-1H-pyrazole-4-carboxamide",53491464,0,0.6100063561098683,Random Forest — Morgan,0.17548619979588287,1,1
+1000,4,N-[(2-Chlorophenyl)methyl]-N'-(1-methyl-1-phenylethyl)urea,11709249,0,0.09617584666433468,Random Forest — Morgan,0.17548619979588287,0,0
+1004,4,Cyclaniliprole (Ref: IKI-3106),24822142,1,0.45642482938535184,Random Forest — Morgan,0.17548619979588287,0,1
+1007,4,Fluazaindolizine (Ref: DPX-Q8U80),46944253,0,0.31208024574375753,Random Forest — Morgan,0.17548619979588287,0,1
+1019,4,"2-[4-(4-Chlorophenoxy)-2-(trifluoromethyl)phenyl]-1-(1H-1,2,4-triazol-1-yl)propan-2-ol",71230671,0,0.21568480807255408,Random Forest — Morgan,0.17548619979588287,0,1
+1024,4,Isoflucypram (Ref: BCS-CN88460),66553206,0,0.3108739855177114,Random Forest — Morgan,0.17548619979588287,0,1
+1025,4,Fluindapyr (Ref: IR9792),57343740,0,0.17577129636666433,Random Forest — Morgan,0.17548619979588287,0,1
+1026,4,Maltodextrin,162179169,0,0.11504998382349835,Random Forest — Morgan,0.17548619979588287,0,0
+1028,4,"(1R,3R)-rel-3-[(1Z)-2-Chloro-3,3,3-trifluoro-1-propen-1-yl]-2,2-dimethylcyclopropanecarboxylic acid (2-methyl[1,1'-biphenyl]-3-yl)methyl ester mixt. with cyano(3-phenoxyphenyl)methyl 3-(2,2-dichloroethenyl)-2,2-dimethylcyclopropanecarboxylate",163360625,1,0.9542499999999999,Random Forest — Morgan,0.17548619979588287,1,1
+1029,4,"(1S,3S)-rel-3-[(1Z)-2-Chloro-3,3,3-trifluoro-1-propen-1-yl]-2,2-dimethyl-(R)-cyano(3-phenoxyphenyl)methyl ester cyclopropanecarboxylic acid mixt. with 3-bromo-N-[4-chloro-2-methyl-6-[(methylamino)carbonyl]phenyl]-1-(3-chloro-2-pyridinyl)-1H-pyrazole-5-carboxamide",163360624,1,0.9453869047619048,Random Forest — Morgan,0.17548619979588287,1,1
+1031,4,Glyphosate-dimethylammonium,13208144,0,0.2179137883121842,Random Forest — Morgan,0.17548619979588287,0,1
+1032,4,Glyphosate-monoammonium,11615303,0,0.15964377961466905,Random Forest — Morgan,0.17548619979588287,0,0
