@@ -2,6 +2,16 @@
 
 A polished local Streamlit interface for the BeeSafe AI research model. It accepts a SMILES string, calculates RDKit molecular features, generates a model estimate for the ApisTox-defined binary acute honeybee-toxicity label, and reports nearest-reference Morgan fingerprint similarity when Phase 03 artifacts are present.
 
+## 🚀 Try BeeSafe AI
+
+Ready to explore explainable AI for honeybee pesticide-toxicity screening?
+
+**Launch the live application and test a molecular structure:**
+
+### 🐝 [Open BeeSafe AI — Live Demo](https://beesafe-ai-explainable-pesticide-toxicity-prediction-q4qnpdbkl.streamlit.app/)
+
+
+
 ## 1. Place the app in the project
 
 Copy this entire `app` folder into:
