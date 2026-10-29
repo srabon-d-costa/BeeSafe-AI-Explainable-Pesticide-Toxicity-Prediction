@@ -1,3 +1,12 @@
+
+<p align="center">
+  <img src="assets/beesafe-ai-banner.png"
+       alt="BeeSafe AI — Explainable AI for Honeybee Toxicity Screening"
+       width="100%" />
+</p>
+
+
+
 # 🐝 BeeSafe AI
 ### Explainable and uncertainty-aware machine learning for honeybee pesticide-toxicity screening
 
